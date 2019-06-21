@@ -77,11 +77,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Services/RulesService.cs" timestamp="1560910950390">
-        <mark key="[" line="77" column="93" />
-        <mark key="]" line="77" column="90" />
-        <mark key="." line="77" column="90" />
-        <mark key="^" line="77" column="90" />
+      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Services/RulesService.cs" timestamp="1561092447654">
+        <mark key="[" line="59" column="55" />
+        <mark key="]" line="59" column="35" />
+        <mark key="^" line="59" column="35" />
+        <mark key="." line="59" column="35" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Infrastructure/ConstrainedFromActionType.cs" timestamp="1559452963171">
         <mark key="[" line="26" column="39" />
@@ -94,6 +94,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="15" column="55" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1560994402032">
+        <mark key="[" line="201" column="18" />
+        <mark key="]" line="185" column="7" />
+        <mark key="." line="185" column="7" />
+        <mark key="^" line="185" column="7" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/appsettings.json" timestamp="1560228169153">
         <mark key="[" line="1" column="0" />
@@ -125,12 +131,6 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1560994402032">
-        <mark key="[" line="201" column="18" />
-        <mark key="]" line="185" column="7" />
-        <mark key="." line="185" column="7" />
-        <mark key="^" line="185" column="7" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Shared/JsonContentNegotiator.cs" timestamp="1559710418040">
         <mark key="[" line="5" column="0" />
@@ -326,10 +326,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>UpsertDocumentAsync(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>UpsertDocumentAsync(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRG9jdW1lbnREYlJlcG9zaXRvcnlcPg==</text>
@@ -338,35 +338,35 @@
         <text>ApiConfig__AlertsCosmosRulesConfig__Endpoint</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2FnZ2VyT3B0aW9ucy5Eb2N1bWVudEZpbHRlcjxMb3dlcmNhc2VEb2N1bWVudEZpbHRlcj4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxEb2N1bWVudD4gVXBzZXJ0RG9jdW1lbnRBc3luYyhBbGVydCBhbGVydCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2FnZ2VyT3B0aW9ucy5Eb2N1bWVudEZpbHRlcjxMb3dlcmNhc2VEb2N1bWVudEZpbHRlcj4oKTsK</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIHZhciB2ZXJzaW9uID0gbmV3IHsKICAgICAgICAgICAgICAgIEFzc2VtYmx5LkdldEVudHJ5QXNzZW1ibHkoKS5HZXROYW1lKCkuVmVyc2lvbiwKICAgICAgICAgICAgICAgIEFzc2VtYmx5LkdldEVudHJ5QXNzZW1ibHkoKS5HZXRDdXN0b21BdHRyaWJ1dGU8QXNzZW1ibHlJbmZvcm1hdGlvbmFsVmVyc2lvbkF0dHJpYnV0ZT4oKS5JbmZvcm1hdGlvbmFsVmVyc2lvbiwKICAgICAgICAgICAgICAgIEZpbGVWZXJzaW9uID0gQXNzZW1ibHkuR2V0RW50cnlBc3NlbWJseSgpLkdldEN1c3RvbUF0dHJpYnV0ZTxBc3NlbWJseUZpbGVWZXJzaW9uQXR0cmlidXRlPigpLlZlcnNpb24KICAgICAgICAgICAgfTsKCiAgICAgICAgICAgIHJldHVybiB2ZXJzaW9uOw==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>,
             out AlertRuleType? alertRuleType</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIElSZWFkT25seURpY3Rpb25hcnk8c3RyaW5nLCBBbGVydFJ1bGVUeXBlPz4gYWxlcnRUeXBlRmllbGROYW1lcyw=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBWYWxpZGF0aW9uUmVzdWx0KCQiZmllbGROYW1lIG9mIHtydWxlRmllbGROYW1lfSBub3QgYSB2YWxpZCB2YWx1ZS4gIiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkIk11c3QgYmUgd2l0aGluIHZhbHVlcyBhcnJheTogW3tzdHJpbmcuSm9pbignLCcsIEFsZXJ0VHlwZUZpZWxkTmFtZXMuS2V5cy5Ub0xpc3QoKSl9XSIpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>m+2</text>
