@@ -1,0 +1,15 @@
+<application>
+  <component name="VSTSSettings">
+    <option name="serverContexts">
+      <array />
+    </option>
+    <option name="properties">
+      <array>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//wowonline.visualstudio.com/platform engineering/_git/analytics-rules-engine-api" />
+        </PropertyState>
+      </array>
+    </option>
+  </component>
+</application>

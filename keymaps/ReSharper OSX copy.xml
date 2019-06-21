@@ -1,0 +1,75 @@
+<keymap version="1" name="ReSharper OSX copy" parent="ReSharper OSX">
+  <action id="CheckStatusForFiles">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="s" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="c" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl meta w" />
+  </action>
+  <action id="CodeCleanup" />
+  <action id="CommittedChanges.Refresh">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="r" />
+  </action>
+  <action id="Console.TableResult.SetNull" />
+  <action id="DatabaseView.PropertiesAction" />
+  <action id="Diff.ShowDiff">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="d" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="EditorStartNewLineBefore" />
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta alt n" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="ctrl meta alt b" />
+  </action>
+  <action id="Git.Log">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="l" />
+  </action>
+  <action id="GotoLine" />
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="Inline" />
+  <action id="Jdbc.RunSqlScript" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta alt f" />
+  </action>
+  <action id="RiderUnitTestAppendTestsTwAction" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta f5" />
+  </action>
+  <action id="RunClass" />
+  <action id="RunDashboard.Run" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="ctrl alt back_quote" />
+  </action>
+  <action id="UpdateFiles">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="u" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="h" />
+  </action>
+</keymap>
