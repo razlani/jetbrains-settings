@@ -49,10 +49,19 @@
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="GotoRelated">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+  </action>
   <action id="Inline" />
   <action id="Jdbc.RunSqlScript" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="meta alt o" />
+  </action>
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta alt f" />

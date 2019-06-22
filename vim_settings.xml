@@ -37,6 +37,13 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/untitled1/Person.h" timestamp="1561195183871">
+        <mark key="'" line="15" column="26" />
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="11" column="4" />
+        <mark key="^" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Infrastructure/RequiredAlertQueryPropsAttribute.cs" timestamp="1559541866787">
         <mark key="[" line="9" column="36" />
         <mark key="]" line="9" column="36" />
@@ -88,6 +95,12 @@
         <mark key="]" line="27" column="25" />
         <mark key="^" line="27" column="25" />
         <mark key="." line="27" column="25" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/untitled1/Human.h" timestamp="1561195209298">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="8" column="10" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/AlertsCosmosDbPostTest.cs" timestamp="1559100115241">
         <mark key="[" line="17" column="0" />
@@ -223,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="47" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/MessageProcessor.EventHubs/MyEventProcessor.cs" />
       <jump line="59" column="50" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/MessageProcessor.EventHubs/MyProblematicEventProcessor.cs" />
       <jump line="0" column="5" filename="/Dummy.txt" />
       <jump line="18" column="0" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/MessageProcessor.EventHubs/MyProblematicEventHubSubscriberService.cs" />
@@ -323,10 +335,11 @@
       <jump line="39" column="32" filename="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Controllers/AlertsController.cs" />
       <jump line="57" column="22" filename="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Services/RulesService.cs" />
       <jump line="50" column="60" filename="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Services/RulesService.cs" />
+      <jump line="15" column="26" filename="$USER_HOME$/CLionProjects/untitled1/Person.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEh1bWFuKCk7IH5IdW1hbigpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -338,38 +351,38 @@
         <text>ApiConfig__AlertsCosmosRulesConfig__Endpoint</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxEb2N1bWVudD4gVXBzZXJ0RG9jdW1lbnRBc3luYyhBbGVydCBhbGVydCkK</text>
+        <text encoding="base64">ICAgIEh1bWFuKCk7IH5IdW1hbigpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxEb2N1bWVudD4gVXBzZXJ0RG9jdW1lbnRBc3luYyhBbGVydCBhbGVydCkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2FnZ2VyT3B0aW9ucy5Eb2N1bWVudEZpbHRlcjxMb3dlcmNhc2VEb2N1bWVudEZpbHRlcj4oKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIHZhciB2ZXJzaW9uID0gbmV3IHsKICAgICAgICAgICAgICAgIEFzc2VtYmx5LkdldEVudHJ5QXNzZW1ibHkoKS5HZXROYW1lKCkuVmVyc2lvbiwKICAgICAgICAgICAgICAgIEFzc2VtYmx5LkdldEVudHJ5QXNzZW1ibHkoKS5HZXRDdXN0b21BdHRyaWJ1dGU8QXNzZW1ibHlJbmZvcm1hdGlvbmFsVmVyc2lvbkF0dHJpYnV0ZT4oKS5JbmZvcm1hdGlvbmFsVmVyc2lvbiwKICAgICAgICAgICAgICAgIEZpbGVWZXJzaW9uID0gQXNzZW1ibHkuR2V0RW50cnlBc3NlbWJseSgpLkdldEN1c3RvbUF0dHJpYnV0ZTxBc3NlbWJseUZpbGVWZXJzaW9uQXR0cmlidXRlPigpLlZlcnNpb24KICAgICAgICAgICAgfTsKCiAgICAgICAgICAgIHJldHVybiB2ZXJzaW9uOw==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>,
             out AlertRuleType? alertRuleType</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIElSZWFkT25seURpY3Rpb25hcnk8c3RyaW5nLCBBbGVydFJ1bGVUeXBlPz4gYWxlcnRUeXBlRmllbGROYW1lcyw=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBWYWxpZGF0aW9uUmVzdWx0KCQiZmllbGROYW1lIG9mIHtydWxlRmllbGROYW1lfSBub3QgYSB2YWxpZCB2YWx1ZS4gIiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkIk11c3QgYmUgd2l0aGluIHZhbHVlcyBhcnJheTogW3tzdHJpbmcuSm9pbignLCcsIEFsZXJ0VHlwZUZpZWxkTmFtZXMuS2V5cy5Ub0xpc3QoKSl9XSIpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text encoding="base64">bm5vcmVtYXAgbCBpPEJTPg==</text>
+        <text>so ~/.vimrc</text>
       </register>
     </registers>
     <search>
@@ -405,7 +418,6 @@
         <entry encoding="base64">XDxJRG9jdW1lbnREYlJlcG9zaXRvcnlcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>63,67 d</entry>
         <entry>m+3</entry>
         <entry>m-3</entry>
         <entry>3,19 d</entry>
@@ -425,6 +437,7 @@
         <entry>m+2</entry>
         <entry>nmap</entry>
         <entry encoding="base64">bm5vcmVtYXAgbCBpPEJTPg==</entry>
+        <entry>so ~/.vimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
