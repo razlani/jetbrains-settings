@@ -77,11 +77,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Services/RulesService.cs" timestamp="1561100434972">
-        <mark key="[" line="71" column="44" />
-        <mark key="]" line="71" column="44" />
-        <mark key="^" line="71" column="33" />
-        <mark key="." line="71" column="44" />
+      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Services/RulesService.cs" timestamp="1561119723457">
+        <mark key="[" line="69" column="19" />
+        <mark key="]" line="69" column="14" />
+        <mark key="^" line="69" column="14" />
+        <mark key="." line="69" column="14" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Infrastructure/ConstrainedFromActionType.cs" timestamp="1559452963171">
         <mark key="[" line="26" column="39" />
@@ -369,7 +369,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nmap</text>
+        <text encoding="base64">bm5vcmVtYXAgbCBpPEJTPg==</text>
       </register>
     </registers>
     <search>
@@ -405,7 +405,6 @@
         <entry encoding="base64">XDxJRG9jdW1lbnREYlJlcG9zaXRvcnlcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>92,93 d</entry>
         <entry>63,67 d</entry>
         <entry>m+3</entry>
         <entry>m-3</entry>
@@ -425,6 +424,7 @@
         <entry>m-2</entry>
         <entry>m+2</entry>
         <entry>nmap</entry>
+        <entry encoding="base64">bm5vcmVtYXAgbCBpPEJTPg==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
