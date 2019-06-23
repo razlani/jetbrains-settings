@@ -116,6 +116,19 @@
         <mark key="^" line="42" column="30" />
         <mark key="." line="42" column="30" />
       </file>
+      <file name="$USER_HOME$/git/TravellingTest/TravellingModelz/Product.cs" timestamp="1561333411217">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/TravellingTest/TravellingTest/Program.cs" timestamp="1561333384353">
+        <mark key="'" line="8" column="28" />
+        <mark key="[" line="23" column="41" />
+        <mark key="]" line="23" column="39" />
+        <mark key="." line="23" column="39" />
+        <mark key="^" line="23" column="39" />
+      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Models/ActionType.cs" timestamp="1559701373058">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="9" column="34" />
@@ -203,6 +216,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
+      <file name="$USER_HOME$/git/TravellingTest/TravellingModelz/ItemType.cs" timestamp="1561332968701">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/ClusterResponseHealthTest.cs" timestamp="1559099956717">
         <mark key="[" line="28" column="18" />
         <mark key="]" line="28" column="18" />
@@ -223,7 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="47" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/MessageProcessor.EventHubs/MyEventProcessor.cs" />
       <jump line="59" column="50" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/MessageProcessor.EventHubs/MyProblematicEventProcessor.cs" />
       <jump line="0" column="5" filename="/Dummy.txt" />
       <jump line="18" column="0" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/MessageProcessor.EventHubs/MyProblematicEventHubSubscriberService.cs" />
@@ -323,13 +341,14 @@
       <jump line="39" column="32" filename="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Controllers/AlertsController.cs" />
       <jump line="57" column="22" filename="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Services/RulesService.cs" />
       <jump line="50" column="60" filename="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Services/RulesService.cs" />
+      <jump line="8" column="28" filename="$USER_HOME$/git/TravellingTest/TravellingTest/Program.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>length</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRG9jdW1lbnREYlJlcG9zaXRvcnlcPg==</text>
@@ -338,35 +357,34 @@
         <text>ApiConfig__AlertsCosmosRulesConfig__Endpoint</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxEb2N1bWVudD4gVXBzZXJ0RG9jdW1lbnRBc3luYyhBbGVydCBhbGVydCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2FnZ2VyT3B0aW9ucy5Eb2N1bWVudEZpbHRlcjxMb3dlcmNhc2VEb2N1bWVudEZpbHRlcj4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbCBIYXNJdGVtIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHZhciB2ZXJzaW9uID0gbmV3IHsKICAgICAgICAgICAgICAgIEFzc2VtYmx5LkdldEVudHJ5QXNzZW1ibHkoKS5HZXROYW1lKCkuVmVyc2lvbiwKICAgICAgICAgICAgICAgIEFzc2VtYmx5LkdldEVudHJ5QXNzZW1ibHkoKS5HZXRDdXN0b21BdHRyaWJ1dGU8QXNzZW1ibHlJbmZvcm1hdGlvbmFsVmVyc2lvbkF0dHJpYnV0ZT4oKS5JbmZvcm1hdGlvbmFsVmVyc2lvbiwKICAgICAgICAgICAgICAgIEZpbGVWZXJzaW9uID0gQXNzZW1ibHkuR2V0RW50cnlBc3NlbWJseSgpLkdldEN1c3RvbUF0dHJpYnV0ZTxBc3NlbWJseUZpbGVWZXJzaW9uQXR0cmlidXRlPigpLlZlcnNpb24KICAgICAgICAgICAgfTsKCiAgICAgICAgICAgIHJldHVybiB2ZXJzaW9uOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHBybyBpbiBwcm9kdWN0TGlzdCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZyYWN0aW9uID0gX3JhbmQuTmV4dCgxLCAxMSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIG5ldyBOb3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>,
-            out AlertRuleType? alertRuleType</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxEb2N1bWVudD4gVXBzZXJ0RG9jdW1lbnRBc3luYyhBbGVydCBhbGVydCkK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIElSZWFkT25seURpY3Rpb25hcnk8c3RyaW5nLCBBbGVydFJ1bGVUeXBlPz4gYWxlcnRUeXBlRmllbGROYW1lcyw=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2FnZ2VyT3B0aW9ucy5Eb2N1bWVudEZpbHRlcjxMb3dlcmNhc2VEb2N1bWVudEZpbHRlcj4oKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBWYWxpZGF0aW9uUmVzdWx0KCQiZmllbGROYW1lIG9mIHtydWxlRmllbGROYW1lfSBub3QgYSB2YWxpZCB2YWx1ZS4gIiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkIk11c3QgYmUgd2l0aGluIHZhbHVlcyBhcnJheTogW3tzdHJpbmcuSm9pbignLCcsIEFsZXJ0VHlwZUZpZWxkTmFtZXMuS2V5cy5Ub0xpc3QoKSl9XSIpOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHZhciB2ZXJzaW9uID0gbmV3IHsKICAgICAgICAgICAgICAgIEFzc2VtYmx5LkdldEVudHJ5QXNzZW1ibHkoKS5HZXROYW1lKCkuVmVyc2lvbiwKICAgICAgICAgICAgICAgIEFzc2VtYmx5LkdldEVudHJ5QXNzZW1ibHkoKS5HZXRDdXN0b21BdHRyaWJ1dGU8QXNzZW1ibHlJbmZvcm1hdGlvbmFsVmVyc2lvbkF0dHJpYnV0ZT4oKS5JbmZvcm1hdGlvbmFsVmVyc2lvbiwKICAgICAgICAgICAgICAgIEZpbGVWZXJzaW9uID0gQXNzZW1ibHkuR2V0RW50cnlBc3NlbWJseSgpLkdldEN1c3RvbUF0dHJpYnV0ZTxBc3NlbWJseUZpbGVWZXJzaW9uQXR0cmlidXRlPigpLlZlcnNpb24KICAgICAgICAgICAgfTsKCiAgICAgICAgICAgIHJldHVybiB2ZXJzaW9uOw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.vimrc</text>
