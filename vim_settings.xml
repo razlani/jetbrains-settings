@@ -43,6 +43,11 @@
         <mark key="^" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingServices/Class1.cs" timestamp="1561349263233" />
+      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/IMapCreator.cs" timestamp="1561351964155">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Infrastructure/ConstrainedFromActionType.cs" timestamp="1559452963171">
         <mark key="[" line="26" column="39" />
         <mark key="]" line="27" column="25" />
@@ -97,6 +102,7 @@
         <mark key="." line="2" column="43" />
       </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingModelz/Point.cs" timestamp="1561347838222" />
+      <file name="$USER_HOME$/git/TravellingTest/TravellingMain/Program.cs" timestamp="1561351790784" />
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Startup.cs" timestamp="1559529696704">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="34" />
@@ -199,6 +205,11 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/StaticMapCreator.cs" timestamp="1561351956335">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api.Models/Models/Action.cs" timestamp="1560910998632">
         <mark key="[" line="14" column="8" />
@@ -370,11 +381,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/git/TravellingTest/TravellingServices/IMapOptimizer.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPFByb2plY3RSZWZlcmVuY2UgSW5jbHVkZT0iLi5cVHJhdmVsbGluZ1NlcnZpY2VzXFRyYXZlbGxpbmdTZXJ2aWNlcy5jc3Byb2oiIC8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>string data</text>
       </register>
       <register name="-" type="4">
-        <text>TravellingTest</text>
+        <text>string data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRG9jdW1lbnREYlJlcG9zaXRvcnlcPg==</text>
