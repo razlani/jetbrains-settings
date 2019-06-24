@@ -43,10 +43,10 @@
         <mark key="^" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingServices/Class1.cs" timestamp="1561349263233" />
-      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/IMapCreator.cs" timestamp="1561351964155">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="22" />
-        <mark key="." line="6" column="22" />
+      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/IMapCreator.cs" timestamp="1561353379205">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Infrastructure/ConstrainedFromActionType.cs" timestamp="1559452963171">
         <mark key="[" line="26" column="39" />
@@ -89,7 +89,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/Map.cs" timestamp="1561349961920" />
+      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/Map.cs" timestamp="1561353328938" />
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/UnitTest1.cs" timestamp="1559099556020">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -102,7 +102,12 @@
         <mark key="." line="2" column="43" />
       </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingModelz/Point.cs" timestamp="1561347838222" />
-      <file name="$USER_HOME$/git/TravellingTest/TravellingMain/Program.cs" timestamp="1561351790784" />
+      <file name="$USER_HOME$/git/TravellingTest/TravellingMain/Program.cs" timestamp="1561353413518">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="11" column="42" />
+      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Startup.cs" timestamp="1559529696704">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="34" />
@@ -119,8 +124,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/IMapOptimizer.cs" timestamp="1561350404390">
-        <mark key="'" line="8" column="0" />
+      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/IMapOptimizer.cs" timestamp="1561353384596">
+        <mark key="'" line="7" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -137,6 +142,11 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="8" />
       </file>
+      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/Connection.cs" timestamp="1561353369320">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api.Models/Models/Alert.cs" timestamp="1560903103762">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="28" column="16" />
@@ -149,10 +159,10 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/MapOptimizer.cs" timestamp="1561350440740">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/MapOptimizer.cs" timestamp="1561353393367">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api.Core/Attributes/ConstrainedFromRuleType.cs" timestamp="1559786624835">
         <mark key="[" line="4" column="0" />
@@ -206,10 +216,8 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/StaticMapCreator.cs" timestamp="1561351956335">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="29" />
-        <mark key="." line="7" column="29" />
+      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/StaticMapCreator.cs" timestamp="1561353360033">
+        <mark key="^" line="39" column="42" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api.Models/Models/Action.cs" timestamp="1560910998632">
         <mark key="[" line="14" column="8" />
@@ -230,6 +238,11 @@
         <mark key="^" line="14" column="84" />
       </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingTest/IMapCreator.cs" timestamp="1561347773861" />
+      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/Point.cs" timestamp="1561353310622">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/test/rules-engine-api.tests/Alerts/Integration/AlertsCosmosDbGetIntegrationTest.cs" timestamp="1559799247655">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -381,11 +394,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/git/TravellingTest/TravellingServices/IMapOptimizer.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>string data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgVHJhdmVsbGluZ01vZGVsei5UcmF2ZWxsaW5nU2FsZXNtYW5Qcm9ibGVtLkNsYXNzZXM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>string data</text>
+        <text>//data is static, no string necessary</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRG9jdW1lbnREYlJlcG9zaXRvcnlcPg==</text>
@@ -394,34 +407,34 @@
         <text>ApiConfig__AlertsCosmosRulesConfig__Endpoint</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPFByb2plY3RSZWZlcmVuY2UgSW5jbHVkZT0iLi5cVHJhdmVsbGluZ1NlcnZpY2VzXFRyYXZlbGxpbmdTZXJ2aWNlcy5jc3Byb2oiIC8+Cg==</text>
+        <text encoding="base64">dXNpbmcgVHJhdmVsbGluZ01vZGVsei5UcmF2ZWxsaW5nU2FsZXNtYW5Qcm9ibGVtLkNsYXNzZXM7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPFByb2plY3RSZWZlcmVuY2UgSW5jbHVkZT0iLi5cVHJhdmVsbGluZ01vZGVselxUcmF2ZWxsaW5nTW9kZWx6LmNzcHJvaiIgLz4K</text>
+        <text encoding="base64">dXNpbmcgVHJhdmVsbGluZ01vZGVsei5UcmF2ZWxsaW5nU2FsZXNtYW5Qcm9ibGVtLkNsYXNzZXM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPFByb2plY3RSZWZlcmVuY2UgSW5jbHVkZT0iLi5cVHJhdmVsbGluZ01vZGVselxUcmF2ZWxsaW5nTW9kZWx6LmNzcHJvaiIgLz4K</text>
+        <text encoding="base64">dXNpbmcgVHJhdmVsbGluZ01vZGVsei5UcmF2ZWxsaW5nU2FsZXNtYW5Qcm9ibGVtLkNsYXNzZXM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgVHJhdmVsbGluZ01vZGVsejsK</text>
+        <text encoding="base64">dXNpbmcgVHJhdmVsbGluZ01vZGVsei5UcmF2ZWxsaW5nU2FsZXNtYW5QcmRkb2JsZW0uQ2xhc3NlczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgVHJhdmVsbGluZ01vZGVsei5UcmF2ZWxsaW5nU2FsZXNtYW5Qcm9ibGVtLkNsYXNzZXM7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IExpc3Q8UHJvZHVjdD4gcHJvZHVjdExpc3QgPSBuZXcgTGlzdDxQcm9kdWN0PigxMCk7IAogICAgICAgIFJhbmRvbSBfcmFuZCA9IG5ldyBSYW5kb20oKTsKICAgICAgICAKICAgICAgICBzdGF0aWMgdm9pZCBNYWluKHN0cmluZ1tdIGFyZ3MpCiAgICAgICAgewogICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSgiSGVsbG8gV29ybGQhIik7CgoKICAgICAgICAgICAgUG9wdWxhdGVHcmlkKCk7CiAgICAgICAgfQogICAgICAgIHZvaWQgUG9wdWxhdGVHcmlkKCkKICAgICAgICB7CiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgcHJvZHVjdExpc3QuQ291bnQ7IGkrKykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHggPSBfcmFuZC5OZXh0KDEsIDExKTsKICAgICAgICAgICAgICAgIHZhciB5ID0gX3JhbmQuTmV4dCgxLCAxMSk7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">dXNpbmcgVHJhdmVsbGluZ01vZGVsei5UcmF2ZWxsaW5nU2FsZXNtYW5Qcm9ibGVtLkNsYXNzZXM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">dXNpbmcgVHJhdmVsbGluZ01vZGVsei5UcmF2ZWxsaW5nU2FsZXNtYW5Qcm9ibGVtLkNsYXNzZXM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="4">
-        <text>namespace TravellingServices
+        <text>namespace TravellingModelz
 {</text>
       </register>
       <register name=":" type="4">
