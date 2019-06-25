@@ -181,9 +181,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560991485164">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/C# Console" timestamp="1561350687034">
         <mark key="[" line="0" column="0" />
       </file>
@@ -254,11 +251,11 @@
         <mark key="." line="95" column="12" />
         <mark key="^" line="95" column="12" />
       </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Startup.cs" timestamp="1559798849289">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="32" column="60" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Startup.cs" timestamp="1561427665178">
+        <mark key="[" line="46" column="78" />
+        <mark key="]" line="45" column="31" />
+        <mark key="^" line="45" column="31" />
+        <mark key="." line="45" column="31" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/SampleData/AlertData/POST/SampleBadJsonAlerts.json" timestamp="1559111895759">
         <mark key="[" line="8" column="20" />
