@@ -26,11 +26,6 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/TravellingServices.csproj" timestamp="1561351112846">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Infrastructure/RequiredAlertQueryPropsAttribute.cs" timestamp="1559541866787">
         <mark key="[" line="9" column="36" />
         <mark key="]" line="9" column="36" />
@@ -44,6 +39,11 @@
         <mark key="^" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingServices/Class1.cs" timestamp="1561349263233" />
+      <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/test/UnitTest1.cs" timestamp="1561551009883">
+        <mark key="[" line="13" column="41" />
+        <mark key="]" line="13" column="41" />
+        <mark key="." line="13" column="41" />
+      </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingServices/IMapCreator.cs" timestamp="1561353379205">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -96,7 +96,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/Map.cs" timestamp="1561353328938" />
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/UnitTest1.cs" timestamp="1559099556020">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -108,7 +107,6 @@
         <mark key="]" line="2" column="43" />
         <mark key="." line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/git/TravellingTest/TravellingModelz/Point.cs" timestamp="1561347838222" />
       <file name="$USER_HOME$/git/TravellingTest/TravellingMain/Program.cs" timestamp="1561353413518">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -221,9 +219,6 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/StaticMapCreator.cs" timestamp="1561353360033">
-        <mark key="^" line="39" column="42" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api.Models/Models/Action.cs" timestamp="1560910998632">
         <mark key="[" line="14" column="8" />
@@ -406,11 +401,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/git/TravellingTest/TravellingServices/IMapOptimizer.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIga2VrID0gc3RhdGUuR3JpZFswXTsK</text>
+      <register name="&quot;" type="4">
+        <text>layout</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>layout</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRG9jdW1lbnREYlJlcG9zaXRvcnlcPg==</text>
