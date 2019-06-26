@@ -91,7 +91,7 @@
         <mark key="^" line="35" column="35" />
         <mark key="." line="35" column="35" />
       </file>
-      <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/test/OrderList.cs" timestamp="1561551967709">
+      <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/test/OrderList.cs" timestamp="1561552215812">
         <mark key="[" line="13" column="36" />
         <mark key="]" line="13" column="59" />
         <mark key="." line="13" column="59" />
@@ -112,6 +112,12 @@
         <mark key="[" line="2" column="42" />
         <mark key="]" line="2" column="43" />
         <mark key="." line="2" column="43" />
+      </file>
+      <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/test/Order.cs" timestamp="1561552272686">
+        <mark key="[" line="13" column="59" />
+        <mark key="]" line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+        <mark key="." line="13" column="46" />
       </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingMain/Program.cs" timestamp="1561353413518">
         <mark key="[" line="1" column="0" />
@@ -198,7 +204,7 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/runner/services/BotRunService.cs" timestamp="1561515954689">
+      <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/runner/services/BotRunService.cs" timestamp="1561552085335">
         <mark key="[" line="21" column="65" />
         <mark key="]" line="21" column="65" />
         <mark key="^" line="21" column="65" />
@@ -243,6 +249,12 @@
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/test/Item.cs" timestamp="1561552166585">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+        <mark key="^" line="7" column="7" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/test/rules-engine-api.tests/Alerts/Integration/AlertsCosmosDbGetIntegrationTest.cs" timestamp="1559799247655">
         <mark key="[" line="6" column="0" />
@@ -401,11 +413,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/git/TravellingTest/TravellingServices/IMapOptimizer.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgVFlQRSBUeXBlIHsgZ2V0OyBzZXQ7IH0K</text>
+      <register name="&quot;" type="4">
+        <text>orderCount</text>
       </register>
       <register name="-" type="4">
-        <text>layout</text>
+        <text>orderCount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRG9jdW1lbnREYlJlcG9zaXRvcnlcPg==</text>
