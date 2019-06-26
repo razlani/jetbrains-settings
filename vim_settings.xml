@@ -39,11 +39,11 @@
         <mark key="^" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingServices/Class1.cs" timestamp="1561349263233" />
-      <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/test/UnitTest1.cs" timestamp="1561552825919">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="27" column="36" />
+      <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/test/UnitTest1.cs" timestamp="1561556244739">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="23" column="43" />
+        <mark key="." line="23" column="43" />
+        <mark key="^" line="23" column="47" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Infrastructure/ConstrainedFromActionType.cs" timestamp="1559452963171">
         <mark key="[" line="26" column="39" />
@@ -109,11 +109,11 @@
         <mark key="]" line="2" column="43" />
         <mark key="." line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/test/Order.cs" timestamp="1561553129459">
-        <mark key="[" line="24" column="58" />
-        <mark key="]" line="24" column="55" />
-        <mark key="." line="24" column="55" />
-        <mark key="^" line="24" column="55" />
+      <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/test/Order.cs" timestamp="1561555988355">
+        <mark key="[" line="34" column="22" />
+        <mark key="]" line="34" column="29" />
+        <mark key="^" line="34" column="29" />
+        <mark key="." line="34" column="29" />
       </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingMain/Program.cs" timestamp="1561353413518">
         <mark key="[" line="1" column="0" />
@@ -410,10 +410,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>maxQuantity</text>
+        <text>GridWidth</text>
       </register>
       <register name="-" type="4">
-        <text>maxQuantity</text>
+        <text>GridWidth</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRG9jdW1lbnREYlJlcG9zaXRvcnlcPg==</text>
@@ -421,35 +421,35 @@
       <register name="0" type="4">
         <text>ApiConfig__AlertsCosmosRulesConfig__Endpoint</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0dXBJdGVtcygpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgogICAgICAgICAgICB2YXIgY2VsbCA9IGdyaWRbNCwgM107CiAgICAgICAgICAgIEFzc2VydC5FcXVhbCg0LCBjZWxsLlhQb3MpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoMCwgY2VsbC5ZUG9zKTsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKENlbGxUeXBlLkRvY2ssIGNlbGwuQ2VsbFR5cGUpOwoKICAgICAgICAgICAgY2VsbCA9IGdyaWRbMCwgMV07CiAgICAgICAgICAgIEFzc2VydC5FcXVhbCgwLCBjZWxsLlhQb3MpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoMiwgY2VsbC5ZUG9zKTsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKENlbGxUeXBlLlN0cnVjdHVyZSwgY2VsbC5DZWxsVHlwZSk7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHZhciBjZWxsID0gZ3JpZFs0LCAzXTsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKDQsIGNlbGwuWFBvcyk7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbCgwLCBjZWxsLllQb3MpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoQ2VsbFR5cGUuRG9jaywgY2VsbC5DZWxsVHlwZSk7CgogICAgICAgICAgICBjZWxsID0gZ3JpZFswLCAxXTsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKDAsIGNlbGwuWFBvcyk7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbCgyLCBjZWxsLllQb3MpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoQ2VsbFR5cGUuU3RydWN0dXJlLCBjZWxsLkNlbGxUeXBlKTsK</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgcHVibGljIGludCBHcmlkV2lkdGggeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBpbnQgR3JpZEhlaWdodCB7IGdldDsgc2V0OyB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgVFlQRSBUeXBlIHsgZ2V0OyBzZXQ7IH0K</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGludCBHcmlkV2lkdGgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIga2VrID0gc3RhdGUuR3JpZFswXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdyaWQgPSBQYXJzZXIuUGFyc2VHcmlkKCJsYXlvdXQudHh0Iik7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgKS5UcmltKCk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNb3ZlKERpcmVjdGlvblR5cGUuUmlnaHQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vdmUgPSBuZXcgTW92ZUJvdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICB2YXIgX3JhbmQuIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vdmUgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGkgPSBwcmV2aW91c2x5UGxhY2VkSXRlbXMuTGVuZ3RoOwo=</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.vimrc</text>
