@@ -32,6 +32,12 @@
         <mark key="." line="9" column="36" />
       </file>
       <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/src/TrolleyBot.cs" timestamp="1561514340728" />
+      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Controllers/AlertsController.cs" timestamp="1561615377583">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="59" column="26" />
+      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/test/rules-engine-api.tests/SampleData/AlertData/POST/SampleBadActionTypeAlerts.json" timestamp="1559868252368">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
@@ -45,6 +51,11 @@
         <mark key="." line="23" column="43" />
         <mark key="^" line="23" column="47" />
       </file>
+      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/IMapCreator.cs" timestamp="1561353379205">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Infrastructure/ConstrainedFromActionType.cs" timestamp="1559452963171">
         <mark key="[" line="26" column="39" />
         <mark key="]" line="27" column="25" />
@@ -57,11 +68,11 @@
         <mark key="^" line="15" column="55" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1561426362183">
-        <mark key="[" line="44" column="3" />
-        <mark key="]" line="125" column="0" />
-        <mark key="^" line="53" column="0" />
-        <mark key="." line="125" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1561612693570">
+        <mark key="[" line="55" column="52" />
+        <mark key="]" line="56" column="31" />
+        <mark key="^" line="56" column="31" />
+        <mark key="." line="56" column="31" />
       </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/Startup.cs" timestamp="1561536670547">
         <mark key="[" line="42" column="24" />
@@ -97,6 +108,11 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Filters/EmptyResponseFilter.cs" timestamp="1561613672042">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/UnitTest1.cs" timestamp="1559099556020">
         <mark key="[" line="28" column="0" />
@@ -137,6 +153,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/703E2BB4-FD86-407A-A6C8-A21FDDB328A9/f4/8f99a853/ActionFilterAttribute.cs" timestamp="1561610494039" />
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Controllers/HealthzController.cs" timestamp="1560227091657">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -189,10 +206,16 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="14" column="15" />
       </file>
+      <file name="/Dummy.txt" timestamp="1561615411249">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/src/MyTrolleyBot.cs" timestamp="1561542101419">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="/C# Console" timestamp="1561350687034">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingModelz/Product.cs" timestamp="1561333411217">
         <mark key="[" line="10" column="0" />
@@ -257,18 +280,18 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api.Models/Attributes/ConstrainedFromRuleType.cs" timestamp="1560995205703">
-        <mark key="[" line="54" column="53" />
-        <mark key="]" line="95" column="12" />
-        <mark key="." line="95" column="12" />
+      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api.Models/Attributes/ConstrainedFromRuleType.cs" timestamp="1561614976106">
+        <mark key="[" line="104" column="22" />
+        <mark key="]" line="104" column="22" />
+        <mark key="." line="104" column="22" />
         <mark key="^" line="95" column="12" />
       </file>
       <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/src/io/Commands.cs" timestamp="1561434796556" />
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Startup.cs" timestamp="1561427665178">
-        <mark key="[" line="46" column="78" />
-        <mark key="]" line="45" column="31" />
-        <mark key="^" line="45" column="31" />
-        <mark key="." line="45" column="31" />
+      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Startup.cs" timestamp="1561610740060">
+        <mark key="[" line="34" column="53" />
+        <mark key="]" line="34" column="49" />
+        <mark key="^" line="34" column="49" />
+        <mark key="." line="34" column="49" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/SampleData/AlertData/POST/SampleBadJsonAlerts.json" timestamp="1559111895759">
         <mark key="[" line="8" column="20" />
@@ -409,50 +432,50 @@
       <jump line="9" column="0" filename="$USER_HOME$/git/TravellingTest/TravellingServices/IMapOptimizer.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>GridWidth</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFzcE5ldENvcmUuTXZjLkZpbHRlcnM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>GridWidth</text>
+        <text>fieldName must be corrected for validation to continue.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRG9jdW1lbnREYlJlcG9zaXRvcnlcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>ApiConfig__AlertsCosmosRulesConfig__Endpoint</text>
+        <text encoding="base64">IFRhc2sgT25BY3Rpb25FeGVjdXRpb25Bc3luYyhBY3Rpb25FeGVjdXRpbmdDb250ZXh0IGNvbnRleHQsIEFjdGlvbkV4ZWN1dGlvbkRlbGVnYXRlIG5leHQpCiAgICAgICAgewogICAgICAgICAgICBBY3Rpb25FeGVjdXRlZENvbnRleHQgcmVzdWx0ID0gYXdhaXQgbmV4dCgpOwogICAgICAgICAgICBJQWN0aW9uUmVzdWx0IHJlc3BvbnNlID0gY29udGV4dC5SZXN1bHQ7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgIH0KfQ==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgogICAgICAgICAgICB2YXIgY2VsbCA9IGdyaWRbNCwgM107CiAgICAgICAgICAgIEFzc2VydC5FcXVhbCg0LCBjZWxsLlhQb3MpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoMCwgY2VsbC5ZUG9zKTsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKENlbGxUeXBlLkRvY2ssIGNlbGwuQ2VsbFR5cGUpOwoKICAgICAgICAgICAgY2VsbCA9IGdyaWRbMCwgMV07CiAgICAgICAgICAgIEFzc2VydC5FcXVhbCgwLCBjZWxsLlhQb3MpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoMiwgY2VsbC5ZUG9zKTsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKENlbGxUeXBlLlN0cnVjdHVyZSwgY2VsbC5DZWxsVHlwZSk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFzcE5ldENvcmUuTXZjLkZpbHRlcnM7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIGludCBHcmlkV2lkdGggeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBpbnQgR3JpZEhlaWdodCB7IGdldDsgc2V0OyB9</text>
+        <text encoding="base64">CnVzaW5nIFN5c3RlbS5OZXQ7CnVzaW5nIFN5c3RlbS5UaHJlYWRpbmcuVGFza3M7CnVzaW5nIE1pY3Jvc29mdC5Bc3BOZXRDb3JlLkh0dHA7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGludCBHcmlkV2lkdGgK</text>
+        <text encoding="base64">ICAgIHZhciBhbGVydHMgPSA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdyaWQgPSBQYXJzZXIuUGFyc2VHcmlkKCJsYXlvdXQudHh0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9rCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBIdHRwUmVzcG9uc2VFeGNlcHRpb24oSHRkZHRwU3RhdHVzQ29kZS5Ob3RGb3VuZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGtlayA9IHJlc3VsdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICB2YXIgX3JhbmQuIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgcmVzdWx0LkV4ZWN1dGVSZXN1bHRBc3luYyhhY3Rpb25FeGVjdXRlZENvbnRleHQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGkgPSBwcmV2aW91c2x5UGxhY2VkSXRlbXMuTGVuZ3RoOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlc3VsdC5FeGVjdXRlUmVzdWx0QXN5bmMoKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>so ~/.vimrc</text>
+        <text>16,20 d</text>
       </register>
     </registers>
     <search>
@@ -488,8 +511,6 @@
         <entry encoding="base64">XDxJRG9jdW1lbnREYlJlcG9zaXRvcnlcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>m+3</entry>
-        <entry>m-3</entry>
         <entry>3,19 d</entry>
         <entry>5,7 d</entry>
         <entry>m 51</entry>
@@ -508,6 +529,8 @@
         <entry>nmap</entry>
         <entry encoding="base64">bm5vcmVtYXAgbCBpPEJTPg==</entry>
         <entry>so ~/.vimrc</entry>
+        <entry>14,20 d</entry>
+        <entry>16,20 d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
