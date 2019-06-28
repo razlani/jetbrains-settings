@@ -29,6 +29,13 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/untitled3/Point.cpp" timestamp="1561699339812">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="10" column="44" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Infrastructure/RequiredAlertQueryPropsAttribute.cs" timestamp="1559541866787">
         <mark key="[" line="9" column="36" />
         <mark key="]" line="9" column="36" />
@@ -39,6 +46,12 @@
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/untitled3/Point.h" timestamp="1561699323561">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="39" />
+        <mark key="^" line="15" column="53" />
       </file>
       <file name="/LLDB" timestamp="1561209026491">
         <mark key="[" line="0" column="0" />
@@ -131,11 +144,11 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="8" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/untitled3/Connection.h" timestamp="1561359347619">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="11" column="17" />
+      <file name="$USER_HOME$/CLionProjects/untitled3/Connection.h" timestamp="1561700999644">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="21" column="9" />
+        <mark key="^" line="21" column="9" />
+        <mark key="." line="21" column="9" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api.Models/Models/Alert.cs" timestamp="1560903103762">
         <mark key="[" line="27" column="0" />
@@ -244,6 +257,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/untitled3/Connection.cpp" timestamp="1561701065223">
+        <mark key="[" line="26" column="30" />
+        <mark key="]" line="26" column="20" />
+        <mark key="^" line="26" column="20" />
+        <mark key="." line="26" column="20" />
+      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/ClusterResponseHealthTest.cs" timestamp="1559099956717">
         <mark key="[" line="28" column="18" />
         <mark key="]" line="28" column="18" />
@@ -264,7 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="39" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/ServiceBusSubscriber.cs" />
       <jump line="23" column="12" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/ServiceBusSubscriber.cs" />
       <jump line="47" column="26" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/ServiceBusSubscriber.cs" />
       <jump line="66" column="24" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/ServiceBusSubscriber.cs" />
@@ -364,13 +382,14 @@
       <jump line="36" column="0" filename="$USER_HOME$/CLionProjects/untitled1/Human.h" />
       <jump line="11" column="27" filename="$USER_HOME$/CLionProjects/untitled1/Human.h" />
       <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/untitled2/CMakeLists.txt" />
+      <jump line="13" column="0" filename="$USER_HOME$/CLionProjects/untitled3/Point.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>printf</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2luY2x1ZGUgImxpc3QiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>printf</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWlnaHRcPg==</text>
@@ -379,34 +398,34 @@
         <text>ApiConfig__AlertsCosmosRulesConfig__Endpoint</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvcgo=</text>
+        <text encoding="base64">I2luY2x1ZGUgImxpc3QiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHN0ZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGh1bWFuLgo=</text>
+        <text encoding="base64">ICAgIENvbm5lY3Rpb24gb3V0Z29pbmdDb25uZWN0aW9uOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHVibGljOgo=</text>
+        <text encoding="base64">ICAgIGZvcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SHVtYW46Okh1bWFuKCkKewoKfQoKSHVtYW46On5IdW1hbigpIHsKCn0K</text>
+        <text encoding="base64">ICAgIGh1bWFuLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEh1bWFuKCk7IH5IdW1hbigpOwo=</text>
+        <text encoding="base64">cHVibGljOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxEb2N1bWVudD4gVXBzZXJ0RG9jdW1lbnRBc3luYyhBbGVydCBhbGVydCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2FnZ2VyT3B0aW9ucy5Eb2N1bWVudEZpbHRlcjxMb3dlcmNhc2VEb2N1bWVudEZpbHRlcj4oKTsK</text>
+        <text encoding="base64">SHVtYW46Okh1bWFuKCkKewoKfQoKSHVtYW46On5IdW1hbigpIHsKCn0K</text>
       </register>
       <register name=":" type="4">
         <text>7,14 d</text>
