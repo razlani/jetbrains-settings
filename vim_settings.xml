@@ -31,12 +31,6 @@
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="36" />
       </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Controllers/AlertsController.cs" timestamp="1561682882616">
-        <mark key="[" line="40" column="17" />
-        <mark key="]" line="40" column="15" />
-        <mark key="." line="40" column="15" />
-        <mark key="^" line="40" column="15" />
-      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/test/rules-engine-api.tests/SampleData/AlertData/POST/SampleBadActionTypeAlerts.json" timestamp="1559868252368">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
