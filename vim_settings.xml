@@ -66,8 +66,8 @@
         <mark key="^" line="15" column="55" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1561684470406">
-        <mark key="[" line="144" column="39" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1561938780759">
+        <mark key="[" line="138" column="72" />
         <mark key="]" line="139" column="22" />
         <mark key="^" line="139" column="22" />
         <mark key="." line="139" column="22" />
@@ -150,6 +150,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Filters/EmptyAlertsResponseFilter.cs" timestamp="1561938775427">
+        <mark key="[" line="21" column="59" />
+        <mark key="]" line="20" column="37" />
+        <mark key="." line="20" column="37" />
+        <mark key="^" line="20" column="37" />
+      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Controllers/HealthzController.cs" timestamp="1560227091657">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -201,7 +207,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561684480816">
+      <file name="/Dummy.txt" timestamp="1561938975318">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/src/MyTrolleyBot.cs" timestamp="1561542101419">
@@ -426,10 +432,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">P25hbWVzcGFjZT1EZW1vJmFwcGxpY2F0aW9uTmFtZT1EZW1vJTIwQXBw</text>
+        <text>NotFoundObjectResult</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">P25hbWVzcGFjZT1EZW1vJmFwcGxpY2F0aW9uTmFtZT1EZW1vJTIwQXBw</text>
+        <text>NotFoundObjectResult</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRG9jdW1lbnREYlJlcG9zaXRvcnlcPg==</text>
