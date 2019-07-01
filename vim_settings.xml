@@ -72,6 +72,11 @@
         <mark key="^" line="42" column="11" />
         <mark key="." line="42" column="11" />
       </file>
+      <file name="$USER_HOME$/git/projects/samples-dotnet-app/samples-dotnet-app/src/Samples.App/TimedHostedService.cs" timestamp="1561953572583">
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="27" column="54" />
+        <mark key="." line="27" column="34" />
+      </file>
       <file name="$USER_HOME$/git/projects/samples-dotnet-webapp/samples-dotnet-webapp/src/Samples.WebApi/Controllers/ValuesController.cs" timestamp="1560924551295">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="42" column="30" />
@@ -201,7 +206,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561938975318">
+      <file name="/Dummy.txt" timestamp="1561953040146">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/src/MyTrolleyBot.cs" timestamp="1561542101419">
