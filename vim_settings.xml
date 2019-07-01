@@ -60,11 +60,11 @@
         <mark key="^" line="15" column="55" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1561957622897">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1561958670323">
         <mark key="[" line="258" column="32" />
-        <mark key="]" line="257" column="25" />
-        <mark key="^" line="257" column="25" />
-        <mark key="." line="257" column="25" />
+        <mark key="]" line="264" column="11" />
+        <mark key="^" line="264" column="11" />
+        <mark key="." line="264" column="11" />
       </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/Startup.cs" timestamp="1561536670547">
         <mark key="[" line="42" column="24" />
@@ -148,6 +148,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/samples-dotnet-app/samples-dotnet-app/src/Samples.App/appsettings.json" timestamp="1561958975830">
+        <mark key="[" line="6" column="64" />
+        <mark key="]" line="6" column="64" />
+        <mark key="." line="6" column="64" />
+        <mark key="^" line="6" column="62" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Filters/EmptyAlertsResponseFilter.cs" timestamp="1561938775427">
         <mark key="[" line="21" column="59" />
@@ -431,10 +437,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sdf</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>sdf</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRG9jdW1lbnREYlJlcG9zaXRvcnlcPg==</text>
@@ -443,18 +449,21 @@
         <text encoding="base64">IFRhc2sgT25BY3Rpb25FeGVjdXRpb25Bc3luYyhBY3Rpb25FeGVjdXRpbmdDb250ZXh0IGNvbnRleHQsIEFjdGlvbkV4ZWN1dGlvbkRlbGVnYXRlIG5leHQpCiAgICAgICAgewogICAgICAgICAgICBBY3Rpb25FeGVjdXRlZENvbnRleHQgcmVzdWx0ID0gYXdhaXQgbmV4dCgpOwogICAgICAgICAgICBJQWN0aW9uUmVzdWx0IHJlc3BvbnNlID0gY29udGV4dC5SZXN1bHQ7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgIH0KfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbSnNvbklnbm9yZV0K</text>
+        <text encoding="base64">ICAgICJDbG91ZFJvbGVOYW1lIjogInNhbXBsZS1hcHAtbG9jYWwiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBbSnNvbklnbm9yZV0K</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICJwb2xpY3lOYW1lIjogImtla1Rlc3QxMjM0IiwK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAiaWQiOiAiYWUwOGUxYzAtNjA2Yi0yNzY0LWZlYjAtMzdkYTdmOWY4NWI3IiwKICAgICJfcmlkIjogIjN3b3lBTWhZQ004QkFBQUFBQUFBQUE9PSIsCiAgICAiX3NlbGYiOiAiZGJzLzN3b3lBQT09L2NvbGxzLzN3b3lBTWhZQ004PS9kb2NzLzN3b3lBTWhZQ004QkFBQUFBQUFBQUE9PS8iLAogICAgIl9ldGFnIjogIlwiMDAwMDE4NzctMDAwMC0xYTAwLTAwMDAtNWNkMTAyNzkwMDAwXCIiLAogICAgIl9hdHRhY2htZW50cyI6ICJhdHRhY2htZW50cy8iLAogICAgIl90cyI6IDE1NTcyMDE1Mg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>,
   {
     &quot;namespace&quot;: &quot;ManualTest2&quot;,
@@ -500,20 +509,17 @@
     &quot;_ts&quot;: 1557201529
   }</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">JiYKICAgICAgICAgICAgICAgICAgICBhLkFwcGxpY2F0aW9uTmFtZS5Db250YWlucyhhbGVydC5BcHBsaWNhdGlvbk5hbWUpKQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFzcE5ldENvcmUuTXZjLkZpbHRlcnM7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CnVzaW5nIFN5c3RlbS5OZXQ7CnVzaW5nIFN5c3RlbS5UaHJlYWRpbmcuVGFza3M7CnVzaW5nIE1pY3Jvc29mdC5Bc3BOZXRDb3JlLkh0dHA7</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBhbGVydHMgPSA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>16,20 d</text>
