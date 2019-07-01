@@ -67,10 +67,10 @@
         <mark key="." line="264" column="11" />
       </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/Startup.cs" timestamp="1561536670547">
-        <mark key="[" line="42" column="24" />
-        <mark key="]" line="42" column="11" />
-        <mark key="^" line="42" column="11" />
-        <mark key="." line="42" column="11" />
+        <mark key="[" line="49" column="24" />
+        <mark key="]" line="49" column="11" />
+        <mark key="^" line="49" column="11" />
+        <mark key="." line="49" column="11" />
       </file>
       <file name="$USER_HOME$/git/projects/samples-dotnet-app/samples-dotnet-app/src/Samples.App/TimedHostedService.cs" timestamp="1561953572583">
         <mark key="[" line="27" column="34" />
@@ -337,6 +337,7 @@
         <mark key="]" line="42" column="33" />
         <mark key="." line="42" column="33" />
       </file>
+      <file name="$USER_HOME$/git/projects/samples-dotnet-app/samples-dotnet-app/src/Samples.App/RandomService.cs" timestamp="1561961965858" />
     </filemarks>
     <jumps>
       <jump line="0" column="5" filename="/Dummy.txt" />
