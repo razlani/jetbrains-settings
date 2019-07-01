@@ -60,11 +60,11 @@
         <mark key="^" line="15" column="55" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1561938780759">
-        <mark key="[" line="138" column="72" />
-        <mark key="]" line="139" column="22" />
-        <mark key="^" line="139" column="22" />
-        <mark key="." line="139" column="22" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1561957622897">
+        <mark key="[" line="258" column="32" />
+        <mark key="]" line="257" column="25" />
+        <mark key="^" line="257" column="25" />
+        <mark key="." line="257" column="25" />
       </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/Startup.cs" timestamp="1561536670547">
         <mark key="[" line="42" column="24" />
@@ -172,11 +172,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api.Models/Models/Alert.cs" timestamp="1560903103762">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="28" column="16" />
-        <mark key="." line="28" column="16" />
-        <mark key="^" line="28" column="16" />
+      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api.Models/Models/Alert.cs" timestamp="1561955171022">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="27" column="16" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/DAL/AlertsDbRepository.cs" timestamp="1559088609344">
         <mark key="[" line="8" column="43" />
@@ -206,7 +206,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561953040146">
+      <file name="/Dummy.txt" timestamp="1561957727870">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/src/MyTrolleyBot.cs" timestamp="1561542101419">
@@ -431,10 +431,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NotFoundObjectResult</text>
+        <text>sdf</text>
       </register>
       <register name="-" type="4">
-        <text>NotFoundObjectResult</text>
+        <text>sdf</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRG9jdW1lbnREYlJlcG9zaXRvcnlcPg==</text>
@@ -442,35 +442,78 @@
       <register name="0" type="4">
         <text encoding="base64">IFRhc2sgT25BY3Rpb25FeGVjdXRpb25Bc3luYyhBY3Rpb25FeGVjdXRpbmdDb250ZXh0IGNvbnRleHQsIEFjdGlvbkV4ZWN1dGlvbkRlbGVnYXRlIG5leHQpCiAgICAgICAgewogICAgICAgICAgICBBY3Rpb25FeGVjdXRlZENvbnRleHQgcmVzdWx0ID0gYXdhaXQgbmV4dCgpOwogICAgICAgICAgICBJQWN0aW9uUmVzdWx0IHJlc3BvbnNlID0gY29udGV4dC5SZXN1bHQ7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgIH0KfQ==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">JiYKICAgICAgICAgICAgICAgICAgICBhLkFwcGxpY2F0aW9uTmFtZS5Db250YWlucyhhbGVydC5BcHBsaWNhdGlvbk5hbWUpKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBbSnNvbklnbm9yZV0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFzcE5ldENvcmUuTXZjLkZpbHRlcnM7Cg==</text>
+        <text encoding="base64">ICAgICJwb2xpY3lOYW1lIjogImtla1Rlc3QxMjM0IiwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAiaWQiOiAiYWUwOGUxYzAtNjA2Yi0yNzY0LWZlYjAtMzdkYTdmOWY4NWI3IiwKICAgICJfcmlkIjogIjN3b3lBTWhZQ004QkFBQUFBQUFBQUE9PSIsCiAgICAiX3NlbGYiOiAiZGJzLzN3b3lBQT09L2NvbGxzLzN3b3lBTWhZQ004PS9kb2NzLzN3b3lBTWhZQ004QkFBQUFBQUFBQUE9PS8iLAogICAgIl9ldGFnIjogIlwiMDAwMDE4NzctMDAwMC0xYTAwLTAwMDAtNWNkMTAyNzkwMDAwXCIiLAogICAgIl9hdHRhY2htZW50cyI6ICJhdHRhY2htZW50cy8iLAogICAgIl90cyI6IDE1NTcyMDE1Mg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CnVzaW5nIFN5c3RlbS5OZXQ7CnVzaW5nIFN5c3RlbS5UaHJlYWRpbmcuVGFza3M7CnVzaW5nIE1pY3Jvc29mdC5Bc3BOZXRDb3JlLkh0dHA7</text>
+        <text>,
+  {
+    &quot;namespace&quot;: &quot;ManualTest2&quot;,
+    &quot;applicationName&quot;: &quot;Demo App&quot;,
+    &quot;policyName&quot;: &quot;kekTest2&quot;,
+    &quot;rule&quot;: {
+      &quot;name&quot;: &quot;High Error Rate Check&quot;,
+      &quot;description&quot;: &quot;Error Rate is more than 50%&quot;,
+      &quot;fieldName&quot;: &quot;ErrorRate&quot;,
+      &quot;criteria&quot;: &quot;50&quot;,
+      &quot;thresholdType&quot;: &quot;Percentage&quot;,
+      &quot;duration&quot;: &quot;00:05:00&quot;,
+      &quot;condition&quot;: &quot;GreaterThanEqual&quot;,
+      &quot;alertRuleType&quot;: &quot;Derived&quot;,
+      &quot;dashboardId&quot;: &quot;66089f60-4606-11e9-8783-9b1d227c295b&quot;,
+      &quot;severity&quot;: &quot;Error&quot;
+    },
+    &quot;actions&quot;: [
+      {
+        &quot;actionType&quot;: &quot;Slack&quot;,
+        &quot;params&quot;: {
+          &quot;incomingWebhookUrl&quot;: &quot;https://hooks.slack.com/services/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&quot;
+        }
+      },
+      {
+        &quot;actionType&quot;: &quot;Email&quot;,
+        &quot;params&quot;: {
+          &quot;emails&quot;: &quot;sgriffiths3@woolworths.com.au&quot;
+        }
+      },
+      {
+        &quot;actionType&quot;: &quot;Webhook&quot;,
+        &quot;params&quot;: {
+          &quot;webhookUrl&quot;: &quot;https://wlxdevanalyticswebhooksample.azurewebsites.net/api/WebhookSampleFunction?code=phAL0Kj0fuYd9acHxrp5KWzPnKJIY/Y6XuXRgJwCVFdvSrCTx8S2Sg==&quot;
+        }
+      }
+    ],
+    &quot;id&quot;: &quot;ae08e1c0-606b-2764-feb0-37da7f9f85b7&quot;,
+    &quot;_rid&quot;: &quot;3woyAMhYCM8BAAAAAAAAAA==&quot;,
+    &quot;_self&quot;: &quot;dbs/3woyAA==/colls/3woyAMhYCM8=/docs/3woyAMhYCM8BAAAAAAAAAA==/&quot;,
+    &quot;_etag&quot;: &quot;\&quot;00001877-0000-1a00-0000-5cd102790000\&quot;&quot;,
+    &quot;_attachments&quot;: &quot;attachments/&quot;,
+    &quot;_ts&quot;: 1557201529
+  }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBhbGVydHMgPSA7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">JiYKICAgICAgICAgICAgICAgICAgICBhLkFwcGxpY2F0aW9uTmFtZS5Db250YWlucyhhbGVydC5BcHBsaWNhdGlvbk5hbWUpKQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9rCg==</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFzcE5ldENvcmUuTXZjLkZpbHRlcnM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBIdHRwUmVzcG9uc2VFeGNlcHRpb24oSHRkZHRwU3RhdHVzQ29kZS5Ob3RGb3VuZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGtlayA9IHJlc3VsdDsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CnVzaW5nIFN5c3RlbS5OZXQ7CnVzaW5nIFN5c3RlbS5UaHJlYWRpbmcuVGFza3M7CnVzaW5nIE1pY3Jvc29mdC5Bc3BOZXRDb3JlLkh0dHA7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgcmVzdWx0LkV4ZWN1dGVSZXN1bHRBc3luYyhhY3Rpb25FeGVjdXRlZENvbnRleHQpOwo=</text>
+        <text encoding="base64">ICAgIHZhciBhbGVydHMgPSA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>16,20 d</text>
