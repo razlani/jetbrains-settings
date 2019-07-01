@@ -93,6 +93,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Console/WowConsoleHost.cs" timestamp="1561965747726">
+        <mark key="[" line="25" column="63" />
+      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/appspec.yaml" timestamp="1560229577546">
         <mark key="[" line="35" column="26" />
         <mark key="]" line="35" column="35" />
@@ -343,7 +346,12 @@
         <mark key="^" line="9" column="47" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Logging/Extensions/HostBuilderExtensions.cs" timestamp="1561963247440" />
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Logging/Extensions/HostBuilderExtensions.cs" timestamp="1561965866390">
+        <mark key="[" line="33" column="80" />
+        <mark key="]" line="32" column="37" />
+        <mark key="^" line="32" column="37" />
+        <mark key="." line="32" column="37" />
+      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Models/Alert.cs" timestamp="1559276322878">
         <mark key="[" line="16" column="38" />
         <mark key="]" line="16" column="41" />
