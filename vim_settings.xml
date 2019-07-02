@@ -43,6 +43,9 @@
         <mark key="." line="23" column="43" />
         <mark key="^" line="23" column="47" />
       </file>
+      <file name="/Dummy.cs" timestamp="1561969763889">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingServices/IMapCreator.cs" timestamp="1561353379205">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -83,6 +86,7 @@
         <mark key="^" line="42" column="30" />
         <mark key="." line="42" column="30" />
       </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/Job/Program.cs" timestamp="1561967814750" />
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Logging/ApplicationInsights/VersionTelemetryInitializer.cs" timestamp="1561963720682">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="22" />
@@ -153,6 +157,12 @@
         <mark key="." line="24" column="35" />
         <mark key="^" line="24" column="35" />
       </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Logging/Helpers/CustomTelemetryInitializer.cs" timestamp="1561971006781">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="30" column="63" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingModelz/Map.cs" timestamp="1561349431154">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -193,6 +203,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="27" column="16" />
       </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/Job/PingService.cs" timestamp="1561968890062" />
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/DAL/AlertsDbRepository.cs" timestamp="1559088609344">
         <mark key="[" line="8" column="43" />
         <mark key="]" line="8" column="51" />
@@ -215,11 +226,16 @@
         <mark key="^" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.WebApp/WowWebHost.cs" timestamp="1561964546925">
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Logging/Extensions/ServiceCollectionExtensions.cs" timestamp="1561966692837">
+        <mark key="[" line="27" column="89" />
+        <mark key="]" line="27" column="97" />
+        <mark key="^" line="27" column="97" />
+        <mark key="." line="27" column="97" />
+      </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/Job/appsettings.json" timestamp="1561968346782">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-        <mark key="^" line="8" column="25" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/appsettings.json" timestamp="1560228169153">
         <mark key="[" line="1" column="0" />
@@ -227,8 +243,10 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561957727870">
+      <file name="/Dummy.txt" timestamp="1561971119352">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/src/MyTrolleyBot.cs" timestamp="1561542101419">
         <mark key="[" line="29" column="0" />
@@ -346,11 +364,11 @@
         <mark key="^" line="9" column="47" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Logging/Extensions/HostBuilderExtensions.cs" timestamp="1561965866390">
-        <mark key="[" line="33" column="80" />
-        <mark key="]" line="32" column="37" />
-        <mark key="^" line="32" column="37" />
-        <mark key="." line="32" column="37" />
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Logging/Extensions/HostBuilderExtensions.cs" timestamp="1561969362838">
+        <mark key="[" line="36" column="80" />
+        <mark key="]" line="36" column="80" />
+        <mark key="^" line="23" column="75" />
+        <mark key="." line="36" column="80" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Models/Alert.cs" timestamp="1559276322878">
         <mark key="[" line="16" column="38" />
@@ -469,10 +487,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly91c2luZyBXb3cuVG9vbGtpdC5Mb2dnaW5nLgo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBzdHJpbmcgQXNzZW1ibHlOYW1lID0gQXNzZW1ibHkuR2V0RW50cnlBc3NlbWJseSgpLkdldE5hbWUoKS5OYW1lOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>WebApp</text>
+        <text>AssemblyName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRG9jdW1lbnREYlJlcG9zaXRvcnlcPg==</text>
@@ -481,34 +499,34 @@
         <text encoding="base64">IFRhc2sgT25BY3Rpb25FeGVjdXRpb25Bc3luYyhBY3Rpb25FeGVjdXRpbmdDb250ZXh0IGNvbnRleHQsIEFjdGlvbkV4ZWN1dGlvbkRlbGVnYXRlIG5leHQpCiAgICAgICAgewogICAgICAgICAgICBBY3Rpb25FeGVjdXRlZENvbnRleHQgcmVzdWx0ID0gYXdhaXQgbmV4dCgpOwogICAgICAgICAgICBJQWN0aW9uUmVzdWx0IHJlc3BvbnNlID0gY29udGV4dC5SZXN1bHQ7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgIH0KfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly91c2luZyBXb3cuVG9vbGtpdC5Mb2dnaW5nLgo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBzdHJpbmcgQXNzZW1ibHlOYW1lID0gQXNzZW1ibHkuR2V0RW50cnlBc3NlbWJseSgpLkdldE5hbWUoKS5OYW1lOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgV293LlRvb2xraXQuTG9nZ2luZy5BcHBsaWNhdGlvbkluc2lnaHRzOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBzdHJpbmcgQXNzZW1ibHlOYW1lID0gQXNzZW1ibHkuR2V0RW50cnlBc3NlbWJseSgpLkdldE5hbWUoKS5OYW1lOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFzcE5ldENvcmU7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgY29udGV4dC5Ib3N0aW5nRW52aXJvbm1lbnQuQXBwbGljYXRpb25OYW1l</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CnVzaW5nIE1pY3Jvc29mdC5FeHRlbnNpb25zLkxvZ2dpbmc7CnVzaW5nIFNlcmlsb2c7CnVzaW5nIFdvdy5Ub29sa2l0LkxvZ2dpbmc7</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJDbG91ZFJvbGVOYW1lIjogIkRvdG5ldC1Ub29sa2l0LVNhbXBsZS1Kb2IiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgV293LlRvb2xraXQuV2ViQXBwLkFwcGxpY2F0aW9uSW5zaWdodHM7Cg==</text>
+        <text encoding="base64">Ly91c2luZyBXb3cuVG9vbGtpdC5Mb2dnaW5nLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbHVlOiAie3tDbG91ZFJvbGVOYW1lfX0iCg==</text>
+        <text encoding="base64">dXNpbmcgV293LlRvb2xraXQuTG9nZ2luZy5BcHBsaWNhdGlvbkluc2lnaHRzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IEFwcGxpY2F0aW9uSW5zaWdodHNfX0Nsb3VkUm9sZU5hbWUK</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFzcE5ldENvcmU7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJDbG91ZFJvbGVOYW1lIjogInNhbXBsZS1hcHAtbG9jYWwiCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CnVzaW5nIE1pY3Jvc29mdC5FeHRlbnNpb25zLkxvZ2dpbmc7CnVzaW5nIFNlcmlsb2c7CnVzaW5nIFdvdy5Ub29sa2l0LkxvZ2dpbmc7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbSnNvbklnbm9yZV0K</text>
+        <text encoding="base64">dXNpbmcgV293LlRvb2xraXQuV2ViQXBwLkFwcGxpY2F0aW9uSW5zaWdodHM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>16,20 d</text>
