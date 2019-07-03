@@ -36,6 +36,12 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/untitled3/main.cpp" timestamp="1562117486669">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+        <mark key="^" line="8" column="6" />
+      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Infrastructure/RequiredAlertQueryPropsAttribute.cs" timestamp="1559541866787">
         <mark key="[" line="9" column="36" />
         <mark key="]" line="9" column="36" />
@@ -386,7 +392,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImxpc3QiCg==</text>
+        <text encoding="base64">amtzZGYK</text>
       </register>
       <register name="-" type="4">
         <text>List</text>
@@ -398,34 +404,34 @@
         <text>ApiConfig__AlertsCosmosRulesConfig__Endpoint</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImxpc3QiCg==</text>
+        <text encoding="base64">amtzZGYK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHN0ZDsK</text>
+        <text encoding="base64">I2luY2x1ZGUgPENvbm5lY3Rpb24uaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENvbm5lY3Rpb24gb3V0Z29pbmdDb25uZWN0aW9uOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvcgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">I2luY2x1ZGUgImxpc3QiCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHN0ZDsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGh1bWFuLgo=</text>
+        <text encoding="base64">ICAgIENvbm5lY3Rpb24gb3V0Z29pbmdDb25uZWN0aW9uOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljOgo=</text>
+        <text encoding="base64">ICAgIGZvcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SHVtYW46Okh1bWFuKCkKewoKfQoKSHVtYW46On5IdW1hbigpIHsKCn0K</text>
+        <text encoding="base64">ICAgIGh1bWFuLgo=</text>
       </register>
       <register name=":" type="4">
         <text>7,14 d</text>
