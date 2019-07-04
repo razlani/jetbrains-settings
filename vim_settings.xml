@@ -63,11 +63,11 @@
         <mark key="^" line="15" column="55" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1561958670323">
-        <mark key="[" line="258" column="32" />
-        <mark key="]" line="264" column="11" />
-        <mark key="^" line="264" column="11" />
-        <mark key="." line="264" column="11" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1562215887578">
+        <mark key="[" line="176" column="30" />
+        <mark key="]" line="177" column="21" />
+        <mark key="^" line="177" column="21" />
+        <mark key="." line="177" column="21" />
       </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/Startup.cs" timestamp="1561536670547">
         <mark key="[" line="49" column="24" />
@@ -111,7 +111,6 @@
         <mark key="." line="13" column="59" />
         <mark key="^" line="13" column="59" />
       </file>
-      <file name="/CustomTelemetryInitializer.cs" timestamp="1562039540467" />
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/test/rules-engine-api.tests/Alerts/Unit/AlertsCosmosDbPostUnitTest.cs" timestamp="1559789982800">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -133,7 +132,6 @@
         <mark key="]" line="2" column="43" />
         <mark key="." line="2" column="43" />
       </file>
-      <file name="/ServiceCollectionExtensions.cs" timestamp="1562039656598" />
       <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/test/Order.cs" timestamp="1561555988355">
         <mark key="[" line="34" column="22" />
         <mark key="]" line="34" column="29" />
@@ -484,11 +482,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/git/TravellingTest/TravellingServices/IMapOptimizer.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>kektest3</text>
       </register>
       <register name="-" type="4">
-        <text>AssemblyName</text>
+        <text>kektest3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRG9jdW1lbnREYlJlcG9zaXRvcnlcPg==</text>
