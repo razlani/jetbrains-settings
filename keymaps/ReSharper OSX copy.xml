@@ -63,6 +63,9 @@
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
+  <action id="PowerShellConsoleAction">
+    <keyboard-shortcut first-keystroke="ctrl meta alt p" />
+  </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
