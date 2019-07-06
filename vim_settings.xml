@@ -20,6 +20,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/git/Sezra/Sezra/Person.cs" timestamp="1562407341889" />
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/appsettings.json" timestamp="1559100208794">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -110,6 +111,12 @@
         <mark key="]" line="13" column="59" />
         <mark key="." line="13" column="59" />
         <mark key="^" line="13" column="59" />
+      </file>
+      <file name="$USER_HOME$/git/Sezra/Sezra/Program.cs" timestamp="1562408576968">
+        <mark key="[" line="13" column="55" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
+        <mark key="^" line="15" column="13" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/test/rules-engine-api.tests/Alerts/Unit/AlertsCosmosDbPostUnitTest.cs" timestamp="1559789982800">
         <mark key="[" line="3" column="0" />
@@ -489,11 +496,11 @@
       <jump line="17" column="20" filename="$USER_HOME$/git/powershell-scripts/pagerDutyIntegration.ps1" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dkfjd</text>
       </register>
       <register name="-" type="4">
-        <text>$email1,$sms1</text>
+        <text>dkfjd</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQYWdlckR1dHlBR1w+</text>
