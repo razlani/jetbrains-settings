@@ -152,12 +152,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="42" />
       </file>
-      <file name="$USER_HOME$/git/powershell-scripts/pagerDutyIntegration.ps1" timestamp="1562558089118">
+      <file name="$USER_HOME$/git/powershell-scripts/pagerDutyIntegration.ps1" timestamp="1562638239287">
         <mark key="'" line="20" column="43" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="37" column="15" />
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="38" />
+        <mark key="." line="2" column="38" />
+        <mark key="^" line="2" column="38" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Startup.cs" timestamp="1559529696704">
         <mark key="[" line="31" column="0" />
@@ -497,11 +497,11 @@
       <jump line="21" column="43" filename="$USER_HOME$/git/powershell-scripts/pagerDutyIntegration.ps1" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBhZGQgY29tbWVudC1iYXNlZCBoZWxwIGh0dHBzOi8vZG9jcy5taWNyb3NvZnQuY29tL2VuLXVzL3Bvd2Vyc2hlbGwvbW9kdWxlL21pY3Jvc29mdC5wb3dlcnNoZWxsLmNvcmUvYWJvdXQvYWJvdXRfY29tbWVudF9iYXNlZF9oZWxwP3ZpZXc9cG93ZXJzaGVsbC02Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>number</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQYWdlckR1dHlBR1w+</text>
