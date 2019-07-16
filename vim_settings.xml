@@ -20,7 +20,6 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/git/Sezra/Sezra/Person.cs" timestamp="1562407341889" />
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/appsettings.json" timestamp="1559100208794">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -128,7 +127,6 @@
         <mark key="]" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/appsettings.json" timestamp="1562557406188" />
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/UnitTest1.cs" timestamp="1559099556020">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -192,6 +190,9 @@
         <mark key="]" line="20" column="37" />
         <mark key="." line="20" column="37" />
         <mark key="^" line="20" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/MessageProcessor.EventHubs/appsettings.json" timestamp="1563248996115">
+        <mark key="[" line="9" column="29" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Controllers/HealthzController.cs" timestamp="1560227091657">
         <mark key="[" line="10" column="0" />
