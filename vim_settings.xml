@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="vim_settings.xml" timestamp="1563414865461">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Models/Alert.cs" timestamp="1559719621477">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
