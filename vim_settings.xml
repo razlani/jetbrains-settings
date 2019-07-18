@@ -43,9 +43,6 @@
         <mark key="." line="23" column="43" />
         <mark key="^" line="23" column="47" />
       </file>
-      <file name="/Dummy.cs" timestamp="1562416413144">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingServices/IMapCreator.cs" timestamp="1561353379205">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -169,12 +166,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="42" />
       </file>
-      <file name="$USER_HOME$/git/powershell-scripts/pagerDutyIntegration.ps1" timestamp="1562640428109">
-        <mark key="'" line="21" column="43" />
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="2" column="38" />
-        <mark key="." line="2" column="38" />
-        <mark key="^" line="2" column="38" />
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.WebApp/Swagger/SwaggerBuilderExtensions.cs" timestamp="1563432442082">
+        <mark key="[" line="32" column="45" />
+        <mark key="]" line="34" column="55" />
+        <mark key="^" line="34" column="55" />
+        <mark key="." line="34" column="55" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Startup.cs" timestamp="1559529696704">
         <mark key="[" line="31" column="0" />
@@ -209,9 +205,6 @@
         <mark key="]" line="20" column="37" />
         <mark key="." line="20" column="37" />
         <mark key="^" line="20" column="37" />
-      </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/MessageProcessor.EventHubs/appsettings.json" timestamp="1563248996115">
-        <mark key="[" line="5" column="29" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Controllers/HealthzController.cs" timestamp="1560227091657">
         <mark key="[" line="10" column="0" />
@@ -275,18 +268,10 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562039971161">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
       <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/src/MyTrolleyBot.cs" timestamp="1561542101419">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
-      </file>
-      <file name="/C# Console" timestamp="1561350687034">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingModelz/Product.cs" timestamp="1561333411217">
         <mark key="[" line="10" column="0" />
@@ -311,10 +296,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.WebApp/Swagger/HostBuilderSwaggerExtensions.cs" timestamp="1560927325168">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.WebApp/Swagger/HostBuilderSwaggerExtensions.cs" timestamp="1563432388114">
+        <mark key="[" line="25" column="41" />
+        <mark key="]" line="25" column="41" />
+        <mark key="." line="25" column="41" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api.Models/Models/Action.cs" timestamp="1560910998632">
         <mark key="[" line="14" column="8" />
@@ -518,10 +503,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>. Concrete class should override Equals and GetHashCode methods.</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>. Concrete class should override Equals and GetHashCode methods.</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQYWdlckR1dHlBR1w+</text>
@@ -530,34 +515,34 @@
         <text encoding="base64">IFRhc2sgT25BY3Rpb25FeGVjdXRpb25Bc3luYyhBY3Rpb25FeGVjdXRpbmdDb250ZXh0IGNvbnRleHQsIEFjdGlvbkV4ZWN1dGlvbkRlbGVnYXRlIG5leHQpCiAgICAgICAgewogICAgICAgICAgICBBY3Rpb25FeGVjdXRlZENvbnRleHQgcmVzdWx0ID0gYXdhaXQgbmV4dCgpOwogICAgICAgICAgICBJQWN0aW9uUmVzdWx0IHJlc3BvbnNlID0gY29udGV4dC5SZXN1bHQ7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgIH0KfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vLyA8dHlwZXBhcmFtIG5hbWU9IlRJZCI+PC90eXBlcGFyYW0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb25maWcgPSBjb250ZXh0LkNvbmZpZ3VyYXRpb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgZW52ID0gRW52aXJvbm1lbnQuR2V0RW52aXJvbm1lbnRWYXJpYWJsZSgiQVNQTkVUQ09SRV9FTlZJUk9OTUVOVCIpID8/ICJEZXZlbG9wbWVudCI7Cg==</text>
+        <text encoding="base64">ICAgIC8vLyA8dHlwZXBhcmFtIG5hbWU9IlRJZCI+PC90eXBlcGFyYW0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBhZGQgY29tbWVudC1iYXNlZCBoZWxwIGh0dHBzOi8vZG9jcy5taWNyb3NvZnQuY29tL2VuLXVzL3Bvd2Vyc2hlbGwvbW9kdWxlL21pY3Jvc29mdC5wb3dlcnNoZWxsLmNvcmUvYWJvdXQvYWJvdXRfY29tbWVudF9iYXNlZF9oZWxwP3ZpZXc9cG93ZXJzaGVsbC02Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgZW52ID0gRW52aXJvbm1lbnQuR2V0RW52aXJvbm1lbnRWYXJpYWJsZSgiQVNQTkVUQ09SRV9FTlZJUk9OTUVOVCIpID8/ICJEZXZlbG9wbWVudCI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IG51bWJlcjsK</text>
+        <text encoding="base64">IyBhZGQgY29tbWVudC1iYXNlZCBoZWxwIGh0dHBzOi8vZG9jcy5taWNyb3NvZnQuY29tL2VuLXVzL3Bvd2Vyc2hlbGwvbW9kdWxlL21pY3Jvc29mdC5wb3dlcnNoZWxsLmNvcmUvYWJvdXQvYWJvdXRfY29tbWVudF9iYXNlZF9oZWxwP3ZpZXc9cG93ZXJzaGVsbC02Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtYmVyQXJyYXkuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtYmVyQXJyYXlbNl0gPSAzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IG51bWJlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIG51bWJlckFycmF5ID0gezEsIDIsIDMsIDIsIDEsIDZ9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtYmVyQXJyYXkuCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5tLTM=</text>
