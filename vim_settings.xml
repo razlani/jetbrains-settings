@@ -3,98 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Controllers/AlertsController.cs" timestamp="1559455988659">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Models/Alert.cs" timestamp="1559719621477">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="15" column="7" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/SampleDataFixture.cs" timestamp="1559100257929">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/appsettings.json" timestamp="1559100208794">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="15" column="18" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Infrastructure/RequiredAlertQueryPropsAttribute.cs" timestamp="1559541866787">
         <mark key="[" line="9" column="36" />
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="36" />
       </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/test/rules-engine-api.tests/SampleData/AlertData/POST/SampleBadActionTypeAlerts.json" timestamp="1559868252368">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="33" />
-      </file>
-      <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/test/UnitTest1.cs" timestamp="1561595850628">
-        <mark key="[" line="23" column="43" />
-        <mark key="]" line="23" column="43" />
-        <mark key="." line="23" column="43" />
-        <mark key="^" line="23" column="47" />
-      </file>
-      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/IMapCreator.cs" timestamp="1561353379205">
+      <file name="/Dummy.cs" timestamp="1562416413144">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Infrastructure/ConstrainedFromActionType.cs" timestamp="1559452963171">
-        <mark key="[" line="26" column="39" />
-        <mark key="]" line="27" column="25" />
-        <mark key="^" line="27" column="25" />
-        <mark key="." line="27" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/AlertsCosmosDbPostTest.cs" timestamp="1559100115241">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="15" column="55" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1562215887578">
-        <mark key="[" line="176" column="30" />
-        <mark key="]" line="177" column="21" />
-        <mark key="^" line="177" column="21" />
-        <mark key="." line="177" column="21" />
-      </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/Startup.cs" timestamp="1561536670547">
-        <mark key="[" line="49" column="24" />
-        <mark key="]" line="49" column="11" />
-        <mark key="^" line="49" column="11" />
-        <mark key="." line="49" column="11" />
-      </file>
-      <file name="$USER_HOME$/git/projects/samples-dotnet-app/samples-dotnet-app/src/Samples.App/TimedHostedService.cs" timestamp="1561953572583">
-        <mark key="[" line="27" column="34" />
-        <mark key="]" line="27" column="54" />
-        <mark key="." line="27" column="34" />
-      </file>
-      <file name="$USER_HOME$/git/projects/samples-dotnet-webapp/samples-dotnet-webapp/src/Samples.WebApi/Controllers/ValuesController.cs" timestamp="1560924551295">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="42" column="30" />
-        <mark key="^" line="42" column="30" />
-        <mark key="." line="42" column="30" />
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.WebJobs.Extensions.ServiceBus/Extensions/ServiceBusMessageExtensions.cs" timestamp="1563494463149">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
       </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Cqrs/Domains/IAggregateRoot.cs" timestamp="1563431611052">
         <mark key="[" line="3" column="33" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Logging/ApplicationInsights/VersionTelemetryInitializer.cs" timestamp="1561963720682">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="22" />
-        <mark key="." line="4" column="22" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Shared/JsonContentNegotiator.cs" timestamp="1559710418040">
-        <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
@@ -109,24 +32,6 @@
         <mark key="^" line="3" column="68" />
         <mark key="." line="3" column="69" />
       </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/appspec.yaml" timestamp="1560229577546">
-        <mark key="[" line="35" column="26" />
-        <mark key="]" line="35" column="35" />
-        <mark key="^" line="35" column="35" />
-        <mark key="." line="35" column="35" />
-      </file>
-      <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/test/OrderList.cs" timestamp="1561552215812">
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="13" column="59" />
-        <mark key="." line="13" column="59" />
-        <mark key="^" line="13" column="59" />
-      </file>
-      <file name="$USER_HOME$/git/Sezra/Sezra/Program.cs" timestamp="1562418714801">
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="13" column="31" />
-        <mark key="." line="13" column="31" />
-        <mark key="^" line="13" column="31" />
-      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/test/rules-engine-api.tests/Alerts/Unit/AlertsCosmosDbPostUnitTest.cs" timestamp="1559789982800">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -137,97 +42,16 @@
         <mark key="]" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/MessagePublisher/Program.cs" timestamp="1563431401809">
-        <mark key="[" line="71" column="31" />
-        <mark key="]" line="71" column="31" />
-        <mark key="^" line="71" column="31" />
-        <mark key="." line="71" column="31" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/UnitTest1.cs" timestamp="1559099556020">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="31" column="7" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Config/AlertsCosmosRulesConfig.cs" timestamp="1559798783767">
-        <mark key="[" line="2" column="42" />
-        <mark key="]" line="2" column="43" />
-        <mark key="." line="2" column="43" />
-      </file>
-      <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/test/Order.cs" timestamp="1561555988355">
-        <mark key="[" line="34" column="22" />
-        <mark key="]" line="34" column="29" />
-        <mark key="^" line="34" column="29" />
-        <mark key="." line="34" column="29" />
-      </file>
-      <file name="$USER_HOME$/git/TravellingTest/TravellingMain/Program.cs" timestamp="1561353413518">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="11" column="42" />
-      </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.WebApp/Swagger/SwaggerBuilderExtensions.cs" timestamp="1563432442082">
-        <mark key="[" line="32" column="45" />
-        <mark key="]" line="34" column="55" />
-        <mark key="^" line="34" column="55" />
-        <mark key="." line="34" column="55" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Startup.cs" timestamp="1559529696704">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="34" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api.Models/Models/Rule.cs" timestamp="1560995441313">
-        <mark key="[" line="24" column="45" />
-        <mark key="]" line="24" column="35" />
-        <mark key="." line="24" column="35" />
-        <mark key="^" line="24" column="35" />
-      </file>
-      <file name="$USER_HOME$/git/TravellingTest/TravellingModelz/Map.cs" timestamp="1561349431154">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/samples-dotnet-app/samples-dotnet-app/src/Samples.App/appsettings.json" timestamp="1561958975830">
-        <mark key="[" line="6" column="64" />
-        <mark key="]" line="6" column="64" />
-        <mark key="." line="6" column="64" />
-        <mark key="^" line="6" column="62" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Filters/EmptyAlertsResponseFilter.cs" timestamp="1561938775427">
-        <mark key="[" line="21" column="59" />
-        <mark key="]" line="20" column="37" />
-        <mark key="." line="20" column="37" />
-        <mark key="^" line="20" column="37" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Controllers/HealthzController.cs" timestamp="1560227091657">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="22" column="23" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api.Models/Models/AlertQuery.cs" timestamp="1559885759276">
-        <mark key="[" line="12" column="9" />
-        <mark key="]" line="12" column="9" />
-        <mark key="." line="12" column="9" />
-        <mark key="^" line="12" column="8" />
-      </file>
-      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/Connection.cs" timestamp="1561353369320">
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/Job/deployment.yaml" timestamp="1563494631924">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api.Models/Models/Alert.cs" timestamp="1561955171022">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="27" column="16" />
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.WebApp/Swagger/SwaggerBuilderExtensions.cs" timestamp="1563494506415">
+        <mark key="[" line="32" column="45" />
       </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/DAL/AlertsDbRepository.cs" timestamp="1559088609344">
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="8" column="51" />
-        <mark key="." line="8" column="51" />
-        <mark key="^" line="8" column="51" />
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Cqrs/IServiceCollectionExtensions.cs" timestamp="1563494328138">
+        <mark key="[" line="62" column="0" />
       </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingServices/MapOptimizer.cs" timestamp="1561353393367">
         <mark key="[" line="2" column="0" />
@@ -239,51 +63,13 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Services/RulesService.cs" timestamp="1561194973776">
-        <mark key="[" line="62" column="22" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Logging/Extensions/ServiceCollectionExtensions.cs" timestamp="1562039939152">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="25" column="97" />
-        <mark key="^" line="25" column="97" />
-        <mark key="." line="25" column="97" />
-      </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/Job/appsettings.json" timestamp="1561968346782">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/appsettings.json" timestamp="1560228169153">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="14" column="15" />
-      </file>
-      <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/src/MyTrolleyBot.cs" timestamp="1561542101419">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/TravellingTest/TravellingModelz/Product.cs" timestamp="1561333411217">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="35" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/runner/services/BotRunService.cs" timestamp="1561552085335">
-        <mark key="[" line="21" column="65" />
-        <mark key="]" line="21" column="65" />
-        <mark key="^" line="21" column="65" />
-        <mark key="." line="21" column="65" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Models/ActionType.cs" timestamp="1559701373058">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="9" column="34" />
-        <mark key="^" line="9" column="34" />
-        <mark key="." line="9" column="34" />
+      <file name="/C# Console" timestamp="1561350687034">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api.Models/Models/AlertRuleType.cs" timestamp="1560907143939">
         <mark key="[" line="5" column="0" />
@@ -295,102 +81,108 @@
         <mark key="]" line="25" column="41" />
         <mark key="." line="25" column="41" />
       </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api.Models/Models/Action.cs" timestamp="1560910998632">
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="12" column="18" />
-        <mark key="^" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Interfaces/IRulesService.cs" timestamp="1559791785059">
-        <mark key="[" line="11" column="60" />
-        <mark key="]" line="11" column="60" />
-        <mark key="." line="11" column="60" />
-        <mark key="^" line="11" column="58" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/test/rules-engine-api.tests/Alerts/Integration/AlertsCosmosDbPostIntegrationTest.cs" timestamp="1559799259580">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="14" column="84" />
-      </file>
-      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/Point.cs" timestamp="1561353310622">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/test/Item.cs" timestamp="1561552166585">
-        <mark key="[" line="8" column="37" />
-        <mark key="]" line="7" column="7" />
-        <mark key="." line="7" column="7" />
-        <mark key="^" line="7" column="7" />
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.WebJobs.Extensions.ServiceBus/Interfaces/IServiceBusExponentialRetryHandler.cs" timestamp="1563494373809">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="6" column="60" />
       </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Logging/ApplicationInsights/CloudRoleTelemetryInitializer.cs" timestamp="1561963788318">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/test/rules-engine-api.tests/Alerts/Integration/AlertsCosmosDbGetIntegrationTest.cs" timestamp="1559799247655">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api.Models/Attributes/ConstrainedFromRuleType.cs" timestamp="1561614976106">
-        <mark key="[" line="104" column="22" />
-        <mark key="]" line="104" column="22" />
-        <mark key="." line="104" column="22" />
-        <mark key="^" line="95" column="12" />
-      </file>
       <file name="$USER_HOME$/git/projects/samples-dotnet-app/samples-dotnet-app/appspec.yaml" timestamp="1561960757015">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Startup.cs" timestamp="1561610740060">
-        <mark key="[" line="34" column="53" />
-        <mark key="]" line="34" column="49" />
-        <mark key="^" line="34" column="49" />
-        <mark key="." line="34" column="49" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/SampleData/AlertData/POST/SampleBadJsonAlerts.json" timestamp="1559111895759">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="33" />
-        <mark key="^" line="8" column="33" />
-        <mark key="." line="8" column="33" />
-      </file>
-      <file name="$USER_HOME$/git/TravellingTest/TravellingModelz/ItemType.cs" timestamp="1561332968701">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="25" />
-        <mark key="^" line="10" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/ClusterResponseHealthTest.cs" timestamp="1559099956717">
-        <mark key="[" line="28" column="18" />
-        <mark key="]" line="28" column="18" />
-        <mark key="." line="28" column="18" />
-        <mark key="^" line="28" column="16" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Models/ThresholdType.cs" timestamp="1559701429195">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="9" column="47" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Logging/Extensions/HostBuilderExtensions.cs" timestamp="1562039831238">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Models/Alert.cs" timestamp="1559276322878">
-        <mark key="[" line="16" column="38" />
-        <mark key="]" line="16" column="41" />
-        <mark key="." line="16" column="41" />
-        <mark key="^" line="16" column="41" />
-      </file>
       <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/src/Program.cs" timestamp="1561444389546">
         <mark key="[" line="42" column="33" />
         <mark key="]" line="42" column="33" />
         <mark key="." line="42" column="33" />
+      </file>
+      <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Controllers/AlertsController.cs" timestamp="1559455988659">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/IMapCreator.cs" timestamp="1561353379205">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/samples-dotnet-app/samples-dotnet-app/src/Samples.App/TimedHostedService.cs" timestamp="1561953572583">
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="27" column="54" />
+        <mark key="." line="27" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Logging/ApplicationInsights/VersionTelemetryInitializer.cs" timestamp="1561963720682">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Shared/JsonContentNegotiator.cs" timestamp="1559710418040">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/IServiceCollectionExtensions.cs" timestamp="1563494309617">
+        <mark key="[" line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/ServiceBusSubscriber.cs" timestamp="1563494613058">
+        <mark key="[" line="131" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Config/AlertsCosmosRulesConfig.cs" timestamp="1559798783767">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="43" />
+        <mark key="." line="2" column="43" />
+      </file>
+      <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Startup.cs" timestamp="1559529696704">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="34" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/TravellingTest/TravellingModelz/Map.cs" timestamp="1561349431154">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/MessageProcessor.EventHubs/appsettings.json" timestamp="1563248996115">
+        <mark key="[" line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/Connection.cs" timestamp="1561353369320">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1563494774401">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/src/MyTrolleyBot.cs" timestamp="1561542101419">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/TravellingTest/TravellingServices/Point.cs" timestamp="1561353310622">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/rules-engine-try-2/test/rules-engine-api.tests/Alerts/Integration/AlertsCosmosDbGetIntegrationTest.cs" timestamp="1559799247655">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.WebJobs.Extensions.ServiceBus/Extensions/ServiceCollectionExtensions.cs" timestamp="1563494687461">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.WebJobs.Extensions.ServiceBus/ServiceBusExponentialRetryHandler.cs" timestamp="1563494721090">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -496,11 +288,11 @@
       <jump line="21" column="43" filename="$USER_HOME$/git/powershell-scripts/pagerDutyIntegration.ps1" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgV293LlRvb2xraXQuV2ViSm9icy5FeHRlbnNpb25zLlNlcnZpY2VCdXMuSW50ZXJmYWNlczsK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Wow.Toolkit.WebJobs.Extensions.ServiceBus.Extensions</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQYWdlckR1dHlBR1w+</text>
@@ -509,34 +301,34 @@
         <text encoding="base64">IFRhc2sgT25BY3Rpb25FeGVjdXRpb25Bc3luYyhBY3Rpb25FeGVjdXRpbmdDb250ZXh0IGNvbnRleHQsIEFjdGlvbkV4ZWN1dGlvbkRlbGVnYXRlIG5leHQpCiAgICAgICAgewogICAgICAgICAgICBBY3Rpb25FeGVjdXRlZENvbnRleHQgcmVzdWx0ID0gYXdhaXQgbmV4dCgpOwogICAgICAgICAgICBJQWN0aW9uUmVzdWx0IHJlc3BvbnNlID0gY29udGV4dC5SZXN1bHQ7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgIH0KfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgV293LlRvb2xraXQuV2ViSm9icy5FeHRlbnNpb25zLlNlcnZpY2VCdXMuSW50ZXJmYWNlczsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb25maWcgPSBjb250ZXh0LkNvbmZpZ3VyYXRpb247Cg==</text>
+        <text encoding="base64">dXNpbmcgV293LlRvb2xraXQuV2ViSm9icy5FeHRlbnNpb25zLlNlcnZpY2VCdXMuRXh0ZW5zaW9uczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vLyA8dHlwZXBhcmFtIG5hbWU9IlRJZCI+PC90eXBlcGFyYW0+Cg==</text>
+        <text encoding="base64">dXNpbmcgV293LlRvb2xraXQuV2ViSm9icy5FeHRlbnNpb25zLlNlcnZpY2VCdXM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0tCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgZW52ID0gRW52aXJvbm1lbnQuR2V0RW52aXJvbm1lbnRWYXJpYWJsZSgiQVNQTkVUQ09SRV9FTlZJUk9OTUVOVCIpID8/ICJEZXZlbG9wbWVudCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBhZGQgY29tbWVudC1iYXNlZCBoZWxwIGh0dHBzOi8vZG9jcy5taWNyb3NvZnQuY29tL2VuLXVzL3Bvd2Vyc2hlbGwvbW9kdWxlL21pY3Jvc29mdC5wb3dlcnNoZWxsLmNvcmUvYWJvdXQvYWJvdXRfY29tbWVudF9iYXNlZF9oZWxwP3ZpZXc9cG93ZXJzaGVsbC02Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb25maWcgPSBjb250ZXh0LkNvbmZpZ3VyYXRpb247Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vLyA8dHlwZXBhcmFtIG5hbWU9IlRJZCI+PC90eXBlcGFyYW0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IG51bWJlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtYmVyQXJyYXkuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgZW52ID0gRW52aXJvbm1lbnQuR2V0RW52aXJvbm1lbnRWYXJpYWJsZSgiQVNQTkVUQ09SRV9FTlZJUk9OTUVOVCIpID8/ICJEZXZlbG9wbWVudCI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5tLTM=</text>
