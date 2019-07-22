@@ -62,6 +62,12 @@
         <mark key="^" line="3" column="68" />
         <mark key="." line="3" column="69" />
       </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Console/Health/TcpHealthProbeService.cs" timestamp="1563757885270">
+        <mark key="[" line="58" column="48" />
+        <mark key="]" line="58" column="64" />
+        <mark key="." line="58" column="64" />
+        <mark key="^" line="58" column="64" />
+      </file>
       <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/test/OrderList.cs" timestamp="1561552215812">
         <mark key="[" line="13" column="36" />
         <mark key="]" line="13" column="59" />
@@ -84,19 +90,26 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="31" column="7" />
       </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/MessagePublisher.EventHubs/Program.cs" timestamp="1563759350929">
+        <mark key="[" line="8" column="13" />
+      </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Common/Helpers/MessagingContext.cs" timestamp="1563759815726">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+      </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingMain/Program.cs" timestamp="1561353413518">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="42" />
       </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/Job/deployment.yaml" timestamp="1563494631924">
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/Job/deployment.yaml" timestamp="1563758435013">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.WebApp/Swagger/SwaggerBuilderExtensions.cs" timestamp="1563494506415">
-        <mark key="[" line="32" column="45" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+        <mark key="^" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Cqrs/IServiceCollectionExtensions.cs" timestamp="1563494328138">
         <mark key="[" line="62" column="0" />
@@ -107,10 +120,17 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/Job/PingService.cs" timestamp="1563754207086">
-        <mark key="]" line="37" column="39" />
-        <mark key="^" line="37" column="39" />
-        <mark key="." line="37" column="39" />
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/MessageProcessor/Program.cs" timestamp="1563759125340">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+      </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/Job/PingService.cs" timestamp="1563757464607">
+        <mark key="'" line="37" column="0" />
+        <mark key="]" line="41" column="48" />
+        <mark key="^" line="41" column="48" />
+        <mark key="." line="41" column="48" />
       </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingServices/MapOptimizer.cs" timestamp="1561353393367">
         <mark key="[" line="2" column="0" />
@@ -210,6 +230,9 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/Program.cs" timestamp="1563759504824">
+        <mark key="[" line="6" column="11" />
+      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/ClusterResponseHealthTest.cs" timestamp="1559099956717">
         <mark key="[" line="28" column="18" />
         <mark key="]" line="28" column="18" />
@@ -255,6 +278,12 @@
         <mark key="^" line="177" column="21" />
         <mark key="." line="177" column="21" />
       </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/MessageProcessor.EventHubs/Program.cs" timestamp="1563758759626">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+      </file>
       <file name="$USER_HOME$/git/projects/samples-dotnet-app/samples-dotnet-app/src/Samples.App/TimedHostedService.cs" timestamp="1561953572583">
         <mark key="[" line="27" column="34" />
         <mark key="]" line="27" column="54" />
@@ -283,9 +312,6 @@
         <mark key="^" line="35" column="35" />
         <mark key="." line="35" column="35" />
       </file>
-      <file name="/IServiceCollectionExtensions.cs" timestamp="1563494309617">
-        <mark key="[" line="62" column="0" />
-      </file>
       <file name="$USER_HOME$/git/Sezra/Sezra/Program.cs" timestamp="1562418714801">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="13" column="31" />
@@ -295,11 +321,11 @@
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/ServiceBusSubscriber.cs" timestamp="1563494613058">
         <mark key="[" line="131" column="32" />
       </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/MessagePublisher/Program.cs" timestamp="1563431401809">
-        <mark key="[" line="71" column="31" />
-        <mark key="]" line="71" column="31" />
-        <mark key="^" line="71" column="31" />
-        <mark key="." line="71" column="31" />
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/MessagePublisher/Program.cs" timestamp="1563759433327">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="10" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Config/AlertsCosmosRulesConfig.cs" timestamp="1559798783767">
         <mark key="[" line="2" column="42" />
@@ -323,6 +349,7 @@
         <mark key="." line="24" column="35" />
         <mark key="^" line="24" column="35" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/68D959C4-1F56-4805-AC7D-7E64FE0D7701/bd/980828d4/IHostedService.cs" timestamp="1563757850399" />
       <file name="$USER_HOME$/git/TravellingTest/TravellingModelz/Map.cs" timestamp="1561349431154">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -342,6 +369,13 @@
       </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/MessageProcessor.EventHubs/appsettings.json" timestamp="1563248996115">
         <mark key="[" line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/Controllers/ValuesController.cs" timestamp="1563757689636">
+        <mark key="'" line="42" column="8" />
+        <mark key="[" line="65" column="50" />
+        <mark key="]" line="65" column="50" />
+        <mark key="^" line="65" column="70" />
+        <mark key="." line="65" column="50" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api.Models/Models/AlertQuery.cs" timestamp="1559885759276">
         <mark key="[" line="12" column="9" />
@@ -444,8 +478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="16" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/ServiceBusSubscriber.cs" />
-      <jump line="88" column="22" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/ServiceBusSubscriber.cs" />
       <jump line="15" column="39" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/ServiceBusSubscriber.cs" />
       <jump line="23" column="12" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/ServiceBusSubscriber.cs" />
       <jump line="47" column="26" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/ServiceBusSubscriber.cs" />
@@ -544,13 +576,15 @@
       <jump line="6" column="9" filename="$USER_HOME$/git/powershell-scripts/pagerDutyIntegration.ps1" />
       <jump line="17" column="20" filename="$USER_HOME$/git/powershell-scripts/pagerDutyIntegration.ps1" />
       <jump line="21" column="43" filename="$USER_HOME$/git/powershell-scripts/pagerDutyIntegration.ps1" />
+      <jump line="46" column="0" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/Job/PingService.cs" />
+      <jump line="42" column="8" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/Controllers/ValuesController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DoWork</text>
+        <text>token</text>
       </register>
       <register name="-" type="4">
-        <text>DoWork</text>
+        <text>token</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQYWdlckR1dHlBR1w+</text>
