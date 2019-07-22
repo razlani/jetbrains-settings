@@ -107,11 +107,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/Job/PingService.cs" timestamp="1563515697522">
-        <mark key="[" line="41" column="22" />
-        <mark key="]" line="37" column="31" />
-        <mark key="^" line="37" column="31" />
-        <mark key="." line="37" column="31" />
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/Job/PingService.cs" timestamp="1563754207086">
+        <mark key="[" line="43" column="19" />
+        <mark key="]" line="37" column="39" />
+        <mark key="^" line="37" column="39" />
+        <mark key="." line="37" column="39" />
       </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingServices/MapOptimizer.cs" timestamp="1561353393367">
         <mark key="[" line="2" column="0" />
@@ -548,10 +548,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>void</text>
+        <text>DoWork</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>DoWork</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQYWdlckR1dHlBR1w+</text>
