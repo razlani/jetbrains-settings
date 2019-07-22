@@ -30,6 +30,12 @@
       <file name="/Dummy.cs" timestamp="1562416413144">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.EventHub/HandleFailedException.cs" timestamp="1563768067688">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/Startup.cs" timestamp="1563512416708">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -174,6 +180,7 @@
         <mark key="." line="28" column="18" />
         <mark key="^" line="28" column="16" />
       </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Logging/SerilogLoggerFactory.cs" timestamp="1563767754937" />
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/SampleDataFixture.cs" timestamp="1559100257929">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -440,11 +447,11 @@
       <jump line="42" column="8" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/Controllers/ValuesController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>static</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBJbnN0YW50aWF0ZSBhIFNhZmVIYW5kbGUgaW5zdGFuY2UuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text>override</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQYWdlckR1dHlBR1w+</text>
@@ -453,34 +460,34 @@
         <text encoding="base64">IFRhc2sgT25BY3Rpb25FeGVjdXRpb25Bc3luYyhBY3Rpb25FeGVjdXRpbmdDb250ZXh0IGNvbnRleHQsIEFjdGlvbkV4ZWN1dGlvbkRlbGVnYXRlIG5leHQpCiAgICAgICAgewogICAgICAgICAgICBBY3Rpb25FeGVjdXRlZENvbnRleHQgcmVzdWx0ID0gYXdhaXQgbmV4dCgpOwogICAgICAgICAgICBJQWN0aW9uUmVzdWx0IHJlc3BvbnNlID0gY29udGV4dC5SZXN1bHQ7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgIH0KfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBJbnN0YW50aWF0ZSBhIFNhZmVIYW5kbGUgaW5zdGFuY2UuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RhcnR1cChJQ29uZmlndXJhdGlvbiBjb25maWd1cmF0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgV293LlRvb2xraXQuV2ViSm9icy5FeHRlbnNpb25zLlNlcnZpY2VCdXMuSW50ZXJmYWNlczsK</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgV293LlRvb2xraXQuV2ViSm9icy5FeHRlbnNpb25zLlNlcnZpY2VCdXMuRXh0ZW5zaW9uczsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RhcnR1cChJQ29uZmlndXJhdGlvbiBjb25maWd1cmF0aW9uKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgV293LlRvb2xraXQuV2ViSm9icy5FeHRlbnNpb25zLlNlcnZpY2VCdXM7Cg==</text>
+        <text encoding="base64">dXNpbmcgV293LlRvb2xraXQuV2ViSm9icy5FeHRlbnNpb25zLlNlcnZpY2VCdXMuSW50ZXJmYWNlczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0tCg==</text>
+        <text encoding="base64">dXNpbmcgV293LlRvb2xraXQuV2ViSm9icy5FeHRlbnNpb25zLlNlcnZpY2VCdXMuRXh0ZW5zaW9uczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgV293LlRvb2xraXQuV2ViSm9icy5FeHRlbnNpb25zLlNlcnZpY2VCdXM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5tLTM=</text>
