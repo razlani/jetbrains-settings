@@ -139,11 +139,11 @@
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/MessagePublisher.EventHubs/Program.cs" timestamp="1563759350929">
         <mark key="[" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Common/Helpers/MessagingContext.cs" timestamp="1563765185643">
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Common/Helpers/MessagingContext.cs" timestamp="1563775976224">
         <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="11" />
-        <mark key="^" line="5" column="31" />
-        <mark key="." line="5" column="11" />
+        <mark key="]" line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="5" column="30" />
       </file>
       <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/test/Order.cs" timestamp="1561555988355">
         <mark key="[" line="34" column="22" />
@@ -241,7 +241,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563774950929">
+      <file name="/Dummy.txt" timestamp="1563775983469">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/C# Console" timestamp="1561350687034">
