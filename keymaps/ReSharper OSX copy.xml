@@ -1,4 +1,14 @@
 <keymap version="1" name="ReSharper OSX copy" parent="ReSharper OSX">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="shift delete" />
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="CheckStatusForFiles">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="s" />
   </action>
@@ -19,6 +29,15 @@
   <action id="DatabaseView.PropertiesAction" />
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="d" />
+  </action>
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta w" />
@@ -63,6 +82,9 @@
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="PowerShellConsoleAction">
     <keyboard-shortcut first-keystroke="ctrl meta alt p" />
   </action>
@@ -71,6 +93,9 @@
   </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta alt f" />
