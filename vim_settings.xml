@@ -35,21 +35,11 @@
       <file name="/Dummy.cs" timestamp="1562416413144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.WebJobs.Extensions.ServiceBus/Extensions/ServiceBusMessageExtensions.cs" timestamp="1563494463149">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-      </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/Startup.cs" timestamp="1563512416708">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="42" column="11" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Cqrs/Domains/IAggregateRoot.cs" timestamp="1563431611052">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Console/WowConsoleHost.cs" timestamp="1563431240203">
         <mark key="[" line="15" column="0" />
@@ -459,11 +449,6 @@
         <mark key="]" line="31" column="0" />
         <mark key="^" line="31" column="0" />
         <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.WebJobs.Extensions.ServiceBus/Extensions/ServiceCollectionExtensions.cs" timestamp="1563494687461">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Models/Alert.cs" timestamp="1559276322878">
         <mark key="[" line="16" column="38" />
