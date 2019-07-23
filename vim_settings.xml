@@ -137,6 +137,12 @@
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/MessagePublisher.EventHubs/Program.cs" timestamp="1563759350929">
         <mark key="[" line="8" column="13" />
       </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.WebApp/Wow.Toolkit.WebApp.csproj" timestamp="1563864436675">
+        <mark key="[" line="7" column="57" />
+        <mark key="]" line="8" column="74" />
+        <mark key="^" line="8" column="74" />
+        <mark key="." line="8" column="74" />
+      </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Common/Helpers/MessagingContext.cs" timestamp="1563775976224">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="30" />
@@ -243,7 +249,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563863433648">
+      <file name="/Dummy.txt" timestamp="1563864865344">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/C# Console" timestamp="1561350687034">
@@ -458,11 +464,11 @@
       <jump line="42" column="8" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/Controllers/ValuesController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIFRoZSBtZXRob2QgY29uZmlndXJlcyBFdmVudGh1YnMgU2luayBmb3IgU2VyaWxvZyBzbyB0aGF0IHRoZSBsb2dzIGNhbiBiZSBwdXNoZWQgdG8gRXZlbnRIdWJzCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9Imhvc3RCdWlsZGVyQ29udGV4dCI+SG9zdEJ1aWxkZXJDb250ZXh0PC9wYXJhbT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9ImxvZ2dlckNvbmZpZ3VyYXRpb24iPkxvZ2dlckNvbmZpZ3VyYXRpb248L3BhcmFtPgogICAgICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBDb25maWd1cmVTZXJpbG9nU2lua0ZvckV2ZW50SHVicyhXZWJIb3N0QnVpbGRlckNvbnRleHQgaG9zdEJ1aWxkZXJDb250ZXh0LCBMb2dnZXJDb25maWd1cmF0aW9uIGxvZ2dlckNvbmZpZ3VyYXRpb24pCiAgICAgICAgewogICAgICAgICAgICB2YXIgY29uZmlnID0gbmV3IExvZ0FnZ3JlZ2F0aW9uKCk7CiAgICAgICAgICAgIGhvc3RCdWlsZGVyQ29udGV4dC5Db25maWd1cmF0aW9uLkdldFNlY3Rpb24oIkxvZ0FnZ3JlZ2F0aW9uIikuQmluZChjb25maWcpOwogICAgICAgICAgICBsb2dnZXJDb25maWd1cmF0aW9uLldyaXRlVG9BenVyZUV2ZW50SHVicyhjb25maWcpOwogICAgICAgIH0KICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQYWdlckR1dHlBR1w+</text>
