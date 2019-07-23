@@ -45,8 +45,8 @@
         <mark key="^" line="16" column="8" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/HandleFailedException.cs" timestamp="1563773114311">
-        <mark key="[" line="11" column="9" />
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/HandleFailedException.cs" timestamp="1563844551218">
+        <mark key="[" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Infrastructure/ConstrainedFromActionType.cs" timestamp="1559452963171">
         <mark key="[" line="26" column="39" />
@@ -156,11 +156,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="42" />
       </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/Job/deployment.yaml" timestamp="1563758435013">
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/Job/deployment.yaml" timestamp="1563845098372">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="1" />
-        <mark key="." line="1" column="1" />
-        <mark key="^" line="1" column="1" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="22" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api.Models/Models/Rule.cs" timestamp="1560995441313">
         <mark key="[" line="24" column="45" />
@@ -237,7 +237,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563779183530">
+      <file name="/Dummy.txt" timestamp="1563845085697">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/C# Console" timestamp="1561350687034">
