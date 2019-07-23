@@ -88,12 +88,7 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/git/projects/samples-dotnet-webapp/samples-dotnet-webapp/src/Samples.WebApi/Controllers/ValuesController.cs" timestamp="1560924551295">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="42" column="30" />
-        <mark key="^" line="42" column="30" />
-        <mark key="." line="42" column="30" />
-      </file>
+      <file name="$USER_HOME$/git/projects/samples-dotnet-webapp/samples-dotnet-webapp/src/Samples.WebApi/Controllers/EgressIpController.cs" timestamp="1563862204164" />
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Cqrs/Domains/ValueObject.cs" timestamp="1563431648138">
         <mark key="[" line="3" column="69" />
         <mark key="]" line="3" column="69" />
@@ -248,7 +243,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563858793130">
+      <file name="/Dummy.txt" timestamp="1563862205472">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/C# Console" timestamp="1561350687034">
@@ -307,6 +302,12 @@
         <mark key="]" line="104" column="22" />
         <mark key="." line="104" column="22" />
         <mark key="^" line="95" column="12" />
+      </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/WebApp.csproj" timestamp="1563862731081">
+        <mark key="[" line="18" column="56" />
+        <mark key="]" line="18" column="53" />
+        <mark key="^" line="18" column="53" />
+        <mark key="." line="18" column="53" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Startup.cs" timestamp="1561610740060">
         <mark key="[" line="34" column="53" />
