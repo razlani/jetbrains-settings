@@ -41,6 +41,9 @@
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
   <action id="Refresh" />
   <action id="Rerun" />
   <action id="Resume">
