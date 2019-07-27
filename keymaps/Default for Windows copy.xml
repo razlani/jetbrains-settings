@@ -5,8 +5,13 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="Console.TableResult.Reload" />
   <action id="CopyElement" />
   <action id="DatabaseView.CopyTable" />
+  <action id="DatabaseView.Refresh" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt equals" />
   </action>
@@ -35,9 +40,19 @@
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="Refresh" />
+  <action id="Rerun" />
+  <action id="Resume" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="Vcs.Log.Refresh" />
   <action id="tasks.goto" />
   <action id="tasks.open.in.browser" />
 </keymap>
