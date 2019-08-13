@@ -112,6 +112,12 @@
         <mark key="^" line="35" column="35" />
         <mark key="." line="35" column="35" />
       </file>
+      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/Common/LoadBalancedSendStrategy.cs" timestamp="1565662354705">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="41" column="31" />
+        <mark key="." line="41" column="31" />
+        <mark key="^" line="41" column="31" />
+      </file>
       <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/test/OrderList.cs" timestamp="1561552215812">
         <mark key="[" line="13" column="36" />
         <mark key="]" line="13" column="59" />
@@ -235,7 +241,6 @@
         <mark key="^" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.WebApp/Logging/HostBuilderExtensions.cs" timestamp="1563857812296" />
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.WebApp/WowWebHost.cs" timestamp="1563774404417">
         <mark key="[" line="12" column="11" />
         <mark key="]" line="48" column="17" />
@@ -289,6 +294,11 @@
         <mark key="]" line="11" column="60" />
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="58" />
+      </file>
+      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/test/WooliesX.Messaging.Tests/ServiceBus/ServiceBusPublisherTests.cs" timestamp="1565662314213">
+        <mark key="[" line="30" column="30" />
+        <mark key="]" line="30" column="30" />
+        <mark key="." line="30" column="30" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/test/rules-engine-api.tests/Alerts/Integration/AlertsCosmosDbPostIntegrationTest.cs" timestamp="1559799259580">
         <mark key="[" line="4" column="0" />
@@ -367,7 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="39" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/ServiceBusSubscriber.cs" />
       <jump line="23" column="12" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/ServiceBusSubscriber.cs" />
       <jump line="47" column="26" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/ServiceBusSubscriber.cs" />
       <jump line="66" column="24" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/ServiceBusSubscriber.cs" />
@@ -467,13 +476,14 @@
       <jump line="21" column="43" filename="$USER_HOME$/git/powershell-scripts/pagerDutyIntegration.ps1" />
       <jump line="46" column="0" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/Job/PingService.cs" />
       <jump line="42" column="8" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/Controllers/ValuesController.cs" />
+      <jump line="48" column="34" filename="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/Common/LoadBalancedSendStrategy.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ExecuteAsync</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQYWdlckR1dHlBR1w+</text>
@@ -482,34 +492,34 @@
         <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIFRoZSBtZXRob2QgY29uZmlndXJlcyBFdmVudGh1YnMgU2luayBmb3IgU2VyaWxvZyBzbyB0aGF0IHRoZSBsb2dzIGNhbiBiZSBwdXNoZWQgdG8gRXZlbnRIdWJzCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9Imhvc3RCdWlsZGVyQ29udGV4dCI+SG9zdEJ1aWxkZXJDb250ZXh0PC9wYXJhbT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9ImxvZ2dlckNvbmZpZ3VyYXRpb24iPkxvZ2dlckNvbmZpZ3VyYXRpb248L3BhcmFtPgogICAgICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBDb25maWd1cmVTZXJpbG9nU2lua0ZvckV2ZW50SHVicyhXZWJIb3N0QnVpbGRlckNvbnRleHQgaG9zdEJ1aWxkZXJDb250ZXh0LCBMb2dnZXJDb25maWd1cmF0aW9uIGxvZ2dlckNvbmZpZ3VyYXRpb24pCiAgICAgICAgewogICAgICAgICAgICB2YXIgY29uZmlnID0gbmV3IExvZ0FnZ3JlZ2F0aW9uKCk7CiAgICAgICAgICAgIGhvc3RCdWlsZGVyQ29udGV4dC5Db25maWd1cmF0aW9uLkdldFNlY3Rpb24oIkxvZ0FnZ3JlZ2F0aW9uIikuQmluZChjb25maWcpOwogICAgICAgICAgICBsb2dnZXJDb25maWd1cmF0aW9uLldyaXRlVG9BenVyZUV2ZW50SHVicyhjb25maWcpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UFIgY29tbWVudHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBXaXRob3V0IHRoaXMgY29uc3RydWN0b3IsIGRlc2VyaWFsaXphdGlvbiB3aWxsIGZhaWwK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNlbmRGdW5jID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcmd1bWVudE51bGxFeGNlcHRpb24obmFtZW9mKHNlbmRGdW5jKSk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHZhciBhY3RpdmVDbGllbnRJbmRleCA9IF9yYW5kb20uTmV4dCgwLCBfY2xpZW50cy5MZW5ndGgpOwogICAgICAgICAgICB2YXIgbWF4QXR0ZW1wdHMgPSBfY2xpZW50cy5MZW5ndGg7CiAgICAgICAgICAgIGZvciAodmFyIGF0dGVtcHROdW1iZXIgPSAxOyBhdHRlbXB0TnVtYmVyIDw9IG1heEF0dGVtcHRzOyBhdHRlbXB0TnVtYmVyKyspCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBjbGllbnQgPSBfY2xpZW50c1thY3RpdmVDbGllbnRJbmRleF07CiAgICAgICAgICAgICAgICB2YXIgYXR0ZW1wdEluZm8gPSBuZXcKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBTZW5kU3RyYXRlZ3kgPSBOYW1lLAogICAgICAgICAgICAgICAgICAgIEFjdGl2ZUNsaWVudCA9IG5ldyB7SW5kZXggPSBhY3RpdmVDbGllbnRJbmRleCwgY2xpZW50Lk5hbWV9LAogICAgICAgICAgICAgICAgICAgIEF0dGVtcHROdW1iZXIgPSBhdHRlbXB0TnVtYmVyLAogICAgICAgICAgICAgICAgICAgIFRvdGFsQXR0ZW1wdHMgPSBtYXhBdHRlbXB0cwogICAgICAgICAgICAgICAgfTsKICAgICAgICAgICAgICAgIHRyeQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIExvZ2dlci5Mb2dJbmZvcm1hdGlvbigiRXhlY3V0aW5nIHNlbmQ6IHtAQXR0ZW1wdEluZm99IiwgYXR0ZW1wdEluZm8pOwogICAgICAgICAgICAgICAgICAgIGF3YWl0IHNlbmRGdW5jLkludm9rZShjbGllbnQpOwogICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGNhdGNoIChNaWNyb3NvZnQuQXp1cmUuU2VydmljZUJ1cy5NZXNzYWdlU2l6ZUV4Y2VlZGVkRXhjZXB0aW9uIHNpemVFeGNlZWRlZEV4Y2VwdGlvbikKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBMb2dnZXIuTG9nV2FybmluZyhzaXplRXhjZWVkZWRFeGNlcHRpb24sICJTZW5kIGZhaWxlZDoge0BBdHRlbXB0SW5mb30iLCBhdHRlbXB0SW5mbyk7CiAgICAgICAgICAgICAgICAgICAgdGhyb3c7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjYXRjaCAoTWljcm9zb2Z0LkF6dXJlLkV2ZW50SHVicy5NZXNzYWdlU2l6ZUV4Y2VlZGVkRXhjZXB0aW9uIHNpemVFeGNlZWRlZEV4Y2VwdGlvbikKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBMb2dnZXIuTG9nV2FybmluZyhzaXplRXhjZWVkZWRFeGNlcHRpb24sICJTZW5kIGZhaWxlZDoge0BBdHRlbXB0SW5mb30iLCBhdHRlbXB0SW5mbyk7CiAgICAgICAgICAgICAgICAgICAgdGhyb3c7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjYXRjaCAoU2VyaWFsaXphdGlvbkV4Y2VwdGlvbiBzZXJpYWxpemF0aW9uRXhjZXB0aW9uKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIExvZ2dlci5Mb2dXYXJuaW5nKHNlcmlhbGl6YXRpb25FeGNlcHRpb24sICJTZW5kIGZhaWxlZDoge0BBdHRlbXB0SW5mb30iLCBhdHRlbXB0SW5mbyk7CiAgICAgICAgICAgICAgICAgICAgdGhyb3c7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjYXRjaCAoRXhjZXB0aW9uIGUpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLkxvZ1dhcm5pbmcoZSwgIlNlbmQgZmFpbGVkOiB7QEF0dGVtcHRJbmZvfSIsIGF0dGVtcHRJbmZvKTsKCiAgICAgICAgICAgICAgICAgICAgYWN0aXZlQ2xpZW50SW5kZXggPSArK2FjdGl2ZUNsaWVudEluZGV4ICUgX2NsaWVudHMuTGVuZ3RoOwogICAgICAgICAgICAgICAgICAgIExvZ2dlci5Mb2dJbmZvcm1hdGlvbigiRmFpbGluZyBvdmVyIHRvIG5leHQgY2xpZW50IGluIHBvb2wsIGluZGV4OiB7SW5kZXh9IiwKICAgICAgICAgICAgICAgICAgICAgICAgYWN0aXZlQ2xpZW50SW5kZXgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgICAgICB0aHJvdyBuZXcgU2VuZFN0cmF0ZWd5RXhjZXB0aW9uKAogICAgICAgICAgICAgICAgJCJ7TmFtZX0gc2VuZCBzdHJhdGVneSBmYWlsZWQgdG8gc2VuZCBvbiBhbGwge19jbGllbnRzLkxlbmd0aH0gY2xpZW50cy4gU2VlIGxvZyBmb3IgZmFpbGVkIGF0dGVtcHRzIik7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBJbnN0YW50aWF0ZSBhIFNhZmVIYW5kbGUgaW5zdGFuY2UuCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgVGFzayBFeGVjdXRlQXN5bmMoRnVuYykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">UFIgY29tbWVudHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBXaXRob3V0IHRoaXMgY29uc3RydWN0b3IsIGRlc2VyaWFsaXphdGlvbiB3aWxsIGZhaWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBJbnN0YW50aWF0ZSBhIFNhZmVIYW5kbGUgaW5zdGFuY2UuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RhcnR1cChJQ29uZmlndXJhdGlvbiBjb25maWd1cmF0aW9uKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgV293LlRvb2xraXQuV2ViSm9icy5FeHRlbnNpb25zLlNlcnZpY2VCdXMuSW50ZXJmYWNlczsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>14,25 y</text>
