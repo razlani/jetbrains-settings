@@ -235,6 +235,12 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
+      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/EventHubs/EventHubsPublisher.cs" timestamp="1565701962520">
+        <mark key="[" line="48" column="45" />
+        <mark key="]" line="48" column="51" />
+        <mark key="." line="48" column="51" />
+        <mark key="^" line="48" column="51" />
+      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Services/RulesService.cs" timestamp="1561194973776">
         <mark key="[" line="62" column="22" />
         <mark key="]" line="65" column="0" />
@@ -479,8 +485,8 @@
       <jump line="48" column="34" filename="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/Common/LoadBalancedSendStrategy.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ExecuteAsync</text>
       </register>
       <register name="-" type="4">
         <text>ExecuteAsync</text>
