@@ -300,7 +300,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565765056987">
+      <file name="/Dummy.txt" timestamp="1565766218074">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingModelz/Product.cs" timestamp="1561333411217">
@@ -415,6 +415,12 @@
         <mark key="]" line="16" column="41" />
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
+      </file>
+      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/Common/PublishProfileKey.cs" timestamp="1565766308719">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="14" column="15" />
+        <mark key="^" line="14" column="15" />
+        <mark key="." line="14" column="15" />
       </file>
     </filemarks>
     <jumps>
