@@ -21,14 +21,32 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/samples/SendMessageSamples/Samples/EventHubsAdvancedSetup.cs" timestamp="1565758475649">
+        <mark key="[" line="51" column="32" />
+        <mark key="]" line="51" column="39" />
+        <mark key="." line="51" column="39" />
+        <mark key="^" line="51" column="39" />
+      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/test/rules-engine-api.tests/SampleData/AlertData/POST/SampleBadActionTypeAlerts.json" timestamp="1559868252368">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/EventHubs/Core/IEventHubsPublisher.cs" timestamp="1565758442835">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="45" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Cqrs/Events/EventBase.cs" timestamp="1563774746249">
         <mark key="[" line="7" column="42" />
+      </file>
+      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/samples/SendMessageSamples/Samples/FailedMessageHandler.cs" timestamp="1565758506659">
+        <mark key="[" line="58" column="34" />
+        <mark key="]" line="58" column="34" />
+        <mark key="." line="58" column="34" />
+        <mark key="^" line="62" column="41" />
       </file>
       <file name="$USER_HOME$/git/projects/wx-challenge-team-goat/starter-kit/test/UnitTest1.cs" timestamp="1561595850628">
         <mark key="[" line="23" column="43" />
@@ -84,6 +102,12 @@
         <mark key="^" line="42" column="11" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/Common/Core/ISendStrategy.cs" timestamp="1565753300731">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+      </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.WebApp/Logging/SinkConfigurations.cs" timestamp="1563857712412">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="24" column="5" />
@@ -93,6 +117,12 @@
         <mark key="]" line="19" column="59" />
         <mark key="^" line="19" column="59" />
         <mark key="." line="19" column="59" />
+      </file>
+      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/ServiceBus/ServiceBusPublisher.cs" timestamp="1565757174797">
+        <mark key="[" line="63" column="45" />
+        <mark key="]" line="54" column="30" />
+        <mark key="." line="54" column="30" />
+        <mark key="^" line="54" column="30" />
       </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Cqrs/Domains/ValueObject.cs" timestamp="1563431648138">
         <mark key="[" line="3" column="69" />
@@ -184,6 +214,17 @@
         <mark key="." line="24" column="35" />
         <mark key="^" line="24" column="35" />
       </file>
+      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/Common/SimpleSendStrategy.cs" timestamp="1565757578562">
+        <mark key="[" line="45" column="41" />
+        <mark key="]" line="45" column="39" />
+        <mark key="^" line="45" column="39" />
+        <mark key="." line="45" column="39" />
+      </file>
+      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/samples/SendMessageSamples/Samples/EventHubsQuickstart.cs" timestamp="1565758485581">
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="36" column="32" />
+        <mark key="." line="36" column="32" />
+      </file>
       <file name="$USER_HOME$/git/projects/samples-dotnet-app/samples-dotnet-app/src/Samples.App/appsettings.json" timestamp="1561958975830">
         <mark key="[" line="6" column="64" />
         <mark key="]" line="6" column="64" />
@@ -235,11 +276,11 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/EventHubs/EventHubsPublisher.cs" timestamp="1565701962520">
-        <mark key="[" line="48" column="45" />
-        <mark key="]" line="48" column="51" />
-        <mark key="." line="48" column="51" />
-        <mark key="^" line="48" column="51" />
+      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/EventHubs/EventHubsPublisher.cs" timestamp="1565758414365">
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="29" column="12" />
+        <mark key="^" line="75" column="55" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Services/RulesService.cs" timestamp="1561194973776">
         <mark key="[" line="62" column="22" />
@@ -265,7 +306,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563946607388">
+      <file name="/Dummy.txt" timestamp="1565758886131">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/C# Console" timestamp="1561350687034">
@@ -311,6 +352,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="14" column="84" />
+      </file>
+      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/Common/PassiveReplicationSendStrategy.cs" timestamp="1565757320658">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="48" column="25" />
       </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.WebJobs.Extensions.ServiceBus/Interfaces/IServiceBusExponentialRetryHandler.cs" timestamp="1563494373809">
         <mark key="[" line="6" column="10" />
@@ -486,10 +533,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ExecuteAsync</text>
+        <text>SendAsync</text>
       </register>
       <register name="-" type="4">
-        <text>ExecuteAsync</text>
+        <text>SendAsync</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQYWdlckR1dHlBR1w+</text>
@@ -503,29 +550,29 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNlbmRGdW5jID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcmd1bWVudE51bGxFeGNlcHRpb24obmFtZW9mKHNlbmRGdW5jKSk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHZhciBhY3RpdmVDbGllbnRJbmRleCA9IF9yYW5kb20uTmV4dCgwLCBfY2xpZW50cy5MZW5ndGgpOwogICAgICAgICAgICB2YXIgbWF4QXR0ZW1wdHMgPSBfY2xpZW50cy5MZW5ndGg7CiAgICAgICAgICAgIGZvciAodmFyIGF0dGVtcHROdW1iZXIgPSAxOyBhdHRlbXB0TnVtYmVyIDw9IG1heEF0dGVtcHRzOyBhdHRlbXB0TnVtYmVyKyspCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBjbGllbnQgPSBfY2xpZW50c1thY3RpdmVDbGllbnRJbmRleF07CiAgICAgICAgICAgICAgICB2YXIgYXR0ZW1wdEluZm8gPSBuZXcKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBTZW5kU3RyYXRlZ3kgPSBOYW1lLAogICAgICAgICAgICAgICAgICAgIEFjdGl2ZUNsaWVudCA9IG5ldyB7SW5kZXggPSBhY3RpdmVDbGllbnRJbmRleCwgY2xpZW50Lk5hbWV9LAogICAgICAgICAgICAgICAgICAgIEF0dGVtcHROdW1iZXIgPSBhdHRlbXB0TnVtYmVyLAogICAgICAgICAgICAgICAgICAgIFRvdGFsQXR0ZW1wdHMgPSBtYXhBdHRlbXB0cwogICAgICAgICAgICAgICAgfTsKICAgICAgICAgICAgICAgIHRyeQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIExvZ2dlci5Mb2dJbmZvcm1hdGlvbigiRXhlY3V0aW5nIHNlbmQ6IHtAQXR0ZW1wdEluZm99IiwgYXR0ZW1wdEluZm8pOwogICAgICAgICAgICAgICAgICAgIGF3YWl0IHNlbmRGdW5jLkludm9rZShjbGllbnQpOwogICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGNhdGNoIChNaWNyb3NvZnQuQXp1cmUuU2VydmljZUJ1cy5NZXNzYWdlU2l6ZUV4Y2VlZGVkRXhjZXB0aW9uIHNpemVFeGNlZWRlZEV4Y2VwdGlvbikKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBMb2dnZXIuTG9nV2FybmluZyhzaXplRXhjZWVkZWRFeGNlcHRpb24sICJTZW5kIGZhaWxlZDoge0BBdHRlbXB0SW5mb30iLCBhdHRlbXB0SW5mbyk7CiAgICAgICAgICAgICAgICAgICAgdGhyb3c7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjYXRjaCAoTWljcm9zb2Z0LkF6dXJlLkV2ZW50SHVicy5NZXNzYWdlU2l6ZUV4Y2VlZGVkRXhjZXB0aW9uIHNpemVFeGNlZWRlZEV4Y2VwdGlvbikKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBMb2dnZXIuTG9nV2FybmluZyhzaXplRXhjZWVkZWRFeGNlcHRpb24sICJTZW5kIGZhaWxlZDoge0BBdHRlbXB0SW5mb30iLCBhdHRlbXB0SW5mbyk7CiAgICAgICAgICAgICAgICAgICAgdGhyb3c7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjYXRjaCAoU2VyaWFsaXphdGlvbkV4Y2VwdGlvbiBzZXJpYWxpemF0aW9uRXhjZXB0aW9uKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIExvZ2dlci5Mb2dXYXJuaW5nKHNlcmlhbGl6YXRpb25FeGNlcHRpb24sICJTZW5kIGZhaWxlZDoge0BBdHRlbXB0SW5mb30iLCBhdHRlbXB0SW5mbyk7CiAgICAgICAgICAgICAgICAgICAgdGhyb3c7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjYXRjaCAoRXhjZXB0aW9uIGUpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLkxvZ1dhcm5pbmcoZSwgIlNlbmQgZmFpbGVkOiB7QEF0dGVtcHRJbmZvfSIsIGF0dGVtcHRJbmZvKTsKCiAgICAgICAgICAgICAgICAgICAgYWN0aXZlQ2xpZW50SW5kZXggPSArK2FjdGl2ZUNsaWVudEluZGV4ICUgX2NsaWVudHMuTGVuZ3RoOwogICAgICAgICAgICAgICAgICAgIExvZ2dlci5Mb2dJbmZvcm1hdGlvbigiRmFpbGluZyBvdmVyIHRvIG5leHQgY2xpZW50IGluIHBvb2wsIGluZGV4OiB7SW5kZXh9IiwKICAgICAgICAgICAgICAgICAgICAgICAgYWN0aXZlQ2xpZW50SW5kZXgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgICAgICB0aHJvdyBuZXcgU2VuZFN0cmF0ZWd5RXhjZXB0aW9uKAogICAgICAgICAgICAgICAgJCJ7TmFtZX0gc2VuZCBzdHJhdGVneSBmYWlsZWQgdG8gc2VuZCBvbiBhbGwge19jbGllbnRzLkxlbmd0aH0gY2xpZW50cy4gU2VlIGxvZyBmb3IgZmFpbGVkIGF0dGVtcHRzIik7</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgVGFzayBFeGVjdXRlQXN5bmMoRnVuYykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2UgPT0gbnVsbCkgdGhyb3cgbmV3IEFyZ3VtZW50TnVsbEV4Y2VwdGlvbihuYW1lb2YobWVzc2FnZSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UFIgY29tbWVudHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBXaXRob3V0IHRoaXMgY29uc3RydWN0b3IsIGRlc2VyaWFsaXphdGlvbiB3aWxsIGZhaWwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBJbnN0YW50aWF0ZSBhIFNhZmVIYW5kbGUgaW5zdGFuY2UuCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgcHVibGljIFRhc2sgU2VuZDxUPihFdmVudEh1YnNNZXNzYWdlQmF0Y2g8VD4gbWVzc2FnZUJhdGNoKQogICAgICAgIHsKICAgICAgICAgICAgUHJlU2VuZChtZXNzYWdlQmF0Y2gpLkdldEF3YWl0ZXIoKS5HZXRSZXN1bHQoKTsKICAgICAgICB9</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2VCYXRjaCA9PSBudWxsKSB0aHJvdyBuZXcgQXJndW1lbnROdWxsRXhjZXB0aW9uKG5hbWVvZihtZXNzYWdlQmF0Y2gpKTsKCiAgICAgICAgICAgIHVzaW5nIChMb2dnZXIuQmVnaW5TY29wZSgie1NlbmRTdHJhdGVneX0iLCBfc2VuZFN0cmF0ZWd5Lk5hbWUpKQogICAgICAgICAgICB1c2luZyAoTG9nZ2VyLkJlZ2luU2NvcGUoIntQYXlsb2FkVHlwZX0iLCB0eXBlb2YoVCkuTmFtZSkpCiAgICAgICAgICAgIHVzaW5nIChMb2dnZXIuQmVnaW5TY29wZSgie0JhdGNoQ291bnR9IiwgbWVzc2FnZUJhdGNoLkNvdW50KSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHBheWxvYWQgPSBtZXNzYWdlQmF0Y2guU2VsZWN0KG0gPT4gbS5NYXAoX21lc3NhZ2VTZXJpYWxpemVyKSkuVG9MaXN0KCk7CiAgICAgICAgICAgICAgICB2YXIgc2VuZFRhc2sgPSBfc2VuZFN0cmF0ZWd5LkV4ZWN1dGUoY2xpZW50ID0+IGNsaWVudC5TZW5kQXN5bmMocGF5bG9hZCkpOwogICAgICAgICAgICAgICAgYXdhaXQgSGFuZGxlVGFzayhzZW5kVGFzaywgbWVzc2FnZUJhdGNoKTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>14,25 y</text>
