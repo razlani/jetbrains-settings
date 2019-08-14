@@ -188,11 +188,11 @@
         <mark key="^" line="35" column="35" />
         <mark key="." line="35" column="35" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/untitled7/main.cpp" timestamp="1565825315476">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/CLionProjects/untitled7/main.cpp" timestamp="1565825920913">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="31" />
       </file>
       <file name="$USER_HOME$/CLionProjects/untitled1/CMakeLists.txt" timestamp="1561208869288">
         <mark key="[" line="5" column="43" />
@@ -363,7 +363,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>four</text>
+        <text encoding="base64">ICAgIHVzaW5nIG5hbWVzcGFjZSBzdGQ7CiAgICBpbnQgZm91ciA9IDQ7CiAgICBpbnQgKnBJbnQgPSAmZm91cjsKICAgIGludCAqcEludDEgPSBuZXcgaW50OwogICAgKnBJbnQxID0gNDsKCiAgICBpbnQgKnBJbnQyID0gbmV3IGludDsKICAgICpwSW50MiA9IDU7CgogICAgY291dCA8PCAiKnBJbnQxIGlzIiA8PCAqcEludDEgPDwgZW5kbDsKICAgIGNvdXQgPDwgIipwSW50MiBpcyIgPDwgKnBJbnQyIDw8IGVuZGw7CgoKCgogICAgcmV0dXJuIDA7</text>
       </register>
       <register name="-" type="4">
         <text>four</text>
@@ -374,35 +374,35 @@
       <register name="0" type="4">
         <text>ApiConfig__AlertsCosmosRulesConfig__Endpoint</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIG8K</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHVzaW5nIG5hbWVzcGFjZSBzdGQ7CiAgICBpbnQgZm91ciA9IDQ7CiAgICBpbnQgKnBJbnQgPSAmZm91cjsKICAgIGludCAqcEludDEgPSBuZXcgaW50OwogICAgKnBJbnQxID0gNDsKCiAgICBpbnQgKnBJbnQyID0gbmV3IGludDsKICAgICpwSW50MiA9IDU7CgogICAgY291dCA8PCAiKnBJbnQxIGlzIiA8PCAqcEludDEgPDwgZW5kbDsKICAgIGNvdXQgPDwgIipwSW50MiBpcyIgPDwgKnBJbnQyIDw8IGVuZGw7CgoKCgogICAgcmV0dXJuIDA7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiSGVsbG8sIFdvcmxkISIgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICAgIG8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0ZAo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiSGVsbG8sIFdvcmxkISIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">amtzZGYK</text>
+        <text encoding="base64">ICAgIHN0ZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPENvbm5lY3Rpb24uaAo=</text>
+        <text encoding="base64">amtzZGYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPENvbm5lY3Rpb24uaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImxpc3QiCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHN0ZDsK</text>
+        <text encoding="base64">I2luY2x1ZGUgImxpc3QiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENvbm5lY3Rpb24gb3V0Z29pbmdDb25uZWN0aW9uOwo=</text>
+        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHN0ZDsK</text>
       </register>
       <register name=":" type="4">
         <text>7,14 d</text>
