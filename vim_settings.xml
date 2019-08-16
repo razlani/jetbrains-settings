@@ -88,14 +88,10 @@
         <mark key="." line="7" column="19" />
       </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/Startup.cs" timestamp="1563512416708">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="42" column="11" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.WebApp/Logging/SinkConfigurations.cs" timestamp="1563857712412">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="24" column="5" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="41" column="11" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/samples-dotnet-webapp/samples-dotnet-webapp/src/Samples.WebApi/Controllers/EgressIpController.cs" timestamp="1563946641792">
         <mark key="[" line="19" column="53" />
