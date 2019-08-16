@@ -87,11 +87,10 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/Startup.cs" timestamp="1563512416708">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="41" column="11" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/Startup.cs" timestamp="1565921696543">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/samples-dotnet-webapp/samples-dotnet-webapp/src/Samples.WebApi/Controllers/EgressIpController.cs" timestamp="1563946641792">
         <mark key="[" line="19" column="53" />
@@ -158,9 +157,6 @@
       </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.WebApp/Wow.Toolkit.WebApp.csproj" timestamp="1563864436675">
         <mark key="[" line="7" column="57" />
-        <mark key="]" line="8" column="74" />
-        <mark key="^" line="8" column="74" />
-        <mark key="." line="8" column="74" />
       </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Common/Helpers/MessagingContext.cs" timestamp="1563775976224">
         <mark key="[" line="5" column="11" />
@@ -514,8 +510,8 @@
       <jump line="37" column="28" filename="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/EventHubs/EventHubsPublisher.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>IMessage</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRBcHBsaWNhdGlvbkluc2lnaHRzCg==</text>
       </register>
       <register name="-" type="4">
         <text>IMessage</text>
@@ -527,16 +523,16 @@
         <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIFRoZSBtZXRob2QgY29uZmlndXJlcyBFdmVudGh1YnMgU2luayBmb3IgU2VyaWxvZyBzbyB0aGF0IHRoZSBsb2dzIGNhbiBiZSBwdXNoZWQgdG8gRXZlbnRIdWJzCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9Imhvc3RCdWlsZGVyQ29udGV4dCI+SG9zdEJ1aWxkZXJDb250ZXh0PC9wYXJhbT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9ImxvZ2dlckNvbmZpZ3VyYXRpb24iPkxvZ2dlckNvbmZpZ3VyYXRpb248L3BhcmFtPgogICAgICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBDb25maWd1cmVTZXJpbG9nU2lua0ZvckV2ZW50SHVicyhXZWJIb3N0QnVpbGRlckNvbnRleHQgaG9zdEJ1aWxkZXJDb250ZXh0LCBMb2dnZXJDb25maWd1cmF0aW9uIGxvZ2dlckNvbmZpZ3VyYXRpb24pCiAgICAgICAgewogICAgICAgICAgICB2YXIgY29uZmlnID0gbmV3IExvZ0FnZ3JlZ2F0aW9uKCk7CiAgICAgICAgICAgIGhvc3RCdWlsZGVyQ29udGV4dC5Db25maWd1cmF0aW9uLkdldFNlY3Rpb24oIkxvZ0FnZ3JlZ2F0aW9uIikuQmluZChjb25maWcpOwogICAgICAgICAgICBsb2dnZXJDb25maWd1cmF0aW9uLldyaXRlVG9BenVyZUV2ZW50SHVicyhjb25maWcpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2VCYXRjaCA9PSBudWxsKSB0aHJvdyBuZXcgQXJndW1lbnROdWxsRXhjZXB0aW9uKG5hbWVvZihtZXNzYWdlQmF0Y2gpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRBcHBsaWNhdGlvbkluc2lnaHRzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2VCYXRjaCA9PSBudWxsKSB0aHJvdyBuZXcgQXJndW1lbnROdWxsRXhjZXB0aW9uKG5hbWVvZihtZXNzYWdlQmF0Y2gpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
