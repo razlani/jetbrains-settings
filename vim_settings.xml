@@ -87,10 +87,11 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/Startup.cs" timestamp="1565921696543">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/Startup.cs" timestamp="1565930229414">
+        <mark key="[" line="14" column="50" />
+        <mark key="]" line="15" column="74" />
+        <mark key="." line="15" column="74" />
+        <mark key="^" line="15" column="74" />
       </file>
       <file name="$USER_HOME$/git/projects/samples-dotnet-webapp/samples-dotnet-webapp/src/Samples.WebApi/Controllers/EgressIpController.cs" timestamp="1563946641792">
         <mark key="[" line="19" column="53" />
@@ -211,6 +212,7 @@
         <mark key="." line="20" column="37" />
         <mark key="^" line="20" column="37" />
       </file>
+      <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/Properties/launchSettings.json" timestamp="1565930225938" />
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Controllers/HealthzController.cs" timestamp="1560227091657">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -284,7 +286,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565912892520">
+      <file name="/Dummy.txt" timestamp="1565930242865">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingModelz/Product.cs" timestamp="1561333411217">
@@ -510,11 +512,11 @@
       <jump line="37" column="28" filename="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/EventHubs/EventHubsPublisher.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRBcHBsaWNhdGlvbkluc2lnaHRzCg==</text>
+      <register name="&quot;" type="4">
+        <text>instrumentationkey</text>
       </register>
       <register name="-" type="4">
-        <text>IMessage</text>
+        <text>instrumentationkey</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQYWdlckR1dHlBR1w+</text>
