@@ -249,12 +249,12 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/EventHubs/EventHubsPublisher.cs" timestamp="1565912771973">
+      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/EventHubs/EventHubsPublisher.cs" timestamp="1565933197878">
         <mark key="'" line="37" column="28" />
-        <mark key="[" line="39" column="29" />
-        <mark key="]" line="39" column="46" />
-        <mark key="." line="39" column="46" />
-        <mark key="^" line="39" column="46" />
+        <mark key="[" line="41" column="19" />
+        <mark key="]" line="39" column="26" />
+        <mark key="." line="39" column="26" />
+        <mark key="^" line="39" column="26" />
       </file>
       <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/Common/PublishProfileConfig.cs" timestamp="1565764943717">
         <mark key="[" line="53" column="76" />
@@ -513,10 +513,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>instrumentationkey</text>
+        <text>SendChecks</text>
       </register>
       <register name="-" type="4">
-        <text>instrumentationkey</text>
+        <text>SendChecks</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQYWdlckR1dHlBR1w+</text>
@@ -525,34 +525,34 @@
         <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIFRoZSBtZXRob2QgY29uZmlndXJlcyBFdmVudGh1YnMgU2luayBmb3IgU2VyaWxvZyBzbyB0aGF0IHRoZSBsb2dzIGNhbiBiZSBwdXNoZWQgdG8gRXZlbnRIdWJzCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9Imhvc3RCdWlsZGVyQ29udGV4dCI+SG9zdEJ1aWxkZXJDb250ZXh0PC9wYXJhbT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9ImxvZ2dlckNvbmZpZ3VyYXRpb24iPkxvZ2dlckNvbmZpZ3VyYXRpb248L3BhcmFtPgogICAgICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBDb25maWd1cmVTZXJpbG9nU2lua0ZvckV2ZW50SHVicyhXZWJIb3N0QnVpbGRlckNvbnRleHQgaG9zdEJ1aWxkZXJDb250ZXh0LCBMb2dnZXJDb25maWd1cmF0aW9uIGxvZ2dlckNvbmZpZ3VyYXRpb24pCiAgICAgICAgewogICAgICAgICAgICB2YXIgY29uZmlnID0gbmV3IExvZ0FnZ3JlZ2F0aW9uKCk7CiAgICAgICAgICAgIGhvc3RCdWlsZGVyQ29udGV4dC5Db25maWd1cmF0aW9uLkdldFNlY3Rpb24oIkxvZ0FnZ3JlZ2F0aW9uIikuQmluZChjb25maWcpOwogICAgICAgICAgICBsb2dnZXJDb25maWd1cmF0aW9uLldyaXRlVG9BenVyZUV2ZW50SHVicyhjb25maWcpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRBcHBsaWNhdGlvbkluc2lnaHRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2VCYXRjaCA9PSBudWxsKSB0aHJvdyBuZXcgQXJndW1lbnROdWxsRXhjZXB0aW9uKG5hbWVvZihtZXNzYWdlQmF0Y2gpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICBTZW5kQ2hlY2tzKG1lc3NhZ2UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2UgPT0gbnVsbCkgdGhyb3cgbmV3IEFyZ3VtZW50TnVsbEV4Y2VwdGlvbihuYW1lb2YobWVzc2FnZSkpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICA=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRhc2suQ29tcGxldGVkVGFzazsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRBcHBsaWNhdGlvbkluc2lnaHRzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2VCYXRjaCA9PSBudWxsKSB0aHJvdyBuZXcgQXJndW1lbnROdWxsRXhjZXB0aW9uKG5hbWVvZihtZXNzYWdlQmF0Y2gpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name=":" type="4">
         <text>14,25 y</text>
