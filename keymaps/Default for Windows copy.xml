@@ -1,0 +1,75 @@
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="Console.TableResult.Reload" />
+  <action id="CopyElement" />
+  <action id="DatabaseView.CopyTable" />
+  <action id="DatabaseView.Refresh" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
+  <action id="ForceRefresh" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="shift alt b" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift alt n" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="Graph.ApplyCurrentLayout" />
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="Refresh" />
+  <action id="Rerun" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="shift ctrl f5" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="ShowBookmarks" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f11" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
+  <action id="ToggleBookmark" />
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="Vcs.Log.Refresh" />
+  <action id="tasks.goto" />
+  <action id="tasks.open.in.browser" />
+</keymap>
