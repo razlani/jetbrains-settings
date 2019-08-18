@@ -189,11 +189,12 @@
         <mark key="." line="24" column="35" />
         <mark key="^" line="24" column="35" />
       </file>
-      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/Common/SimpleSendStrategy.cs" timestamp="1565912302872">
-        <mark key="[" line="21" column="41" />
-        <mark key="]" line="21" column="39" />
-        <mark key="^" line="21" column="39" />
-        <mark key="." line="21" column="39" />
+      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/Common/SimpleSendStrategy.cs" timestamp="1566167880211">
+        <mark key="'" line="49" column="5" />
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="8" />
+        <mark key="^" line="30" column="15" />
+        <mark key="." line="30" column="8" />
       </file>
       <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/samples/SendMessageSamples/Samples/EventHubsQuickstart.cs" timestamp="1565758485581">
         <mark key="[" line="36" column="32" />
@@ -286,7 +287,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565938810415">
+      <file name="/Dummy.txt" timestamp="1566167937129">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingModelz/Product.cs" timestamp="1561333411217">
@@ -330,11 +331,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="14" column="84" />
       </file>
-      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/Common/PassiveReplicationSendStrategy.cs" timestamp="1565912175009">
-        <mark key="[" line="50" column="35" />
-        <mark key="]" line="50" column="33" />
-        <mark key="^" line="50" column="33" />
-        <mark key="." line="50" column="33" />
+      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/Common/PassiveReplicationSendStrategy.cs" timestamp="1566168384708">
+        <mark key="[" line="60" column="12" />
+        <mark key="]" line="53" column="61" />
+        <mark key="^" line="53" column="61" />
+        <mark key="." line="53" column="61" />
       </file>
       <file name="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.WebJobs.Extensions.ServiceBus/Interfaces/IServiceBusExponentialRetryHandler.cs" timestamp="1563494373809">
         <mark key="[" line="6" column="10" />
@@ -410,7 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="26" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/ServiceBusSubscriber.cs" />
       <jump line="66" column="24" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/ServiceBusSubscriber.cs" />
       <jump line="15" column="22" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.EventHub/EventHubSubscriberService.cs" />
       <jump line="21" column="12" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.EventHub/EventHubSubscriberService.cs" />
@@ -510,13 +510,14 @@
       <jump line="42" column="8" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/samples/WebApp/Controllers/ValuesController.cs" />
       <jump line="48" column="34" filename="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/Common/LoadBalancedSendStrategy.cs" />
       <jump line="37" column="28" filename="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/EventHubs/EventHubsPublisher.cs" />
+      <jump line="49" column="5" filename="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/Common/SimpleSendStrategy.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>await</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>await</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQYWdlckR1dHlBR1w+</text>
@@ -530,29 +531,29 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgU2VuZENoZWNrcyhtZXNzYWdlQmF0Y2gpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHZhciBhdHRlbXB0SW5mbyA9IG5ldwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBTZW5kU3RyYXRlZ3kgPSBOYW1lLAogICAgICAgICAgICAgICAgQ2xpZW50ID0gX2NsaWVudC5OYW1lCiAgICAgICAgICAgIH07CiAgICAgICAgICAgIHRyeQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBMb2dnZXIuTG9nSW5mb3JtYXRpb24oIkV4ZWN1dGluZyBzZW5kOiB7QEF0dGVtcHRJbmZvfSIsIGF0dGVtcHRJbmZvKTsKICAgICAgICAgICAgICAgIGF3YWl0IHNlbmRGdW5jLkludm9rZShfY2xpZW50KTsKICAgICAgICAgICAgfQogICAgICAgICAgICBjYXRjaCAoRXhjZXB0aW9uIGUpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIExvZ2dlci5Mb2dFcnJvcihlLCAiU2VuZCBmYWlsZWQ6IHtAQXR0ZW1wdEluZm99IiwgYXR0ZW1wdEluZm8pOwogICAgICAgICAgICAgICAgdGhyb3c7CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICBTZW5kQ2hlY2tzKG1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgU2VuZENoZWNrcyhtZXNzYWdlQmF0Y2gpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2UgPT0gbnVsbCkgdGhyb3cgbmV3IEFyZ3VtZW50TnVsbEV4Y2VwdGlvbihuYW1lb2YobWVzc2FnZSkpOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICA=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRhc2suQ29tcGxldGVkVGFzazsK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICBTZW5kQ2hlY2tzKG1lc3NhZ2UpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2UgPT0gbnVsbCkgdGhyb3cgbmV3IEFyZ3VtZW50TnVsbEV4Y2VwdGlvbihuYW1lb2YobWVzc2FnZSkpOwo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRBcHBsaWNhdGlvbkluc2lnaHRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>14,25 y</text>
