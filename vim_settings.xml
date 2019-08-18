@@ -249,12 +249,12 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/EventHubs/EventHubsPublisher.cs" timestamp="1565933197878">
+      <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/EventHubs/EventHubsPublisher.cs" timestamp="1565939707604">
         <mark key="'" line="37" column="28" />
-        <mark key="[" line="41" column="19" />
-        <mark key="]" line="39" column="26" />
-        <mark key="." line="39" column="26" />
-        <mark key="^" line="39" column="26" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="66" column="35" />
       </file>
       <file name="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/Common/PublishProfileConfig.cs" timestamp="1565764943717">
         <mark key="[" line="53" column="76" />
@@ -286,7 +286,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565930242865">
+      <file name="/Dummy.txt" timestamp="1565938810415">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/TravellingTest/TravellingModelz/Product.cs" timestamp="1561333411217">
@@ -512,11 +512,11 @@
       <jump line="37" column="28" filename="$USER_HOME$/git/projects/wx-messaging/wx-messaging/src/WooliesX.Messaging.Producer/EventHubs/EventHubsPublisher.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SendChecks</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>SendChecks</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQYWdlckR1dHlBR1w+</text>
@@ -531,28 +531,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICBTZW5kQ2hlY2tzKG1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgU2VuZENoZWNrcyhtZXNzYWdlQmF0Y2gpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2UgPT0gbnVsbCkgdGhyb3cgbmV3IEFyZ3VtZW50TnVsbEV4Y2VwdGlvbihuYW1lb2YobWVzc2FnZSkpOwo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICA=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRhc2suQ29tcGxldGVkVGFzazsK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICBTZW5kQ2hlY2tzKG1lc3NhZ2UpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2UgPT0gbnVsbCkgdGhyb3cgbmV3IEFyZ3VtZW50TnVsbEV4Y2VwdGlvbihuYW1lb2YobWVzc2FnZSkpOwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRBcHBsaWNhdGlvbkluc2lnaHRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2VCYXRjaCA9PSBudWxsKSB0aHJvdyBuZXcgQXJndW1lbnROdWxsRXhjZXB0aW9uKG5hbWVvZihtZXNzYWdlQmF0Y2gpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRhc2suQ29tcGxldGVkVGFzazsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRBcHBsaWNhdGlvbkluc2lnaHRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>14,25 y</text>
