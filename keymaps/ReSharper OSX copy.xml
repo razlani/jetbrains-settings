@@ -9,6 +9,9 @@
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CheckStatusForFiles">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="s" />
