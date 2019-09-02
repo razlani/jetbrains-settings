@@ -1,4 +1,4 @@
-<keymap version="1" name="ReSharper OSX copy" parent="ReSharper OSX">
+<keymap version="1" name="ReSharper OSX copy">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
@@ -9,6 +9,10 @@
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
+  <action id="ChangesView.Diff" />
   <action id="CheckStatusForFiles">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="s" />
   </action>
@@ -28,7 +32,7 @@
   <action id="Console.TableResult.SetNull" />
   <action id="DatabaseView.PropertiesAction" />
   <action id="Diff.ShowDiff">
-    <keyboard-shortcut first-keystroke="meta g" second-keystroke="d" />
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta d" />
   </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
@@ -120,6 +124,9 @@
   </action>
   <action id="UpdateFiles">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="u" />
+  </action>
+  <action id="Vcs.Show.Local.Changes">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="d" />
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="h" />
