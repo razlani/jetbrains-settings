@@ -233,6 +233,9 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="26" column="20" />
       </file>
+      <file name="keymaps/ReSharper OSX copy.xml" timestamp="1567402327249">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/ClusterResponseHealthTest.cs" timestamp="1559099956717">
         <mark key="[" line="28" column="18" />
         <mark key="]" line="28" column="18" />
