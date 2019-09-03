@@ -1,4 +1,4 @@
-<keymap version="1" name="rider-mac" parent="Mac OS X 10.5+">
+<keymap version="1" name="clion-or-webstorm-mac" parent="Mac OS X 10.5+">
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Add">
     <keyboard-shortcut first-keystroke="ctrl enter" />

@@ -1,4 +1,4 @@
-<keymap version="1" name="ReSharper OSX copy">
+<keymap version="1" name="rider-on-mac">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
