@@ -1,4 +1,4 @@
-<keymap version="1" name="Default for Windows copy" parent="$default">
+<keymap version="1" name="clion-windows" parent="$default">
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
@@ -53,6 +53,9 @@
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="ShowBookmarks" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
