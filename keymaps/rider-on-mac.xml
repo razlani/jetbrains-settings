@@ -53,6 +53,9 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta alt n" />
   </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="ctrl meta alt b" />
   </action>
