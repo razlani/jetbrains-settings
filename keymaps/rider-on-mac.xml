@@ -43,6 +43,9 @@
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
+  <action id="EditorEnter">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
