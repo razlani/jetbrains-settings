@@ -50,6 +50,9 @@
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="EditorStartNewLineBefore" />
+  <action id="EditorTab">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
