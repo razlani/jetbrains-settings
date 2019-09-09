@@ -53,6 +53,9 @@
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="FileChooser.NewFolder" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="ctrl meta alt b" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
