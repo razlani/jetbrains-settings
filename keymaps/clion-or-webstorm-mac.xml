@@ -68,12 +68,16 @@
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="GotoSymbol" />
   <action id="Graph.ApplyCurrentLayout" />
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
