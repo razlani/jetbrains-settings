@@ -188,12 +188,12 @@
         <mark key="^" line="35" column="35" />
         <mark key="." line="35" column="35" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/untitled7/main.cpp" timestamp="1568078190114">
-        <mark key="'" line="13" column="3" />
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="14" />
-        <mark key="." line="5" column="14" />
-        <mark key="^" line="5" column="14" />
+      <file name="$USER_HOME$/CLionProjects/untitled7/main.cpp" timestamp="1568080084489">
+        <mark key="'" line="16" column="3" />
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/CLionProjects/untitled1/CMakeLists.txt" timestamp="1561208869288">
         <mark key="[" line="5" column="43" />
@@ -367,10 +367,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>long</text>
+        <text>double</text>
       </register>
       <register name="-" type="4">
-        <text>long</text>
+        <text>double</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWlnaHRcPg==</text>
