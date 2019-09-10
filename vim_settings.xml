@@ -49,7 +49,7 @@
         <mark key="." line="19" column="39" />
         <mark key="^" line="15" column="53" />
       </file>
-      <file name="/LLDB" timestamp="1568084557928">
+      <file name="/LLDB" timestamp="1568092000728">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Infrastructure/ConstrainedFromActionType.cs" timestamp="1559452963171">
@@ -247,10 +247,10 @@
       <file name="keymaps/ReSharper OSX copy.xml" timestamp="1567402327249">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/DailyCodingProblem/cpp/main.cpp" timestamp="1568084641640">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/git/DailyCodingProblem/cpp/main.cpp" timestamp="1568092323976">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/ClusterResponseHealthTest.cs" timestamp="1559099956717">
         <mark key="[" line="28" column="18" />
@@ -375,10 +375,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dEFycmF5W2ldID0gaW5wdXRBcnJheVtpXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>[inputArray.size()];</text>
+        <text>inputArray</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWlnaHRcPg==</text>
@@ -387,34 +387,34 @@
         <text encoding="base64">ICAgIGZvciAoaW50IGkgPSB4OyBpIDwgejsgKytpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dEFycmF5W2ldID0gaW5wdXRBcnJheVtpXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob3V0cHV0QXJyYXlbaV0gPT0gMCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dEFycmF5W2ldID0gaW5wdXRBcnJheVtpXTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAob3V0cHV0QXJyYXlbaV0gPT0gMCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBjb3V0IDw8ICJwcm9kdWN0ID0gIiA8PCBwcm9kdWN0IDw8IGVuZGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBjb3V0IDw8ICJqIGFuZCBpIGFyZSA9ICIgPDwgaiA8PCAiIGFuZCAiIDw8IGkgPDwgZW5kbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>7,14 d</text>
