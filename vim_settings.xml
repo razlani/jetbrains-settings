@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="vim_settings.xml" timestamp="1563414865461">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Models/Alert.cs" timestamp="1559719621477">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -14,12 +11,6 @@
       </file>
       <file name="$USER_HOME$/CLionProjects/untitled2/CMakeLists.txt" timestamp="1561289541301">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api.Models/Models/Rule.cs" timestamp="1560995441313">
-        <mark key="[" line="24" column="45" />
-        <mark key="]" line="24" column="35" />
-        <mark key="." line="24" column="35" />
-        <mark key="^" line="24" column="35" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/SampleDataFixture.cs" timestamp="1559100257929">
         <mark key="[" line="16" column="0" />
@@ -46,6 +37,83 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
+      <file name="$USER_HOME$/git/projects/rules-engine-try-2/test/rules-engine-api.tests/SampleData/AlertData/POST/SampleBadActionTypeAlerts.json" timestamp="1559868252368">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/untitled3/Point.h" timestamp="1562118224105">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="39" />
+        <mark key="^" line="15" column="53" />
+      </file>
+      <file name="/LLDB" timestamp="1568083283629">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Infrastructure/ConstrainedFromActionType.cs" timestamp="1559452963171">
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="27" column="25" />
+        <mark key="^" line="27" column="25" />
+        <mark key="." line="27" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/AlertsCosmosDbPostTest.cs" timestamp="1559100115241">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="15" column="55" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1560994402032">
+        <mark key="[" line="201" column="18" />
+        <mark key="]" line="185" column="7" />
+        <mark key="." line="185" column="7" />
+        <mark key="^" line="185" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/projects/samples-dotnet-webapp/samples-dotnet-webapp/src/Samples.WebApi/Controllers/ValuesController.cs" timestamp="1560924551295">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="42" column="30" />
+        <mark key="^" line="42" column="30" />
+        <mark key="." line="42" column="30" />
+      </file>
+      <file name="$USER_HOME$/git/projects/rules-engine-try-2/appspec.yaml" timestamp="1560229577546">
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="35" column="35" />
+        <mark key="^" line="35" column="35" />
+        <mark key="." line="35" column="35" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/untitled7/main.cpp" timestamp="1568080084489">
+        <mark key="'" line="16" column="3" />
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/UnitTest1.cs" timestamp="1559099556020">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="31" column="7" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/untitled1/main.cpp" timestamp="1561209384902">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="24" column="20" />
+        <mark key="." line="24" column="20" />
+        <mark key="^" line="24" column="20" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1568081519932">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api.Models/Models/Rule.cs" timestamp="1560995441313">
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="24" column="35" />
+        <mark key="." line="24" column="35" />
+        <mark key="^" line="24" column="35" />
+      </file>
+      <file name="keymaps/rider-mac.xml" timestamp="1568081461435">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/untitled1/Person.h" timestamp="1561195183871">
         <mark key="'" line="15" column="26" />
         <mark key="[" line="8" column="6" />
@@ -65,12 +133,6 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="8" />
       </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/test/rules-engine-api.tests/SampleData/AlertData/POST/SampleBadActionTypeAlerts.json" timestamp="1559868252368">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="33" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/untitled3/Connection.h" timestamp="1562118178290">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="12" column="11" />
@@ -89,20 +151,11 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/untitled3/Point.h" timestamp="1562118224105">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="19" column="39" />
-        <mark key="." line="19" column="39" />
-        <mark key="^" line="15" column="53" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/untitled2/main.c" timestamp="1561289715200">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="7" />
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="7" />
-      </file>
-      <file name="/LLDB" timestamp="1563238490248">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Services/RulesService.cs" timestamp="1561119723457">
         <mark key="[" line="69" column="19" />
@@ -110,29 +163,11 @@
         <mark key="^" line="69" column="14" />
         <mark key="." line="69" column="14" />
       </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/src/rules-engine-api/Infrastructure/ConstrainedFromActionType.cs" timestamp="1559452963171">
-        <mark key="[" line="26" column="39" />
-        <mark key="]" line="27" column="25" />
-        <mark key="^" line="27" column="25" />
-        <mark key="." line="27" column="25" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/untitled1/Human.h" timestamp="1561209455444">
         <mark key="'" line="11" column="27" />
       </file>
       <file name="/fragment.cpp" timestamp="1563238966571">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/AlertsCosmosDbPostTest.cs" timestamp="1559100115241">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="15" column="55" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1560994402032">
-        <mark key="[" line="201" column="18" />
-        <mark key="]" line="185" column="7" />
-        <mark key="." line="185" column="7" />
-        <mark key="^" line="185" column="7" />
       </file>
       <file name="$USER_HOME$/CLionProjects/untitled5/main.cpp" timestamp="1562118696278">
         <mark key="[" line="5" column="17" />
@@ -151,12 +186,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1561208791234">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/samples-dotnet-webapp/samples-dotnet-webapp/src/Samples.WebApi/Controllers/ValuesController.cs" timestamp="1560924551295">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="42" column="30" />
-        <mark key="^" line="42" column="30" />
-        <mark key="." line="42" column="30" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Models/ActionType.cs" timestamp="1559701373058">
         <mark key="[" line="11" column="5" />
@@ -182,19 +211,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="14" column="84" />
       </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/appspec.yaml" timestamp="1560229577546">
-        <mark key="[" line="35" column="26" />
-        <mark key="]" line="35" column="35" />
-        <mark key="^" line="35" column="35" />
-        <mark key="." line="35" column="35" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/untitled7/main.cpp" timestamp="1568080084489">
-        <mark key="'" line="16" column="3" />
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="18" />
-        <mark key="." line="8" column="18" />
-        <mark key="^" line="8" column="18" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/untitled1/CMakeLists.txt" timestamp="1561208869288">
         <mark key="[" line="5" column="43" />
       </file>
@@ -209,12 +225,6 @@
         <mark key="]" line="8" column="17" />
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
-      </file>
-      <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/UnitTest1.cs" timestamp="1559099556020">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="31" column="7" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/src/rules-engine-api/Startup.cs" timestamp="1559798849289">
         <mark key="[" line="7" column="0" />
@@ -237,6 +247,12 @@
       <file name="keymaps/ReSharper OSX copy.xml" timestamp="1567402327249">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/DailyCodingProblem/cpp/main.cpp" timestamp="1568083257485">
+        <mark key="[" line="32" column="32" />
+        <mark key="]" line="32" column="30" />
+        <mark key="." line="32" column="30" />
+        <mark key="^" line="32" column="30" />
+      </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/ClusterResponseHealthTest.cs" timestamp="1559099956717">
         <mark key="[" line="28" column="18" />
         <mark key="]" line="28" column="18" />
@@ -254,13 +270,6 @@
         <mark key="]" line="16" column="41" />
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/untitled1/main.cpp" timestamp="1561209384902">
-        <mark key="'" line="10" column="4" />
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="24" column="20" />
-        <mark key="." line="24" column="20" />
-        <mark key="^" line="24" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -366,11 +375,11 @@
       <jump line="13" column="3" filename="$USER_HOME$/CLionProjects/untitled7/main.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>double</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY291dCA8PCAiIGogYW5kIGkgYXJlICIK</text>
       </register>
       <register name="-" type="4">
-        <text>double</text>
+        <text>break;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWlnaHRcPg==</text>
@@ -379,34 +388,34 @@
         <text encoding="base64">ICAgIGZvciAoaW50IGkgPSB4OyBpIDwgejsgKytpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY291dCA8PCAiIGogYW5kIGkgYXJlICIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIGNvdXQgPDwgb3V0cHV0QXJyYXkgPDwgZW5kbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludCBtYWluKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFByYXRhLCBTdGVwaGVuLiBDKysgUHJpbWVyIFBsdXM6IEMrKyBQcmltZXIgUGx1cyBfcDYgKERldmVsb3BlcidzIExpYnJhcnkpIChwcC4gMjAzLTIwNCkuIFBlYXJzb24gRWR1Y2F0aW9uLiBLaW5kbGUgRWRpdGlvbi4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gZm9ybW9yZS5jcHAgLS0gbW9yZSBsb29waW5nIHdpdGggZm9yCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiSGVsbG8sIFdvcmxkISIgPDwgc3RkOjplbmRsOwogICAgcmV0dXJuIDA7</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHVzaW5nIG5hbWVzcGFjZSBzdGQ7CgogICAgaW50IHgsIHk7CiAgICBjb3V0IDw8ICJudW1iZXIxIiA8PCBlbmRsOwoKICAgIGNpbiA+PiB4OwoKICAgIGNvdXQgPDwgIm51bWJlcjIiIDw8IGVuZGw7CgogICAgY2luID4+IHk7CgogICAgaW50IHogPSAwOwoKICAgIGZvciAoaW50IGkgPSB4OyBpIDw9IHk7ICsraSkgewoKICAgICAgICB6ICs9IGk7CgogICAgfQoKICAgIGNvdXQgPDwgImFuZCB6IGlzOiAiIDw8IHogPDwgZW5kbDsK</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>7,14 d</text>
