@@ -1,4 +1,4 @@
-<keymap version="1" name="ReSharper OSX copy" parent="ReSharper OSX">
+<keymap version="1" name="rider-on-mac">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
@@ -9,6 +9,10 @@
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
+  <action id="ChangesView.Diff" />
   <action id="CheckStatusForFiles">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="s" />
   </action>
@@ -28,7 +32,7 @@
   <action id="Console.TableResult.SetNull" />
   <action id="DatabaseView.PropertiesAction" />
   <action id="Diff.ShowDiff">
-    <keyboard-shortcut first-keystroke="meta g" second-keystroke="d" />
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta d" />
   </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
@@ -39,15 +43,24 @@
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
+  <action id="EditorEnter">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="EditorStartNewLineBefore" />
+  <action id="EditorTab">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta alt n" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="meta f" />
   </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="ctrl meta alt b" />
@@ -120,6 +133,9 @@
   </action>
   <action id="UpdateFiles">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="u" />
+  </action>
+  <action id="Vcs.Show.Local.Changes">
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="d" />
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="h" />
