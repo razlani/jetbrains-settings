@@ -1,4 +1,4 @@
-<keymap version="1" name="clion-or-webstorm-mac" parent="Mac OS X 10.5+">
+<keymap version="1" name="rider-mac" parent="Mac OS X 10.5+">
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Add">
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -11,7 +11,10 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="CheckinProject" />
-  <action id="CloseContent" />
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl meta w" />
+  </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
@@ -53,9 +56,6 @@
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="FileChooser.NewFolder" />
-  <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="ctrl meta alt b" />
-  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
@@ -71,16 +71,12 @@
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
-  <action id="GotoSymbol" />
   <action id="Graph.ApplyCurrentLayout" />
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
-  </action>
-  <action id="ManageRecentProjects">
-    <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -90,9 +86,6 @@
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
-  </action>
-  <action id="Resume">
-    <keyboard-shortcut first-keystroke="shift f5" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="f5" />
@@ -105,18 +98,6 @@
   </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta enter" />
-  </action>
-  <action id="StepInto">
-    <keyboard-shortcut first-keystroke="f11" />
-  </action>
-  <action id="StepOut">
-    <keyboard-shortcut first-keystroke="shift f11" />
-  </action>
-  <action id="StepOver">
-    <keyboard-shortcut first-keystroke="f10" />
-  </action>
-  <action id="ToggleLineBreakpoint">
-    <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
