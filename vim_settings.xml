@@ -188,11 +188,12 @@
         <mark key="^" line="35" column="35" />
         <mark key="." line="35" column="35" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/untitled7/main.cpp" timestamp="1565825920913">
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="6" column="31" />
-        <mark key="^" line="6" column="31" />
-        <mark key="." line="6" column="31" />
+      <file name="$USER_HOME$/CLionProjects/untitled7/main.cpp" timestamp="1568078190114">
+        <mark key="'" line="13" column="3" />
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
       </file>
       <file name="$USER_HOME$/CLionProjects/untitled1/CMakeLists.txt" timestamp="1561208869288">
         <mark key="[" line="5" column="43" />
@@ -263,8 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="12" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/ServiceBusSubscriber.cs" />
-      <jump line="47" column="26" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/ServiceBusSubscriber.cs" />
       <jump line="66" column="24" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/ServiceBusSubscriber.cs" />
       <jump line="15" column="22" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.EventHub/EventHubSubscriberService.cs" />
       <jump line="21" column="12" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.EventHub/EventHubSubscriberService.cs" />
@@ -363,49 +362,51 @@
       <jump line="11" column="27" filename="$USER_HOME$/CLionProjects/untitled1/Human.h" />
       <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/untitled2/CMakeLists.txt" />
       <jump line="13" column="0" filename="$USER_HOME$/CLionProjects/untitled3/Point.cpp" />
+      <jump line="5" column="0" filename="$USER_HOME$/CLionProjects/untitled7/main.cpp" />
+      <jump line="13" column="3" filename="$USER_HOME$/CLionProjects/untitled7/main.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHVzaW5nIG5hbWVzcGFjZSBzdGQ7CiAgICBpbnQgZm91ciA9IDQ7CiAgICBpbnQgKnBJbnQgPSAmZm91cjsKICAgIGludCAqcEludDEgPSBuZXcgaW50OwogICAgKnBJbnQxID0gNDsKCiAgICBpbnQgKnBJbnQyID0gbmV3IGludDsKICAgICpwSW50MiA9IDU7CgogICAgY291dCA8PCAiKnBJbnQxIGlzIiA8PCAqcEludDEgPDwgZW5kbDsKICAgIGNvdXQgPDwgIipwSW50MiBpcyIgPDwgKnBJbnQyIDw8IGVuZGw7CgoKCgogICAgcmV0dXJuIDA7</text>
+        <text>long</text>
       </register>
       <register name="-" type="4">
-        <text>four</text>
+        <text>long</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWlnaHRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>ApiConfig__AlertsCosmosRulesConfig__Endpoint</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSB4OyBpIDwgejsgKytpKSB7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIHVzaW5nIG5hbWVzcGFjZSBzdGQ7CiAgICBpbnQgZm91ciA9IDQ7CiAgICBpbnQgKnBJbnQgPSAmZm91cjsKICAgIGludCAqcEludDEgPSBuZXcgaW50OwogICAgKnBJbnQxID0gNDsKCiAgICBpbnQgKnBJbnQyID0gbmV3IGludDsKICAgICpwSW50MiA9IDU7CgogICAgY291dCA8PCAiKnBJbnQxIGlzIiA8PCAqcEludDEgPDwgZW5kbDsKICAgIGNvdXQgPDwgIipwSW50MiBpcyIgPDwgKnBJbnQyIDw8IGVuZGw7CgoKCgogICAgcmV0dXJuIDA7</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG8K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiSGVsbG8sIFdvcmxkISIgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0ZAo=</text>
+        <text encoding="base64">ICAgIGludCBtYWluKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">amtzZGYK</text>
+        <text encoding="base64">ICAgIFByYXRhLCBTdGVwaGVuLiBDKysgUHJpbWVyIFBsdXM6IEMrKyBQcmltZXIgUGx1cyBfcDYgKERldmVsb3BlcidzIExpYnJhcnkpIChwcC4gMjAzLTIwNCkuIFBlYXJzb24gRWR1Y2F0aW9uLiBLaW5kbGUgRWRpdGlvbi4gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPENvbm5lY3Rpb24uaAo=</text>
+        <text encoding="base64">Ly8gZm9ybW9yZS5jcHAgLS0gbW9yZSBsb29waW5nIHdpdGggZm9yCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImxpc3QiCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHN0ZDsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIHVzaW5nIG5hbWVzcGFjZSBzdGQ7CgogICAgaW50IHgsIHk7CiAgICBjb3V0IDw8ICJudW1iZXIxIiA8PCBlbmRsOwoKICAgIGNpbiA+PiB4OwoKICAgIGNvdXQgPDwgIm51bWJlcjIiIDw8IGVuZGw7CgogICAgY2luID4+IHk7CgogICAgaW50IHogPSAwOwoKICAgIGZvciAoaW50IGkgPSB4OyBpIDw9IHk7ICsraSkgewoKICAgICAgICB6ICs9IGk7CgogICAgfQoKICAgIGNvdXQgPDwgImFuZCB6IGlzOiAiIDw8IHogPDwgZW5kbDsK</text>
       </register>
       <register name=":" type="4">
         <text>7,14 d</text>

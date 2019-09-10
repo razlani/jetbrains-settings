@@ -85,7 +85,6 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="Run">
-    <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="SearchEverywhere">
