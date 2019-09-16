@@ -11,7 +11,9 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="CheckinProject" />
-  <action id="CloseContent" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl meta w" />
+  </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
