@@ -38,6 +38,9 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="Exit">
+    <keyboard-shortcut first-keystroke="shift ctrl meta q" />
+  </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
