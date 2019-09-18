@@ -252,11 +252,11 @@
       <file name="keymaps/ReSharper OSX copy.xml" timestamp="1567402327249">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/DailyCodingProblem/cpp/main.cpp" timestamp="1568590991049">
-        <mark key="[" line="28" column="19" />
-        <mark key="]" line="28" column="19" />
-        <mark key="." line="28" column="19" />
-        <mark key="^" line="28" column="19" />
+      <file name="$USER_HOME$/git/DailyCodingProblem/cpp/main.cpp" timestamp="1568849554186">
+        <mark key="'" line="13" column="1" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/rules-engine-try-2/samples-dotnet-webapp/test/rules-engine-api.tests/ClusterResponseHealthTest.cs" timestamp="1559099956717">
         <mark key="[" line="28" column="18" />
@@ -278,7 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="24" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.ServiceBus/ServiceBusSubscriber.cs" />
       <jump line="15" column="22" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.EventHub/EventHubSubscriberService.cs" />
       <jump line="21" column="12" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Messaging.EventHub/EventHubSubscriberService.cs" />
       <jump line="20" column="76" filename="$USER_HOME$/git/projects/dotnettoolkit/wow-dotnet-toolkit/src/Wow.Toolkit.Console/WowConsoleHost.cs" />
@@ -378,13 +377,14 @@
       <jump line="13" column="0" filename="$USER_HOME$/CLionProjects/untitled3/Point.cpp" />
       <jump line="5" column="0" filename="$USER_HOME$/CLionProjects/untitled7/main.cpp" />
       <jump line="13" column="3" filename="$USER_HOME$/CLionProjects/untitled7/main.cpp" />
+      <jump line="12" column="1" filename="$USER_HOME$/git/DailyCodingProblem/cpp/main.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGludCBhcnJheVNpemUgPSA1MDsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">aW50IHN1bSA9IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWlnaHRcPg==</text>
@@ -393,34 +393,34 @@
         <text encoding="base64">ICAgIGZvciAoaW50IGkgPSB4OyBpIDwgejsgKytpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXR6W2N1cnJlbnRBcnJheUluZGV4XTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGludCBhcnJheVNpemUgPSA1MDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnRBcnJheUluZGV4Kys7Cg==</text>
+        <text encoding="base64">Ly8gICAgcmV0dXJuIDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNoYXIgY3VycmVudENoYXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXR6W2N1cnJlbnRBcnJheUluZGV4XTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50Q2hhciA9IGNpbi5nZXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnRBcnJheUluZGV4Kys7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNpbi5nZXQoY3VycmVudENoYXIpOwo=</text>
+        <text encoding="base64">ICAgIGNoYXIgY3VycmVudENoYXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50Q2hhciA9IGNpbi5nZXQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgYXJyYXlTaXplOyArK2kpIHsK</text>
+        <text encoding="base64">ICAgIGNpbi5nZXQoY3VycmVudENoYXIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgYXJyYXlTaXplOyArK2kpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>7,14 d</text>
