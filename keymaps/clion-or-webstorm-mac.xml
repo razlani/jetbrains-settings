@@ -117,6 +117,10 @@
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="ctrl meta alt f5" />
+  </action>
+  <action id="StopBackgroundProcesses" />
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
