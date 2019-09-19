@@ -2,15 +2,19 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="alt w" />
-  </action>
+  <action id="CloseContent" />
   <action id="Console.TableResult.Reload" />
   <action id="CopyElement" />
   <action id="DatabaseView.CopyTable" />
   <action id="DatabaseView.Refresh" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt w" />
   </action>
   <action id="ForceRefresh" />
   <action id="Forward">
@@ -73,6 +77,7 @@
     <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="Vcs.Log.Refresh" />
+  <action id="tasks.close" />
   <action id="tasks.goto" />
   <action id="tasks.open.in.browser" />
 </keymap>
