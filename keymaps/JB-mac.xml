@@ -1,4 +1,4 @@
-<keymap version="1" name="clion-or-webstorm-mac" parent="Mac OS X 10.5+">
+<keymap version="1" name="JB-mac" parent="Mac OS X 10.5+">
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Add">
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -22,7 +22,7 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="CollapseRegion">
-    <keyboard-shortcut first-keystroke="meta subtract" />
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="meta c" />
   </action>
   <action id="Console.Execute.Multiline" />
   <action id="CopyElement" />
@@ -49,7 +49,7 @@
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="ExpandRegion">
-    <keyboard-shortcut first-keystroke="meta add" />
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="meta e" />
   </action>
   <action id="ExternalSystem.CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
@@ -87,6 +87,7 @@
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
+  <action id="MinimizeCurrentWindow" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
