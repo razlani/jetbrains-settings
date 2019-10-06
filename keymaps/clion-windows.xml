@@ -1,9 +1,14 @@
-<keymap version="1" name="Default for Windows copy" parent="$default">
+<keymap version="1" name="clion-windows" parent="$default">
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="alt w" />
+  <action id="ChangesView.Rename" />
+  <action id="CloseContent" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="Console.TableResult.Reload" />
   <action id="CopyElement" />
@@ -12,9 +17,18 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f5" />
   </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt w" />
+  </action>
   <action id="ForceRefresh" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="alt n" />
@@ -38,6 +52,9 @@
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="Graph.ApplyCurrentLayout" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift alt o" />
+  </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
@@ -45,6 +62,9 @@
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="Refresh" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="Rerun" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="shift ctrl f5" />
@@ -52,7 +72,11 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="ShelvedChanges.Rename" />
   <action id="ShowBookmarks" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
@@ -70,6 +94,9 @@
     <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="Vcs.Log.Refresh" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
+  <action id="tasks.close" />
   <action id="tasks.goto" />
   <action id="tasks.open.in.browser" />
 </keymap>
