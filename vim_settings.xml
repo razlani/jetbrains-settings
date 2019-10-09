@@ -14,18 +14,18 @@
       <file name="/LLDB" timestamp="1570589827632">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/cpp-primer-exercises/main.cpp" timestamp="1570592513984">
-        <mark key="'" line="62" column="25" />
-        <mark key="[" line="32" column="15" />
-        <mark key="]" line="32" column="25" />
-        <mark key="." line="32" column="25" />
-        <mark key="^" line="32" column="25" />
+      <file name="$USER_HOME$/CLionProjects/cpp-primer-exercises/main.cpp" timestamp="1570660267555">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/fragment.cpp" timestamp="1570373151895">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/cpp-primer-exercises/main4.cpp" timestamp="1570660327067" />
       <file name="$USER_HOME$/CLionProjects/cpp-primer-exercises/CMakeLists.txt" timestamp="1570575244202">
         <mark key="[" line="5" column="35" />
         <mark key="]" line="5" column="34" />
@@ -44,7 +44,7 @@
         <text encoding="base64">ICAgICAgICBjaW4gPj4gCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>x</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBwYVtpXS5vb3BsZXZlbCA+PiBjaW47Cg==</text>
@@ -71,7 +71,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
