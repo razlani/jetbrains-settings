@@ -14,11 +14,12 @@
       <file name="/LLDB" timestamp="1570589827632">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/cpp-primer-exercises/main.cpp" timestamp="1570660267555">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/CLionProjects/cpp-primer-exercises/main.cpp" timestamp="1570696541802">
+        <mark key="'" line="24" column="24" />
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="21" column="33" />
+        <mark key="." line="21" column="33" />
+        <mark key="^" line="21" column="37" />
       </file>
       <file name="/fragment.cpp" timestamp="1570373151895">
         <mark key="[" line="0" column="0" />
@@ -38,40 +39,42 @@
       <jump line="30" column="13" filename="$USER_HOME$/CLionProjects/cpp-primer-exercises/main.cpp" />
       <jump line="50" column="0" filename="$USER_HOME$/CLionProjects/cpp-primer-exercises/main.cpp" />
       <jump line="47" column="25" filename="$USER_HOME$/CLionProjects/cpp-primer-exercises/main.cpp" />
+      <jump line="0" column="9" filename="$USER_HOME$/CLionProjects/cpp-primer-exercises/main.cpp" />
+      <jump line="19" column="24" filename="$USER_HOME$/CLionProjects/cpp-primer-exercises/main.cpp" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjaW4gPj4gCg==</text>
+        <text encoding="base64">ICAgIGRvdWJsZSB2YWwgPSAocGEpKHgsIHkpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>add</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYVtpXS5vb3BsZXZlbCA+PiBjaW47Cg==</text>
+        <text encoding="base64">ICAgIGRvdWJsZSAoKiBwYSkoZG91YmxlLCBkb3VibGUpID0gYWRkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2luLmdldGxpbmUoKSA9PSAnXG4nKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjaW4uZ2V0bGluZShwYVtpXS5mdWxsbmFtZSwgU0xFTik7Cg==</text>
+        <text encoding="base64">ZG91YmxlIChwZiooZG91YmxlIHgsIGRvdWJsZSB5KSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZz4K</text>
+        <text encoding="base64">ICAgICAgICBjaW4gPj4gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYVtpXS5vb3BsZXZlbCA+PiBjaW47Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2luLmdldGxpbmUoKSA9PSAnXG4nKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>add</text>
       </register>
     </registers>
     <search>
