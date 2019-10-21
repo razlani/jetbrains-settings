@@ -25,6 +25,7 @@
     <keyboard-shortcut first-keystroke="meta m" second-keystroke="meta c" />
   </action>
   <action id="Console.Execute.Multiline" />
+  <action id="Console.TableResult.SetNull" />
   <action id="CopyElement" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="meta f5" />
@@ -58,6 +59,9 @@
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="FileChooser.NewFolder" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta alt n" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="ctrl meta alt b" />
   </action>
@@ -84,12 +88,19 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="Inline" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
   <action id="MinimizeCurrentWindow" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="alt j" />
   </action>
   <action id="RemoteHost.NewRemoteItem">
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -100,6 +111,7 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="shift f5" />
   </action>
+  <action id="RiderUnitTestAppendTestsTwAction" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
