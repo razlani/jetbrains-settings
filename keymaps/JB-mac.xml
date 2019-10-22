@@ -7,6 +7,9 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
+  <action id="ChangeSignature">
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="s" />
+  </action>
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
