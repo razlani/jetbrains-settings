@@ -1,4 +1,4 @@
-<keymap version="1" name="webstorm-mac" parent="Mac OS X 10.5+">
+<keymap version="1" name="JB-mac" parent="Mac OS X 10.5+">
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Add">
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -7,11 +7,16 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
+  <action id="ChangeSignature">
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="s" />
+  </action>
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="CheckinProject" />
-  <action id="CloseContent" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl meta w" />
+  </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
@@ -20,10 +25,13 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="CollapseRegion">
-    <keyboard-shortcut first-keystroke="meta subtract" />
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="meta c" />
   </action>
   <action id="Console.Execute.Multiline" />
+  <action id="Console.TableResult.Reload" />
+  <action id="Console.TableResult.SetNull" />
   <action id="CopyElement" />
+  <action id="DatabaseView.Refresh" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="meta f5" />
   </action>
@@ -36,6 +44,9 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="Exit">
+    <keyboard-shortcut first-keystroke="shift ctrl meta q" />
+  </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
@@ -44,7 +55,7 @@
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="ExpandRegion">
-    <keyboard-shortcut first-keystroke="meta add" />
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="meta e" />
   </action>
   <action id="ExternalSystem.CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
@@ -53,6 +64,12 @@
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="FileChooser.NewFolder" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta alt n" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="ctrl meta alt b" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
@@ -68,6 +85,7 @@
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="GotoSymbol" />
   <action id="Graph.ApplyCurrentLayout" />
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
@@ -75,17 +93,36 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="Inline" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+  </action>
+  <action id="MinimizeCurrentWindow" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="Refresh" />
   <action id="RemoteHost.NewRemoteItem">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="r" />
+  </action>
+  <action id="Rerun" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
+  <action id="RiderUnitTestAppendTestsTwAction" />
   <action id="Run">
-    <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="SearchEverywhere">
@@ -97,8 +134,25 @@
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f11" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="shift meta f5" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="Vcs.Log.Refresh" />
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
   <action id="com.intellij.lang.jsgraphql.v1.ide.actions.JSGraphQLExecuteEditorAction" />
+  <action id="hg4idea.QRefresh" />
 </keymap>
