@@ -88,6 +88,9 @@
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
