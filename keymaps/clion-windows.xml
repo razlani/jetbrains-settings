@@ -18,10 +18,10 @@
   <action id="CIDR.Lang.IntroduceParameter" />
   <action id="ChangesView.GroupBy.Directory" />
   <action id="ChangesView.Rename" />
-  <action id="CloseActiveTab">
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
-  <action id="CloseContent" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -87,6 +87,9 @@
   </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="alt e" />
