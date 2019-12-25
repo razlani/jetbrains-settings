@@ -150,6 +150,7 @@
     <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.QuickListPopupAction" />
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
