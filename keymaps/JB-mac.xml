@@ -7,6 +7,9 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
+  <action id="ChangeSignature">
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="s" />
+  </action>
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -25,7 +28,10 @@
     <keyboard-shortcut first-keystroke="meta m" second-keystroke="meta c" />
   </action>
   <action id="Console.Execute.Multiline" />
+  <action id="Console.TableResult.Reload" />
+  <action id="Console.TableResult.SetNull" />
   <action id="CopyElement" />
+  <action id="DatabaseView.Refresh" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="meta f5" />
   </action>
@@ -58,6 +64,9 @@
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="FileChooser.NewFolder" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta alt n" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="ctrl meta alt b" />
   </action>
@@ -84,6 +93,7 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="Inline" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
@@ -91,15 +101,27 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="Refresh" />
   <action id="RemoteHost.NewRemoteItem">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="r" />
+  </action>
+  <action id="Rerun" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="shift f5" />
   </action>
+  <action id="RiderUnitTestAppendTestsTwAction" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
@@ -127,8 +149,11 @@
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
+  <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.QuickListPopupAction" />
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
   <action id="com.intellij.lang.jsgraphql.v1.ide.actions.JSGraphQLExecuteEditorAction" />
+  <action id="hg4idea.QRefresh" />
 </keymap>

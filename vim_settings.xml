@@ -1,92 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
-    <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/CLionProjects/cpp-primer-exercises/main2.cpp" timestamp="1570370667739">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1570373148923">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/LLDB" timestamp="1570589827632">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/cpp-primer-exercises/main.cpp" timestamp="1570696541802">
-        <mark key="'" line="24" column="24" />
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="21" column="33" />
-        <mark key="." line="21" column="33" />
-        <mark key="^" line="21" column="37" />
-      </file>
-      <file name="/fragment.cpp" timestamp="1570373151895">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/cpp-primer-exercises/main4.cpp" timestamp="1570660327067" />
-      <file name="$USER_HOME$/CLionProjects/cpp-primer-exercises/CMakeLists.txt" timestamp="1570575244202">
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="5" column="34" />
-        <mark key="." line="5" column="34" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="31" column="21" filename="$USER_HOME$/CLionProjects/cpp-primer-exercises/main.cpp" />
-      <jump line="30" column="13" filename="$USER_HOME$/CLionProjects/cpp-primer-exercises/main.cpp" />
-      <jump line="50" column="0" filename="$USER_HOME$/CLionProjects/cpp-primer-exercises/main.cpp" />
-      <jump line="47" column="25" filename="$USER_HOME$/CLionProjects/cpp-primer-exercises/main.cpp" />
-      <jump line="0" column="9" filename="$USER_HOME$/CLionProjects/cpp-primer-exercises/main.cpp" />
-      <jump line="19" column="24" filename="$USER_HOME$/CLionProjects/cpp-primer-exercises/main.cpp" />
-    </jumps>
-    <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSB2YWwgPSAocGEpKHgsIHkpOwo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>add</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSAoKiBwYSkoZG91YmxlLCBkb3VibGUpID0gYWRkOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZG91YmxlIChwZiooZG91YmxlIHgsIGRvdWJsZSB5KSB7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjaW4gPj4gCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYVtpXS5vb3BsZXZlbCA+PiBjaW47Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGk7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2luLmdldGxpbmUoKSA9PSAnXG4nKQo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>add</text>
-      </register>
-    </registers>
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="true" />
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
@@ -133,6 +47,17 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
+    <editor />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
