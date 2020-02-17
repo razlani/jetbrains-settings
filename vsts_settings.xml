@@ -85,6 +85,15 @@
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://wowonline.visualstudio.com/Last%20Mile/_git/DeliveryNotifications-obsolete" />
+          <option name="serverUri" value="https://wowonline.visualstudio.com" />
+          <option name="userId" value="b9d10714-6398-6c8c-bea3-afabb88c6317" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;57dde19e-7419-4f66-963b-96581b5b4dce&quot;,&quot;name&quot;:&quot;wowonline&quot;,&quot;url&quot;:&quot;https://wowonline.visualstudio.com/_apis/projectCollections/57dde19e-7419-4f66-963b-96581b5b4dce&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;0228e011-360e-4b1f-a6fd-d5bb3d99e111&quot;,&quot;name&quot;:&quot;Last Mile&quot;,&quot;revision&quot;:838,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://wowonline.visualstudio.com/_apis/projects/0228e011-360e-4b1f-a6fd-d5bb3d99e111&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;64fc9e11-7431-4427-8eab-84e914d77085&quot;,&quot;name&quot;:&quot;DeliveryNotifications-obsolete&quot;,&quot;remoteUrl&quot;:&quot;https://wowonline.visualstudio.com/Last%20Mile/_git/DeliveryNotifications-obsolete&quot;,&quot;url&quot;:&quot;https://wowonline.visualstudio.com/_apis/git/repositories/64fc9e11-7431-4427-8eab-84e914d77085&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;0228e011-360e-4b1f-a6fd-d5bb3d99e111&quot;,&quot;name&quot;:&quot;Last Mile&quot;,&quot;revision&quot;:838,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://wowonline.visualstudio.com/_apis/projects/0228e011-360e-4b1f-a6fd-d5bb3d99e111&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://wowonline.visualstudio.com/ECF/_git/inventory-nrtsoh-processor" />
           <option name="serverUri" value="https://wowonline.visualstudio.com" />
           <option name="userId" value="b9d10714-6398-6c8c-bea3-afabb88c6317" />
@@ -125,7 +134,7 @@
       <array>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//wowonline.visualstudio.com/ecf/_git/article-service-api" />
+          <option name="value" value="//wowonline.visualstudio.com/last mile/_git/deliverynotifications-obsolete" />
         </PropertyState>
       </array>
     </option>
