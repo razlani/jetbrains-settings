@@ -112,6 +112,15 @@
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://wowonline.visualstudio.com/Platform%20Engineering/_git/analytics-rules-engine-api" />
+          <option name="serverUri" value="https://wowonline.visualstudio.com" />
+          <option name="userId" value="b9d10714-6398-6c8c-bea3-afabb88c6317" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;57dde19e-7419-4f66-963b-96581b5b4dce&quot;,&quot;name&quot;:&quot;wowonline&quot;,&quot;url&quot;:&quot;https://wowonline.visualstudio.com/_apis/projectCollections/57dde19e-7419-4f66-963b-96581b5b4dce&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Platform Engineering team project to add all our tools that will empower others to do awesome things.&quot;,&quot;id&quot;:&quot;82c2c273-3345-4f5f-9b64-45a32e7ade85&quot;,&quot;name&quot;:&quot;Platform Engineering&quot;,&quot;revision&quot;:820,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://wowonline.visualstudio.com/_apis/projects/82c2c273-3345-4f5f-9b64-45a32e7ade85&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;82eb1128-5c7b-453f-869a-cafdb926ebb1&quot;,&quot;name&quot;:&quot;analytics-rules-engine-api&quot;,&quot;remoteUrl&quot;:&quot;https://wowonline.visualstudio.com/Platform%20Engineering/_git/analytics-rules-engine-api&quot;,&quot;url&quot;:&quot;https://wowonline.visualstudio.com/_apis/git/repositories/82eb1128-5c7b-453f-869a-cafdb926ebb1&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Platform Engineering team project to add all our tools that will empower others to do awesome things.&quot;,&quot;id&quot;:&quot;82c2c273-3345-4f5f-9b64-45a32e7ade85&quot;,&quot;name&quot;:&quot;Platform Engineering&quot;,&quot;revision&quot;:820,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://wowonline.visualstudio.com/_apis/projects/82c2c273-3345-4f5f-9b64-45a32e7ade85&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://wowonline.visualstudio.com/ECF/_git/article-service-api" />
           <option name="serverUri" value="https://wowonline.visualstudio.com" />
           <option name="userId" value="b9d10714-6398-6c8c-bea3-afabb88c6317" />
@@ -134,7 +143,7 @@
       <array>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//wowonline.visualstudio.com/last mile/_git/deliverynotifications-obsolete" />
+          <option name="value" value="//wowonline.visualstudio.com/platform engineering/_git/analytics-rules-engine-api" />
         </PropertyState>
       </array>
     </option>
