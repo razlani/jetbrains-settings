@@ -101,6 +101,12 @@
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
   <action id="MinimizeCurrentWindow" />
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -154,6 +160,7 @@
   </action>
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.ToggleAmendCommitMode" />
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
