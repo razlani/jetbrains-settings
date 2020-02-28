@@ -82,6 +82,7 @@
   <action id="GlobalJson.ManageNetCoreSdkForProjectAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta d" />
   </action>
+  <action id="GotoLine" />
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
@@ -97,6 +98,7 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="Inline" />
+  <action id="InsertLiveTemplate" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
@@ -111,10 +113,10 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="alt l" />
+    <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="PrevSplitter">
-    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="Refresh" />
   <action id="RemoteHost.NewRemoteItem">
@@ -131,6 +133,7 @@
     <keyboard-shortcut first-keystroke="shift f5" />
   </action>
   <action id="RiderUnitTestAppendTestsTwAction" />
+  <action id="RiderUnitTestRunSolutionTwAction" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
@@ -158,6 +161,7 @@
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ToggleAmendCommitMode" />
