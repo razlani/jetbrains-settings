@@ -113,12 +113,14 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="meta j" />
+    <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
-  <action id="PrevSplitter" />
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>

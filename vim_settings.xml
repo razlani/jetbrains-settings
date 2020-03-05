@@ -11,7 +11,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed J</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -55,6 +55,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor />
