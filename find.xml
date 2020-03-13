@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/Wow.Inventory.Api/Startup.cs'" />
-    <option name="defaultScopeName" value="File '.../src/Wow.Inventory.Api/Startup.cs'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../src/Wow.Inventory.Api/Startup.cs'" />
+    <option name="SEARCH_SCOPE" value="Solution" />
   </component>
 </application>
