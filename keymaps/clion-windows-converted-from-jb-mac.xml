@@ -26,9 +26,6 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="shift m" second-keystroke="shift c" />
   </action>
-  <action id="ConfigureIcs">
-    <keyboard-shortcut first-keystroke="shift s" second-keystroke="shift r" />
-  </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.TableResult.EditValueMaximized">
     <keyboard-shortcut first-keystroke="shift alt enter" />
