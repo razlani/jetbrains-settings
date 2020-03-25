@@ -172,7 +172,7 @@
     <keyboard-shortcut first-keystroke="shift meta f5" />
   </action>
   <action id="ToggleLineBreakpoint">
-    <keyboard-shortcut first-keystroke="meta t" second-keystroke="meta b" />
+    <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="ctrl meta alt j" />
