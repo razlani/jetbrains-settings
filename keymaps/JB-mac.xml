@@ -171,6 +171,9 @@
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift meta f5" />
   </action>
+  <action id="ToggleBreakpointEnabled">
+    <keyboard-shortcut first-keystroke="meta t" second-keystroke="meta b" />
+  </action>
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
@@ -181,6 +184,7 @@
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ToggleAmendCommitMode" />
+  <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
