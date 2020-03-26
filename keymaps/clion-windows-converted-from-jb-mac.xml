@@ -59,6 +59,9 @@
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine" />
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt w" />
+  </action>
   <action id="ExpandExpandableComponent">
     <keyboard-shortcut first-keystroke="alt add" />
   </action>
@@ -67,6 +70,10 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="shift alt n" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift ctrl alt b" />
   </action>
@@ -92,6 +99,8 @@
   <action id="GotoSuperMethod" />
   <action id="GotoSymbol" />
   <action id="Graph.ApplyCurrentLayout" />
+  <action id="HippieBackwardCompletion" />
+  <action id="HippieCompletion" />
   <action id="Inline" />
   <action id="InsertLiveTemplate" />
   <action id="ManageRecentProjects">
@@ -197,5 +206,7 @@
   <action id="context.load" />
   <action id="hg4idea.QRefresh" />
   <action id="openAssertEqualsDiff" />
+  <action id="tasks.close" />
+  <action id="tasks.goto" />
   <action id="tasks.open.in.browser" />
 </keymap>
