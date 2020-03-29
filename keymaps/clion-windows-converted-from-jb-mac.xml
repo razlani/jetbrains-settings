@@ -1,4 +1,19 @@
 <keymap version="1" name="clion-windows-converted-from-jb-mac" parent="$default">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+    <keyboard-shortcut first-keystroke="shift delete" />
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
@@ -45,6 +60,15 @@
   </action>
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="EditorPageDown">
     <keyboard-shortcut first-keystroke="page_down" />
