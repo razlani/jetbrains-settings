@@ -1,7 +1,23 @@
 <keymap version="1" name="clion-windows-converted-from-jb-mac" parent="$default">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+    <keyboard-shortcut first-keystroke="shift delete" />
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
+  <action id="AddToFavoritesPopup" />
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Add">
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -45,6 +61,15 @@
   </action>
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="EditorPageDown">
     <keyboard-shortcut first-keystroke="page_down" />
@@ -162,8 +187,13 @@
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="alt n" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
   <action id="SendEOF" />
   <action id="ShowIntentionActions">
