@@ -148,6 +148,9 @@
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="OpenElementInNewWindow" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
