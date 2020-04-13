@@ -156,12 +156,11 @@
         <mark key="^" line="10" column="10" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/test-documentation/testy/src/main.rs" timestamp="1586768584666">
+      <file name="$USER_HOME$/git/test-documentation/testy/src/main.rs" timestamp="1586769441909">
         <mark key="'" line="98" column="0" />
-        <mark key="[" line="17" column="47" />
-        <mark key="]" line="17" column="48" />
-        <mark key="." line="17" column="47" />
-        <mark key="^" line="17" column="48" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/git/rustlings/rustlings/exercises/variables/variables1.rs" timestamp="1585904621116">
         <mark key="[" line="11" column="4" />
@@ -268,34 +267,34 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Zm4gbWFpbigpIHt9Cg==</text>
+        <text encoding="base64">ICAgIHVzZSBSZXN1bHQgIAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGFzIGY2NDs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHVzZSBSZXN1bHQgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Zm4gbWFpbigpIHt9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVzZSBjcmF0ZTo6a2VrOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZSBjcmF0ZTo6a2VrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNyYXRlOjoK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNyYXRlOjoK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBFcnIoZXJyb3IpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGFzIGY2NDs=</text>
