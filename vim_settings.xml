@@ -96,6 +96,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/GDB" timestamp="1586768397405">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1586089059688">
         <mark key="[" line="0" column="0" />
       </file>
@@ -117,19 +120,6 @@
         <mark key="^" line="17" column="37" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/rustlings/exercises/move_semantics/move_semantics2.rs" timestamp="1585460893008">
-        <mark key="'" line="24" column="4" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="14" column="102" />
-      </file>
-      <file name="$USER_HOME$/Documents/rustlings/exercises/move_semantics/move_semantics3.rs" timestamp="1585467596061">
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="11" column="63" />
-        <mark key="^" line="11" column="63" />
-        <mark key="." line="11" column="63" />
-      </file>
       <file name="$USER_HOME$/Documents/rustlings/exercises/move_semantics/move_semantics4.rs" timestamp="1585467693254">
         <mark key="[" line="19" column="18" />
         <mark key="]" line="19" column="18" />
@@ -144,6 +134,9 @@
         <mark key="]" line="22" column="12" />
         <mark key="." line="22" column="12" />
         <mark key="^" line="22" column="12" />
+      </file>
+      <file name="/fragment.rs" timestamp="1586768537176">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/rustlings/exercises/error_handling/errors2.rs" timestamp="1585474764405">
         <mark key="[" line="29" column="17" />
@@ -163,12 +156,12 @@
         <mark key="^" line="10" column="10" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/test-documentation/testy/src/main.rs" timestamp="1586766997455">
+      <file name="$USER_HOME$/git/test-documentation/testy/src/main.rs" timestamp="1586768584666">
         <mark key="'" line="98" column="0" />
-        <mark key="[" line="44" column="8" />
-        <mark key="]" line="44" column="12" />
-        <mark key="." line="44" column="11" />
-        <mark key="^" line="44" column="12" />
+        <mark key="[" line="17" column="47" />
+        <mark key="]" line="17" column="48" />
+        <mark key="." line="17" column="47" />
+        <mark key="^" line="17" column="48" />
       </file>
       <file name="$USER_HOME$/git/rustlings/rustlings/exercises/variables/variables1.rs" timestamp="1585904621116">
         <mark key="[" line="11" column="4" />
@@ -278,7 +271,7 @@
         <text encoding="base64">Zm4gbWFpbigpIHt9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text encoding="base64">IGFzIGY2NDs=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">fQo=</text>
@@ -305,7 +298,7 @@
         <text encoding="base64">ICAgICAgICBFcnIoZXJyb3IpID0+IHsK</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IGFzIGY2NDs=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaGFyZWRfbnVtYmVyc1w+</text>
