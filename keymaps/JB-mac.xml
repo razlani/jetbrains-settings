@@ -116,7 +116,7 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="meta n" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta r" second-keystroke="r" />
