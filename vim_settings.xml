@@ -4,7 +4,9 @@
   </component>
   <component name="VimHistorySettings">
     <history>
-      <history-search />
+      <history-search>
+        <entry>mod</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
@@ -84,19 +86,169 @@
       <shortcut-conflict owner="ide">
         <text>shift ctrl pressed 2</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
-    <filemarks />
-    <jumps />
+    <filemarks>
+      <file name="/GDB" timestamp="1586768397405">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1586089059688">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/rustlings/exercises/standard_library_types/arc1.rs" timestamp="1586521579096">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/rustlings/exercises/variables/variables5.rs" timestamp="1585954633903">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/rustlings/exercises/error_handling/option1.rs" timestamp="1586085321043">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="17" column="37" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="/Dummy.rs" timestamp="1585824565329">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/rustlings/exercises/error_handling/errors3.rs" timestamp="1585904709047">
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="12" />
+        <mark key="^" line="22" column="12" />
+      </file>
+      <file name="/fragment.rs" timestamp="1586768537176">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/rustlings/exercises/error_handling/errors2.rs" timestamp="1585474764405">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="17" />
+        <mark key="." line="29" column="17" />
+        <mark key="^" line="29" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/rustlings/exercises/clippy/clippy1.rs" timestamp="1586090535947">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="10" column="10" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/.rustup/toolchains/stable-x86_64-pc-windows-gnu/lib/rustlib/src/rust/src/libcore/iter/traits/iterator.rs" timestamp="1587190388693">
+        <mark key="'" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/test-documentation/testy/src/main.rs" timestamp="1586953276385">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="29" column="58" />
+        <mark key="]" line="29" column="65" />
+        <mark key="." line="29" column="64" />
+        <mark key="^" line="29" column="65" />
+      </file>
+      <file name="$USER_HOME$/git/rustlings/rustlings/exercises/variables/variables1.rs" timestamp="1585904621116">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/.rustup/toolchains/stable-x86_64-pc-windows-msvc/lib/rustlib/src/rust/src/liballoc/vec.rs" timestamp="1586258347473">
+        <mark key="'" line="370" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/rustlings/exercises/error_handling/result1.rs" timestamp="1586087687829">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/testy3/src/main.rs" timestamp="1587190451757">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="29" column="7" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/rustlings/exercises/standard_library_types/iterators2.rs" timestamp="1586686396857">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/rustlings/exercises/standard_library_types/iterators3.rs" timestamp="1586952514117">
+        <mark key="'" line="87" column="50" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="87" column="51" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/rustlings/exercises/standard_library_types/iterators4.rs" timestamp="1587190744802">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="26" column="19" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/rustlings/exercises/clippy/clippy2.rs" timestamp="1586090658943">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="68" column="0" filename="$USER_HOME$/CLionProjects/testy3/src/main.rs" />
+      <jump line="95" column="0" filename="$USER_HOME$/CLionProjects/testy3/src/main.rs" />
+      <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/testy3/src/main.rs" />
+      <jump line="2687" column="7" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-pc-windows-gnu/lib/rustlib/src/rust/src/libcore/iter/traits/iterator.rs" />
+      <jump line="20" column="0" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-pc-windows-gnu/lib/rustlib/src/rust/src/libcore/iter/traits/iterator.rs" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gSSBBTSBOT1QgRE9ORQo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gSSBBTSBOT1QgRE9ORQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gSSBBTSBOT1QgRE9ORQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gSSBBTSBOT1QgRE9ORQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGxldCBrZWsgPSB2ZWMuaW50b19pdGVyKCkucHJvZHVjdCgpOwo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">Ly8gaXRlcmF0b3JzMy5ycwovLyBUaGlzIGlzIGEgYmlnZ2VyIGV4ZXJjaXNlIHRoYW4gbW9zdCBvZiB0aGUgb3RoZXJzISBZb3UgY2FuIGRvIGl0IQovLyBIZXJlIGlzIHlvdXIgbWlzc2lvbiwgc2hvdWxkIHlvdSBjaG9vc2UgdG8gYWNjZXB0IGl0OgovLyAxLiBDb21wbGV0ZSB0aGUgZGl2aWRlIGZ1bmN0aW9uIHRvIGdldCB0aGUgZmlyc3QgZm91ciB0ZXN0cyB0byBwYXNzCi8vIDIuIFVuY29tbWVudCB0aGUgbGFzdCB0d28gdGVzdHMgYW5kIGdldCB0aGVtIHRvIHBhc3MgYnkgZmlsbGluZyBpbgovLyAgICB2YWx1ZXMgZm9yIGB4YCB1c2luZyBgZGl2aXNpb25fcmVzdWx0c2AuCi8vIEV4ZWN1dGUgYHJ1c3RsaW5ncyBoaW50IGl0ZXJhdG9yczNgIHRvIGdldCBzb21lIGhpbnRzIQovLyBIYXZlIGZ1biA6LSkKCi8vIEkgQU0gTk9UIERPTkUKCnB1YiBmbiBtYWluKCkgewp9CiNbZGVyaXZlKERlYnVnLCBQYXJ0aWFsRXEsIEVxKV0KCnB1YiBlbnVtIERpdmlzaW9uRXJyb3IgewogICAgTm90RGl2aXNpYmxlKE5vdERpdmlzaWJsZUVycm9yKSwKICAgIERpdmlkZUJ5WmVybywKfQoKI1tkZXJpdmUoRGVidWcsIFBhcnRpYWxFcSwgRXEpXQpwdWIgc3RydWN0IE5vdERpdmlzaWJsZUVycm9yIHsKICAgIGRpdmlkZW5kOiBpMzIsCiAgICBkaXZpc29yOiBpMzIsCn0KCi8vIFRoaXMgZnVuY3Rpb24gc2hvdWxkIGNhbGN1bGF0ZSBgYWAgZGl2aWRlZCBieSBgYmAgaWYgYGFgIGlzCi8vIGV2ZW5seSBkaXZpc2libGUgYnkgYi4KLy8gT3RoZXJ3aXNlLCBpdCBzaG91bGQgcmV0dXJuIGEgc3VpdGFibGUgZXJyb3IuCnB1YiBmbiBkaXZpZGUoYTogaTMyLCBiOiBpMzIpIC0+IFJlc3VsdDxpMzIsIERpdmlzaW9uRXJyb3I+IHsKICAgIC8vdXNlIHBhcnNlIHRvIGdldCBhIHJlc3VsdCBhbmQgY2F0Y2ggdGhlIGVycm9yIHdoZXJlIHRoZSBkaXZpc29yIGlzIDAuIHJlYWQgaHR0cHM6Ly9ibG9nLmJ1cm50c3VzaGkubmV0L3J1c3QtZXJyb3ItaGFuZGxpbmcvI3BhcnNpbmctaW50ZWdlcnMKICAgIGlmIGIgPT0gMCB7CiAgICAgICAgcmV0dXJuIEVycihEaXZpc2lvbkVycm9yOjpEaXZpZGVCeVplcm8pOwogICAgfQoKICAgIGxldCByZW1haW5kZXIgPSBhICUgYjsKCiAgICByZXR1cm4gbWF0Y2ggcmVtYWluZGVyID09IDAgewogICAgICAgIHRydWUgPT4geyBPayhhL2IpIH0KICAgICAgICBmYWxzZSA9PiB7CiAgICAgICAgICAgIEVycihEaXZpc2lvbkVycm9yOjpOb3REaXZpc2libGUoTm90RGl2aXNpYmxlRXJyb3IgewogICAgICAgICAgICAgICAgZGl2aWRlbmQ6IGEsCiAgICAgICAgICAgICAgICBkaXZpc29yOiBiLAogICAgICAgICAgICB9KSkKICAgICAgICB9CiAgICB9Owp9CgojW2NmZyh0ZXN0KV0KbW9kIHRlc3RzIHsKICAgIHVzZSBzdXBlcjo6KjsKCiAgICAvLyBUZXN0cyB0aGF0IHZlcmlmeSB5b3VyIGBkaXZpZGVgIGZ1bmN0aW9uIGltcGxlbWVudGF0aW9uCiAgICAjW3Rlc3RdCiAgICBmbiB0ZXN0X3N1Y2Nlc3MoKSB7CiAgICAgICAgYXNzZXJ0X2VxIShkaXZpZGUoODEsIDkpLCBPayg5KSk7CiAgICB9CgogICAgI1t0ZXN0XQogICAgZm4gdGVzdF9ub3RfZGl2aXNpYmxlKCkgewogICAgICAgIGFzc2VydF9lcSEoCiAgICAgICAgICAgIGRpdmlkZSg4MSwgNiksCiAgICAgICAgICAgIEVycihEaXZpc2lvbkVycm9yOjpOb3REaXZpc2libGUoTm90RGl2aXNpYmxlRXJyb3IgewogICAgICAgICAgICAgICAgZGl2aWRlbmQ6IDgxLAogICAgICAgICAgICAgICAgZGl2aXNvcjogNiwKICAgICAgICAgICAgfSkpCiAgICAgICAgKTsKICAgIH0KCiAgICAjW3Rlc3QKICAgIGZuIHRlc3RfZGl2aWRlX2J5XzAoKSB7CiAgICAgICAgYXNzZXJ0X2VxIShkaXZpZGUoODEsIDApLCBFcnIoRGl2aXNpb25FcnJvcjo6RGl2aWRlQnlaZXJvKSk7CiAgICB9CgogICAgI1t0ZXN0XQogICAgZm4gdGVzdF9kaXZpZGVfMF9ieV9zb21ldGhpbmcoKSB7CiAgICAgICAgYXNzZXJ0X2VxIShkaXZpZGUoMCwgODEpLCBPaygwKSk7CiAgICB9CgogICAgdXNlIHN0ZDo6aXRlcjsKICAgIC8vIEl0ZXJhdG9yIGV4ZXJjaXNlcyB1c2luZyB5b3VyIGBkaXZpZGVgIGZ1bmN0aW9uCiAgICAjW3Rlc3RdCiAgICBmbiByZXN1bHRfd2l0aF9saXN0KCkgewogICAgICAgIGxldCBudW1iZXJzID0gdmVjIVsyNywgMjk3LCAzODUwMiwgODFdOwogICAgICAgIGxldCBkaXZpc2lvbl9yZXN1bHRzID0gbnVtYmVycy5pbnRvX2l0ZXIoKS5tYXAofG58IGRpdmlkZShuLCAyNykpOwogICAgICAgIGFzc2VydF9lcSEoZm9ybWF0ISgiezo/fSIsIHgpLCAiT2soWzEsIDExLCAxNDI2LCAzXSkiKTsKICAgIH0KICAgIC8vCiAgICAvLyAjW3Rlc3RdCiAgICAvLyBmbiBsaXN0X29mX3Jlc3VsdHMoKSB7CiAgICAvLyAgICAgbGV0IG51bWJlcnMgPSB2ZWMhWzI3LCAyOTcsIDM4NTAyLCA4MV07CiAgICAvLyAgICAgbGV0IGRpdmlzaW9uX3Jlc3VsdHMgPSBudW1iZXJzLmludG9faXRlcigpLm1hcCh8bnwgZGl2aWRlKG4sIDI3KSk7CiAgICAvLyAgICAgbGV0IHggLy8uLi4gRmlsbCBpbiBoZXJlIQogICAgLy8gICAgIGFzc2VydF9lcSEoZm9ybWF0ISgiezo/fSIsIHgpLCAiW09rKDEpLCBPaygxMSksIE9rKDE0MjYpLCBPaygzKV0iKTsKICAgIC8vIH0KfQ==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Ojo8UmFuZ2U8dTY0Pj4oKS5jb2xsZWN0Ojo8UmFuZ2U8dTY0Pj4oKQ==</text>
+      </register>
+      <register name="/" type="4">
+        <text>mod</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search>mod</last-search>
+      <last-offset />
+      <last-pattern>mod</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
