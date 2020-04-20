@@ -98,6 +98,7 @@
         <mark key="^" line="16" column="69" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory.Api/appsettings.json" timestamp="1587360250775" />
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/src/Wow.Inventory.ArticleConsumer/SohEventHubTrigger.cs" timestamp="1587105001366">
         <mark key="[" line="51" column="19" />
         <mark key="]" line="51" column="37" />
@@ -115,6 +116,14 @@
         <mark key="]" line="21" column="3" />
         <mark key="." line="21" column="3" />
       </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/appspec.yaml" timestamp="1587360369094">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1587360284411" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory/Data/MongoConnectionManager.cs" timestamp="1587359458967" />
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/src/Wow.Inventory.SohConsumer/appsettings.json" timestamp="1587104440682">
         <mark key="[" line="24" column="3" />
         <mark key="]" line="24" column="3" />
@@ -133,35 +142,35 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>null</text>
-      </register>
-      <register name="2" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHZhbHVlOiAie3tNb25nb0Nvbm5lY3Rpb25TdHJpbmd9fSIK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8SXRlbUdyb3VwPgogICAgPFBhY2thZ2VSZWZlcmVuY2UgVXBkYXRlPSJOZXJkQmFuay5HaXRWZXJzaW9uaW5nIiBWZXJzaW9uPSIzLjEuNzQiPgogICAgICA8UHJpdmF0ZUFzc2V0cz5hbGw8L1ByaXZhdGVBc3NldHM+CiAgICAgIDxJbmNsdWRlQXNzZXRzPnJ1bnRpbWU7IGJ1aWxkOyBuYXRpdmU7IGNvbnRlbnRmaWxlczsgYW5hbHl6ZXJzPC9JbmNsdWRlQXNzZXRzPgogICAgPC9QYWNrYWdlUmVmZXJlbmNlPgogIDwvSXRlbUdyb3VwPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxOb25lIFJlbW92ZT0iUHJvdG9zXEFydGljbGVTb2gucHJvdG8iIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiU2V0dGluZ3NDYWNoZUNvbmZpZyI6IHsKICAgICJTbGlkaW5nRXhwaXJhdGlvblNlY29uZHMiOiAxMCwKICAgICJBYnNvbHV0ZUV4cGlyYXRpb25TZWNvbmRzIjogMzAsCiAgICAiVG90YWxTaXplTGltaXQiOiA4MDAwCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiRlNDSG9zdCI6ICJodHRwczovL29mazhzYWFlLmRldi53eC1kLm5ldCIsCg==</text>
+        <text encoding="base64">ICA8SXRlbUdyb3VwPgogICAgPFBhY2thZ2VSZWZlcmVuY2UgVXBkYXRlPSJOZXJkQmFuay5HaXRWZXJzaW9uaW5nIiBWZXJzaW9uPSIzLjEuNzQiPgogICAgICA8UHJpdmF0ZUFzc2V0cz5hbGw8L1ByaXZhdGVBc3NldHM+CiAgICAgIDxJbmNsdWRlQXNzZXRzPnJ1bnRpbWU7IGJ1aWxkOyBuYXRpdmU7IGNvbnRlbnRmaWxlczsgYW5hbHl6ZXJzPC9JbmNsdWRlQXNzZXRzPgogICAgPC9QYWNrYWdlUmVmZXJlbmNlPgogIDwvSXRlbUdyb3VwPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiTW9uZ29EQiI6IHsKICAgICJDb25uZWN0aW9uU3RyaW5nIjogIm1vbmdvZGI6Ly8xMjcuMC4wLjE6MjcwMTciCiAgfSwK</text>
+        <text encoding="base64">ICAgIDxOb25lIFJlbW92ZT0iUHJvdG9zXEFydGljbGVTb2gucHJvdG8iIC8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJhbGMtZGVsdGEiOiB7CiAgICAgICJDb25uZWN0aW9uU3RyaW5nIjogIkVuZHBvaW50PXNiOi8vd293LXNvaC1kZXYtZWh1LWFhcy5zZXJ2aWNlYnVzLndpbmRvd3MubmV0LztTaGFyZWRBY2Nlc3NLZXlOYW1lPWFsYy1kZWx0YS1zb2gtc2VuZGVyO1NoYXJlZEFjY2Vzc0tleT1OcE5zV0R1aXlJTzdWNDF1SU9wWjdGWEZ3dmNab3dVWmFZeFJ0UE50cDJRPTtFbnRpdHlQYXRoPWFsYy1kZWx0YSIKICAgIH0sCiAgICAic29oLWRlbHRhIjogewogICAgICAiQ29ubmVjdGlvblN0cmluZyI6ICJFbmRwb2ludD1zYjovL3dvdy1zb2gtZGV2LWVodS1hYXMuc2VydmljZWJ1cy53aW5kb3dzLm5ldC87U2hhcmVkQWNjZXNzS2V5TmFtZT1zb2gtZGVsdGEtc29oLXNlbmRlcjtTaGFyZWRBY2Nlc3NLZXk9QzFNZGZ2eDNXNzdvMERJaUdGd0MzS0Z1Yld2eVVUa1RjMDJZTEtQWDJWbz07RW50aXR5UGF0aD1zb2gtZGVsdGEiCiAgICB9LAogICAgInNvaC1tZXJnZWQtZGVsdGEiOiB7CiAgICAgICJDb25uZWN0aW9uU3RyaW5nIjogIkVuZHBvaW50PXNiOi8vd293LXNvaC1kZXYtZWh1LWFhcy5zZXJ2aWNlYnVzLndpbmRvd3MubmV0LztTaGFyZWRBY2Nlc3NLZXlOYW1lPXNvaC1tZXJnZWQtZGVsdGEtc29oLXNlbmRlcjtTaGFyZWRBY2Nlc3NLZXk9L1c5aW5wS0hqM3FrQVdrdlhaN291RDFFclZRQ0N1dWhrSmoxMTFGTHRZaz07RW50aXR5UGF0aD1zb2gtbWVyZ2VkLWRlbHRhIgogICAgfQo=</text>
+        <text encoding="base64">ICAiU2V0dGluZ3NDYWNoZUNvbmZpZyI6IHsKICAgICJTbGlkaW5nRXhwaXJhdGlvblNlY29uZHMiOiAxMCwKICAgICJBYnNvbHV0ZUV4cGlyYXRpb25TZWNvbmRzIjogMzAsCiAgICAiVG90YWxTaXplTGltaXQiOiA4MDAwCiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAiRlNDSG9zdCI6ICJodHRwczovL29mazhzYWFlLmRldi53eC1kLm5ldCIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>MongoDBName</text>
       </register>
     </registers>
   </component>
