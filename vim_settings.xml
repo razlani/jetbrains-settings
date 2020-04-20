@@ -110,16 +110,17 @@
         <mark key="]" line="21" column="3" />
         <mark key="." line="21" column="3" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/appspec.yaml" timestamp="1587360369094">
+      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/appspec.yaml" timestamp="1587362381955">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="^" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory.Api/appsettings.Development.json" timestamp="1587361472099">
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="12" />
-        <mark key="." line="20" column="12" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory.Api/appsettings.Development.json" timestamp="1587362392879">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="12" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/src/Wow.Inventory.ArticleConsumer/SohEventHubTrigger.cs" timestamp="1587105001366">
         <mark key="[" line="51" column="19" />
@@ -145,16 +146,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJQb3J0IjogLAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>27017</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJQb3J0IjogLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbHVlOiAie3tNb25nb0Nvbm5lY3Rpb25TdHJpbmd9fSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbHVlOiAie3tNb25nb0Nvbm5lY3Rpb25TdHJpbmd9fSIK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -163,16 +164,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8SXRlbUdyb3VwPgogICAgPFBhY2thZ2VSZWZlcmVuY2UgVXBkYXRlPSJOZXJkQmFuay5HaXRWZXJzaW9uaW5nIiBWZXJzaW9uPSIzLjEuNzQiPgogICAgICA8UHJpdmF0ZUFzc2V0cz5hbGw8L1ByaXZhdGVBc3NldHM+CiAgICAgIDxJbmNsdWRlQXNzZXRzPnJ1bnRpbWU7IGJ1aWxkOyBuYXRpdmU7IGNvbnRlbnRmaWxlczsgYW5hbHl6ZXJzPC9JbmNsdWRlQXNzZXRzPgogICAgPC9QYWNrYWdlUmVmZXJlbmNlPgogIDwvSXRlbUdyb3VwPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxOb25lIFJlbW92ZT0iUHJvdG9zXEFydGljbGVTb2gucHJvdG8iIC8+Cg==</text>
+        <text encoding="base64">ICA8SXRlbUdyb3VwPgogICAgPFBhY2thZ2VSZWZlcmVuY2UgVXBkYXRlPSJOZXJkQmFuay5HaXRWZXJzaW9uaW5nIiBWZXJzaW9uPSIzLjEuNzQiPgogICAgICA8UHJpdmF0ZUFzc2V0cz5hbGw8L1ByaXZhdGVBc3NldHM+CiAgICAgIDxJbmNsdWRlQXNzZXRzPnJ1bnRpbWU7IGJ1aWxkOyBuYXRpdmU7IGNvbnRlbnRmaWxlczsgYW5hbHl6ZXJzPC9JbmNsdWRlQXNzZXRzPgogICAgPC9QYWNrYWdlUmVmZXJlbmNlPgogIDwvSXRlbUdyb3VwPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiU2V0dGluZ3NDYWNoZUNvbmZpZyI6IHsKICAgICJTbGlkaW5nRXhwaXJhdGlvblNlY29uZHMiOiAxMCwKICAgICJBYnNvbHV0ZUV4cGlyYXRpb25TZWNvbmRzIjogMzAsCiAgICAiVG90YWxTaXplTGltaXQiOiA4MDAwCiAgfQo=</text>
+        <text encoding="base64">ICAgIDxOb25lIFJlbW92ZT0iUHJvdG9zXEFydGljbGVTb2gucHJvdG8iIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiRlNDSG9zdCI6ICJodHRwczovL29mazhzYWFlLmRldi53eC1kLm5ldCIsCg==</text>
+        <text encoding="base64">ICAiU2V0dGluZ3NDYWNoZUNvbmZpZyI6IHsKICAgICJTbGlkaW5nRXhwaXJhdGlvblNlY29uZHMiOiAxMCwKICAgICJBYnNvbHV0ZUV4cGlyYXRpb25TZWNvbmRzIjogMzAsCiAgICAiVG90YWxTaXplTGltaXQiOiA4MDAwCiAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>27017</text>
