@@ -89,8 +89,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587363261125">
+      <file name="/Dummy.txt" timestamp="1587365681959">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/src/Wow.Inventory.SohConsumer/Program.cs" timestamp="1587104420980">
         <mark key="[" line="8" column="0" />
@@ -122,17 +124,25 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="12" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F40AEF44-138B-4E3C-B2DE-5FA77D7F0FEE/44/94ef0844/MongoClientSettings.cs" timestamp="1587365190966">
+        <mark key="'" line="752" column="38" />
+      </file>
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/src/Wow.Inventory.ArticleConsumer/SohEventHubTrigger.cs" timestamp="1587105001366">
         <mark key="[" line="51" column="19" />
         <mark key="]" line="51" column="37" />
         <mark key="." line="51" column="36" />
         <mark key="^" line="51" column="37" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1587360284411" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1587365005829" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EECC55F8-6D3B-46EF-9F04-DCE2C8958DEE/97/d045cf3f/MongoServerAddress.cs" timestamp="1587364885475">
         <mark key="'" line="71" column="21" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory/Data/MongoConnectionManager.cs" timestamp="1587364286120" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory/Data/MongoConnectionManager.cs" timestamp="1587365619919">
+        <mark key="[" line="95" column="56" />
+        <mark key="]" line="96" column="12" />
+        <mark key="^" line="96" column="12" />
+        <mark key="." line="96" column="11" />
+      </file>
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/src/Wow.Inventory.SohConsumer/appsettings.json" timestamp="1587104440682">
         <mark key="[" line="24" column="3" />
         <mark key="]" line="24" column="3" />
@@ -146,42 +156,43 @@
     </filemarks>
     <jumps>
       <jump line="71" column="21" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EECC55F8-6D3B-46EF-9F04-DCE2C8958DEE/97/d045cf3f/MongoServerAddress.cs" />
+      <jump line="752" column="38" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F40AEF44-138B-4E3C-B2DE-5FA77D7F0FEE/44/94ef0844/MongoClientSettings.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJQb3J0IjogLAo=</text>
+        <text>add conn string to mongo as kv value</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJQb3J0IjogLAo=</text>
+        <text>add conn string to mongo as kv value</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbHVlOiAie3tNb25nb0Nvbm5lY3Rpb25TdHJpbmd9fSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9uZ29DbGllbnRTZXR0aW5ncy5TZXJ2ZXIgPSBpZihwb3J0ID4gMCkgbmV3IE1vbmdvU2VydmVyQWRkcmVzcyhob3N0LCBwb3J0KQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8SXRlbUdyb3VwPgogICAgPFBhY2thZ2VSZWZlcmVuY2UgVXBkYXRlPSJOZXJkQmFuay5HaXRWZXJzaW9uaW5nIiBWZXJzaW9uPSIzLjEuNzQiPgogICAgICA8UHJpdmF0ZUFzc2V0cz5hbGw8L1ByaXZhdGVBc3NldHM+CiAgICAgIDxJbmNsdWRlQXNzZXRzPnJ1bnRpbWU7IGJ1aWxkOyBuYXRpdmU7IGNvbnRlbnRmaWxlczsgYW5hbHl6ZXJzPC9JbmNsdWRlQXNzZXRzPgogICAgPC9QYWNrYWdlUmVmZXJlbmNlPgogIDwvSXRlbUdyb3VwPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgID8gbmV3IE1vbmdvU2VydmVyQWRkcmVzcyhob3N0LCBwb3J0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxOb25lIFJlbW92ZT0iUHJvdG9zXEFydGljbGVTb2gucHJvdG8iIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9uZ29DbGllbnRTZXR0aW5nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiU2V0dGluZ3NDYWNoZUNvbmZpZyI6IHsKICAgICJTbGlkaW5nRXhwaXJhdGlvblNlY29uZHMiOiAxMCwKICAgICJBYnNvbHV0ZUV4cGlyYXRpb25TZWNvbmRzIjogMzAsCiAgICAiVG90YWxTaXplTGltaXQiOiA4MDAwCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>27017</text>
+        <text>.</text>
       </register>
     </registers>
   </component>
