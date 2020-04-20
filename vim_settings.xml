@@ -112,17 +112,17 @@
         <mark key="]" line="21" column="3" />
         <mark key="." line="21" column="3" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/appspec.yaml" timestamp="1587362381955">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/appspec.yaml" timestamp="1587368709807">
+        <mark key="[" line="40" column="21" />
+        <mark key="]" line="40" column="33" />
+        <mark key="^" line="40" column="33" />
+        <mark key="." line="40" column="32" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory.Api/appsettings.Development.json" timestamp="1587362392879">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="12" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory.Api/appsettings.Development.json" timestamp="1587369187510">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="50" />
+        <mark key="." line="21" column="49" />
+        <mark key="^" line="21" column="50" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F40AEF44-138B-4E3C-B2DE-5FA77D7F0FEE/44/94ef0844/MongoClientSettings.cs" timestamp="1587365190966">
         <mark key="'" line="752" column="38" />
@@ -137,7 +137,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EECC55F8-6D3B-46EF-9F04-DCE2C8958DEE/97/d045cf3f/MongoServerAddress.cs" timestamp="1587364885475">
         <mark key="'" line="71" column="21" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory/Data/MongoConnectionManager.cs" timestamp="1587365619919">
+      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory/Data/MongoConnectionManager.cs" timestamp="1587368356847">
         <mark key="[" line="95" column="56" />
         <mark key="]" line="96" column="12" />
         <mark key="^" line="96" column="12" />
@@ -163,37 +163,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text>add conn string to mongo as kv value</text>
+        <text encoding="base64">ICAgIHZhbHVlOiBNb25nb0Nvbm5lY3Rpb25TdHJpbmcK</text>
       </register>
       <register name="&quot;" type="2">
-        <text>add conn string to mongo as kv value</text>
+        <text encoding="base64">ICAgIHZhbHVlOiBNb25nb0Nvbm5lY3Rpb25TdHJpbmcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhbHVlOiAie3tNb25nb1BvcnR9fSIK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9uZ29DbGllbnRTZXR0aW5ncy5TZXJ2ZXIgPSBpZihwb3J0ID4gMCkgbmV3IE1vbmdvU2VydmVyQWRkcmVzcyhob3N0LCBwb3J0KQo=</text>
+        <text encoding="base64">ICAtIG5hbWU6IE1vbmdvX19Qb3J0Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgID8gbmV3IE1vbmdvU2VydmVyQWRkcmVzcyhob3N0LCBwb3J0KQo=</text>
+        <text>add conn string to mongo as kv value</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9uZ29DbGllbnRTZXR0aW5nCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>&quot;{{MongoHost}}&quot;</text>
       </register>
     </registers>
   </component>
