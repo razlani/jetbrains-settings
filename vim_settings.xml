@@ -5,8 +5,9 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZXRDb25maWd1cmF0aW9uVmFsdWVcPg==</entry>
         <entry encoding="base64">XDxhc3NlbWJseUZpeHR1cmVcPg==</entry>
+        <entry encoding="base64">XDxDb25maWd1cmF0aW9uU2VjdGlvbk5hbWVcPg==</entry>
+        <entry encoding="base64">XDxHZXRDb25maWd1cmF0aW9uVmFsdWVcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -98,7 +99,7 @@
         <mark key="^" line="20" column="31" />
         <mark key="." line="20" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587438169597">
+      <file name="/Dummy.txt" timestamp="1587439591538">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -110,27 +111,22 @@
         <mark key="." line="33" column="80" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory.Api/appsettings.json" timestamp="1587360250775" />
-      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1587104477791">
-        <mark key="[" line="21" column="3" />
-        <mark key="]" line="21" column="3" />
-        <mark key="." line="21" column="3" />
-      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/test/Wow.Inventory.Api.FunctionalTests/Features/StockOnHand.feature.cs" timestamp="1587438003175">
         <mark key="[" line="33" column="76" />
         <mark key="]" line="33" column="76" />
         <mark key="." line="33" column="76" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/appspec.yaml" timestamp="1587368709807">
+      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/appspec.yaml" timestamp="1587439216467">
         <mark key="[" line="40" column="21" />
         <mark key="]" line="40" column="33" />
         <mark key="^" line="40" column="33" />
         <mark key="." line="40" column="32" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory.Api/appsettings.Development.json" timestamp="1587436722200">
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="19" column="13" />
-        <mark key="." line="19" column="12" />
-        <mark key="^" line="19" column="13" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory.Api/appsettings.Development.json" timestamp="1587440014631">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="17" />
+        <mark key="." line="20" column="16" />
+        <mark key="^" line="20" column="17" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F40AEF44-138B-4E3C-B2DE-5FA77D7F0FEE/44/94ef0844/MongoClientSettings.cs" timestamp="1587365190966">
         <mark key="'" line="752" column="38" />
@@ -142,11 +138,17 @@
         <mark key="^" line="51" column="37" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/test/Wow.Inventory.Api.FunctionalTests/Wow.Inventory.Api.FunctionalTests.csproj" timestamp="1587437383914" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory.Api/Startup.cs" timestamp="1587439797425">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="58" column="20" />
+      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1587365005829" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EECC55F8-6D3B-46EF-9F04-DCE2C8958DEE/97/d045cf3f/MongoServerAddress.cs" timestamp="1587364885475">
         <mark key="'" line="71" column="21" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory/Data/MongoConnectionManager.cs" timestamp="1587435745136">
+      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory/Data/MongoConnectionManager.cs" timestamp="1587439252611">
         <mark key="'" line="94" column="35" />
         <mark key="[" line="102" column="57" />
         <mark key="]" line="102" column="61" />
@@ -166,55 +168,59 @@
       <jump line="124" column="23" filename="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory/Data/MongoConnectionManager.cs" />
       <jump line="139" column="36" filename="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory/Data/MongoConnectionManager.cs" />
       <jump line="146" column="36" filename="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory/Data/MongoConnectionManager.cs" />
-      <jump line="94" column="35" filename="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory/Data/MongoConnectionManager.cs" />
       <jump line="33" column="135" filename="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/test/Wow.Inventory.Api.FunctionalTests/Features/ArticleRange.feature.cs" />
+      <jump line="13" column="29" filename="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory/Data/MongoConnectionManager.cs" />
+      <jump line="130" column="23" filename="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory/Data/MongoConnectionManager.cs" />
+      <jump line="145" column="36" filename="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory/Data/MongoConnectionManager.cs" />
+      <jump line="152" column="36" filename="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory/Data/MongoConnectionManager.cs" />
+      <jump line="94" column="35" filename="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory/Data/MongoConnectionManager.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text>add connection string changes</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>mongodb://127.0.0.1:27017</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>add connection string changes</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhvc3QgPSBHZXRDb25maWd1cmF0aW9uVmFsdWUoIkhvc3QiLCB0cnVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBvcnQgPiAwKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBtb25nb0NsaWVudFNldHRpbmdzLlNlcnZlciA9IG5ldyBNb25nb1NlcnZlckFkZHJlc3MoaG9zdCwgcG9ydCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBtb25nb0NsaWVudFNldHRpbmdzID0gTW9uZ29DbGllbnRTZXR0aW5ncy5Gcm9tQ29ubmVjdGlvblN0cmluZyhob3N0KTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>mongodb://127.0.0.1:27017</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3NlbWJseUZpeHR1cmVcPg==</text>
+        <text encoding="base64">XDxHZXRDb25maWd1cmF0aW9uVmFsdWVcPg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhc3NlbWJseUZpeHR1cmVcPg==</last-search>
+      <last-search encoding="base64">XDxHZXRDb25maWd1cmF0aW9uVmFsdWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3NlbWJseUZpeHR1cmVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxHZXRDb25maWd1cmF0aW9uVmFsdWVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
