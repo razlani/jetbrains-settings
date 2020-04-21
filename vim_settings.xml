@@ -99,6 +99,9 @@
         <mark key="^" line="20" column="31" />
         <mark key="." line="20" column="30" />
       </file>
+      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/version.json" timestamp="1587449034449">
+        <mark key="[" line="1" column="17" />
+      </file>
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/src/Wow.Inventory.ArticleConsumer/appsettings.json" timestamp="1587447605821">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="4" />
@@ -111,6 +114,7 @@
         <mark key="^" line="40" column="33" />
         <mark key="." line="40" column="32" />
       </file>
+      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/test/Wow.Inventory.FunctionalTests/appSettings.json" timestamp="1587448882190" />
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/src/Wow.Inventory.ArticleConsumer/Program.cs" timestamp="1587442961291" />
       <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/test/Wow.Inventory.Api.FunctionalTests/Wow.Inventory.Api.FunctionalTests.csproj" timestamp="1587437383914" />
       <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory.Api/Startup.cs" timestamp="1587439797425">
@@ -120,7 +124,7 @@
         <mark key="^" line="58" column="20" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1587447549942" />
-      <file name="/Dummy.txt" timestamp="1587443128753">
+      <file name="/Dummy.txt" timestamp="1587448852039">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -147,14 +151,11 @@
         <mark key="." line="19" column="16" />
         <mark key="^" line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/src/Wow.Inventory.ArticleConsumer/appsettings.Development.json" timestamp="1587448459479">
-        <mark key="[" line="15" column="44" />
-        <mark key="]" line="16" column="2" />
-        <mark key="." line="16" column="1" />
-        <mark key="^" line="16" column="2" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F40AEF44-138B-4E3C-B2DE-5FA77D7F0FEE/44/94ef0844/MongoClientSettings.cs" timestamp="1587365190966">
-        <mark key="'" line="752" column="38" />
+      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/src/Wow.Inventory.ArticleConsumer/appsettings.Development.json" timestamp="1587448471944">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="19" column="26" />
+        <mark key="^" line="19" column="27" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory/Data/MongoConnectionManager.cs" timestamp="1587439252611">
         <mark key="'" line="94" column="35" />
@@ -163,7 +164,6 @@
         <mark key="^" line="102" column="61" />
         <mark key="." line="102" column="60" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_2.http" timestamp="1587367158334" />
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/src/Wow.Inventory.ArticleConsumer/ArticleEventHubTrigger.cs" timestamp="1587448353294">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -190,8 +190,8 @@
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFwcGxpY2F0aW9uSW5zaWdodHM7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFwcGxpY2F0aW9uSW5zaWdodHM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Endpoint=sb://wow-soh-dev-ehu-aas.servicebus.windows.net/;SharedAccessKeyName=ef;SharedAccessKey=UJsskhvSlxM5D4lI2t1O+N0rd3aZEb4O2mUsT+fcRj8=;EntityPath=kek-test-2</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICBNb25nb0Nvbm5lY3Rpb25TdHJpbmc6ICJ7e3dvdy1zb2gtbW9uZ28tY29ubmVjdGlvbi1zdHJpbmd9fSIK</text>
@@ -218,7 +218,7 @@
         <text encoding="base64">ICAtIG5hbWU6IEV2ZW50SHVic19fc29oLW1lcmdlZC1kZWx0YV9fQ29ubmVjdGlvblN0cmluZwo=</text>
       </register>
       <register name="-" type="4">
-        <text>TelemetryClient telemetryClient</text>
+        <text>Endpoint=sb://wow-soh-dev-ehu-aas.servicebus.windows.net/;SharedAccessKeyName=ef;SharedAccessKey=UJsskhvSlxM5D4lI2t1O+N0rd3aZEb4O2mUsT+fcRj8=;EntityPath=kek-test-2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRDb25maWd1cmF0aW9uVmFsdWVcPg==</text>

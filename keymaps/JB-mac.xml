@@ -175,7 +175,7 @@
     <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="Unsplit">
-    <keyboard-shortcut first-keystroke="meta alt k" />
+    <keyboard-shortcut first-keystroke="ctrl meta k" />
   </action>
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="ctrl meta alt k" />
