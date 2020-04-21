@@ -97,7 +97,7 @@
       <file name="/GDB" timestamp="1586768397405">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586089059688">
+      <file name="/Dummy.txt" timestamp="1587383629627">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/rustlings/exercises/standard_library_types/arc1.rs" timestamp="1586521579096">
@@ -149,12 +149,7 @@
         <mark key="." line="29" column="64" />
         <mark key="^" line="29" column="65" />
       </file>
-      <file name="$USER_HOME$/git/rustlings/rustlings/exercises/variables/variables1.rs" timestamp="1585904621116">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="3" />
-        <mark key="." line="11" column="3" />
-        <mark key="^" line="11" column="3" />
-      </file>
+      <file name="$USER_HOME$/Documents/rustlings/info.toml" timestamp="1587383636092" />
       <file name="$USER_HOME$/.rustup/toolchains/stable-x86_64-pc-windows-msvc/lib/rustlib/src/rust/src/liballoc/vec.rs" timestamp="1586258347473">
         <mark key="'" line="370" column="44" />
       </file>
