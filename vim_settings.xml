@@ -99,7 +99,28 @@
         <mark key="^" line="20" column="31" />
         <mark key="." line="20" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587439591538">
+      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/src/Wow.Inventory.ArticleConsumer/appsettings.json" timestamp="1587442861624">
+        <mark key="[" line="18" column="50" />
+        <mark key="]" line="19" column="6" />
+        <mark key="^" line="19" column="6" />
+        <mark key="." line="19" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/appspec.yaml" timestamp="1587439216467">
+        <mark key="[" line="40" column="21" />
+        <mark key="]" line="40" column="33" />
+        <mark key="^" line="40" column="33" />
+        <mark key="." line="40" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/src/Wow.Inventory.ArticleConsumer/Program.cs" timestamp="1587442961291" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/test/Wow.Inventory.Api.FunctionalTests/Wow.Inventory.Api.FunctionalTests.csproj" timestamp="1587437383914" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory.Api/Startup.cs" timestamp="1587439797425">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="58" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1587365005829" />
+      <file name="/Dummy.txt" timestamp="1587443128753">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -110,41 +131,26 @@
         <mark key="]" line="33" column="80" />
         <mark key="." line="33" column="80" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory.Api/appsettings.json" timestamp="1587360250775" />
       <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/test/Wow.Inventory.Api.FunctionalTests/Features/StockOnHand.feature.cs" timestamp="1587438003175">
         <mark key="[" line="33" column="76" />
         <mark key="]" line="33" column="76" />
         <mark key="." line="33" column="76" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/appspec.yaml" timestamp="1587439216467">
-        <mark key="[" line="40" column="21" />
-        <mark key="]" line="40" column="33" />
-        <mark key="^" line="40" column="33" />
-        <mark key="." line="40" column="32" />
-      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory.Api/appsettings.Development.json" timestamp="1587440014631">
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="17" />
-        <mark key="." line="20" column="16" />
-        <mark key="^" line="20" column="17" />
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="16" />
+        <mark key="^" line="19" column="17" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/src/Wow.Inventory.ArticleConsumer/appsettings.Development.json" timestamp="1587442837108">
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="17" column="2" />
+        <mark key="." line="17" column="1" />
+        <mark key="^" line="17" column="2" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F40AEF44-138B-4E3C-B2DE-5FA77D7F0FEE/44/94ef0844/MongoClientSettings.cs" timestamp="1587365190966">
         <mark key="'" line="752" column="38" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/src/Wow.Inventory.ArticleConsumer/SohEventHubTrigger.cs" timestamp="1587105001366">
-        <mark key="[" line="51" column="19" />
-        <mark key="]" line="51" column="37" />
-        <mark key="." line="51" column="36" />
-        <mark key="^" line="51" column="37" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/test/Wow.Inventory.Api.FunctionalTests/Wow.Inventory.Api.FunctionalTests.csproj" timestamp="1587437383914" />
-      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory.Api/Startup.cs" timestamp="1587439797425">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="58" column="20" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1587365005829" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EECC55F8-6D3B-46EF-9F04-DCE2C8958DEE/97/d045cf3f/MongoServerAddress.cs" timestamp="1587364885475">
         <mark key="'" line="71" column="21" />
       </file>
@@ -156,10 +162,11 @@
         <mark key="." line="102" column="60" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_2.http" timestamp="1587367158334" />
-      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/src/Wow.Inventory.ArticleConsumer/Wow.Inventory.ArticleConsumer.csproj" timestamp="1587104798443">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/src/Wow.Inventory.ArticleConsumer/ArticleEventHubTrigger.cs" timestamp="1587443083197">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="22" column="72" />
       </file>
     </filemarks>
     <jumps>
@@ -179,37 +186,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3RlbGVtZXRyeUNsaWVudCA9IHRlbGVtZXRyeUNsaWVudDsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>mongodb://127.0.0.1:27017</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX3RlbGVtZXRyeUNsaWVudCA9IHRlbGVtZXRyeUNsaWVudDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFwcGxpY2F0aW9uSW5zaWdodHMuRGF0YUNvbnRyYWN0czsK</text>
       </register>
       <register name="3" type="2">
-        <text>add connection string changes</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IFRlbGVtZXRyeUNsaWVudCBfdGVsZW1ldHJ5Q2xpZW50Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF90ZWxlbWV0cnlDbGllbnQuRmx1c2goKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF90ZWxlbWV0cnlDbGllbnQuU3RvcE9wZXJhdGlvbihvcGVyYXRpb25Ib2xkZXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWxseQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wZXJhdGlvbkhvbGRlci5UZWxlbWV0cnkuU3VjY2VzcyA9IGZhbHNlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>mongodb://127.0.0.1:27017</text>
+        <text>soh-consumer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRDb25maWd1cmF0aW9uVmFsdWVcPg==</text>
