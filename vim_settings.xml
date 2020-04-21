@@ -114,7 +114,9 @@
         <mark key="^" line="40" column="33" />
         <mark key="." line="40" column="32" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/test/Wow.Inventory.FunctionalTests/appSettings.json" timestamp="1587448882190" />
+      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/test/Wow.Inventory.FunctionalTests/appSettings.json" timestamp="1587449919827">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/src/Wow.Inventory.ArticleConsumer/Program.cs" timestamp="1587442961291" />
       <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/test/Wow.Inventory.Api.FunctionalTests/Wow.Inventory.Api.FunctionalTests.csproj" timestamp="1587437383914" />
       <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory.Api/Startup.cs" timestamp="1587439797425">
@@ -124,7 +126,7 @@
         <mark key="^" line="58" column="20" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1587447549942" />
-      <file name="/Dummy.txt" timestamp="1587448852039">
+      <file name="/Dummy.txt" timestamp="1587449905155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
