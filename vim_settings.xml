@@ -93,9 +93,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/version.json" timestamp="1587449034449">
-        <mark key="[" line="1" column="17" />
-      </file>
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/test/Wow.Inventory.FunctionalTests/appSettings.json" timestamp="1587449919827">
         <mark key="[" line="0" column="0" />
       </file>
@@ -106,11 +103,17 @@
         <mark key="." line="14" column="40" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleSohMessageProcessor.cs" timestamp="1587520773768" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/functionalTests/Wow.Inventory.FunctionalTests/Drivers/EventHubDriver.cs" timestamp="1587533323309" />
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.NrtSohProcessor/NrtSohBlobTrigger.cs" timestamp="1587518706346">
         <mark key="[" line="14" column="23" />
         <mark key="]" line="14" column="38" />
         <mark key="." line="14" column="37" />
         <mark key="^" line="14" column="38" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1587532878663">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/SohEventHubTrigger.cs" timestamp="1587520757813" />
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.ArticleConsumer/Startup.cs" timestamp="1587518929819">
@@ -124,7 +127,7 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587521342989">
+      <file name="/Dummy.txt" timestamp="1587532837790">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -146,12 +149,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/src/Wow.Inventory.ArticleConsumer/appsettings.Development.json" timestamp="1587448471944">
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="19" column="27" />
-        <mark key="." line="19" column="26" />
-        <mark key="^" line="19" column="27" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory/Wow.Inventory.csproj" timestamp="1587521113248">
         <mark key="[" line="16" column="0" />
@@ -190,34 +187,34 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJTT0hGaWxlQmxvYlN0b3JhZ2UiOiAiRGVmYXVsdEVuZHBvaW50c1Byb3RvY29sPWh0dHBzO0FjY291bnROYW1lPXdvd3NvaGRldnN0b2FhcztBY2NvdW50S2V5PVlJWlNhR2VOZS8xMzBUSHdlWGJnNTlhZXZ1TUVlWGNhUjArdVZ4cWNoazQ3dTJ0Qm9QVWdTN3ZEbk9IemJDaEkvUGdGVno3L21XWDlkSjA4YUdqR0lBPT07RW5kcG9pbnRTdWZmaXg9Y29yZS53aW5kb3dzLm5ldCIsCg==</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>DefaultEndpointsProtocol=https;AccountName=wowsohdevstoaas;AccountKey=YIZSaGeNe/130THweXbg59aevuMEeXcaR0+uVxqchk47u2tBoPUgS7vDnOHzbChI/PgFVz7/mWX9dJ08aGjGIA==;EndpointSuffix=core.windows.net</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJTdG9yYWdlUGF0aFRvV2F0Y2giOiAiL2Jsb2JTZXJ2aWNlcy9kZWZhdWx0L2NvbnRhaW5lcnMva2VrLXRlc3QvYmxvYnMiLAo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJBenVyZVdlYkpvYnNTdG9yYWdlIjogIlVzZURldmVsb3BtZW50U3RvcmFnZT10cnVlIiwK</text>
+        <text encoding="base64">ICAgICJTT0hGaWxlQmxvYlN0b3JhZ2UiOiAiRGVmYXVsdEVuZHBvaW50c1Byb3RvY29sPWh0dHBzO0FjY291bnROYW1lPXdvd3NvaGRldnN0b2FhcztBY2NvdW50S2V5PVlJWlNhR2VOZS8xMzBUSHdlWGJnNTlhZXZ1TUVlWGNhUjArdVZ4cWNoazQ3dTJ0Qm9QVWdTN3ZEbk9IemJDaEkvUGdGVno3L21XWDlkSjA4YUdqR0lBPT07RW5kcG9pbnRTdWZmaXg9Y29yZS53aW5kb3dzLm5ldCIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJBenVyZVdlYkpvYnNTdG9yYWdlIjogIkRlZmF1bHRFbmRwb2ludHNQcm90b2NvbD1odHRwcztBY2NvdW50TmFtZT13b3dzb2hkZXZzdG9hYXM7QWNjb3VudEtleT1ZSVpTYUdlTmUvMTMwVEh3ZVhiZzU5YWV2dU1FZVhjYVIwK3VWeHFjaGs0N3UydEJvUFVnUzd2RG5PSHpiQ2hJL1BnRlZ6Ny9tV1g5ZEowOGFHakdJQT09O0VuZHBvaW50U3VmZml4PWNvcmUud2luZG93cy5uZXQiLAo=</text>
+        <text encoding="base64">ICAgICJTdG9yYWdlUGF0aFRvV2F0Y2giOiAiL2Jsb2JTZXJ2aWNlcy9kZWZhdWx0L2NvbnRhaW5lcnMva2VrLXRlc3QvYmxvYnMiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJBenVyZVdlYkpvYnNTdG9yYWdlIjogIlVzZURldmVsb3BtZW50U3RvcmFnZT10cnVlIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJTT0hGaWxlQ29udGFpbmVyIjogImtlay10ZXN0IiwK</text>
+        <text encoding="base64">ICAgICJBenVyZVdlYkpvYnNTdG9yYWdlIjogIkRlZmF1bHRFbmRwb2ludHNQcm90b2NvbD1odHRwcztBY2NvdW50TmFtZT13b3dzb2hkZXZzdG9hYXM7QWNjb3VudEtleT1ZSVpTYUdlTmUvMTMwVEh3ZVhiZzU5YWV2dU1FZVhjYVIwK3VWeHFjaGs0N3UydEJvUFVnUzd2RG5PSHpiQ2hJL1BnRlZ6Ny9tV1g5ZEowOGFHakdJQT09O0VuZHBvaW50U3VmZml4PWNvcmUud2luZG93cy5uZXQiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJOcnRTb2hFdmVudEdyaWRUcmlnZ2VyRW5hYmxlZCI6ICJmYWxzZSIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJOcnRTb2hCbG9iVHJpZ2dlckVuYWJsZWQiOiAidHJ1ZSIsCg==</text>
+        <text encoding="base64">ICAgICJTT0hGaWxlQ29udGFpbmVyIjogImtlay10ZXN0IiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiSXNFbmNyeXB0ZWQiOiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgICJOcnRTb2hFdmVudEdyaWRUcmlnZ2VyRW5hYmxlZCI6ICJmYWxzZSIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>DefaultEndpointsProtocol=https;AccountName=wowsohdevstoaas;AccountKey=YIZSaGeNe/130THweXbg59aevuMEeXcaR0+uVxqchk47u2tBoPUgS7vDnOHzbChI/PgFVz7/mWX9dJ08aGjGIA==;EndpointSuffix=core.windows.net</text>
