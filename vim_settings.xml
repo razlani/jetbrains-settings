@@ -93,16 +93,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/test/Wow.Inventory.FunctionalTests/appSettings.json" timestamp="1587449919827">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.ArticleConsumer/NrtSohBlobTrigger.cs" timestamp="1587519989601">
         <mark key="[" line="13" column="33" />
         <mark key="]" line="14" column="41" />
         <mark key="^" line="14" column="41" />
         <mark key="." line="14" column="40" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleSohMessageProcessor.cs" timestamp="1587520773768" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/functionalTests/Wow.Inventory.FunctionalTests/Drivers/EventHubDriver.cs" timestamp="1587533323309" />
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.NrtSohProcessor/NrtSohBlobTrigger.cs" timestamp="1587518706346">
         <mark key="[" line="14" column="23" />
@@ -115,17 +111,20 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/SohEventHubTrigger.cs" timestamp="1587520757813" />
-      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.ArticleConsumer/Startup.cs" timestamp="1587518929819">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/local.settings.json" timestamp="1587521963321">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="29" />
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/NrtSohEventGridTrigger.cs" timestamp="1587519964095" />
+      <file name="$USER_HOME$/git/projects/flash/masterdata-consumer/src/MasterData.Consumer/appsettings.Development.json" timestamp="1587533441860" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleSohMessageProcessor.cs" timestamp="1587520773768" />
+      <file name="/SohEventHubTrigger.cs" timestamp="1587520757813" />
+      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.ArticleConsumer/Startup.cs" timestamp="1587518929819">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1587532837790">
         <mark key="[" line="0" column="0" />
@@ -138,7 +137,6 @@
         <mark key="^" line="19" column="52" />
         <mark key="." line="19" column="51" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/NrtSohEventGridTrigger.cs" timestamp="1587519964095" />
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.ArticleConsumer/local.settings.json" timestamp="1587531567603">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="54" />
