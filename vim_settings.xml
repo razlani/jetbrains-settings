@@ -117,8 +117,19 @@
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/test/Wow.Inventory.FunctionalTests/appSettings.json" timestamp="1587449919827">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.ArticleConsumer/NrtSohBlobTrigger.cs" timestamp="1587519593614">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="4" column="39" />
+      </file>
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/src/Wow.Inventory.ArticleConsumer/Program.cs" timestamp="1587442961291" />
-      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/test/Wow.Inventory.Api.FunctionalTests/Wow.Inventory.Api.FunctionalTests.csproj" timestamp="1587437383914" />
+      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.NrtSohProcessor/NrtSohBlobTrigger.cs" timestamp="1587518706346">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="38" />
+        <mark key="." line="14" column="37" />
+        <mark key="^" line="14" column="38" />
+      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory.Api/Startup.cs" timestamp="1587439797425">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -126,26 +137,25 @@
         <mark key="^" line="58" column="20" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1587447549942" />
+      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.ArticleConsumer/Startup.cs" timestamp="1587518929819">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1587449905155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/test/Wow.Inventory.Api.FunctionalTests/Features/ArticleRange.feature.cs" timestamp="1587438011719">
-        <mark key="'" line="33" column="135" />
-        <mark key="[" line="33" column="80" />
-        <mark key="]" line="33" column="80" />
-        <mark key="." line="33" column="80" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer/pies-article-consumer/appspec.yaml" timestamp="1587448112580">
         <mark key="[" line="40" column="29" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/test/Wow.Inventory.Api.FunctionalTests/Features/StockOnHand.feature.cs" timestamp="1587438003175">
-        <mark key="[" line="33" column="76" />
-        <mark key="]" line="33" column="76" />
-        <mark key="." line="33" column="76" />
+      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.NrtSohProcessor/Startup.cs" timestamp="1587518787063">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory.Api/appsettings.Development.json" timestamp="1587440014631">
         <mark key="[" line="19" column="13" />
@@ -158,6 +168,12 @@
         <mark key="]" line="19" column="27" />
         <mark key="." line="19" column="26" />
         <mark key="^" line="19" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/azure-pipelines.yaml" timestamp="1587519559590">
+        <mark key="[" line="39" column="35" />
+        <mark key="]" line="39" column="50" />
+        <mark key="." line="39" column="49" />
+        <mark key="^" line="39" column="50" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory/Data/MongoConnectionManager.cs" timestamp="1587439252611">
         <mark key="'" line="94" column="35" />
@@ -190,37 +206,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFwcGxpY2F0aW9uSW5zaWdodHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5TZXJ2aWNlcy5BZGRTaW5nbGV0b248SUJsb2JEb3dubG9hZGVyLCBCbG9iRG93bmxvYWRlcj4oKTsKICAgICAgICAgICAgYnVpbGRlci5TZXJ2aWNlcy5BZGRUcmFuc2llbnQ8SVB1Ymxpc2hlciwgUHVibGlzaGVyPigpOwogICAgICAgICAgICBidWlsZGVyLlNlcnZpY2VzLkFkZFRyYW5zaWVudDxJTWVzc2FnZUNvbnZlcnRlciwgTWVzc2FnZUNvbnZlcnRlcj4oKTsKICAgICAgICAgICAgYnVpbGRlci5TZXJ2aWNlcy5BZGRUcmFuc2llbnQ8SU1lc3NhZ2VQdWJsaXNoZXIsIE1lc3NhZ2VQdWJsaXNoZXI+KCk7CiAgICAgICAgICAgIGJ1aWxkZXIuU2VydmljZXMuQWRkU2NvcGVkPElCbG9iUHJvY2Vzc2luZ1NlcnZpY2UsIEJsb2JQcm9jZXNzaW5nU2VydmljZT4oKTsKICAgICAgICAgICAgYnVpbGRlci5TZXJ2aWNlcy5BZGRTaW5nbGV0b248SUZpbGVSZWFkZXJGYWN0b3J5LCBGaWxlUmVhZGVyRmFjdG9yeT4oKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Endpoint=sb://wow-soh-dev-ehu-aas.servicebus.windows.net/;SharedAccessKeyName=ef;SharedAccessKey=UJsskhvSlxM5D4lI2t1O+N0rd3aZEb4O2mUsT+fcRj8=;EntityPath=kek-test-2</text>
+        <text>NrtSohProcessor</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBNb25nb0Nvbm5lY3Rpb25TdHJpbmc6ICJ7e3dvdy1zb2gtbW9uZ28tY29ubmVjdGlvbi1zdHJpbmd9fSIK</text>
+        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5TZXJ2aWNlczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBTb2hNZXJnZWREZWx0YUV2ZW50SHViQ29ubmVjdGlvblN0cmluZzogInt7c29oLW1lcmdlZC1kZWx0YS1zbmRyLXByaW1hcnktY29ubn19Igo=</text>
+        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5GaWxlUmVhZGVyczsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBTb2hEZWx0YUV2ZW50SHViQ29ubmVjdGlvblN0cmluZzogInt7c29oLWRlbHRhLXNuZHItcHJpbWFyeS1jb25ufX0iCg==</text>
+        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5NZXNzYWdpbmc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBBbGNEZWx0YUV2ZW50SHViQ29ubmVjdGlvblN0cmluZzogInt7YWxjLWRlbHRhLXNuZHItcHJpbWFyeS1jb25ufX0iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2Jsb2JQcm9jZXNzaW5nU2VydmljZSA9IGJsb2JQcm9jZXNzaW5nU2VydmljZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbHVlRnJvbVNlY3JldDogTW9uZ29Db25uZWN0aW9uU3RyaW5nCg==</text>
+        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5TZXJ2aWNlczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IE1vbmdvREJfX0Nvbm5lY3Rpb25TdHJpbmcK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5ICBJQmxvYlByb2Nlc3NpbmdTZXJ2aWNlIF9ibG9iUHJvY2Vzc2luZ1NlcnZpY2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbHVlRnJvbVNlY3JldDogU29oTWVyZ2VkRGVsdGFFdmVudEh1YkNvbm5lY3Rpb25TdHJpbmcK</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFwcGxpY2F0aW9uSW5zaWdodHM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IEV2ZW50SHVic19fc29oLW1lcmdlZC1kZWx0YV9fQ29ubmVjdGlvblN0cmluZwo=</text>
+        <text encoding="base64">ICBNb25nb0Nvbm5lY3Rpb25TdHJpbmc6ICJ7e3dvdy1zb2gtbW9uZ28tY29ubmVjdGlvbi1zdHJpbmd9fSIK</text>
       </register>
       <register name="-" type="4">
-        <text>Endpoint=sb://wow-soh-dev-ehu-aas.servicebus.windows.net/;SharedAccessKeyName=ef;SharedAccessKey=UJsskhvSlxM5D4lI2t1O+N0rd3aZEb4O2mUsT+fcRj8=;EntityPath=kek-test-2</text>
+        <text>NrtSohProcessor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRDb25maWd1cmF0aW9uVmFsdWVcPg==</text>
