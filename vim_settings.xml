@@ -136,11 +136,11 @@
         <mark key="." line="19" column="51" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/NrtSohEventGridTrigger.cs" timestamp="1587519964095" />
-      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.ArticleConsumer/local.settings.json" timestamp="1587522376745">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="8" column="44" />
+      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.ArticleConsumer/local.settings.json" timestamp="1587531567603">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="54" />
+        <mark key="." line="3" column="53" />
+        <mark key="^" line="3" column="54" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.NrtSohProcessor/Startup.cs" timestamp="1587518787063">
         <mark key="[" line="3" column="0" />
@@ -165,7 +165,7 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/azure-pipelines.yaml" timestamp="1587519559590">
+      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/azure-pipelines.yaml" timestamp="1587531197453">
         <mark key="[" line="39" column="35" />
         <mark key="]" line="39" column="50" />
         <mark key="." line="39" column="49" />
@@ -192,8 +192,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICJTT0hGaWxlQmxvYlN0b3JhZ2UiOiAiRGVmYXVsdEVuZHBvaW50c1Byb3RvY29sPWh0dHBzO0FjY291bnROYW1lPXdvd3NvaGRldnN0b2FhcztBY2NvdW50S2V5PVlJWlNhR2VOZS8xMzBUSHdlWGJnNTlhZXZ1TUVlWGNhUjArdVZ4cWNoazQ3dTJ0Qm9QVWdTN3ZEbk9IemJDaEkvUGdGVno3L21XWDlkSjA4YUdqR0lBPT07RW5kcG9pbnRTdWZmaXg9Y29yZS53aW5kb3dzLm5ldCIsCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJTT0hGaWxlQmxvYlN0b3JhZ2UiOiAiRGVmYXVsdEVuZHBvaW50c1Byb3RvY29sPWh0dHBzO0FjY291bnROYW1lPXdvd3NvaGRldnN0b2FhcztBY2NvdW50S2V5PVlJWlNhR2VOZS8xMzBUSHdlWGJnNTlhZXZ1TUVlWGNhUjArdVZ4cWNoazQ3dTJ0Qm9QVWdTN3ZEbk9IemJDaEkvUGdGVno3L21XWDlkSjA4YUdqR0lBPT07RW5kcG9pbnRTdWZmaXg9Y29yZS53aW5kb3dzLm5ldCIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>DefaultEndpointsProtocol=https;AccountName=wowsohdevstoaas;AccountKey=YIZSaGeNe/130THweXbg59aevuMEeXcaR0+uVxqchk47u2tBoPUgS7vDnOHzbChI/PgFVz7/mWX9dJ08aGjGIA==;EndpointSuffix=core.windows.net</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICJTdG9yYWdlUGF0aFRvV2F0Y2giOiAiL2Jsb2JTZXJ2aWNlcy9kZWZhdWx0L2NvbnRhaW5lcnMva2VrLXRlc3QvYmxvYnMiLAo=</text>
@@ -220,7 +220,7 @@
         <text encoding="base64">ICAiSXNFbmNyeXB0ZWQiOiBmYWxzZSwK</text>
       </register>
       <register name="-" type="4">
-        <text>kek-consumer-group</text>
+        <text>DefaultEndpointsProtocol=https;AccountName=wowsohdevstoaas;AccountKey=YIZSaGeNe/130THweXbg59aevuMEeXcaR0+uVxqchk47u2tBoPUgS7vDnOHzbChI/PgFVz7/mWX9dJ08aGjGIA==;EndpointSuffix=core.windows.net</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRDb25maWd1cmF0aW9uVmFsdWVcPg==</text>
