@@ -119,17 +119,17 @@
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/NrtSohEventGridTrigger.cs" timestamp="1587519964095" />
       <file name="$USER_HOME$/git/projects/flash/masterdata-consumer/src/MasterData.Consumer/appsettings.Development.json" timestamp="1587533441860" />
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1587703488323">
-        <mark key="'" line="66" column="34" />
-        <mark key="[" line="54" column="16" />
-        <mark key="]" line="54" column="56" />
-        <mark key="." line="54" column="55" />
-        <mark key="^" line="54" column="56" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1587705007991">
+        <mark key="'" line="75" column="34" />
+        <mark key="[" line="21" column="93" />
+        <mark key="]" line="21" column="62" />
+        <mark key="." line="21" column="61" />
+        <mark key="^" line="21" column="62" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1587698529683">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1587705219538">
+        <mark key="[" line="36" column="43" />
+        <mark key="]" line="36" column="43" />
+        <mark key="." line="36" column="43" />
         <mark key="^" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleSohMessageProcessor.cs" timestamp="1587520773768" />
@@ -195,28 +195,28 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfbG9nZ2VyLkxvZ0RlYnVnKCJBdHRlbXB0aW5nIHRvIHB1Ymxpc2ggd2l0aCBzZWNvbmRhcnkgcHJvZHVjZXIgY2xpZW50Iik7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93Owo=</text>
+      <register name="&quot;" type="4">
+        <text>w</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShmKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -225,7 +225,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>connectionString</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRDb25maWd1cmF0aW9uVmFsdWVcPg==</text>
