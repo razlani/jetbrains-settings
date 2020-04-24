@@ -100,16 +100,16 @@
         <mark key="." line="14" column="40" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/functionalTests/Wow.Inventory.FunctionalTests/Drivers/EventHubDriver.cs" timestamp="1587545415072" />
-      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.NrtSohProcessor/NrtSohBlobTrigger.cs" timestamp="1587518706346">
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="38" />
-        <mark key="." line="14" column="37" />
-        <mark key="^" line="14" column="38" />
-      </file>
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1587532878663">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1587698788752">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/local.settings.json" timestamp="1587521963321">
         <mark key="[" line="9" column="6" />
@@ -119,6 +119,15 @@
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/NrtSohEventGridTrigger.cs" timestamp="1587519964095" />
       <file name="$USER_HOME$/git/projects/flash/masterdata-consumer/src/MasterData.Consumer/appsettings.Development.json" timestamp="1587533441860" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1587698231538">
+        <mark key="'" line="53" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1587698529683">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleSohMessageProcessor.cs" timestamp="1587520773768" />
       <file name="/SohEventHubTrigger.cs" timestamp="1587520757813" />
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.ArticleConsumer/Startup.cs" timestamp="1587518929819">
@@ -126,7 +135,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587532837790">
+      <file name="/Dummy.txt" timestamp="1587698151594">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -142,11 +151,6 @@
         <mark key="]" line="3" column="54" />
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="54" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.NrtSohProcessor/Startup.cs" timestamp="1587518787063">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory/Wow.Inventory.csproj" timestamp="1587521113248">
         <mark key="[" line="16" column="0" />
@@ -180,39 +184,40 @@
       <jump line="145" column="36" filename="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory/Data/MongoConnectionManager.cs" />
       <jump line="152" column="36" filename="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory/Data/MongoConnectionManager.cs" />
       <jump line="94" column="35" filename="$USER_HOME$/git/projects/flash/inventory-api/inventory-api/src/Wow.Inventory/Data/MongoConnectionManager.cs" />
+      <jump line="53" column="34" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJTT0hGaWxlQmxvYlN0b3JhZ2UiOiAiRGVmYXVsdEVuZHBvaW50c1Byb3RvY29sPWh0dHBzO0FjY291bnROYW1lPXdvd3NvaGRldnN0b2FhcztBY2NvdW50S2V5PVlJWlNhR2VOZS8xMzBUSHdlWGJnNTlhZXZ1TUVlWGNhUjArdVZ4cWNoazQ3dTJ0Qm9QVWdTN3ZEbk9IemJDaEkvUGdGVno3L21XWDlkSjA4YUdqR0lBPT07RW5kcG9pbnRTdWZmaXg9Y29yZS53aW5kb3dzLm5ldCIsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJTdG9yYWdlUGF0aFRvV2F0Y2giOiAiL2Jsb2JTZXJ2aWNlcy9kZWZhdWx0L2NvbnRhaW5lcnMva2VrLXRlc3QvYmxvYnMiLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJBenVyZVdlYkpvYnNTdG9yYWdlIjogIlVzZURldmVsb3BtZW50U3RvcmFnZT10cnVlIiwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICJBenVyZVdlYkpvYnNTdG9yYWdlIjogIkRlZmF1bHRFbmRwb2ludHNQcm90b2NvbD1odHRwcztBY2NvdW50TmFtZT13b3dzb2hkZXZzdG9hYXM7QWNjb3VudEtleT1ZSVpTYUdlTmUvMTMwVEh3ZVhiZzU5YWV2dU1FZVhjYVIwK3VWeHFjaGs0N3UydEJvUFVnUzd2RG5PSHpiQ2hJL1BnRlZ6Ny9tV1g5ZEowOGFHakdJQT09O0VuZHBvaW50U3VmZml4PWNvcmUud2luZG93cy5uZXQiLAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgSSBoYXZlIGEgc21hbGwgaGFuZGZ1bCBvZmYgaG9iYmllcyB0aGF0IG9jY3VweSBtZSB0aG91Z2gK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJTT0hGaWxlQ29udGFpbmVyIjogImtlay10ZXN0IiwK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJOcnRTb2hFdmVudEdyaWRUcmlnZ2VyRW5hYmxlZCI6ICJmYWxzZSIsCg==</text>
+        <text encoding="base64">ICAgICJTT0hGaWxlQmxvYlN0b3JhZ2UiOiAiRGVmYXVsdEVuZHBvaW50c1Byb3RvY29sPWh0dHBzO0FjY291bnROYW1lPXdvd3NvaGRldnN0b2FhcztBY2NvdW50S2V5PVlJWlNhR2VOZS8xMzBUSHdlWGJnNTlhZXZ1TUVlWGNhUjArdVZ4cWNoazQ3dTJ0Qm9QVWdTN3ZEbk9IemJDaEkvUGdGVno3L21XWDlkSjA4YUdqR0lBPT07RW5kcG9pbnRTdWZmaXg9Y29yZS53aW5kb3dzLm5ldCIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>DefaultEndpointsProtocol=https;AccountName=wowsohdevstoaas;AccountKey=YIZSaGeNe/130THweXbg59aevuMEeXcaR0+uVxqchk47u2tBoPUgS7vDnOHzbChI/PgFVz7/mWX9dJ08aGjGIA==;EndpointSuffix=core.windows.net</text>
