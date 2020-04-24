@@ -119,12 +119,12 @@
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/NrtSohEventGridTrigger.cs" timestamp="1587519964095" />
       <file name="$USER_HOME$/git/projects/flash/masterdata-consumer/src/MasterData.Consumer/appsettings.Development.json" timestamp="1587533441860" />
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1587701386741">
-        <mark key="'" line="53" column="34" />
-        <mark key="[" line="35" column="94" />
-        <mark key="]" line="35" column="94" />
-        <mark key="^" line="35" column="94" />
-        <mark key="." line="35" column="93" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1587702636078">
+        <mark key="'" line="66" column="34" />
+        <mark key="[" line="53" column="97" />
+        <mark key="]" line="53" column="105" />
+        <mark key="." line="53" column="104" />
+        <mark key="^" line="53" column="105" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1587698529683">
         <mark key="[" line="38" column="0" />
@@ -134,15 +134,16 @@
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleSohMessageProcessor.cs" timestamp="1587520773768" />
       <file name="/SohEventHubTrigger.cs" timestamp="1587520757813" />
-      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.ArticleConsumer/Startup.cs" timestamp="1587518929819">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1587698151594">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/AlcStatusMessagePublisher.cs" timestamp="1587702396766">
+        <mark key="[" line="8" column="110" />
+        <mark key="]" line="8" column="110" />
+        <mark key="^" line="8" column="110" />
+        <mark key="." line="8" column="109" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.ArticleConsumer/ArticleConsumerEventHubTrigger.cs" timestamp="1587522250143">
         <mark key="[" line="19" column="51" />
@@ -194,10 +195,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -215,7 +216,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgSSBoYXZlIGEgc21hbGwgaGFuZGZ1bCBvZmYgaG9iYmllcyB0aGF0IG9jY3VweSBtZSB0aG91Z2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -224,7 +225,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>DefaultEndpointsProtocol=https;AccountName=wowsohdevstoaas;AccountKey=YIZSaGeNe/130THweXbg59aevuMEeXcaR0+uVxqchk47u2tBoPUgS7vDnOHzbChI/PgFVz7/mWX9dJ08aGjGIA==;EndpointSuffix=core.windows.net</text>
+        <text>connectionString</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRDb25maWd1cmF0aW9uVmFsdWVcPg==</text>
