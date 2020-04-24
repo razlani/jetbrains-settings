@@ -105,6 +105,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/Dummy.cs" timestamp="1587706082256">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1587698907982">
         <mark key="[" line="60" column="59" />
         <mark key="]" line="60" column="65" />
@@ -117,7 +120,6 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/NrtSohEventGridTrigger.cs" timestamp="1587519964095" />
       <file name="$USER_HOME$/git/projects/flash/masterdata-consumer/src/MasterData.Consumer/appsettings.Development.json" timestamp="1587533441860" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1587705007991">
         <mark key="'" line="75" column="34" />
