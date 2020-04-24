@@ -13,6 +13,7 @@
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="meta r" second-keystroke="s" />
   </action>
+  <action id="ChangesView.Diff" />
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -30,15 +31,20 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="meta m" second-keystroke="meta c" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
+  <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.Reload" />
   <action id="Console.TableResult.SetNull" />
   <action id="CopyElement" />
+  <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.Refresh" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="meta f5" />
   </action>
+  <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorDuplicate" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="meta w" />
@@ -66,6 +72,7 @@
   <action id="ExternalSystem.ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta alt n" />
@@ -128,8 +135,7 @@
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="f1" />
-    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="meta d" second-keystroke="meta d" />
   </action>
   <action id="Refresh" />
   <action id="RemoteHost.NewRemoteItem">
@@ -146,13 +152,16 @@
     <keyboard-shortcut first-keystroke="shift f5" />
   </action>
   <action id="RiderUnitTestAppendTestsTwAction" />
+  <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RiderUnitTestRunSolutionTwAction" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="SendEOF" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -188,4 +197,5 @@
   <action id="XDebugger.SetValue" />
   <action id="com.intellij.lang.jsgraphql.v1.ide.actions.JSGraphQLExecuteEditorAction" />
   <action id="hg4idea.QRefresh" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
