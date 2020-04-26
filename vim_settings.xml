@@ -94,7 +94,45 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587709079246">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" timestamp="1587859833017">
+        <mark key="[" line="81" column="107" />
+        <mark key="]" line="81" column="107" />
+        <mark key="." line="81" column="106" />
+        <mark key="^" line="81" column="107" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1587705219538">
+        <mark key="[" line="36" column="43" />
+        <mark key="]" line="36" column="43" />
+        <mark key="." line="36" column="43" />
+        <mark key="^" line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubProducerClient.cs" timestamp="1587709395208">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="33" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1587532878663">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/Dummy.cs" timestamp="1587708229981">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1587698907982">
+        <mark key="[" line="60" column="59" />
+        <mark key="]" line="60" column="65" />
+        <mark key="^" line="60" column="65" />
+        <mark key="." line="60" column="64" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/local.settings.json" timestamp="1587521963321">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="29" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587856889637">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -111,35 +149,19 @@
         <mark key="^" line="19" column="52" />
         <mark key="." line="19" column="51" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" timestamp="1587856344933">
-        <mark key="[" line="62" column="9" />
-        <mark key="]" line="70" column="9" />
-        <mark key="^" line="70" column="9" />
-        <mark key="." line="70" column="8" />
-      </file>
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.ArticleConsumer/local.settings.json" timestamp="1587531567603">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="54" />
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1587705219538">
-        <mark key="[" line="36" column="43" />
-        <mark key="]" line="36" column="43" />
-        <mark key="." line="36" column="43" />
-        <mark key="^" line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory/Wow.Inventory.csproj" timestamp="1587521113248">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1587710508339">
-        <mark key="'" line="36" column="34" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="25" column="35" />
-        <mark key="." line="36" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CFDE1041-8873-4DFE-83F7-593A6775F006/1/EventHubClientBuilderExtensions.cs" timestamp="1587859814251" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1587859200683">
+        <mark key="'" line="34" column="34" />
+        <mark key="[" line="12" column="49" />
+        <mark key="]" line="12" column="67" />
+        <mark key="^" line="12" column="67" />
+        <mark key="." line="12" column="66" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleInventoryMessageProcessor.cs" timestamp="1587709196721">
         <mark key="'" line="29" column="12" />
@@ -150,20 +172,6 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubProducerClient.cs" timestamp="1587709395208">
-        <mark key="[" line="3" column="39" />
-        <mark key="]" line="3" column="34" />
-        <mark key="^" line="3" column="34" />
-        <mark key="." line="3" column="33" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1587532878663">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="/Dummy.cs" timestamp="1587708229981">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/azure-pipelines.yaml" timestamp="1587531197453">
         <mark key="[" line="39" column="35" />
         <mark key="]" line="39" column="50" />
@@ -172,18 +180,6 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CFDE1041-8873-4DFE-83F7-593A6775F006/17/EventHubProducerClient.cs" timestamp="1587709336651">
         <mark key="'" line="116" column="15" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1587698907982">
-        <mark key="[" line="60" column="59" />
-        <mark key="]" line="60" column="65" />
-        <mark key="^" line="60" column="65" />
-        <mark key="." line="60" column="64" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/local.settings.json" timestamp="1587521963321">
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="29" />
-        <mark key="." line="9" column="28" />
-        <mark key="^" line="9" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -207,37 +203,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVmFsdWVUYXNrIERpc3Bvc2VBc3luYygpCiAgICAgICAgewogICAgICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3B1Ymxpc2hlcnMuYWRkZQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVmFsdWVUYXNrIERpc3Bvc2VBc3luYygpCiAgICAgICAgewogICAgICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3B1Ymxpc2hlcnMuYWRkZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3B1Ymxpc2hlcnMuQWRkRXZlbnRIdWJQcm9kdWNlckNsaWVudCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3B1Ymxpc2hlcnMuQWRkUmFuZ2UoY29ubmVjdGlvblN0cmluZy5TZWxlY3QoY29uID0+IG5ldyBFdmVudEh1YlByb2R1Y2VyQ2xpZW50KGNvbikpLlRvTGlzdCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgRXZlbnRIdWJQdWJsaXNoZXIoc3RyaW5nIGNvbm5lY3Rpb25TdHJpbmcsIHN0cmluZyBiYWNrdXBDb25uZWN0aW9uU3RyaW5nKQogICAgICAgIHsKICAgICAgICAgICAgX3B1Ymxpc2hlciA9IG5ldyBFdmVudEh1YlByb2R1Y2VyQ2xpZW50KGNvbm5lY3Rpb25TdHJpbmcpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJ1ciA9IGtlay4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkZXZlbnRoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJhY2t1cENvbm5lY3Rpb25TdHJpbmcgPSBjb25maWd1cmF0aW9uLkdldFZhbHVlPHN0cmluZz4oJCJFdmVudEh1YnM6e2NvbmZpZ3VyYXRpb25LZXl9OkNvbm5lY3Rpb25TdHJpbmdCYWNrdXAiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3B1Ymxpc2hlcnMuQWRkRXZlbnRIdWJQcm9kdWNlckNsaWVudCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2JhY2t1cFB1Ymxpc2hlciA9IG5ldyBFdmVudEh1YlB1Ymxpc2hlcihiYWNrdXBDb25uZWN0aW9uU3RyaW5nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIF9wdWJsaXNoZXJzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IEV2ZW50SHViUHVibGlzaGVyIF9iYWNrdXBQdWJsaXNoZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3B1Ymxpc2hlcnMuQWRkUmFuZ2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>EventHubProducerClient</text>
+        <text>_publishers</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeUFnZ3JlZ2F0b3JcPg==</text>
