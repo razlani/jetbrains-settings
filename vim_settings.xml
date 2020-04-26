@@ -9,6 +9,8 @@
         <entry encoding="base64">XDxDb25maWd1cmF0aW9uU2VjdGlvbk5hbWVcPg==</entry>
         <entry encoding="base64">XDxHZXRDb25maWd1cmF0aW9uVmFsdWVcPg==</entry>
         <entry encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeUFnZ3JlZ2F0b3JcPg==</entry>
+        <entry encoding="base64">XDxfcHVibGlzaGVyc1w+</entry>
+        <entry encoding="base64">XDxfbG9nZ2VyXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -94,12 +96,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" timestamp="1587866041617">
-        <mark key="'" line="89" column="83" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="61" column="76" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" timestamp="1587877472628">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="66" column="39" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1587705219538">
         <mark key="[" line="36" column="43" />
@@ -157,12 +159,18 @@
         <mark key="^" line="3" column="54" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CFDE1041-8873-4DFE-83F7-593A6775F006/1/EventHubClientBuilderExtensions.cs" timestamp="1587859814251" />
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1587859200683">
-        <mark key="'" line="34" column="34" />
-        <mark key="[" line="12" column="49" />
-        <mark key="]" line="12" column="67" />
-        <mark key="^" line="12" column="67" />
-        <mark key="." line="12" column="66" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/Program.cs" timestamp="1587877073265">
+        <mark key="[" line="68" column="89" />
+        <mark key="]" line="68" column="91" />
+        <mark key="^" line="68" column="91" />
+        <mark key="." line="68" column="90" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1587877002648">
+        <mark key="'" line="11" column="33" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="14" column="93" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleInventoryMessageProcessor.cs" timestamp="1587709196721">
         <mark key="'" line="29" column="12" />
@@ -200,53 +208,57 @@
       <jump line="29" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleInventoryMessageProcessor.cs" />
       <jump line="116" column="15" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CFDE1041-8873-4DFE-83F7-593A6775F006/17/EventHubProducerClient.cs" />
       <jump line="89" column="83" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" />
+      <jump line="16" column="41" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" />
+      <jump line="26" column="38" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" />
+      <jump line="60" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" />
+      <jump line="11" column="33" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEaXNwb3NlQXN5bmMoKTsK</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBEaXNwb3NlQXN5bmMoKTsK</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2dnZXIgX2xvZ2dlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVmFsdWVUYXNrIERpc3Bvc2VBc3luYygpCiAgICAgICAgewogICAgICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlciA9IGxvZ2dlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfbG9nZ2VyLkxvZ0RlYnVnKAogICAgICAgICAgICAgICAgICAgICAgICAkIkF0dGVtcHRpbmcgdG8gcHVibGlzaCB0byB7X2JhY2t1cFB1Ymxpc2hlci5FdmVudEh1Yk5hbWV9IHdpdGggYmFja3VwIHByb2R1Y2VyIGNsaWVudCIpOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgR29vZ2xlLlByb3RvYnVmLldlbGxLbm93blR5cGVzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZhciBjcmVhdGVCYXRjaE9wdGlvbnMgPSBuZXcgQ3JlYXRlQmF0Y2hPcHRpb25zCiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFBhcnRpdGlvbktleSA9IHBhcnRpdGlvbktleQogICAgICAgICAgICAgICAgICAgICAgICB9OwoKICAgICAgICAgICAgICAgICAgICAgICAgdXNpbmcgdmFyIGV2ZW50QmF0Y2ggPSBhd2FpdCBfYmFja3VwUHVibGlzaGVyLkNyZWF0ZUJhdGNoQXN5bmMoY3JlYXRlQmF0Y2hPcHRpb25zKTsKCiAgICAgICAgICAgICAgICAgICAgICAgIHZhciBldmVudERhdGEgPSBuZXcgRXZlbnREYXRhKEFueS5QYWNrKG1lc3NhZ2UpLlRvQnl0ZUFycmF5KCkpOwogICAgICAgICAgICAgICAgICAgICAgICBldmVudEJhdGNoLlRyeUFkZChldmVudERhdGEpOwoKICAgICAgICAgICAgICAgICAgICAgICAgX2xvZ2dlci5Mb2dEZWJ1ZygiUHVibGlzaGluZyBldmVudCB7RXZlbnRUeXBlOmx9IHdpdGgga2V5IHtQYXJ0aXRpb25LZXk6bH0iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZW9mKFQpLk5hbWUsIHBhcnRpdGlvbktleSk7CgogICAgICAgICAgICAgICAgICAgICAgICBhd2FpdCBfYmFja3VwUHVibGlzaGVyLlNlbmRBc3luYyhldmVudEJhdGNoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBmKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgX2xvZ2dlci5Mb2dFcnJvcigkIlB1Ymxpc2hpbmcgd2l0aCBzZWNvbmRhcnkgcHJvZHVjZXIgY2xpZW50IGZhaWxlZCB3aXRoIG1lc3NhZ2Uge2YuTWVzc2FnZX0iKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">dXNpbmcgQXp1cmUuTWVzc2FnaW5nLkV2ZW50SHViczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2VrLgo=</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuQ29uZmlndXJhdGlvbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3B1Ymxpc2hlcnMgPSBuZXcgTGlzdDxFdmVudEh1YlByb2R1Y2VyQ2xpZW50PigpOwo=</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuQXp1cmU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YWV0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHB1Ymxpc2hlckluZGV4ID0gMTsKICAgICAgICAgICAgd2hpbGUgKHB1Ymxpc2hlckluZGV4IDwgX3B1Ymxpc2hlcnMuQ291bnQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeUFnZ3JlZ2F0b3JcPg==</text>
+        <text encoding="base64">XDxfbG9nZ2VyXD4=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeUFnZ3JlZ2F0b3JcPg==</last-search>
+      <last-search encoding="base64">XDxfbG9nZ2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeUFnZ3JlZ2F0b3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfbG9nZ2VyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
