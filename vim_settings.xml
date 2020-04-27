@@ -96,12 +96,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" timestamp="1587946048193">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" timestamp="1587947349927">
         <mark key="'" line="60" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="66" column="39" />
+        <mark key="[" line="56" column="18" />
+        <mark key="]" line="56" column="18" />
+        <mark key="." line="56" column="18" />
+        <mark key="^" line="48" column="50" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1587705219538">
         <mark key="[" line="36" column="43" />
@@ -217,37 +217,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2N1cnJlbnRQdWJsaXNoZXIgPSBwdWJsaXNoZXI7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsK</text>
+      <register name="&quot;" type="4">
+        <text>_currentPublisher</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2dnZXIgX2xvZ2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlciA9IGxvZ2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgR29vZ2xlLlByb3RvYnVmLldlbGxLbm93blR5cGVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHB1Ymxpc2hlciBpbiBfcHVibGlzaGVycykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgQXp1cmUuTWVzc2FnaW5nLkV2ZW50SHViczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuQ29uZmlndXJhdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3B1Ymxpc2hlcnMuQWRkUmFuZ2UoY29ubmVjdGlvblN0cmluZy5TZWxlY3QoY29uID0+IG5ldyBFdmVudEh1YlByb2R1Y2VyQ2xpZW50KGNvbikpLlRvTGlzdCgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuQXp1cmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3B1Ymxpc2hlcnMgPz89IG5ldyBMaXN0PEV2ZW50SHViUHJvZHVjZXJDbGllbnQ+KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHB1Ymxpc2hlckluZGV4ID0gMTsKICAgICAgICAgICAgd2hpbGUgKHB1Ymxpc2hlckluZGV4IDwgX3B1Ymxpc2hlcnMuQ291bnQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIExpc3Q8RXZlbnRIdWJQcm9kdWNlckNsaWVudD4gX3B1Ymxpc2hlcnM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>_currentPublisher</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfbG9nZ2VyXD4=</text>
