@@ -96,7 +96,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" timestamp="1587877472628">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" timestamp="1587946048193">
         <mark key="'" line="60" column="0" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
