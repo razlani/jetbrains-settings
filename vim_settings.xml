@@ -167,20 +167,14 @@
         <mark key="^" line="71" column="86" />
         <mark key="." line="71" column="85" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1587959127808">
-        <mark key="'" line="13" column="31" />
-        <mark key="[" line="13" column="33" />
-        <mark key="]" line="13" column="32" />
-        <mark key="^" line="13" column="32" />
-        <mark key="." line="13" column="31" />
-      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1587959127808" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleInventoryMessageProcessor.cs" timestamp="1587709196721">
         <mark key="'" line="29" column="12" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/ArticleSohInventoryService.cs" timestamp="1587962043080">
         <mark key="'" line="69" column="67" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CFDE1041-8873-4DFE-83F7-593A6775F006/17/EventHubProducerClient.cs" timestamp="1587709336651">
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CFDE1041-8873-4DFE-83F7-593A6775F006/17/EventHubProducerClient.cs" timestamp="1587964690515">
         <mark key="'" line="116" column="15" />
       </file>
     </filemarks>
