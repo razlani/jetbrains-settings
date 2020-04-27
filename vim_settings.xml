@@ -143,7 +143,7 @@
         <mark key="^" line="71" column="79" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Factories/ArticleInventoryFactory.cs" timestamp="1587966686816" />
-      <file name="/Dummy.txt" timestamp="1587966572234">
+      <file name="/Dummy.txt" timestamp="1587970488465">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -168,7 +168,7 @@
         <mark key="^" line="71" column="86" />
         <mark key="." line="71" column="85" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1587968727477" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1587970153892" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleInventoryMessageProcessor.cs" timestamp="1587709196721">
         <mark key="'" line="29" column="12" />
       </file>
