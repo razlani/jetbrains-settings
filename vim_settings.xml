@@ -153,12 +153,7 @@
         <mark key="^" line="9" column="107" />
         <mark key="." line="9" column="106" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.ArticleConsumer/local.settings.json" timestamp="1587531567603">
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="3" column="54" />
-        <mark key="." line="3" column="53" />
-        <mark key="^" line="3" column="54" />
-      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CFDE1041-8873-4DFE-83F7-593A6775F006/10/EventHubsRetryOptions.cs" timestamp="1587964626402" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/StockOnHandMessagePublisher.cs" timestamp="1587959079367">
         <mark key="[" line="10" column="91" />
         <mark key="]" line="10" column="111" />
