@@ -117,8 +117,12 @@
         <mark key="." line="12" column="120" />
         <mark key="^" line="12" column="121" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleSohMessageProcessor.cs" timestamp="1587967648989">
-        <mark key="'" line="109" column="34" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleSohMessageProcessor.cs" timestamp="1587969502579">
+        <mark key="'" line="38" column="27" />
+        <mark key="[" line="96" column="17" />
+        <mark key="]" line="97" column="74" />
+        <mark key="." line="97" column="73" />
+        <mark key="^" line="97" column="74" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/IEventHubPublisher.cs" timestamp="1587958911957">
         <mark key="[" line="5" column="39" />
@@ -202,8 +206,9 @@
       <jump line="13" column="31" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
       <jump line="66" column="26" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/ArticleSohInventoryService.cs" />
       <jump line="69" column="67" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/ArticleSohInventoryService.cs" />
-      <jump line="38" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleSohMessageProcessor.cs" />
       <jump line="109" column="34" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleSohMessageProcessor.cs" />
+      <jump line="121" column="22" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleSohMessageProcessor.cs" />
+      <jump line="38" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleSohMessageProcessor.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -211,32 +216,32 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>://wow-soh-dev-ehu-aas.servicebus.windows.net/;SharedAccessKeyName=soh-merged-delta-soh-sender;SharedAccessKey=/W9inpKHj3qkAWkvXZ7ouD1ErVQCCuuhkJj111FLtYk=;EntityPath=soh-merged-delta</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbjxJRXZlbnRIdWJQdWJsaXNoZXIsIEV2ZW50SHViUHVibGlzaGVyPEFsY1N0YXR1c01lc3NhZ2VQdWJsaXNoZXI+PigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbjxJRXZlbnRIdWJQdWJsaXNoZXIsIEV2ZW50SHViUHVibGlzaGVyPEFsY1N0YXR1c01lc3NhZ2VQdWJsaXNoZXI+PigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgRG5zQ2xpZW50LkludGVybmFsOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIkNvbm5lY3Rpb25TdHJpbmdCYWNrdXAiOiAiRW5kcG9pbnQ9c2I6Ly93b3ctc29oLWRldi1laHUtYWFzLnNlcnZpY2VidXMud2luZG93cy5uZXQvO1NoYXJlZEFjY2Vzc0tleU5hbWU9ZWY7U2hhcmVkQWNjZXNzS2V5PVVKc3NraHZTbHhNNUQ0bEkydDFPK04wcmQzYVpFYjRPMm1Vc1QrZmNSajg9O0VudGl0eVBhdGg9a2VrLXRlc3QtMiIK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dXNpbmcgRG5zQ2xpZW50LkludGVybmFsOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIkNvbm5lY3Rpb25TdHJpbmdCYWNrdXAiOiAiRW5kcG9pbnQ9c2I6Ly93b3ctc29oLWRldi1laHUtYWFzLnNlcnZpY2VidXMud2luZG93cy5uZXQvO1NoYXJlZEFjY2Vzc0tleU5hbWU9ZWY7U2hhcmVkQWNjZXNzS2V5PVVKc3NraHZTbHhNNUQ0bEkydDFPK04wcmQzYVpFYjRPMm1Vc1QrZmNSajg9O0VudGl0eVBhdGg9a2VrLXRlc3QtMiIK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>://wow-soh-dev-ehu-aas.servicebus.windows.net/;SharedAccessKeyName=soh-merged-delta-soh-sender;SharedAccessKey=/W9inpKHj3qkAWkvXZ7ouD1ErVQCCuuhkJj111FLtYk=;EntityPath=soh-merged-delta</text>
