@@ -99,7 +99,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588032523438">
+      <file name="/Dummy.txt" timestamp="1588038583699">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -117,11 +117,11 @@
         <mark key="." line="10" column="110" />
         <mark key="^" line="10" column="111" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1588034190635">
-        <mark key="[" line="36" column="49" />
-        <mark key="]" line="36" column="50" />
-        <mark key="." line="36" column="49" />
-        <mark key="^" line="36" column="50" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1588038624197">
+        <mark key="[" line="35" column="43" />
+        <mark key="]" line="35" column="44" />
+        <mark key="." line="35" column="43" />
+        <mark key="^" line="35" column="44" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/ArticleInventoryMessagePublisher.cs" timestamp="1587959063041">
         <mark key="[" line="12" column="96" />
@@ -151,14 +151,12 @@
         <mark key="'" line="25" column="48" />
         <mark key="[" line="23" column="119" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/functionalTests/Wow.Inventory.FunctionalTests/appTestSettings.json" timestamp="1588035464328" />
       <file name="/Dummy.cs" timestamp="1588037841654">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/ArticleSohInventoryService.cs" timestamp="1587962043080">
         <mark key="'" line="69" column="67" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.json" timestamp="1588036841089" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CFDE1041-8873-4DFE-83F7-593A6775F006/17/EventHubProducerClient.cs" timestamp="1587964690515">
         <mark key="'" line="116" column="15" />
       </file>
