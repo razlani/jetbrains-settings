@@ -147,20 +147,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1588031728182">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1588037959054">
         <mark key="'" line="25" column="48" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubProducerClient.cs" timestamp="1587709395208">
-        <mark key="[" line="3" column="39" />
-        <mark key="]" line="3" column="34" />
-        <mark key="^" line="3" column="34" />
-        <mark key="." line="3" column="33" />
+        <mark key="[" line="23" column="119" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/functionalTests/Wow.Inventory.FunctionalTests/appTestSettings.json" timestamp="1588035464328" />
-      <file name="/Dummy.cs" timestamp="1588031932364">
+      <file name="/Dummy.cs" timestamp="1588037841654">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/ArticleSohInventoryService.cs" timestamp="1587962043080">
@@ -169,6 +161,12 @@
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.json" timestamp="1588036841089" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CFDE1041-8873-4DFE-83F7-593A6775F006/17/EventHubProducerClient.cs" timestamp="1587964690515">
         <mark key="'" line="116" column="15" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1588037605770">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="13" column="2" />
+        <mark key="^" line="13" column="2" />
+        <mark key="." line="13" column="1" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1587963010921">
         <mark key="[" line="71" column="73" />
