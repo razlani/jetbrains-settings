@@ -99,7 +99,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588038583699">
+      <file name="/Dummy.txt" timestamp="1588117181442">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -147,9 +147,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1588037959054">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1588117250207">
         <mark key="'" line="25" column="48" />
-        <mark key="[" line="23" column="119" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="40" column="19" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="/Dummy.cs" timestamp="1588037841654">
         <mark key="[" line="0" column="0" />
@@ -210,37 +213,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>w</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93Owo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">a2sK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHB1Ymxpc2hlciA9PSBudWxsKQogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEFyZ3VtZW50TnVsbEV4Y2VwdGlvbihuYW1lb2YocHVibGlzaGVyKSwKICAgICAgICAgICAgICAgICAgICAiUHVibGlzaGVyIHVuaW5pdGlhbGl6ZWQuIFBsZWFzZSBjaGVjayBjb25uZWN0aW9uICIgKwogICAgICAgICAgICAgICAgICAgICJzdHJpbmcuIik7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text>try2, naive resiliency</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93Owo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlRleHQ7Cg==</text>
+        <text encoding="base64">a2sK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlRleHQ7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>Endpoint=sb://wow-soh-dev-ehu-aas.servicebus.windows.net/;SharedAccessKeyName=soh-merged-delta-soh-sender;SharedAccessKey=/W9inpKHj3qkAWkvXZ7ouD1ErVQCCuuhkJj111FLtYk=;EntityPath=soh-merged-delta</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfc2Vjb25kYXJ5UHVibGlzaGVyXD4=</text>
