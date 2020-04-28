@@ -13,6 +13,7 @@
         <entry encoding="base64">XDxfbG9nZ2VyXD4=</entry>
         <entry encoding="base64">XDxJbnNlcnRcPg==</entry>
         <entry encoding="base64">XDxDb21wYXJlT25FeGlzdGluZ0FydGljbGVcPg==</entry>
+        <entry encoding="base64">XDxfc2Vjb25kYXJ5UHVibGlzaGVyXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -98,18 +99,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" timestamp="1587958942168">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" timestamp="1588031724568">
         <mark key="'" line="22" column="26" />
-        <mark key="[" line="10" column="59" />
-        <mark key="]" line="10" column="63" />
-        <mark key="." line="10" column="62" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
         <mark key="^" line="10" column="63" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1587963217331">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1588032011326">
         <mark key="[" line="35" column="43" />
-        <mark key="]" line="35" column="44" />
+        <mark key="]" line="35" column="43" />
         <mark key="." line="35" column="43" />
-        <mark key="^" line="35" column="44" />
+        <mark key="^" line="27" column="43" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/ArticleInventoryMessagePublisher.cs" timestamp="1587959063041">
         <mark key="[" line="12" column="96" />
@@ -136,6 +137,9 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="33" />
       </file>
+      <file name="/Dummy.cs" timestamp="1588031932364">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1587963010921">
         <mark key="[" line="71" column="73" />
         <mark key="]" line="71" column="79" />
@@ -148,12 +152,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/AlcStatusMessagePublisher.cs" timestamp="1587959049604">
-        <mark key="[" line="9" column="89" />
-        <mark key="]" line="9" column="107" />
-        <mark key="^" line="9" column="107" />
-        <mark key="." line="9" column="106" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CFDE1041-8873-4DFE-83F7-593A6775F006/10/EventHubsRetryOptions.cs" timestamp="1587964626402" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/StockOnHandMessagePublisher.cs" timestamp="1587959079367">
         <mark key="[" line="10" column="91" />
@@ -162,9 +160,16 @@
         <mark key="^" line="10" column="111" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CFDE1041-8873-4DFE-83F7-593A6775F006/1/EventHubClientBuilderExtensions.cs" timestamp="1587859814251" />
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1587970153892" />
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleInventoryMessageProcessor.cs" timestamp="1587709196721">
-        <mark key="'" line="29" column="12" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/Program.cs" timestamp="1588030386414">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1588031728182">
+        <mark key="'" line="25" column="48" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/ArticleSohInventoryService.cs" timestamp="1587962043080">
         <mark key="'" line="69" column="67" />
@@ -203,53 +208,56 @@
       <jump line="109" column="34" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleSohMessageProcessor.cs" />
       <jump line="121" column="22" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleSohMessageProcessor.cs" />
       <jump line="38" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleSohMessageProcessor.cs" />
+      <jump line="49" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
+      <jump line="19" column="48" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
+      <jump line="27" column="48" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text>naive implementation of a failover mechanism for secondary event hubs</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text>naive implementation of a failover mechanism for secondary event hubs</text>
+      <register name="&quot;" type="4">
+        <text>w</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">a2sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbjxJRXZlbnRIdWJQdWJsaXNoZXIsIEV2ZW50SHViUHVibGlzaGVyPEFsY1N0YXR1c01lc3NhZ2VQdWJsaXNoZXI+PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlRleHQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgRG5zQ2xpZW50LkludGVybmFsOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIkNvbm5lY3Rpb25TdHJpbmdCYWNrdXAiOiAiRW5kcG9pbnQ9c2I6Ly93b3ctc29oLWRldi1laHUtYWFzLnNlcnZpY2VidXMud2luZG93cy5uZXQvO1NoYXJlZEFjY2Vzc0tleU5hbWU9ZWY7U2hhcmVkQWNjZXNzS2V5PVVKc3NraHZTbHhNNUQ0bEkydDFPK04wcmQzYVpFYjRPMm1Vc1QrZmNSajg9O0VudGl0eVBhdGg9a2VrLXRlc3QtMiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>://wow-soh-dev-ehu-aas.servicebus.windows.net/;SharedAccessKeyName=soh-merged-delta-soh-sender;SharedAccessKey=/W9inpKHj3qkAWkvXZ7ouD1ErVQCCuuhkJj111FLtYk=;EntityPath=soh-merged-delta</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb21wYXJlT25FeGlzdGluZ0FydGljbGVcPg==</text>
+        <text encoding="base64">XDxfc2Vjb25kYXJ5UHVibGlzaGVyXD4=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxDb21wYXJlT25FeGlzdGluZ0FydGljbGVcPg==</last-search>
+      <last-search encoding="base64">XDxfc2Vjb25kYXJ5UHVibGlzaGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb21wYXJlT25FeGlzdGluZ0FydGljbGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfc2Vjb25kYXJ5UHVibGlzaGVyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
