@@ -99,7 +99,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588117613979">
+      <file name="/Dummy.txt" timestamp="1588135419391">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -156,13 +156,13 @@
       <file name="/Dummy.cs" timestamp="1588037841654">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/ArticleSohInventoryService.cs" timestamp="1587962043080">
-        <mark key="'" line="69" column="67" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/ArticleSohInventoryService.cs" timestamp="1588135850980">
+        <mark key="'" line="16" column="29" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CFDE1041-8873-4DFE-83F7-593A6775F006/17/EventHubProducerClient.cs" timestamp="1587964690515">
         <mark key="'" line="116" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1588037605770">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1588133895264">
         <mark key="[" line="13" column="1" />
         <mark key="]" line="13" column="2" />
         <mark key="^" line="13" column="2" />
@@ -207,6 +207,7 @@
       <jump line="49" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
       <jump line="19" column="48" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
       <jump line="27" column="48" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
+      <jump line="16" column="29" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/ArticleSohInventoryService.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -247,15 +248,15 @@
         <text>Risk of message loss&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc2Vjb25kYXJ5UHVibGlzaGVyXD4=</text>
+        <text encoding="base64">XDxjb2xsZWN0aW9uTmFtZVw+</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfc2Vjb25kYXJ5UHVibGlzaGVyXD4=</last-search>
+      <last-search encoding="base64">XDxjb2xsZWN0aW9uTmFtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc2Vjb25kYXJ5UHVibGlzaGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb2xsZWN0aW9uTmFtZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
