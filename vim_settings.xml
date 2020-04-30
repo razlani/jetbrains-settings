@@ -15,6 +15,7 @@
         <entry encoding="base64">XDxDb21wYXJlT25FeGlzdGluZ0FydGljbGVcPg==</entry>
         <entry encoding="base64">XDxfc2Vjb25kYXJ5UHVibGlzaGVyXD4=</entry>
         <entry encoding="base64">XDxjb2xsZWN0aW9uTmFtZVw+</entry>
+        <entry encoding="base64">XDxfYWxjU3RhdHVzTWVzc2FnZVB1Ymxpc2hlclw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -100,7 +101,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588135419391">
+      <file name="/Dummy.txt" timestamp="1588207252690">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -148,11 +149,15 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1588118431311">
-        <mark key="[" line="63" column="59" />
-        <mark key="]" line="63" column="58" />
-        <mark key="^" line="63" column="58" />
-        <mark key="." line="63" column="57" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1588207160771">
+        <mark key="[" line="44" column="28" />
+        <mark key="]" line="44" column="30" />
+        <mark key="^" line="44" column="30" />
+        <mark key="." line="44" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/SettingsRepository.cs" timestamp="1588206601247" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/AlcStatusMessageProcessor.cs" timestamp="1588207340866">
+        <mark key="'" line="22" column="12" />
       </file>
       <file name="/Dummy.cs" timestamp="1588037841654">
         <mark key="[" line="0" column="0" />
@@ -209,55 +214,55 @@
       <jump line="19" column="48" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
       <jump line="27" column="48" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
       <jump line="16" column="29" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/ArticleSohInventoryService.cs" />
+      <jump line="13" column="52" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/AlcStatusMessageProcessor.cs" />
+      <jump line="22" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/AlcStatusMessageProcessor.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Risk of message loss&quot;</text>
+        <text>LogInformation</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24gZXgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vY2hlY2sgc2Vjb25kYXJ5ICwgaWYgbnVsbCB0aGVuIHRocm93LiBlbHNlIGxvZyBhbmQgZG8gdHJ5L3NlbmQgLiBpZiBwdWJsaWhlciBub3QgbnVsbCwgY2hlY2sgZXJyb3Igc3RhdGVtZW50a2trCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>e,
-                    $&quot;Publishing with producer targeting EventHub {_primaryPublisher.EventHubName} &quot; +
-                    $&quot;failed with message {e.Message}. Attempting to publish via secondary&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfbG9nZ2VyLkxvZ0Vycm9yKGV4LAogICAgICAgICAgICAgICAgICAgICAgICAkIlB1Ymxpc2hpbmcgd2l0aCBzZWNvbmRhcnkgcHJvZHVjZXIsIHRhcmdldGluZyBFdmVudEh1YiB7X3NlY29uZGFyeVB1Ymxpc2hlci5FdmVudEh1Yk5hbWV9ICIgKwogICAgICAgICAgICAgICAgICAgICAgICAkImZhaWxlZCB3aXRoIG1lc3NhZ2Uge2UuTWVzc2FnZX0iKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHB1Ymxpc2hlciA9PSBudWxsKQogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEFyZ3VtZW50TnVsbEV4Y2VwdGlvbihuYW1lb2YocHVibGlzaGVyKSwKICAgICAgICAgICAgICAgICAgICAiUHVibGlzaGVyIHVuaW5pdGlhbGl6ZWQuIFBsZWFzZSBjaGVjayBjb25uZWN0aW9uICIgKwogICAgICAgICAgICAgICAgICAgICJzdHJpbmcuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nRXJyb3IoZSwKICAgICAgICAgICAgICAgICAgICAkIlB1Ymxpc2hpbmcgd2l0aCBwcm9kdWNlciB0YXJnZXRpbmcgRXZlbnRIdWIge19wcmltYXJ5UHVibGlzaGVyLkV2ZW50SHViTmFtZX0gIiArCiAgICAgICAgICAgICAgICAgICAgJCJmYWlsZWQgd2l0aCBtZXNzYWdlIHtlLk1lc3NhZ2V9LiBBdHRlbXB0aW5nIHRvIHB1Ymxpc2ggdmlhIHNlY29uZGFyeSIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Risk of message loss&quot;</text>
+        <text>LogInformation</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2xsZWN0aW9uTmFtZVw+</text>
+        <text encoding="base64">XDxfYWxjU3RhdHVzTWVzc2FnZVB1Ymxpc2hlclw+</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb2xsZWN0aW9uTmFtZVw+</last-search>
+      <last-search encoding="base64">XDxfYWxjU3RhdHVzTWVzc2FnZVB1Ymxpc2hlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2xsZWN0aW9uTmFtZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxfYWxjU3RhdHVzTWVzc2FnZVB1Ymxpc2hlclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
