@@ -101,11 +101,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588207252690">
+      <file name="/Dummy.txt" timestamp="1588228187190">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-infra/inventory-infra/src/environment/envvariables.tfvars" timestamp="1588231381552" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" timestamp="1588031724568">
         <mark key="'" line="22" column="26" />
         <mark key="[" line="60" column="0" />
@@ -131,6 +132,12 @@
         <mark key="." line="12" column="120" />
         <mark key="^" line="12" column="121" />
       </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-infra/inventory-infra/src/modules/function/main.tf" timestamp="1588232220616">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="18" column="79" />
+      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleSohMessageProcessor.cs" timestamp="1588033914538">
         <mark key="'" line="38" column="27" />
         <mark key="[" line="96" column="17" />
@@ -155,7 +162,6 @@
         <mark key="^" line="44" column="30" />
         <mark key="." line="44" column="29" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/SettingsRepository.cs" timestamp="1588206601247" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/AlcStatusMessageProcessor.cs" timestamp="1588207340866">
         <mark key="'" line="22" column="12" />
       </file>
@@ -221,37 +227,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>LogInformation</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24gZXgpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfbG9nZ2VyLkxvZ0Vycm9yKGV4LAogICAgICAgICAgICAgICAgICAgICAgICAkIlB1Ymxpc2hpbmcgd2l0aCBzZWNvbmRhcnkgcHJvZHVjZXIsIHRhcmdldGluZyBFdmVudEh1YiB7X3NlY29uZGFyeVB1Ymxpc2hlci5FdmVudEh1Yk5hbWV9ICIgKwogICAgICAgICAgICAgICAgICAgICAgICAkImZhaWxlZCB3aXRoIG1lc3NhZ2Uge2UuTWVzc2FnZX0iKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">b3V0cHV0ICJzZXJ2aWNlX3BsYW5faWQiIHsKICB2YWx1ZSA9IGRhdGEuYXp1cmVybV9hcHBfc2VydmljZV9wbGFuLmFwcF9zZXJ2aWNlX3BsYW4uaWQKfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBsb2NhdGlvbiAgICAgICAgICAgID0gdmFyLmxvY2F0aW9uCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ewogICAgc2l6ZSA9ICIiCiAgICB0aWVyID0gIiIKICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ewogICAgdGllciA9ICJTdGFuZGFyZCIKICAgIHNpemUgPSAiUzEiCiAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nRXJyb3IoZSwKICAgICAgICAgICAgICAgICAgICAkIlB1Ymxpc2hpbmcgd2l0aCBwcm9kdWNlciB0YXJnZXRpbmcgRXZlbnRIdWIge19wcmltYXJ5UHVibGlzaGVyLkV2ZW50SHViTmFtZX0gIiArCiAgICAgICAgICAgICAgICAgICAgJCJmYWlsZWQgd2l0aCBtZXNzYWdlIHtlLk1lc3NhZ2V9LiBBdHRlbXB0aW5nIHRvIHB1Ymxpc2ggdmlhIHNlY29uZGFyeSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24gZXgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>LogInformation</text>
+        <text>output.service_plan_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYWxjU3RhdHVzTWVzc2FnZVB1Ymxpc2hlclw+</text>
