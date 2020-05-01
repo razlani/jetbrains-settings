@@ -104,12 +104,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588232263799">
+      <file name="/Dummy.txt" timestamp="1588309523611">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-infra/inventory-infra/src/environment/envvariables.tfvars" timestamp="1588231381552" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" timestamp="1588031724568">
         <mark key="'" line="22" column="26" />
         <mark key="[" line="60" column="0" />
@@ -159,20 +158,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" timestamp="1588207160771">
-        <mark key="[" line="44" column="28" />
-        <mark key="]" line="44" column="30" />
-        <mark key="^" line="44" column="30" />
-        <mark key="." line="44" column="29" />
-      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/AlcStatusMessageProcessor.cs" timestamp="1588207340866">
         <mark key="'" line="22" column="12" />
       </file>
       <file name="/Dummy.cs" timestamp="1588037841654">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/ArticleSohInventoryService.cs" timestamp="1588135850980">
-        <mark key="'" line="16" column="29" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CFDE1041-8873-4DFE-83F7-593A6775F006/17/EventHubProducerClient.cs" timestamp="1587964690515">
         <mark key="'" line="116" column="15" />
@@ -183,11 +173,11 @@
         <mark key="^" line="13" column="2" />
         <mark key="." line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1587963010921">
-        <mark key="[" line="71" column="73" />
-        <mark key="]" line="71" column="79" />
-        <mark key="." line="71" column="78" />
-        <mark key="^" line="71" column="79" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1588309501323">
+        <mark key="[" line="71" column="51" />
+        <mark key="]" line="71" column="81" />
+        <mark key="." line="71" column="80" />
+        <mark key="^" line="71" column="81" />
       </file>
     </filemarks>
     <jumps>
@@ -232,8 +222,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>soh-merged-delta-sndr-backup-conn</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">b3V0cHV0ICJzZXJ2aWNlX3BsYW5faWQiIHsKICB2YWx1ZSA9IGRhdGEuYXp1cmVybV9hcHBfc2VydmljZV9wbGFuLmFwcF9zZXJ2aWNlX3BsYW4uaWQKfQo=</text>
@@ -260,7 +250,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24gZXgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>output.service_plan_id</text>
+        <text>soh-merged-delta-sndr-backup-conn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYWxjU3RhdHVzTWVzc2FnZVB1Ymxpc2hlclw+</text>
