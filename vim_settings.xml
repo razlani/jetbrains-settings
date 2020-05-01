@@ -104,7 +104,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588311070753">
+      <file name="/Dummy.txt" timestamp="1588313698072">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -174,11 +174,11 @@
         <mark key="^" line="13" column="2" />
         <mark key="." line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1588312995045">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1588313770597">
         <mark key="[" line="71" column="51" />
-        <mark key="]" line="71" column="81" />
-        <mark key="." line="71" column="80" />
-        <mark key="^" line="71" column="81" />
+        <mark key="]" line="71" column="51" />
+        <mark key="." line="71" column="51" />
+        <mark key="^" line="65" column="65" />
       </file>
     </filemarks>
     <jumps>
@@ -224,7 +224,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>soh-merged-delta-sndr-backup-conn</text>
+        <text>soh-merged-delta-sndr-sec-conn</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">b3V0cHV0ICJzZXJ2aWNlX3BsYW5faWQiIHsKICB2YWx1ZSA9IGRhdGEuYXp1cmVybV9hcHBfc2VydmljZV9wbGFuLmFwcF9zZXJ2aWNlX3BsYW4uaWQKfQo=</text>
@@ -251,7 +251,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24gZXgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>soh-merged-delta-sndr-backup-conn</text>
+        <text>soh-merged-delta-sndr-sec-conn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYWxjU3RhdHVzTWVzc2FnZVB1Ymxpc2hlclw+</text>
