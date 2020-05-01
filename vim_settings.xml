@@ -104,7 +104,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588309523611">
+      <file name="/Dummy.txt" timestamp="1588309933276">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -153,10 +153,11 @@
         <mark key="^" line="5" column="43" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/Program.cs" timestamp="1588030386414">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/Program.cs" timestamp="1588310032004">
+        <mark key="[" line="82" column="38" />
+        <mark key="]" line="82" column="38" />
+        <mark key="^" line="82" column="38" />
+        <mark key="." line="82" column="37" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/AlcStatusMessageProcessor.cs" timestamp="1588207340866">
         <mark key="'" line="22" column="12" />
