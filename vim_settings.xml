@@ -104,7 +104,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588309933276">
+      <file name="/Dummy.txt" timestamp="1588311070753">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -174,7 +174,7 @@
         <mark key="^" line="13" column="2" />
         <mark key="." line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1588309501323">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1588312995045">
         <mark key="[" line="71" column="51" />
         <mark key="]" line="71" column="81" />
         <mark key="." line="71" column="80" />
