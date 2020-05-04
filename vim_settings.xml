@@ -116,12 +116,7 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="10" column="63" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/StockOnHandMessagePublisher.cs" timestamp="1587959079367">
-        <mark key="[" line="10" column="91" />
-        <mark key="]" line="10" column="111" />
-        <mark key="." line="10" column="110" />
-        <mark key="^" line="10" column="111" />
-      </file>
+      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.ArticleConsumer/local.settings.json" timestamp="1588558841289" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1588038624197">
         <mark key="[" line="35" column="43" />
         <mark key="]" line="35" column="44" />
