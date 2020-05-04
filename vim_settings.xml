@@ -109,6 +109,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Protos/PiesUseWeightRangeChanged.proto" timestamp="1588575143129" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" timestamp="1588031724568">
         <mark key="'" line="22" column="26" />
         <mark key="[" line="60" column="0" />
@@ -116,17 +117,17 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="10" column="63" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.ArticleConsumer/local.settings.json" timestamp="1588564813578">
+      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.ArticleConsumer/local.settings.json" timestamp="1588575231326">
         <mark key="[" line="4" column="33" />
         <mark key="]" line="4" column="254" />
         <mark key="." line="4" column="253" />
         <mark key="^" line="4" column="254" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1588570162671">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="16" column="2" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1588575258569">
+        <mark key="[" line="24" column="27" />
+        <mark key="]" line="24" column="248" />
+        <mark key="." line="24" column="247" />
+        <mark key="^" line="24" column="248" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-infra/inventory-infra/src/modules/function/main.tf" timestamp="1588232220616">
         <mark key="[" line="9" column="0" />
@@ -152,9 +153,6 @@
       </file>
       <file name="/Dummy.cs" timestamp="1588037841654">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CFDE1041-8873-4DFE-83F7-593A6775F006/17/EventHubProducerClient.cs" timestamp="1587964690515">
-        <mark key="'" line="116" column="15" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1588133895264">
         <mark key="[" line="13" column="1" />
@@ -212,8 +210,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>Endpoint=sb://wow-soh-dev-ehu-aas.servicebus.windows.net/;SharedAccessKeyName=inventory-service-soh-consumer-group-listener;SharedAccessKey=L1ecWK1Nz0Z4e+OpBTByK0UlEXubGlxxQRkOH4nWHEA=;EntityPath=soh-raw</text>
       </register>
       <register name="2" type="2">
         <text>rebased and updated appspec to match keyvault secret names</text>
@@ -240,7 +238,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>UseDevelopmentStorage=true</text>
+        <text>Endpoint=sb://wow-soh-dev-ehu-aas.servicebus.windows.net/;SharedAccessKeyName=inventory-service-soh-consumer-group-listener;SharedAccessKey=L1ecWK1Nz0Z4e+OpBTByK0UlEXubGlxxQRkOH4nWHEA=;EntityPath=soh-raw</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYWxjU3RhdHVzTWVzc2FnZVB1Ymxpc2hlclw+</text>
