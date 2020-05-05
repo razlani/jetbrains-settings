@@ -122,16 +122,17 @@
         <mark key="." line="24" column="247" />
         <mark key="^" line="24" column="248" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/variable.tf" timestamp="1588644194563">
+      <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/variable.tf" timestamp="1588647304745">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/modules/keyvault/main.tf" timestamp="1588643624841">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/modules/keyvault/main.tf" timestamp="1588646993887">
+        <mark key="[" line="88" column="59" />
+        <mark key="]" line="88" column="60" />
+        <mark key="." line="88" column="59" />
+        <mark key="^" line="88" column="60" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1588313770597">
         <mark key="[" line="71" column="51" />
@@ -140,12 +141,12 @@
         <mark key="^" line="65" column="65" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/local.settings.json" timestamp="1588564434899" />
-      <file name="/Dummy.txt" timestamp="1588644790240">
+      <file name="/Dummy.txt" timestamp="1588647195686">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/modules/storage/main.tf" timestamp="1588643722316">
+      <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/modules/storage/main.tf" timestamp="1588646170179">
         <mark key="[" line="12" column="25" />
         <mark key="]" line="13" column="42" />
         <mark key="^" line="13" column="42" />
@@ -158,11 +159,11 @@
         <mark key="." line="4" column="253" />
         <mark key="^" line="4" column="254" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-infra/inventory-infra/src/modules/function/main.tf" timestamp="1588232220616">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="18" column="79" />
+      <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/modules/storage/output.tf" timestamp="1588646820601">
+        <mark key="[" line="1" column="56" />
+        <mark key="]" line="1" column="57" />
+        <mark key="." line="1" column="56" />
+        <mark key="^" line="1" column="57" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/README.md" timestamp="1588644205492">
         <mark key="[" line="98" column="97" />
@@ -194,6 +195,12 @@
         <mark key="]" line="18" column="24" />
         <mark key="." line="18" column="24" />
         <mark key="^" line="17" column="40" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/modules/keyvault/output.tf" timestamp="1588646804070">
+        <mark key="[" line="1" column="51" />
+        <mark key="]" line="1" column="52" />
+        <mark key="." line="1" column="51" />
+        <mark key="^" line="1" column="52" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/environment/envvariables.tfvars" timestamp="1588643647886">
         <mark key="[" line="26" column="20" />
@@ -250,22 +257,22 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ID0gZmFsc2UK</text>
+        <text>add counts to outputs</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ID0gZmFsc2UK</text>
+        <text>add counts to outputs</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ID0gZmFsc2UK</text>
+        <text encoding="base64">ICBjb3VudCA9IHZhci5za2lwX3N0b3JhZ2VfYWNjb3VudCA/IDAgOiAxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBza2lwX2tleXZhdWx0ID0gCg==</text>
+        <text encoding="base64">ICBjb3VudCA9IHZhci5za2lwX3N0b3JhZ2VfYWNjb3VudCA/IDAgOiAxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBza2lwX3N0b3JhZ2VfYWNjb3VudCA9IHZhci4K</text>
+        <text encoding="base64">ICBjb3VudCA9IHZhci5za2lwX2tleXZhdWx0ID8gMCA6IDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ID0gZmFsc2UK</text>
+        <text>reference count index as per tf validate</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -274,13 +281,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>enhance by adding kv/sa as optional resources</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gZmFsc2UK</text>
       </register>
       <register name="-" type="4">
-        <text>SKIP_STORAGE_ACCOUNT</text>
+        <text>skip_storage_account</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21tb25fdGFnc1w+</text>
