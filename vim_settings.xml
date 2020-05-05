@@ -128,11 +128,11 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="75" column="23" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/modules/keyvault/main.tf" timestamp="1588653454787">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="91" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/modules/keyvault/main.tf" timestamp="1588722521199">
+        <mark key="[" line="82" column="33" />
+        <mark key="]" line="82" column="65" />
+        <mark key="." line="82" column="64" />
+        <mark key="^" line="82" column="65" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1588313770597">
         <mark key="[" line="71" column="51" />
@@ -159,7 +159,7 @@
         <mark key="." line="4" column="253" />
         <mark key="^" line="4" column="254" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/modules/storage/output.tf" timestamp="1588646820601">
+      <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/modules/storage/output.tf" timestamp="1588722187615">
         <mark key="[" line="1" column="56" />
         <mark key="]" line="1" column="57" />
         <mark key="." line="1" column="56" />
@@ -171,12 +171,12 @@
         <mark key="^" line="98" column="58" />
         <mark key="." line="98" column="57" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" timestamp="1588654008819">
+      <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" timestamp="1588722371320">
         <mark key="'" line="9" column="2" />
-        <mark key="[" line="84" column="42" />
-        <mark key="]" line="84" column="20" />
-        <mark key="^" line="84" column="20" />
-        <mark key="." line="84" column="19" />
+        <mark key="[" line="84" column="61" />
+        <mark key="]" line="85" column="68" />
+        <mark key="^" line="85" column="68" />
+        <mark key="." line="85" column="67" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/Program.cs" timestamp="1588310032004">
         <mark key="[" line="82" column="38" />
@@ -184,11 +184,11 @@
         <mark key="^" line="82" column="38" />
         <mark key="." line="82" column="37" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/modules/keyvault/variable.tf" timestamp="1588653403193">
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="23" column="16" />
-        <mark key="^" line="23" column="16" />
-        <mark key="." line="23" column="15" />
+      <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/modules/keyvault/variable.tf" timestamp="1588722322304">
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="26" column="35" />
+        <mark key="^" line="26" column="35" />
+        <mark key="." line="26" column="34" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.json" timestamp="1588575337059">
         <mark key="[" line="18" column="24" />
@@ -257,34 +257,34 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text>fix outputs due to counted property</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Endpoint=sb://wow-pies-dev-ehu-aas.servicebus.windows.net/;SharedAccessKeyName=inventory-pies-delta-consumer-group-listener;SharedAccessKey=ZPwvOE4hMjMpuzb22sVYvfFCF8iFkwGb9fdf2j5iS1M=;EntityPath=pies-article-change-delta</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>fix outputs due to counted property</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb3VudCA9IHZhci5za2lwX2tleXZhdWx0ID8gMCA6IDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb3VudCA9IHZhci5za2lwX2tleXZhdWx0ID8gMCA6IDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb3VudCA9IHZhci5za2lwX2tleXZhdWx0ID8gMCA6IDEK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBjb3VudCA9IHZhci5za2lwX2tleXZhdWx0ID8gMCA6IDEK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text>add counts to outputs</text>
+        <text encoding="base64">ICBjb3VudCA9IHZhci5za2lwX2tleXZhdWx0ID8gMCA6IDEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb3VudCA9IHZhci5za2lwX3N0b3JhZ2VfYWNjb3VudCA/IDAgOiAxCg==</text>
+        <text>add counts to outputs</text>
       </register>
       <register name="-" type="4">
         <text>Endpoint=sb://wow-pies-dev-ehu-aas.servicebus.windows.net/;SharedAccessKeyName=inventory-pies-delta-consumer-group-listener;SharedAccessKey=ZPwvOE4hMjMpuzb22sVYvfFCF8iFkwGb9fdf2j5iS1M=;EntityPath=pies-article-change-delta</text>
