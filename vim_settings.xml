@@ -22,6 +22,7 @@
         <entry encoding="base64">XDxQbGF0Zm9ybVw+</entry>
         <entry encoding="base64">XDxTeXN0ZW1cPg==</entry>
         <entry encoding="base64">XDxjb21tb25fdGFnc1w+</entry>
+        <entry encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -110,17 +111,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" timestamp="1588739441806">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="4" column="68" />
+        <mark key="^" line="4" column="68" />
+        <mark key="." line="4" column="67" />
+      </file>
       <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/modules/storage/variable.tf" timestamp="1588653271938">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="16" />
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="16" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1588575258569">
-        <mark key="[" line="24" column="27" />
-        <mark key="]" line="24" column="248" />
-        <mark key="." line="24" column="247" />
-        <mark key="^" line="24" column="248" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/variable.tf" timestamp="1588653190947">
         <mark key="[" line="76" column="0" />
@@ -134,13 +135,6 @@
         <mark key="." line="82" column="64" />
         <mark key="^" line="82" column="65" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1588313770597">
-        <mark key="[" line="71" column="51" />
-        <mark key="]" line="71" column="51" />
-        <mark key="." line="71" column="51" />
-        <mark key="^" line="65" column="65" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/local.settings.json" timestamp="1588564434899" />
       <file name="/Dummy.txt" timestamp="1588724244081">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -152,7 +146,9 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="47" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Protos/PiesUseWeightRangeChanged.proto" timestamp="1588575143129" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" timestamp="1588738773750">
+        <mark key="'" line="32" column="12" />
+      </file>
       <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.ArticleConsumer/local.settings.json" timestamp="1588654099314">
         <mark key="[" line="4" column="33" />
         <mark key="]" line="4" column="254" />
@@ -171,6 +167,7 @@
         <mark key="^" line="100" column="63" />
         <mark key="." line="100" column="62" />
       </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1588739021183" />
       <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" timestamp="1588722371320">
         <mark key="'" line="9" column="2" />
         <mark key="[" line="84" column="61" />
@@ -178,23 +175,14 @@
         <mark key="^" line="85" column="68" />
         <mark key="." line="85" column="67" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/Program.cs" timestamp="1588310032004">
-        <mark key="[" line="82" column="38" />
-        <mark key="]" line="82" column="38" />
-        <mark key="^" line="82" column="38" />
-        <mark key="." line="82" column="37" />
-      </file>
       <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/modules/keyvault/variable.tf" timestamp="1588722322304">
         <mark key="[" line="26" column="27" />
         <mark key="]" line="26" column="35" />
         <mark key="^" line="26" column="35" />
         <mark key="." line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.json" timestamp="1588575337059">
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="18" column="24" />
-        <mark key="." line="18" column="24" />
-        <mark key="^" line="17" column="40" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/AlcStatusMessageProcessor.cs" timestamp="1588738717012">
+        <mark key="'" line="22" column="12" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/modules/keyvault/output.tf" timestamp="1588646804070">
         <mark key="[" line="1" column="51" />
@@ -252,6 +240,9 @@
       <jump line="65" column="35" filename="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" />
       <jump line="82" column="45" filename="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" />
       <jump line="9" column="2" filename="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" />
+      <jump line="108" column="49" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
+      <jump line="19" column="60" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
+      <jump line="32" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -290,15 +281,15 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21tb25fdGFnc1w+</text>
+        <text encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb21tb25fdGFnc1w+</last-search>
+      <last-search encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21tb25fdGFnc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
