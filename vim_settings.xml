@@ -141,7 +141,7 @@
         <mark key="^" line="65" column="65" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/local.settings.json" timestamp="1588564434899" />
-      <file name="/Dummy.txt" timestamp="1588657516829">
+      <file name="/Dummy.txt" timestamp="1588724090064">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -165,11 +165,11 @@
         <mark key="." line="1" column="56" />
         <mark key="^" line="1" column="57" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/README.md" timestamp="1588653376370">
-        <mark key="[" line="98" column="53" />
-        <mark key="]" line="98" column="58" />
-        <mark key="^" line="98" column="58" />
-        <mark key="." line="98" column="57" />
+      <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/README.md" timestamp="1588724237981">
+        <mark key="[" line="100" column="62" />
+        <mark key="]" line="100" column="63" />
+        <mark key="^" line="100" column="63" />
+        <mark key="." line="100" column="62" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" timestamp="1588722371320">
         <mark key="'" line="9" column="2" />
@@ -257,37 +257,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>inverse configure logic</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="2" type="2">
-        <text>fix outputs due to counted property</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>fix outputs due to counted property</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb3VudCA9IHZhci5za2lwX2tleXZhdWx0ID8gMCA6IDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb3VudCA9IHZhci5za2lwX2tleXZhdWx0ID8gMCA6IDEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb3VudCA9IHZhci5za2lwX2tleXZhdWx0ID8gMCA6IDEK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBjb3VudCA9IHZhci5za2lwX2tleXZhdWx0ID8gMCA6IDEK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text>add counts to outputs</text>
+        <text encoding="base64">ICBjb3VudCA9IHZhci5za2lwX2tleXZhdWx0ID8gMCA6IDEK</text>
       </register>
       <register name="-" type="4">
-        <text>Endpoint=sb://wow-pies-dev-ehu-aas.servicebus.windows.net/;SharedAccessKeyName=inventory-pies-delta-consumer-group-listener;SharedAccessKey=ZPwvOE4hMjMpuzb22sVYvfFCF8iFkwGb9fdf2j5iS1M=;EntityPath=pies-article-change-delta</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21tb25fdGFnc1w+</text>
