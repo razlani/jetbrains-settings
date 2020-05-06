@@ -141,7 +141,7 @@
         <mark key="^" line="65" column="65" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/local.settings.json" timestamp="1588564434899" />
-      <file name="/Dummy.txt" timestamp="1588724090064">
+      <file name="/Dummy.txt" timestamp="1588724244081">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -257,34 +257,34 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text>inverse configure logic</text>
+        <text>add storage_account logic to keyvault module for determining resource creation</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text>add storage_account logic to keyvault module for determining resource creation</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>inverse configure logic</text>
       </register>
       <register name="3" type="2">
-        <text>fix outputs due to counted property</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>fix outputs due to counted property</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb3VudCA9IHZhci5za2lwX2tleXZhdWx0ID8gMCA6IDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb3VudCA9IHZhci5za2lwX2tleXZhdWx0ID8gMCA6IDEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb3VudCA9IHZhci5za2lwX2tleXZhdWx0ID8gMCA6IDEK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBjb3VudCA9IHZhci5za2lwX2tleXZhdWx0ID8gMCA6IDEK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
