@@ -113,11 +113,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" timestamp="1588739441806">
-        <mark key="[" line="4" column="44" />
-        <mark key="]" line="4" column="68" />
-        <mark key="^" line="4" column="68" />
-        <mark key="." line="4" column="67" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" timestamp="1588822815792">
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="17" column="58" />
+        <mark key="^" line="17" column="58" />
+        <mark key="." line="17" column="57" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/modules/storage/variable.tf" timestamp="1588653271938">
         <mark key="[" line="14" column="12" />
@@ -125,11 +125,11 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/EachMultiplierRule.cs" timestamp="1588819613768">
-        <mark key="[" line="12" column="61" />
-        <mark key="]" line="12" column="62" />
-        <mark key="^" line="12" column="62" />
-        <mark key="." line="12" column="61" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/EachMultiplierRule.cs" timestamp="1588822737680">
+        <mark key="[" line="15" column="118" />
+        <mark key="]" line="15" column="122" />
+        <mark key="^" line="15" column="122" />
+        <mark key="." line="15" column="121" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/modules/keyvault/main.tf" timestamp="1588722521199">
         <mark key="[" line="82" column="33" />
@@ -137,11 +137,11 @@
         <mark key="." line="82" column="64" />
         <mark key="^" line="82" column="65" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/UseWeightRangeRule.cs" timestamp="1588820231590">
-        <mark key="[" line="10" column="58" />
-        <mark key="]" line="10" column="58" />
-        <mark key="^" line="9" column="66" />
-        <mark key="." line="10" column="58" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/UseWeightRangeRule.cs" timestamp="1588822556627">
+        <mark key="[" line="21" column="61" />
+        <mark key="]" line="21" column="62" />
+        <mark key="." line="21" column="61" />
+        <mark key="^" line="21" column="62" />
       </file>
       <file name="/Dummy.txt" timestamp="1588724244081">
         <mark key="[" line="0" column="0" />
@@ -259,37 +259,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>articleMetadata.u</text>
+        <text>hasMaxWeight</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFydGljbGVJbnZlbnRvcnkuVW5pdE9mTWVhc3VyZSA9PSAiS0ciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFydGljbGVNZXRhZGF0YS5NYXhpbXVtV2VpZ2h0LlZhbHVlID4gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhhc01heFdlaWdodCA9IGFydGljbGVNZXRhZGF0YS5NYXhpbXVtV2VpZ2h0Lkhhc1ZhbHVlICYmCg==</text>
       </register>
       <register name="5" type="2">
-        <text>add storage_account logic to keyvault module for determining resource creation</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXJ0aWNsZU1ldGFkYXRhLlVzZVdlaWdodFJhbmdlLlZhbHVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text>inverse configure logic</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text>fix outputs due to counted property</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVhY2hNdWx0aXBsaWVyID0gYXJ0aWNsZU1ldGFkYXRhLkVhY2hNdWx0aXBsaWVyOwo=</text>
+      </register>
       <register name="-" type="4">
-        <text>articleMetadata.u</text>
+        <text>hasMaxWeight</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</text>
