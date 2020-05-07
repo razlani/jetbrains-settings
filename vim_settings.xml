@@ -137,11 +137,11 @@
         <mark key="." line="82" column="64" />
         <mark key="^" line="82" column="65" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/UseWeightRangeRule.cs" timestamp="1588820047346">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="4" column="59" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/UseWeightRangeRule.cs" timestamp="1588820231590">
+        <mark key="[" line="10" column="58" />
+        <mark key="]" line="10" column="58" />
+        <mark key="^" line="9" column="66" />
+        <mark key="." line="10" column="58" />
       </file>
       <file name="/Dummy.txt" timestamp="1588724244081">
         <mark key="[" line="0" column="0" />
@@ -261,8 +261,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>articleMetadata.u</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -289,7 +289,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXJ0aWNsZU1ldGFkYXRhLkVhY2hNdWx0aXBsaWVyLkhhc1ZhbHVlICYmIGFydGljbGVNZXRhZGF0YS5FYWNoTXVsdGlwbGllci5WYWx1ZSA+IDA=</text>
+        <text>articleMetadata.u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</text>
