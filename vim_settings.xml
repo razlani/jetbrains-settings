@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeUFnZ3JlZ2F0b3JcPg==</entry>
-        <entry encoding="base64">XDxfcHVibGlzaGVyc1w+</entry>
         <entry encoding="base64">XDxfbG9nZ2VyXD4=</entry>
         <entry encoding="base64">XDxJbnNlcnRcPg==</entry>
         <entry encoding="base64">XDxDb21wYXJlT25FeGlzdGluZ0FydGljbGVcPg==</entry>
@@ -21,10 +19,12 @@
         <entry encoding="base64">XDxjb21tb25fdGFnc1w+</entry>
         <entry encoding="base64">XDxfYXJ0aWNsZU1ldGFkYXRhUmVwb3NpdG9yeVw+</entry>
         <entry encoding="base64">XDxtZXNzYWdlSGFuZGxlcnNcPg==</entry>
-        <entry encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</entry>
         <entry encoding="base64">XDxfc2V0dGluZ3NTZXJ2aWNlTW9ja1w+</entry>
         <entry encoding="base64">XDxfc2V0dGluZ3NSZXBvc2l0b3J5XD4=</entry>
         <entry encoding="base64">XDxTZXR0aW5nS2V5XD4=</entry>
+        <entry encoding="base64">XDxhcnRpY2xlSW52ZW50b3J5UnVsZXNcPg==</entry>
+        <entry encoding="base64">XDxfbWVzc2FnZUhhbmRsZXJzXD4=</entry>
+        <entry encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -135,8 +135,8 @@
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/SettingsService.cs" timestamp="1588835630916">
         <mark key="'" line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" timestamp="1588815104675">
-        <mark key="'" line="32" column="12" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" timestamp="1588910796230">
+        <mark key="'" line="26" column="47" />
         <mark key="k" line="19" column="37" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" timestamp="1588839004729">
@@ -186,8 +186,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" timestamp="1588809413916">
-        <mark key="'" line="28" column="31" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" timestamp="1588910919615">
+        <mark key="'" line="32" column="12" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" timestamp="1588910896506">
+        <mark key="'" line="28" column="12" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1588835090090">
         <mark key="'" line="15" column="39" />
@@ -240,9 +243,7 @@
       <jump line="30" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
       <jump line="50" column="40" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
       <jump line="25" column="41" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" />
-      <jump line="28" column="31" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" />
       <jump line="19" column="60" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
-      <jump line="32" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
       <jump line="15" column="39" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" />
       <jump line="68" column="8" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryRulesTests.cs" />
       <jump line="10" column="45" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/SettingsService.cs" />
@@ -254,6 +255,12 @@
       <jump line="29" column="90" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
       <jump line="25" column="8" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
       <jump line="33" column="8" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
+      <jump line="32" column="37" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
+      <jump line="26" column="47" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
+      <jump line="21" column="54" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" />
+      <jump line="28" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" />
+      <jump line="19" column="60" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" />
+      <jump line="32" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -292,15 +299,15 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTZXR0aW5nS2V5XD4=</text>
+        <text encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTZXR0aW5nS2V5XD4=</last-search>
+      <last-search encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTZXR0aW5nS2V5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
