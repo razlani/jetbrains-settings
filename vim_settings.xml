@@ -113,7 +113,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589172144422">
+      <file name="/Dummy.txt" timestamp="1589190979658">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -134,12 +134,11 @@
         <mark key="^" line="33" column="56" />
         <mark key="." line="33" column="55" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" timestamp="1589184026406">
-        <mark key="'" line="68" column="52" />
-        <mark key="[" line="126" column="89" />
-        <mark key="]" line="122" column="57" />
-        <mark key="." line="122" column="56" />
-        <mark key="^" line="122" column="57" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" timestamp="1589190851292">
+        <mark key="[" line="269" column="0" />
+        <mark key="]" line="269" column="0" />
+        <mark key="." line="269" column="0" />
+        <mark key="^" line="263" column="61" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/README.md" timestamp="1588724237981">
         <mark key="[" line="100" column="62" />
@@ -285,37 +284,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbCBBcHBseVdlaWdodFJhbmdlUnVsZXMK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVc2VXZWlnaHRSYW5nZSA9IGZhbHNlLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFYWNoTXVsdGlwbGllciA9IDU1NS41NW0sCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ga2VrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9iamVjdFR5Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9iamVjdD8gYXJ0ID0gQWN0aXZhdG9yLkNyZWF0ZUluc3RhbmNlKHJ1bGUpLgo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZy5UYXNrczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFydC5hcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJ1bGUuR2V0TWV0aG9kKCJBcHBseSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>SOHOverride</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUXD4=</text>
