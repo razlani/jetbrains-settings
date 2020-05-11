@@ -113,7 +113,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589157837964">
+      <file name="/Dummy.txt" timestamp="1589172144422">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -141,11 +141,17 @@
         <mark key="^" line="100" column="63" />
         <mark key="." line="100" column="62" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/EachMultiplierRule.cs" timestamp="1589157805030">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/EachMultiplierRule.cs" timestamp="1589171538573">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="9" column="12" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/RandomWeightArticleRule.cs" timestamp="1589172645218">
+        <mark key="[" line="26" column="81" />
+        <mark key="]" line="33" column="17" />
+        <mark key="^" line="33" column="17" />
+        <mark key="." line="33" column="16" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" timestamp="1588722371320">
         <mark key="'" line="9" column="2" />
@@ -166,11 +172,11 @@
         <mark key="." line="82" column="64" />
         <mark key="^" line="82" column="65" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/UseWeightRangeRule.cs" timestamp="1589157892992">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="16" />
-        <mark key="." line="8" column="15" />
-        <mark key="^" line="8" column="16" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/UseWeightRangeRule.cs" timestamp="1589171952161">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="33" />
+        <mark key="^" line="4" column="34" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryRulesTests.cs" timestamp="1588837423062">
         <mark key="'" line="16" column="55" />
@@ -272,28 +278,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZVdlaWdodFJhbmdlID0gYXJ0aWNsZU1ldGFkYXRhLlVzZVdlaWdodFJhbmdlLkhhc1ZhbHVlICYmCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFydGljbGVNZXRhZGF0YS5Vc2VXZWlnaHRSYW5nZS5WYWx1ZTsKCiAgICAgICAgICAgIHZhciBoYXNNYXhXZWlnaHQgPSBhcnRpY2xlTWV0YWRhdGEuTWF4aW11bVdlaWdodC5IYXNWYWx1ZSAmJgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXJ0aWNsZU1ldGFkYXRhLk1heGltdW1XZWlnaHQuVmFsdWUgPiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGJvb2wgSXNXZWlnaHRSYW5nZUFydGljbGUoQXJ0aWNsZUludmVudG9yeSBhcnRpY2xlSW52ZW50b3J5LAogICAgICAgICAgICBBcnRpY2xlTWV0YWRhdGEgYXJ0aWNsZU1ldGFkYXRhKQogICAgICAgIHsKCiAgICAgICAgICAgIHJldHVybiBrZ1VvbSAmJiB1c2VXZWlnaHRSYW5nZSAmJiBoYXNNYXhXZWlnaHQ7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGtnVW9tICYmIHVzZVdlaWdodFJhbmdlICYmIGhhc01heFdlaWdodCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFJc1dlaWdodFJhbmdlQXJ0aWNsZShhcnRpY2xlSW52ZW50b3J5LCBhcnRpY2xlTWV0YWRhdGEpKSByZXR1cm47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5Nb2RlbHMuU2V0dGluZ3M7CnVzaW5nIFdvdy5JbnZlbnRvcnkuUnVsZXM7CnVzaW5nIFdvdy5JbnZlbnRvcnkuU2VydmljZXM7CnVzaW5nIFh1bml0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZy5UYXNrczsKdXNpbmcgQXV0b0ZpeHR1cmU7CnVzaW5nIEZsdWVudEFzc2VydGlvbnM7CnVzaW5nIE1vcTsKdXNpbmcgV293LkludmVudG9yeS5EYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZVdlaWdodFJhbmdlID0gYXJ0aWNsZU1ldGFkYXRhLlVzZVdlaWdodFJhbmdlLkhhc1ZhbHVlICYmCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFydGljbGVNZXRhZGF0YS5Vc2VXZWlnaHRSYW5nZS5WYWx1ZTsKCiAgICAgICAgICAgIHZhciBoYXNNYXhXZWlnaHQgPSBhcnRpY2xlTWV0YWRhdGEuTWF4aW11bVdlaWdodC5IYXNWYWx1ZSAmJgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXJ0aWNsZU1ldGFkYXRhLk1heGltdW1XZWlnaHQuVmFsdWUgPiAwOwo=</text>
       </register>
       <register name="-" type="4">
         <text>Tuple.Create</text>
