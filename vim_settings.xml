@@ -152,11 +152,11 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/RandomWeightArticleRule.cs" timestamp="1589184008465">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="49" column="14" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/RandomWeightArticleRule.cs" timestamp="1589260418988">
+        <mark key="[" line="12" column="71" />
+        <mark key="]" line="13" column="12" />
+        <mark key="^" line="13" column="12" />
+        <mark key="." line="13" column="11" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" timestamp="1588722371320">
         <mark key="'" line="9" column="2" />
@@ -195,6 +195,11 @@
         <mark key="]" line="22" column="85" />
         <mark key="." line="22" column="84" />
         <mark key="^" line="22" column="85" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" timestamp="1589260479251">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/SettingsService.cs" timestamp="1588835630916">
         <mark key="'" line="19" column="32" />
@@ -284,34 +289,34 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text>sap random weight articles</text>
+        <text encoding="base64">ICAgICAgICAgICBpZmRkKSAK</text>
       </register>
       <register name="&quot;" type="2">
-        <text>sap random weight articles</text>
+        <text encoding="base64">ICAgICAgICAgICBpZmRkKSAK</text>
       </register>
       <register name="2" type="2">
-        <text>whoopsy</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b2gK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVc2VXZWlnaHRSYW5nZSA9IGZhbHNlLAo=</text>
+        <text>sap random weight articles</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFYWNoTXVsdGlwbGllciA9IDU1NS41NW0sCg==</text>
+        <text>whoopsy</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZy5UYXNrczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVc2VXZWlnaHRSYW5nZSA9IGZhbHNlLAo=</text>
       </register>
       <register name="-" type="4">
         <text>SOHOverride</text>
