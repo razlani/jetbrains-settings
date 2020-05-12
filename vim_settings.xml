@@ -146,11 +146,11 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/RandomWeightArticleRule.cs" timestamp="1589268861677">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="46" column="34" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/RandomWeightArticleRule.cs" timestamp="1589270853887">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="47" column="65" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" timestamp="1589265532794">
         <mark key="'" line="216" column="0" />
@@ -165,11 +165,11 @@
         <mark key="." line="25" column="36" />
         <mark key="^" line="25" column="37" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/IArticleInventoryRule.cs" timestamp="1589268857630">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="8" column="35" />
-        <mark key="^" line="8" column="35" />
-        <mark key="." line="8" column="34" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/IArticleInventoryRule.cs" timestamp="1589270680002">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="8" column="26" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" timestamp="1588911489704">
         <mark key="'" line="32" column="12" />
@@ -180,8 +180,11 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="25" column="15" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/AlcStatusMessageProcessor.cs" timestamp="1588738717012">
-        <mark key="'" line="22" column="12" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Models/RulePriority.cs" timestamp="1589270833980">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="14" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/UseWeightRangeRule.cs" timestamp="1589171952161">
         <mark key="[" line="4" column="33" />
@@ -196,11 +199,11 @@
         <mark key="." line="22" column="84" />
         <mark key="^" line="22" column="85" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" timestamp="1589268979194">
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="11" column="34" />
-        <mark key="." line="11" column="33" />
-        <mark key="^" line="11" column="34" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" timestamp="1589270871474">
+        <mark key="[" line="11" column="61" />
+        <mark key="]" line="11" column="62" />
+        <mark key="." line="11" column="61" />
+        <mark key="^" line="11" column="62" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/SettingsService.cs" timestamp="1588835630916">
         <mark key="'" line="19" column="32" />
@@ -292,40 +295,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFJ1bGVPcmRlciA9PiAyOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFJ1bGVPcmRlciA9PiAyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0ID0+IHRocm93IG5ldyBTeXN0ZW0uTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFJ1bGVPcmRlciA9PiAxOwo=</text>
       </register>
       <register name="3" type="2">
-        <text>remove redundant weightrange line</text>
+        <text encoding="base64">ICAgICAgICBMYXRlciwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTb29uZXIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2V0ID0+IHRocm93IG5ldyBTeXN0ZW0uTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVzZVdlaWdodFJhbmdlKSByZXR1cm47Cg==</text>
+        <text>remove redundant weightrange line</text>
       </register>
       <register name="9" type="2">
-        <text>- Moves the TypeLoaderExtensions.cs to the unit test project
-- Removes the clone method from the ArticleMetadata.cs, and the redundant references to ArticleMetadata.cs in the RandomWeightArticleInventoryRuleTests.cs.
-- Focus the tests in the RandomWeightArticleInventoryRuleTests.cs on the RandomWeightArticleRule.cs, but leave the rules collection in there for when applying upcoming rounding rule.
-- Short-circuit some logic in the RandomWeightArticleRule.cs</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>Indifferent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUXD4=</text>
