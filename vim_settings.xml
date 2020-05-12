@@ -140,23 +140,17 @@
         <mark key="." line="269" column="0" />
         <mark key="^" line="263" column="61" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/eventhub-consumer-group/README.md" timestamp="1588724237981">
-        <mark key="[" line="100" column="62" />
-        <mark key="]" line="100" column="63" />
-        <mark key="^" line="100" column="63" />
-        <mark key="." line="100" column="62" />
-      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/EachMultiplierRule.cs" timestamp="1589171538573">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="9" column="12" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/RandomWeightArticleRule.cs" timestamp="1589265276150">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="41" column="12" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/RandomWeightArticleRule.cs" timestamp="1589268861677">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="46" column="34" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" timestamp="1589265532794">
         <mark key="'" line="216" column="0" />
@@ -170,6 +164,12 @@
         <mark key="]" line="25" column="37" />
         <mark key="." line="25" column="36" />
         <mark key="^" line="25" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/IArticleInventoryRule.cs" timestamp="1589268857630">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="8" column="35" />
+        <mark key="^" line="8" column="35" />
+        <mark key="." line="8" column="34" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" timestamp="1588911489704">
         <mark key="'" line="32" column="12" />
@@ -292,40 +292,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text>remove redundant weightrange line</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text>remove redundant weightrange line</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0ID0+IHRocm93IG5ldyBTeXN0ZW0uTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>remove redundant weightrange line</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVzZVdlaWdodFJhbmdlKSByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVzZVdlaWdodFJhbmdlKSByZXR1cm47Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text>- Moves the TypeLoaderExtensions.cs to the unit test project
 - Removes the clone method from the ArticleMetadata.cs, and the redundant references to ArticleMetadata.cs in the RandomWeightArticleInventoryRuleTests.cs.
 - Focus the tests in the RandomWeightArticleInventoryRuleTests.cs on the RandomWeightArticleRule.cs, but leave the rules collection in there for when applying upcoming rounding rule.
 - Short-circuit some logic in the RandomWeightArticleRule.cs</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJCZWNhdXNlIHRoZSBtZXRhZGF0YSBvYmplY3Qgc2hvdWxkIG5vdCBiZSB1cGRhdGVkIGluIHRoaXMgaW5zdGFuY2UuIik7Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text>SOHOverride</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUXD4=</text>
