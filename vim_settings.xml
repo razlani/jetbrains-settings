@@ -113,7 +113,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589345521273">
+      <file name="/Dummy.txt" timestamp="1589349540159">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -146,10 +146,11 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/RandomWeightArticleRule.cs" timestamp="1589335827068">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/RandomWeightArticleRule.cs" timestamp="1589349385703">
+        <mark key="[" line="47" column="35" />
+        <mark key="]" line="47" column="35" />
+        <mark key="." line="47" column="35" />
+        <mark key="^" line="47" column="18" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Extensions/TypeLoaderExtensions.cs" timestamp="1589263119653">
         <mark key="[" line="25" column="20" />
@@ -195,11 +196,11 @@
         <mark key="." line="4" column="33" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" timestamp="1589345846478">
-        <mark key="[" line="17" column="101" />
-        <mark key="]" line="17" column="102" />
-        <mark key="." line="17" column="101" />
-        <mark key="^" line="17" column="102" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" timestamp="1589349374526">
+        <mark key="[" line="28" column="35" />
+        <mark key="]" line="28" column="37" />
+        <mark key="." line="28" column="36" />
+        <mark key="^" line="28" column="37" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/SohRoundingRuleTests.cs" timestamp="1589341704485">
         <mark key="[" line="56" column="33" />
@@ -298,39 +299,41 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Lwo=</text>
+        <text>-rename local variable
+-comment on Epsilon calculation</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>RulePriority</text>
+      <register name="&quot;" type="2">
+        <text>-rename local variable
+-comment on Epsilon calculation</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Lwo=</text>
+      </register>
+      <register name="3" type="2">
         <text>- Adds ordering
 - Adds Soh rounding rule
 - Adds unit tests for Soh rounding rule</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text>remove _articleInventoryRules collection!</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2FydGljbGVJbnZlbnRvcnlSdWxlcyA9IGFydGljbGVJbnZlbnRvcnlSdWxlcwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5PcmRlckJ5KHIgPT4gci5SdWxlUHJpb3JpdHkpOyAvL3RvZG86IAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVbml0T2ZNZWFzdXJlID0gIkVBIiwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>RulePriority</text>
+        <text>RulePriority.Regular;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</text>
