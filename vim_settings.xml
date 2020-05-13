@@ -119,7 +119,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/RandomWeightArticleRule.cs" timestamp="1589270926880">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/RandomWeightArticleRule.cs" timestamp="1589335827068">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
@@ -149,15 +149,21 @@
         <mark key="." line="22" column="84" />
         <mark key="^" line="22" column="85" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" timestamp="1589334499167">
-        <mark key="[" line="20" column="105" />
-        <mark key="]" line="20" column="111" />
-        <mark key="." line="20" column="110" />
-        <mark key="^" line="20" column="111" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" timestamp="1589336094753">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="61" />
+        <mark key="." line="16" column="60" />
+        <mark key="^" line="16" column="61" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/231CAC4C-D307-4AEA-83F1-76589F64BFB3/6C/Double.cs" timestamp="1589328364535" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/SettingsService.cs" timestamp="1588835630916">
         <mark key="'" line="19" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/SohRoundingRuleTests.cs" timestamp="1589335520496">
+        <mark key="[" line="62" column="31" />
+        <mark key="]" line="54" column="42" />
+        <mark key="." line="54" column="41" />
+        <mark key="^" line="54" column="42" />
       </file>
       <file name="/Dummy.txt" timestamp="1589331854565">
         <mark key="[" line="0" column="0" />
@@ -180,7 +186,7 @@
         <mark key="." line="269" column="0" />
         <mark key="^" line="263" column="61" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" timestamp="1589331821966">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" timestamp="1589335234497">
         <mark key="'" line="213" column="0" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -198,9 +204,6 @@
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" timestamp="1588910896506">
         <mark key="'" line="28" column="12" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1588835090090">
-        <mark key="'" line="15" column="39" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Models/ArticleInventory.cs" timestamp="1589180385943">
         <mark key="[" line="4" column="0" />
@@ -283,38 +286,38 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text>- Added unit test
-- Re-jigged logic from RandomWeightArticleRule.cs</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5Vbml0VGVzdHMuRXh0ZW5zaW9uczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IExpc3Q8SUFydGljbGVJbnZlbnRvcnlSdWxlPiBfYXJ0aWNsZUludmVudG9yeVJ1bGVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFR5cGVMb2FkZXJFeHRlbnNpb25zLkdldFR5cGVzV2l0aEludGVyZmFjZTxJQXJ0aWNsZUludmVudG9yeVJ1bGU+KCkuVG9MaXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBBcnRpY2xlTWV0YWRhdGEKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBBcnRpY2xlSWQgPSAiNCIsCiAgICAgICAgICAgICAgICAgICAgU2FsZXNPcmdJZCA9IG5hbWVvZihBcnRpY2xlSW52ZW50b3J5LlNhcFNhbGVzT3JnKSwKICAgICAgICAgICAgICAgICAgICBFYWNoTXVsdGlwbGllciA9IDAuMDFtLAogICAgICAgICAgICAgICAgICAgIFVuaXRPZk1lYXN1cmUgPSAiRUEiCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgbmV3IEFydGljbGVNZXRhZGF0YQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIEFydGljbGVJZCA9ICI1IiwKICAgICAgICAgICAgICAgICAgICBTYWxlc09yZ0lkID0gbmFtZW9mKEFydGljbGVJbnZlbnRvcnkuU2FwU2FsZXNPcmcpLAogICAgICAgICAgICAgICAgICAgIFVzZVdlaWdodFJhbmdlID0gdHJ1ZSwKICAgICAgICAgICAgICAgICAgICBNYXhpbXVtV2VpZ2h0ID0gNTU1LjU1bSwKICAgICAgICAgICAgICAgICAgICBVbml0T2ZNZWFzdXJlID0gIkVBIgogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIG5ldyBBcnRpY2xlTWV0YWRhdGEKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBBcnRpY2xlSWQgPSAiNiIsCiAgICAgICAgICAgICAgICAgICAgU2FsZXNPcmdJZCA9IG5hbWVvZihBcnRpY2xlSW52ZW50b3J5LlNhcFNhbGVzT3JnKSwKICAgICAgICAgICAgICAgICAgICBVbml0T2ZNZWFzdXJlID0gIkVBIgogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIG5ldyBBcnRpY2xlTWV0YWRhdGEKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBBcnRpY2xlSWQgPSAiNyIsCiAgICAgICAgICAgICAgICAgICAgU2FsZXNPcmdJZCA9IG5hbWVvZihBcnRpY2xlSW52ZW50b3J5LlNhcFNhbGVzT3JnKSwKICAgICAgICAgICAgICAgICAgICBVbml0T2ZNZWFzdXJlID0gIktHIgogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIG5ldyBBcnRpY2xlTWV0YWRhdGEKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBBcnRpY2xlSWQgPSAiOCIsCiAgICAgICAgICAgICAgICAgICAgU2FsZXNPcmdJZCA9IG5hbWVvZihBcnRpY2xlSW52ZW50b3J5LlNhcFNhbGVzT3JnKSwKICAgICAgICAgICAgICAgICAgICBVbml0T2ZNZWFzdXJlID0gIktHIiwKICAgICAgICAgICAgICAgICAgICBVc2VXZWlnaHRSYW5nZSA9IHRydWUKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FydGljbGVJbnZlbnRvcnlSdWxlcyA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBBcnRpY2xlSW52ZW50b3J5CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgQXJ0aWNsZUlkID0gIjQiLAogICAgICAgICAgICAgICAgICAgIFNhcFNhbGVzT3JnID0gbmFtZW9mKEFydGljbGVJbnZlbnRvcnkuU2FwU2FsZXNPcmcpLAogICAgICAgICAgICAgICAgICAgIFN0b3JlS2V5ID0gbmFtZW9mKEFydGljbGVJbnZlbnRvcnkuU3RvcmVLZXkpLAogICAgICAgICAgICAgICAgICAgIFVuaXRPZk1lYXN1cmUgPSAiRUEiLAogICAgICAgICAgICAgICAgICAgIFN0b2NrT25IYW5kID0gNS41NTU1bSwKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBuZXcgQXJ0aWNsZUludmVudG9yeQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIEFydGljbGVJZCA9ICI1IiwKICAgICAgICAgICAgICAgICAgICBTYXBTYWxlc09yZyA9IG5hbWVvZihBcnRpY2xlSW52ZW50b3J5LlNhcFNhbGVzT3JnKSwKICAgICAgICAgICAgICAgICAgICBTdG9yZUtleSA9IG5hbWVvZihBcnRpY2xlSW52ZW50b3J5LlN0b3JlS2V5KSwKICAgICAgICAgICAgICAgICAgICBVbml0T2ZNZWFzdXJlID0gIkVBIiwKICAgICAgICAgICAgICAgICAgICBTdG9ja09uSGFuZCA9IGRlY2ltYWwuWmVybywKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBuZXcgQXJ0aWNsZUludmVudG9yeQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIEFydGljbGVJZCA9ICI2IiwKICAgICAgICAgICAgICAgICAgICBTYXBTYWxlc09yZyA9IG5hbWVvZihBcnRpY2xlSW52ZW50b3J5LlNhcFNhbGVzT3JnKSwKICAgICAgICAgICAgICAgICAgICBTdG9yZUtleSA9IG5hbWVvZihBcnRpY2xlSW52ZW50b3J5LlN0b3JlS2V5KSwKICAgICAgICAgICAgICAgICAgICBVbml0T2ZNZWFzdXJlID0gIkVBIiwKICAgICAgICAgICAgICAgICAgICBTdG9ja09uSGFuZCA9IC01LjU1NTVtLAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIG5ldyBBcnRpY2xlSW52ZW50b3J5CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgQXJ0aWNsZUlkID0gIjciLAogICAgICAgICAgICAgICAgICAgIFNhcFNhbGVzT3JnID0gbmFtZW9mKEFydGljbGVJbnZlbnRvcnkuU2FwU2FsZXNPcmcpLAogICAgICAgICAgICAgICAgICAgIFN0b3JlS2V5ID0gbmFtZW9mKEFydGljbGVJbnZlbnRvcnkuU3RvcmVLZXkpLAogICAgICAgICAgICAgICAgICAgIFVuaXRPZk1lYXN1cmUgPSAiS0ciLAogICAgICAgICAgICAgICAgICAgIFN0b2NrT25IYW5kID0gLTUuNTU1NW0sCiAgICAgICAgICAgICAgICAgICAgU3RvY2tPbkhhbmRPdmVycmlkZSA9IDEyMzQ1LAogICAgICAgICAgICAgICAgICAgIFVuaXRPZk1lYXN1cmVPdmVycmlkZSA9ICJLRyIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBuZXcgQXJ0aWNsZUludmVudG9yeQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIEFydGljbGVJZCA9ICI4IiwKICAgICAgICAgICAgICAgICAgICBTYXBTYWxlc09yZyA9IG5hbWVvZihBcnRpY2xlSW52ZW50b3J5LlNhcFNhbGVzT3JnKSwKICAgICAgICAgICAgICAgICAgICBTdG9yZUtleSA9IG5hbWVvZihBcnRpY2xlSW52ZW50b3J5LlN0b3JlS2V5KSwKICAgICAgICAgICAgICAgICAgICBVbml0T2ZNZWFzdXJlID0gIktHIiwKICAgICAgICAgICAgICAgICAgICBTdG9ja09uSGFuZCA9IC01LjU1NTVtLAogICAgICAgICAgICAgICAgICAgIFN0b2NrT25IYW5kT3ZlcnJpZGUgPSAxMjM0NSwKICAgICAgICAgICAgICAgICAgICBVbml0T2ZNZWFzdXJlT3ZlcnJpZGUgPSAiS0ciCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChkZWNpbWFsKSBkb3VibGUuRXBzaWxvbjsK</text>
+        <text>- Added unit test
+- Re-jigged logic from RandomWeightArticleRule.cs</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5Vbml0VGVzdHMuRXh0ZW5zaW9uczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IExpc3Q8SUFydGljbGVJbnZlbnRvcnlSdWxlPiBfYXJ0aWNsZUludmVudG9yeVJ1bGVzOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUXD4=</text>
