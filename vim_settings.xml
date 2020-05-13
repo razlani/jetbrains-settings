@@ -149,11 +149,11 @@
         <mark key="." line="22" column="84" />
         <mark key="^" line="22" column="85" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" timestamp="1589330354231">
-        <mark key="[" line="20" column="30" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" timestamp="1589334499167">
+        <mark key="[" line="20" column="105" />
+        <mark key="]" line="20" column="111" />
+        <mark key="." line="20" column="110" />
+        <mark key="^" line="20" column="111" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/231CAC4C-D307-4AEA-83F1-76589F64BFB3/6C/Double.cs" timestamp="1589328364535" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/SettingsService.cs" timestamp="1588835630916">
@@ -286,9 +286,8 @@
         <text>- Added unit test
 - Re-jigged logic from RandomWeightArticleRule.cs</text>
       </register>
-      <register name="&quot;" type="2">
-        <text>- Added unit test
-- Re-jigged logic from RandomWeightArticleRule.cs</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5Vbml0VGVzdHMuRXh0ZW5zaW9uczsK</text>
@@ -315,7 +314,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(RandomWeightArticleRule)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUXD4=</text>
