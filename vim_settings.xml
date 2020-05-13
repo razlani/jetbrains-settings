@@ -118,10 +118,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" timestamp="1589342113460">
-        <mark key="'" line="33" column="12" />
-        <mark key="k" line="20" column="37" />
-      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Models/ArticleMetadata.cs" timestamp="1589263302629">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -135,10 +131,7 @@
         <mark key="^" line="263" column="61" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1589342234656">
-        <mark key="'" line="167" column="49" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+        <mark key="'" line="165" column="49" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/EachMultiplierRule.cs" timestamp="1589171538573">
         <mark key="[" line="10" column="0" />
@@ -146,11 +139,11 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/RandomWeightArticleRule.cs" timestamp="1589349385703">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/RandomWeightArticleRule.cs" timestamp="1589351922778">
         <mark key="[" line="47" column="35" />
-        <mark key="]" line="47" column="35" />
-        <mark key="." line="47" column="35" />
-        <mark key="^" line="47" column="18" />
+        <mark key="]" line="33" column="38" />
+        <mark key="." line="33" column="37" />
+        <mark key="^" line="33" column="38" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Extensions/TypeLoaderExtensions.cs" timestamp="1589263119653">
         <mark key="[" line="25" column="20" />
@@ -177,13 +170,6 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="25" column="15" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" timestamp="1589342088109">
-        <mark key="'" line="33" column="12" />
-        <mark key="[" line="34" column="34" />
-        <mark key="]" line="34" column="24" />
-        <mark key="^" line="34" column="24" />
-        <mark key="." line="34" column="23" />
-      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Models/RulePriority.cs" timestamp="1589270833980">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="5" column="15" />
@@ -202,11 +188,11 @@
         <mark key="." line="28" column="36" />
         <mark key="^" line="28" column="37" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/SohRoundingRuleTests.cs" timestamp="1589341704485">
-        <mark key="[" line="56" column="33" />
-        <mark key="]" line="56" column="36" />
-        <mark key="." line="56" column="35" />
-        <mark key="^" line="56" column="36" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/SohRoundingRuleTests.cs" timestamp="1589351529161">
+        <mark key="[" line="56" column="36" />
+        <mark key="]" line="56" column="38" />
+        <mark key="." line="56" column="37" />
+        <mark key="^" line="56" column="38" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" timestamp="1588910896506">
         <mark key="'" line="28" column="12" />
