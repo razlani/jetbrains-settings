@@ -20,11 +20,11 @@
         <entry encoding="base64">XDxfc2V0dGluZ3NTZXJ2aWNlTW9ja1w+</entry>
         <entry encoding="base64">XDxfc2V0dGluZ3NSZXBvc2l0b3J5XD4=</entry>
         <entry encoding="base64">XDxTZXR0aW5nS2V5XD4=</entry>
-        <entry encoding="base64">XDxhcnRpY2xlSW52ZW50b3J5UnVsZXNcPg==</entry>
         <entry encoding="base64">XDxfbWVzc2FnZUhhbmRsZXJzXD4=</entry>
-        <entry encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</entry>
         <entry encoding="base64">XDxCdWlsZEFydGljbGVJbnZlbnRvcmllc1w+</entry>
         <entry encoding="base64">XDxUXD4=</entry>
+        <entry encoding="base64">XDxhcnRpY2xlSW52ZW50b3J5UnVsZXNcPg==</entry>
+        <entry encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -142,13 +142,6 @@
         <mark key="." line="4" column="33" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryRulesTests.cs" timestamp="1588837423062">
-        <mark key="'" line="16" column="55" />
-        <mark key="[" line="22" column="82" />
-        <mark key="]" line="22" column="85" />
-        <mark key="." line="22" column="84" />
-        <mark key="^" line="22" column="85" />
-      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" timestamp="1589340182883">
         <mark key="[" line="17" column="87" />
         <mark key="]" line="17" column="85" />
@@ -156,23 +149,17 @@
         <mark key="^" line="17" column="85" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/231CAC4C-D307-4AEA-83F1-76589F64BFB3/6C/Double.cs" timestamp="1589328364535" />
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/SettingsService.cs" timestamp="1588835630916">
-        <mark key="'" line="19" column="32" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/SohRoundingRuleTests.cs" timestamp="1589341704485">
+        <mark key="[" line="56" column="33" />
+        <mark key="]" line="56" column="36" />
+        <mark key="." line="56" column="35" />
+        <mark key="^" line="56" column="36" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/SohRoundingRuleTests.cs" timestamp="1589340004737">
-        <mark key="[" line="88" column="108" />
-        <mark key="]" line="88" column="114" />
-        <mark key="^" line="88" column="114" />
-        <mark key="." line="88" column="113" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589331854565">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" timestamp="1588910796230">
-        <mark key="'" line="26" column="47" />
-        <mark key="k" line="19" column="37" />
+      <file name="/Dummy.txt" timestamp="1589342743498" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesUseWeightRangeChangedMessageHandler.cs" timestamp="1589342099748" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" timestamp="1589342113460">
+        <mark key="'" line="33" column="12" />
+        <mark key="k" line="20" column="37" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Models/ArticleMetadata.cs" timestamp="1589263302629">
         <mark key="[" line="30" column="0" />
@@ -186,6 +173,12 @@
         <mark key="." line="269" column="0" />
         <mark key="^" line="263" column="61" />
       </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1589342234656">
+        <mark key="'" line="167" column="49" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" timestamp="1589335234497">
         <mark key="'" line="213" column="0" />
         <mark key="[" line="6" column="0" />
@@ -193,8 +186,12 @@
         <mark key="^" line="18" column="62" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" timestamp="1588911489704">
-        <mark key="'" line="32" column="12" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" timestamp="1589342088109">
+        <mark key="'" line="33" column="12" />
+        <mark key="[" line="34" column="34" />
+        <mark key="]" line="34" column="24" />
+        <mark key="^" line="34" column="24" />
+        <mark key="." line="34" column="23" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Models/RulePriority.cs" timestamp="1589270833980">
         <mark key="[" line="5" column="8" />
@@ -258,7 +255,6 @@
       <jump line="30" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
       <jump line="50" column="40" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
       <jump line="25" column="41" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" />
-      <jump line="19" column="60" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
       <jump line="15" column="39" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" />
       <jump line="68" column="8" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryRulesTests.cs" />
       <jump line="10" column="45" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/SettingsService.cs" />
@@ -269,39 +265,47 @@
       <jump line="28" column="56" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
       <jump line="29" column="90" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
       <jump line="25" column="8" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
-      <jump line="32" column="37" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
       <jump line="26" column="47" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
       <jump line="21" column="54" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" />
       <jump line="28" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" />
-      <jump line="19" column="60" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" />
-      <jump line="32" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" />
       <jump line="33" column="39" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
       <jump line="16" column="43" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
       <jump line="79" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
       <jump line="64" column="52" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
       <jump line="29" column="77" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" />
       <jump line="216" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" />
+      <jump line="33" column="47" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="19" column="60" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
+      <jump line="32" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
+      <jump line="19" column="60" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" />
+      <jump line="32" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" />
+      <jump line="42" column="37" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="34" column="47" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="24" column="60" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="23" column="60" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="41" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="165" column="49" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5CZShkZWNpbWFsLkZsb29yKF9hcnRpY2xlSW52ZW50b3JpZXNbMF0uU3RvY2tPbkhhbmRPdmVycmlkZS5WYWx1ZSksCiAgICAgICAgICAgICAgICAgICAgIkJlY2F1c2UgdGhlIGVhY2ggYXJ0aWNsZSdzIFNvaCB3YXMgYSBmbG9hdGluZy1wb2ludCBmaWd1cmUiKTsK</text>
+        <text>remove _articleInventoryRules collection!</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>BeEquivalentTo(_articleInventories[1],</text>
+      <register name="&quot;" type="2">
+        <text>remove _articleInventoryRules collection!</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgdm9pZCBDaGVja1JhbmRvbVdlaWdodEFydGljbGVJbnZlbnRvcnlSdWxlV2l0aFplcm9Tb2hLR0FydGljbGVBbmRFYWNoQXJ0aWNsZU1ldGFEYXRhKCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciAoa2dBcnRpY2xlLCB3ZWlnaHRSYW5nZU1ldGFEYXRhKSA9IF9hcnRpY2xlSW52ZW50b3JpZXNbMV07CgogICAgICAgICAgICBfcnVsZS5BcHBseShrZ0FydGljbGUsIHdlaWdodFJhbmdlTWV0YURhdGEpOwoKICAgICAgICAgICAga2dBcnRpY2xlLlN0b2NrT25IYW5kT3ZlcnJpZGUuU2hvdWxkKCkKICAgICAgICAgICAgICAgIC5CZShkZWNpbWFsLlplcm8sCiAgICAgICAgICAgICAgICAgICAgJCJCZWNhdXNlIHtuYW1lb2Yoa2dBcnRpY2xlKX0gaGFzIGEgU09IIHZhbHVlIG9mIHplcm8iKTsKICAgICAgICB9CgogICAgICAgIFtGYWN0XQogICAgICAgIHB1YmxpYyB2b2lkIENoZWNrUmFuZG9tV2VpZ2h0QXJ0aWNsZUludmVudG9yeVJ1bGVXaXRoTmVnYXRpdmVTb2hLR0FydGljbGVBbmRFYWNoQXJ0aWNsZU1ldGFEYXRhKCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciAoa2dBcnRpY2xlLCB3ZWlnaHRSYW5nZU1ldGFEYXRhKSA9IF9hcnRpY2xlSW52ZW50b3JpZXNbMl07CiAgICAgICAgICAgIHZhciBrZ0FydGljbGVDbG9uZSA9IGtnQXJ0aWNsZS5DbG9uZSgpOwoKICAgICAgICAgICAgX3J1bGUuQXBwbHkoa2dBcnRpY2xlLCB3ZWlnaHRSYW5nZU1ldGFEYXRhKTsKCiAgICAgICAgICAgIGtnQXJ0aWNsZS5TdG9ja09uSGFuZE92ZXJyaWRlLlNob3VsZCgpCiAgICAgICAgICAgICAgICAuQmUoa2dBcnRpY2xlQ2xvbmUuU3RvY2tPbkhhbmQgLyB3ZWlnaHRSYW5nZU1ldGFEYXRhLkVhY2hNdWx0aXBsaWVyLlZhbHVlLAogICAgICAgICAgICAgICAgICAgICJCZWNhdXNlIGNyaXRlcmlhIGZvciBlYWNoLWtnIGFydGljbGUgaGFzIGJlZW4gbWV0LiIpOwogICAgICAgIH0KCiAgICAgICAgW0ZhY3RdCiAgICAgICAgcHVibGljIHZvaWQgQ2hlY2tSYW5kb21XZWlnaHRBcnRpY2xlSW52ZW50b3J5UnVsZVdpdGhFYWNoQXJ0aWNsZUFuZEVhY2hBcnRpY2xlTWV0YURhdGEoKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIChrZ0FydGljbGUsIHdlaWdodFJhbmdlTWV0YURhdGEpID0gX2FydGljbGVJbnZlbnRvcmllc1szXTsKICAgICAgICAgICAgdmFyIGtnQXJ0aWNsZUNsb25lID0ga2dBcnRpY2xlLkNsb25lKCk7CgogICAgICAgICAgICBfcnVsZS5BcHBseShrZ0FydGljbGUsIHdlaWdodFJhbmdlTWV0YURhdGEpOwoKICAgICAgICAgICAga2dBcnRpY2xlLlNob3VsZCgpLkJlRXF1aXZhbGVudFRvKGtnQXJ0aWNsZUNsb25lLAogICAgICAgICAgICAgICAgIkJlY2F1c2UgY3JpdGVyaWEgZm9yIGVhY2ggYXJ0aWNsZXMgbm90IHlldCBjb25zaWRlcmVkLiIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FydGljbGVJbnZlbnRvcnlSdWxlcyA9IGFydGljbGVJbnZlbnRvcnlSdWxlcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5PcmRlckJ5KHIgPT4gci5SdWxlUHJpb3JpdHkpOyAvL3RvZG86IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGtnQXJ0aWNsZUNsb25lID0ga2dBcnRpY2xlLkNsb25lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVbml0T2ZNZWFzdXJlID0gIkVBIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIChrZ0FydGljbGUsIHdlaWdodFJhbmdlTWV0YURhdGEpID0gX2FydGljbGVJbnZlbnRvcmllc1swXTsK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -310,24 +314,24 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgdm9pZCBDaGVja1JhbmRvbVdlaWdodEFydGljbGVJbnZlbnRvcnlSdWxlV2l0aEVhY2hBcnRpY2xlWmVyb1NvaEFuZFdlaWdodFJhbmdlTWV0YURhdGEoKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIChrZ0FydGljbGUsIHdlaWdodFJhbmdlTWV0YURhdGEpID0gX2FydGljbGVJbnZlbnRvcmllc1s0XTsKICAgICAgICAgICAgdmFyIGtnQXJ0aWNsZUNsb25lID0ga2dBcnRpY2xlLkNsb25lKCk7CgogICAgICAgICAgICBfcnVsZS5BcHBseShrZ0FydGljbGUsIHdlaWdodFJhbmdlTWV0YURhdGEpOwoKICAgICAgICAgICAga2dBcnRpY2xlLlNob3VsZCgpLkJlRXF1aXZhbGVudFRvKGtnQXJ0aWNsZUNsb25lLAogICAgICAgICAgICAgICAgIkJlY2F1c2UgY3JpdGVyaWEgZm9yIGVhY2ggYXJ0aWNsZXMgbm90IHlldCBjb25zaWRlcmVkLiIpOwogICAgICAgIH0KCiAgICAgICAgW0ZhY3RdCiAgICAgICAgcHVibGljIHZvaWQgQ2hlY2tSYW5kb21XZWlnaHRBcnRpY2xlSW52ZW50b3J5UnVsZVdpdGhFYWNoQXJ0aWNsZU5lZ2F0aXZlU29oQW5kRWFjaE1ldGFEYXRhKCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciAoa2dBcnRpY2xlLCB3ZWlnaHRSYW5nZU1ldGFEYXRhKSA9IF9hcnRpY2xlSW52ZW50b3JpZXNbNV07CiAgICAgICAgICAgIHZhciBrZ0FydGljbGVDbG9uZSA9IGtnQXJ0aWNsZS5DbG9uZSgpOwoKICAgICAgICAgICAgX3J1bGUuQXBwbHkoa2dBcnRpY2xlLCB3ZWlnaHRSYW5nZU1ldGFEYXRhKTsKCiAgICAgICAgICAgIGtnQXJ0aWNsZS5TaG91bGQoKS5CZUVxdWl2YWxlbnRUbyhrZ0FydGljbGVDbG9uZSwKICAgICAgICAgICAgICAgICJCZWNhdXNlIGNyaXRlcmlhIGZvciBlYWNoIGFydGljbGVzIG5vdCB5ZXQgY29uc2lkZXJlZC4iKTsKICAgICAgICB9CgogICAgICAgIFtGYWN0XQogICAgICAgIHB1YmxpYyB2b2lkIENoZWNrUmFuZG9tV2VpZ2h0QXJ0aWNsZUludmVudG9yeVJ1bGVXaXRoS2dBcnRpY2xlTmVnYXRpdmVTb2hBbmROb01ldGFEYXRhKCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciAoa2dBcnRpY2xlLCB3ZWlnaHRSYW5nZU1ldGFEYXRhKSA9IF9hcnRpY2xlSW52ZW50b3JpZXNbNl07CgogICAgICAgICAgICBfcnVsZS5BcHBseShrZ0FydGljbGUsIHdlaWdodFJhbmdlTWV0YURhdGEpOwoKICAgICAgICAgICAga2dBcnRpY2xlLlN0b2NrT25IYW5kT3ZlcnJpZGUuU2hvdWxkKCkKICAgICAgICAgICAgICAgIC5CZU51bGwoCiAgICAgICAgICAgICAgICAgICAgIkJlY2F1c2Ugd2UgYXJlIG51bGxpZnlpbmcgdGhlIFNPSE92ZXJyaWRlIHZhbHVlLCBnaXZlbiBubyBlYWNoLW11bHRpcGxpZXIgb3IgdXNlLXdlaWdodC1yYW5nZSIpOwoKICAgICAgICAgICAga2dBcnRpY2xlLlVuaXRPZk1lYXN1cmVPdmVycmlkZS5TaG91bGQoKQogICAgICAgICAgICAgICAgLkJlTnVsbCgKICAgICAgICAgICAgICAgICAgICAiQmVjYXVzZSB3ZSBhcmUgbnVsbGlmeWluZyB0aGUgVU9NT3ZlcnJpZGUgdmFsdWUsIGdpdmVuIG5vIGVhY2gtbXVsdGlwbGllciBvciB1c2Utd2VpZ2h0LXJhbmdlIik7CiAgICAgICAgfQoKICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgdm9pZCBDaGVja1JhbmRvbVdlaWdodEFydGljbGVJbnZlbnRvcnlSdWxlV2l0aEtnQXJ0aWNsZU5lZ2F0aXZlU29oQW5kV2VpZ2h0UmFuZ2VCdXROb1dlaWdodE1ldGFEYXRhKCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciAoa2dBcnRpY2xlLCB3ZWlnaHRSYW5nZU1ldGFEYXRhKSA9IF9hcnRpY2xlSW52ZW50b3JpZXNbN107CgogICAgICAgICAgICBfcnVsZS5BcHBseShrZ0FydGljbGUsIHdlaWdodFJhbmdlTWV0YURhdGEpOwoKICAgICAgICAgICAga2dBcnRpY2xlLlN0b2NrT25IYW5kT3ZlcnJpZGUuU2hvdWxkKCkKICAgICAgICAgICAgICAgIC5CZU51bGwoCiAgICAgICAgICAgICAgICAgICAgIkJlY2F1c2Ugd2UgYXJlIG51bGxpZnlpbmcgdGhlIFNPSE92ZXJyaWRlIHZhbHVlLCBnaXZlbiBhIHdlaWdodCByYW5nZSBidXQgbm8gbWF4IHdlaWdodCIpOwoKICAgICAgICAgICAga2dBcnRpY2xlLlVuaXRPZk1lYXN1cmVPdmVycmlkZS5TaG91bGQoKQogICAgICAgICAgICAgICAgLkJlTnVsbCgKICAgICAgICAgICAgICAgICAgICAiQmVjYXVzZSB3ZSBhcmUgbnVsbGlmeWluZyB0aGUgVU9NT3ZlcnJpZGUgdmFsdWUsIGdpdmVuIGEgd2VpZ2h0IHJhbmdlIGJ1dCBubyBtYXggd2VpZ2h0Iik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgRmx1ZW50QXNzZXJ0aW9uczsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>BeEquivalentTo(_articleInventories[1],</text>
+        <text>EA</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUXD4=</text>
+        <text encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxUXD4=</last-search>
+      <last-search encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
