@@ -159,7 +159,7 @@
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/SettingsService.cs" timestamp="1588835630916">
         <mark key="'" line="19" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589331810313">
+      <file name="/Dummy.txt" timestamp="1589331854565">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -283,34 +283,36 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5Vbml0VGVzdHMuRXh0ZW5zaW9uczsK</text>
+        <text>- Added unit test
+- Re-jigged logic from RandomWeightArticleRule.cs</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5Vbml0VGVzdHMuRXh0ZW5zaW9uczsK</text>
+        <text>- Added unit test
+- Re-jigged logic from RandomWeightArticleRule.cs</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IExpc3Q8SUFydGljbGVJbnZlbnRvcnlSdWxlPiBfYXJ0aWNsZUludmVudG9yeVJ1bGVzOwo=</text>
+        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5Vbml0VGVzdHMuRXh0ZW5zaW9uczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFR5cGVMb2FkZXJFeHRlbnNpb25zLkdldFR5cGVzV2l0aEludGVyZmFjZTxJQXJ0aWNsZUludmVudG9yeVJ1bGU+KCkuVG9MaXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IExpc3Q8SUFydGljbGVJbnZlbnRvcnlSdWxlPiBfYXJ0aWNsZUludmVudG9yeVJ1bGVzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FydGljbGVJbnZlbnRvcnlSdWxlcyA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFR5cGVMb2FkZXJFeHRlbnNpb25zLkdldFR5cGVzV2l0aEludGVyZmFjZTxJQXJ0aWNsZUludmVudG9yeVJ1bGU+KCkuVG9MaXN0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FydGljbGVJbnZlbnRvcnlSdWxlcyA9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChkZWNpbWFsKSBkb3VibGUuRXBzaWxvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChkZWNpbWFsKSBkb3VibGUuRXBzaWxvbjsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>(RandomWeightArticleRule)</text>
