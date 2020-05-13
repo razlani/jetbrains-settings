@@ -164,6 +164,12 @@
         <mark key="^" line="18" column="62" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/IArticleInventoryRule.cs" timestamp="1589349351503">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="18" />
+      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Extensions/TypeLoaderExtensions.cs" timestamp="1589183526232">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -294,8 +300,8 @@
       <register name="1" type="2">
         <text encoding="base64">Lwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Lwo=</text>
+      <register name="&quot;" type="4">
+        <text>RulePriority</text>
       </register>
       <register name="2" type="2">
         <text>- Adds ordering
@@ -324,7 +330,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>articleInventory.StockOnHandOverride.Value</text>
+        <text>RulePriority</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</text>
