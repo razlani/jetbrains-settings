@@ -152,7 +152,12 @@
         <mark key="." line="25" column="36" />
         <mark key="^" line="25" column="37" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" timestamp="1589452182245" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" timestamp="1589508520016">
+        <mark key="[" line="170" column="16" />
+        <mark key="]" line="170" column="15" />
+        <mark key="." line="170" column="14" />
+        <mark key="^" line="170" column="15" />
+      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/IArticleInventoryRule.cs" timestamp="1589448973978">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="12" />
@@ -286,7 +291,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>RandomWeightArticleRule</text>
+        <text>Fact</text>
       </register>
       <register name="2" type="2">
         <text>Replace RulePriority.cs enum with regular integer.</text>
@@ -314,7 +319,7 @@
 -comment on Epsilon calculation</text>
       </register>
       <register name="-" type="4">
-        <text>RandomWeightArticleRule</text>
+        <text>Fact</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</text>
