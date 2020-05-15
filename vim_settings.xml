@@ -138,12 +138,12 @@
         <mark key="^" line="16" column="137" />
         <mark key="." line="16" column="136" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" timestamp="1589521347544">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" timestamp="1589522830690">
         <mark key="'" line="151" column="0" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="^" line="157" column="37" />
-        <mark key="." line="158" column="0" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="^" line="156" column="25" />
+        <mark key="." line="157" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" timestamp="1589449072069">
         <mark key="'" line="6" column="45" />
@@ -179,12 +179,11 @@
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1589504460627">
         <mark key="'" line="42" column="12" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" timestamp="1589521033488">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" timestamp="1589523433796">
         <mark key="'" line="105" column="0" />
-        <mark key="[" line="20" column="70" />
-        <mark key="]" line="20" column="71" />
-        <mark key="^" line="20" column="74" />
-        <mark key="." line="20" column="71" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" timestamp="1589355254021">
         <mark key="'" line="0" column="6" />
@@ -300,37 +299,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5TZWxlY3QodCA9PiBuZXcgb2JqZWN0W10geyB0LmFpLCB0LmFtIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5TZWxlY3QodCA9PiBuZXcgb2JqZWN0W10geyB0LmFpLCB0LmFtIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBvYmplY3RBcnJheVJhbmdlID0gRW51bWVyYWJsZS5SYW5nZShzdGFydCwgZW5kKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIChrZ0FydGljbGUsIHdlaWdodFJhbmdlTWV0YURhdGEpID0gX2FydGljbGVUdXBsZUxpc3RbMV07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJhbmdlID0gbmV3IFJhbmdlKHN0YXJ0LCBlbmQpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Bc0VudW1lcmFibGUoKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Ub0xpc3QoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGtlayA9IHR1cGxlRW51bWVyYXRvclsyLCBeMV07Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGtlayA9IHR1cGxlRW51bWVyYXRvcltzdGFydC4uZW5kXQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHdlaWdodFJhbmdlTWV0YURhdGEgPSB0dXBsZVsxXSBhcyBBcnRpY2xlTWV0YWRhdGE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5TZWxlY3QodCA9PiBuZXcgb2JqZWN0W10geyB0LmFpLCB0LmFtIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>range</text>
+        <text>start..end</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</text>
