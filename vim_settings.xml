@@ -152,11 +152,11 @@
         <mark key="." line="25" column="36" />
         <mark key="^" line="25" column="37" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" timestamp="1589508568340">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" timestamp="1589511348784">
         <mark key="[" line="170" column="16" />
-        <mark key="]" line="170" column="39" />
-        <mark key="." line="170" column="38" />
-        <mark key="^" line="170" column="39" />
+        <mark key="]" line="170" column="15" />
+        <mark key="." line="170" column="14" />
+        <mark key="^" line="170" column="15" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/IArticleInventoryRule.cs" timestamp="1589448973978">
         <mark key="[" line="7" column="8" />
