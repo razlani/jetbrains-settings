@@ -113,32 +113,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589449117048">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" timestamp="1589449077712">
         <mark key="'" line="7" column="17" />
         <mark key="[" line="34" column="40" />
         <mark key="]" line="34" column="37" />
         <mark key="^" line="34" column="37" />
         <mark key="." line="34" column="36" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Models/ArticleMetadata.cs" timestamp="1589263302629">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="33" column="56" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" timestamp="1589190851292">
-        <mark key="[" line="269" column="0" />
-        <mark key="]" line="269" column="0" />
-        <mark key="." line="269" column="0" />
-        <mark key="^" line="263" column="61" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1589504460627">
-        <mark key="'" line="42" column="12" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/RandomWeightArticleRule.cs" timestamp="1589449081592">
         <mark key="[" line="0" column="31" />
@@ -152,23 +132,57 @@
         <mark key="." line="25" column="36" />
         <mark key="^" line="25" column="37" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" timestamp="1589511348784">
-        <mark key="[" line="170" column="16" />
-        <mark key="]" line="170" column="15" />
-        <mark key="." line="170" column="14" />
-        <mark key="^" line="170" column="15" />
-      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/IArticleInventoryRule.cs" timestamp="1589448973978">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="12" />
         <mark key="." line="7" column="11" />
         <mark key="^" line="7" column="12" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Extensions/TypeLoaderExtensions.cs" timestamp="1589183526232">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="25" column="15" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" timestamp="1589513710785">
+        <mark key="[" line="159" column="49" />
+        <mark key="]" line="159" column="54" />
+        <mark key="^" line="159" column="54" />
+        <mark key="." line="159" column="53" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" timestamp="1589449072069">
+        <mark key="'" line="6" column="45" />
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="27" column="12" />
+        <mark key="." line="27" column="11" />
+        <mark key="^" line="27" column="12" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/SohRoundingRuleTests.cs" timestamp="1589351529161">
+        <mark key="[" line="56" column="36" />
+        <mark key="]" line="56" column="38" />
+        <mark key="." line="56" column="37" />
+        <mark key="^" line="56" column="38" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589449117048">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryTestData.cs" timestamp="1589513530666">
+        <mark key="'" line="165" column="0" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
+        <mark key="^" line="159" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Models/ArticleMetadata.cs" timestamp="1589263302629">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="33" column="56" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1589504460627">
+        <mark key="'" line="42" column="12" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" timestamp="1589513587280">
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="28" column="50" />
+        <mark key="." line="28" column="49" />
+        <mark key="^" line="28" column="50" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" timestamp="1589355254021">
         <mark key="'" line="0" column="6" />
@@ -184,19 +198,6 @@
         <mark key="]" line="154" column="72" />
         <mark key="." line="154" column="71" />
         <mark key="^" line="154" column="72" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" timestamp="1589449072069">
-        <mark key="'" line="6" column="45" />
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="27" column="12" />
-        <mark key="." line="27" column="11" />
-        <mark key="^" line="27" column="12" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/SohRoundingRuleTests.cs" timestamp="1589351529161">
-        <mark key="[" line="56" column="36" />
-        <mark key="]" line="56" column="38" />
-        <mark key="." line="56" column="37" />
-        <mark key="^" line="56" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -283,6 +284,8 @@
       <jump line="7" column="17" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" />
       <jump line="5" column="17" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/RandomWeightArticleRule.cs" />
       <jump line="42" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="168" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" />
+      <jump line="165" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryTestData.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -291,35 +294,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Fact</text>
+        <text>tuple</text>
       </register>
       <register name="2" type="2">
-        <text>Replace RulePriority.cs enum with regular integer.</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyAoQXJ0aWNsZUludmVudG9yeSwgQXJ0aWNsZU1ldGFkYXRhKVtdIF9hcnRpY2xlVHVwbGVMaXN0Owo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2b2lkIEFwcGx5KEFydGljbGVJbnZlbnRvcnkgYXJ0aWNsZUludmVudG9yeSwgQXJ0aWNsZU1ldGFkYXRhIGFydGljbGVNZXRhZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgcmV0dXJuIHR1cGxlRW51bWVyYXRvclswXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgcmV0dXJuIG5ldyAoQXJ0aWNsZUludmVudG9yeSwgQXJ0aWNsZU1ldGFkYXRhKSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FydGljbGVUdXBsZUxpc3QgPSBDcmVhdGVBcnRpY2xlVHVwbGVzKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAtIEFkZHMgb3JkZXJpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdElwbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text>-rename local variable
--comment on Epsilon calculation</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Fact</text>
+        <text>tuple</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</text>
