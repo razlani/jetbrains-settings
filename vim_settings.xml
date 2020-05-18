@@ -174,7 +174,7 @@
         <mark key="." line="27" column="11" />
         <mark key="^" line="27" column="12" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IntegrationTests/ArticleInventoryRuleIntegrationTests.cs" timestamp="1589779585954">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IntegrationTests/ArticleInventoryRuleIntegrationTests.cs" timestamp="1589795536182">
         <mark key="[" line="15" column="66" />
         <mark key="]" line="15" column="68" />
         <mark key="." line="15" column="67" />
@@ -198,10 +198,10 @@
         <mark key="." line="160" column="0" />
         <mark key="^" line="159" column="35" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/NewFile1.txt" timestamp="1589795465619">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/NewFile1.txt" timestamp="1589796738326">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="9" />
+        <mark key="." line="2" column="9" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1589504460627">
         <mark key="'" line="42" column="12" />
@@ -218,7 +218,7 @@
         <mark key="." line="154" column="71" />
         <mark key="^" line="154" column="72" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1589795451343">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1589796718742">
         <mark key="'" line="20" column="39" />
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="0" />
@@ -331,14 +331,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIA==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -346,23 +346,23 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgVW5pdFRlc3QoKQogICAgICAgIHsgICAgICAgIAogICAgICAgICAgICBGaXh0dXJlID0gbmV3IEZpeHR1cmUoCiAgICAgICAgICAgIEZpeHR1cmUuQ3VzdG9taXplKG5ldyAKICAgICAgICAgICAgQ3VzdG9tUmVnaXN0cmF0aW9ucygpOw==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGtlazsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNwZWNpbWVuID0gbmV3IFNwZWNpbWVuQ29udGV4dChGaXh0dXJlKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRml4dHVyZS5DdXN0b21pemF0aW9ucy5BZGQoc3BlY2ltZW4uQnVpbGRlcik7Cg==</text>
-      </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="8">
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgVW5pdFRlc3QoKQogICAgICAgIHsgICAgICAgIAogICAgICAgICAgICBGaXh0dXJlID0gbmV3IEZpeHR1cmUoCiAgICAgICAgICAgIEZpeHR1cmUuQ3VzdG9taXplKG5ldyAKICAgICAgICAgICAgQ3VzdG9tUmVnaXN0cmF0aW9ucygpOw==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGtlazsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNwZWNpbWVuID0gbmV3IFNwZWNpbWVuQ29udGV4dChGaXh0dXJlKTsK</text>
+      </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfc2V0dGluZ3NTZXJ2aWNlTW9ja1w+</text>
