@@ -126,11 +126,11 @@
         <mark key="." line="0" column="36" />
         <mark key="^" line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Extensions/TypeLoaderExtensions.cs" timestamp="1589776188320">
-        <mark key="[" line="28" column="78" />
-        <mark key="]" line="28" column="79" />
-        <mark key="." line="28" column="78" />
-        <mark key="^" line="28" column="79" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Extensions/TypeLoaderExtensions.cs" timestamp="1589794856043">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="35" />
+        <mark key="." line="23" column="34" />
+        <mark key="^" line="23" column="35" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/IArticleInventoryRule.cs" timestamp="1589448973978">
         <mark key="[" line="7" column="8" />
@@ -150,8 +150,8 @@
         <mark key="^" line="16" column="137" />
         <mark key="." line="16" column="136" />
       </file>
-      <file name="/Dummy.cs" timestamp="1589770222464">
-        <mark key="[" line="0" column="53" />
+      <file name="/Dummy.cs" timestamp="1589791525538">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" timestamp="1589773962614">
         <mark key="'" line="114" column="55" />
@@ -186,7 +186,7 @@
         <mark key="^" line="24" column="44" />
         <mark key="." line="24" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589776717330">
+      <file name="/Dummy.txt" timestamp="1589791536986">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -198,6 +198,11 @@
         <mark key="." line="160" column="0" />
         <mark key="^" line="159" column="35" />
       </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/NewFile1.txt" timestamp="1589795465619">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1589504460627">
         <mark key="'" line="42" column="12" />
       </file>
@@ -207,21 +212,18 @@
         <mark key="." line="32" column="22" />
         <mark key="^" line="32" column="23" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" timestamp="1589355254021">
-        <mark key="'" line="0" column="6" />
-      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/Program.cs" timestamp="1589504281866">
         <mark key="[" line="154" column="57" />
         <mark key="]" line="154" column="72" />
         <mark key="." line="154" column="71" />
         <mark key="^" line="154" column="72" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1589780659634">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1589795451343">
         <mark key="'" line="20" column="39" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="85" column="74" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="^" line="98" column="19" />
+        <mark key="." line="104" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -332,35 +334,35 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRml4dHVyZS5GcmVlemU8RGVyYW5nZWRBcnRpY2xlT3ZlcnJpZGVSdWxlPihjID0+IGMuKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">KCkgPT4KICAgICAgICAgICAgICAgIG5ldyBEZXJhbmdlZEFydGljbGVPdmVycmlkZVJ1bGUoX3NldHRpbmdzU2VydmljZU1vY2suT2JqZWN0KQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgVW5pdFRlc3QoKQogICAgICAgIHsgICAgICAgIAogICAgICAgICAgICBGaXh0dXJlID0gbmV3IEZpeHR1cmUoCiAgICAgICAgICAgIEZpeHR1cmUuQ3VzdG9taXplKG5ldyAKICAgICAgICAgICAgQ3VzdG9tUmVnaXN0cmF0aW9ucygpOw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJ0aWNsZUludmVudG9yeS5TdG9ja09uSGFuZE92ZXJyaWRlLlNob3VsZCgpCiAgICAgICAgICAgICAgICAuQmUoa2dBcnRpY2xlQ2xvbmUuU3RvY2tPbkhhbmRPdmVycmlkZSwKICAgICAgICAgICAgICAgICAgICAkIkJlY2F1c2UgZWFjaCBhcnRpY2xlcyBhcmUgaWdub3JlZCBmb3IgdGhpcyBydWxlLiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGtlazsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkIkJlY2F1c2UgZWFjaCBhcnRpY2xlcyBhcmUgaWdub3JlZCBmb3IgdGhpcyBydWxlLiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNwZWNpbWVuID0gbmV3IFNwZWNpbWVuQ29udGV4dChGaXh0dXJlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5CZShrZ0FydGljbGVDbG9uZS5TdG9ja09uSGFuZE92ZXJyaWRlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRml4dHVyZS5DdXN0b21pemF0aW9ucy5BZGQoc3BlY2ltZW4uQnVpbGRlcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Ub0xpc3QoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfc2V0dGluZ3NTZXJ2aWNlTW9ja1w+</text>
