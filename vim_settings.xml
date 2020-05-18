@@ -216,12 +216,12 @@
         <mark key="." line="154" column="71" />
         <mark key="^" line="154" column="72" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1589775957781">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1589777990006">
         <mark key="'" line="19" column="39" />
-        <mark key="[" line="79" column="18" />
-        <mark key="]" line="79" column="25" />
-        <mark key="^" line="79" column="25" />
-        <mark key="." line="79" column="24" />
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="27" />
+        <mark key="^" line="31" column="27" />
+        <mark key="." line="31" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -333,7 +333,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>kgArticleClone.StockOnHand / weightRangeMetaData.MaximumWeight</text>
+        <text>Register</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -360,7 +360,7 @@
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IExpc3Q8SUFydGljbGVJbnZlbnRvcnlSdWxlPiBfcnVsZXM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>kgArticleClone.StockOnHand / weightRangeMetaData.MaximumWeight</text>
+        <text>Register</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfc2V0dGluZ3NTZXJ2aWNlTW9ja1w+</text>
