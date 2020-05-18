@@ -126,11 +126,11 @@
         <mark key="." line="0" column="36" />
         <mark key="^" line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Extensions/TypeLoaderExtensions.cs" timestamp="1589766397491">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="9" column="14" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Extensions/TypeLoaderExtensions.cs" timestamp="1589771241699">
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="27" column="52" />
+        <mark key="." line="27" column="51" />
+        <mark key="^" line="27" column="52" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/IArticleInventoryRule.cs" timestamp="1589448973978">
         <mark key="[" line="7" column="8" />
@@ -138,17 +138,20 @@
         <mark key="." line="7" column="11" />
         <mark key="^" line="7" column="12" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IntegrationTests/IArticleInventoryRuleTests.cs" timestamp="1589766566547">
-        <mark key="[" line="26" column="22" />
-        <mark key="]" line="26" column="26" />
-        <mark key="." line="26" column="25" />
-        <mark key="^" line="26" column="26" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IntegrationTests/IArticleInventoryRuleTests.cs" timestamp="1589771820047">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="15" column="14" />
+        <mark key="^" line="15" column="15" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2A925EDF-E558-4632-978E-98FD8509CDF4/c7/d49caeef/ClassDataAttribute.cs" timestamp="1589515246769">
         <mark key="[" line="16" column="137" />
         <mark key="]" line="16" column="137" />
         <mark key="^" line="16" column="137" />
         <mark key="." line="16" column="136" />
+      </file>
+      <file name="/Dummy.cs" timestamp="1589770222464">
+        <mark key="[" line="0" column="53" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" timestamp="1589765554361">
         <mark key="'" line="151" column="0" />
@@ -170,7 +173,7 @@
         <mark key="." line="56" column="37" />
         <mark key="^" line="56" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589449117048">
+      <file name="/Dummy.txt" timestamp="1589770138578">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -199,11 +202,11 @@
         <mark key="." line="154" column="71" />
         <mark key="^" line="154" column="72" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1589766377533">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="74" column="33" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1589771677649">
+        <mark key="[" line="74" column="24" />
+        <mark key="]" line="74" column="29" />
+        <mark key="^" line="74" column="29" />
+        <mark key="." line="74" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -304,37 +307,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXV0b2NyZWEK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>_rule</text>
+        <text>static</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3J1bGVzID0gVHlwZUxvYWRlckV4dGVuc2lvbnMuR2V0VHlwZXNXaXRoSW50ZXJmYWNlPElBcnRpY2xlSW52ZW50b3J5UnVsZT4oKS5Ub0xpc3QoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9ydWxlcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaGVyZShpID0+ICFpLklzSW50ZXJmYWNlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgQXV0b0ZpeHR1cmUuS2VybmVsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3J1bGVzID0gR2V0VHlwZXNXaXRoSW50ZXJmYWNlPElBcnRpY2xlSW52ZW50b3J5UnVsZT4oKS5Ub0xpc3QoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgQXV0b0ZpeHR1cmU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgc3RhdGljIElFbnVtZXJhYmxlPFQ+IEdldFR5cGVzV2l0aEludGVyZmFjZTxUPigpIHdoZXJlIFQgOiBjbGFzcwogICAgICAgIHsKICAgICAgICAgICAgdmFyIGlUeXBlID0gdHlwZW9mKFQpOwogICAgICAgICAgICByZXR1cm4gaVR5cGUuQXNzZW1ibHkuR2V0VHkoKQogICAgICAgICAgICAgICAgLldoZXJlKHR5cGUgPT4gdHlwZS5Jc0Fzc2lnbmFibGVGcm9tKHR5cGUpICYmICF0eXBlLklzSW50ZXJmYWNlKQogICAgICAgICAgICAgICAgLlNlbGVjdCh0ID0+ICBBY3RpdmF0b3IuQ3JlYXRlSW5zdGFuY2UodCkgYXMgVCkKICAgICAgICAgICAgICAgIC5Ub0xpc3QoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgQXV0b0ZpeHR1cmUuS2VybmVsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHR1cGxlRW51bWVyYWJsZTsK</text>
+        <text encoding="base64">dXNpbmcgQXV0b0ZpeHR1cmU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_rule</text>
+        <text>static</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</text>
