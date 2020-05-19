@@ -173,6 +173,7 @@
         <mark key="." line="154" column="71" />
         <mark key="^" line="154" column="72" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cs" timestamp="1589854572011" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2A925EDF-E558-4632-978E-98FD8509CDF4/c7/d49caeef/ClassDataAttribute.cs" timestamp="1589515246769">
         <mark key="[" line="16" column="137" />
         <mark key="]" line="16" column="137" />
@@ -189,12 +190,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="94" column="19" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" timestamp="1589776975284">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" timestamp="1589854226490">
         <mark key="'" line="151" column="0" />
-        <mark key="[" line="44" column="46" />
-        <mark key="]" line="45" column="35" />
-        <mark key="^" line="45" column="35" />
-        <mark key="." line="45" column="34" />
+        <mark key="[" line="18" column="35" />
+        <mark key="]" line="18" column="38" />
+        <mark key="^" line="18" column="38" />
+        <mark key="." line="18" column="37" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" timestamp="1589449072069">
         <mark key="'" line="6" column="45" />
@@ -203,17 +204,17 @@
         <mark key="." line="27" column="11" />
         <mark key="^" line="27" column="12" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IntegrationTests/ArticleInventoryRuleIntegrationTests.cs" timestamp="1589853257394">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IntegrationTests/ArticleInventoryRuleIntegrationTests.cs" timestamp="1589854836338">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1589853240216">
-        <mark key="'" line="20" column="39" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="79" column="61" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1589854971782">
+        <mark key="'" line="18" column="39" />
+        <mark key="[" line="34" column="42" />
+        <mark key="]" line="34" column="57" />
+        <mark key="." line="34" column="56" />
+        <mark key="^" line="34" column="57" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" timestamp="1589774027671">
         <mark key="[" line="24" column="29" />
@@ -328,37 +329,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGtlayA9IEZpeHR1cmUuQ3JlYXRlPERlcmFuZ2VkQXJ0aWNsZU92ZXJkZHJpZGVSdWxlPigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhb3IgPSBuZXcgRGVyYW5nZWRBcnRpY2xlT3ZlcnJpZGVSdWxlKF9zZXR0aW5nc1NlcnZpY2VNb2NrLk9iamVjdCk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGtlayA9IEZpeHR1cmUuQ3JlYXRlPERlcmFuZ2VkQXJ0aWNsZU92ZXJkZHJpZGVSdWxlPigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>settingName</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRml4dHVyZS5pbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgQ3VzdG9tUmVnaXN0cmF0aW9ucygpCiAgICAgICAgewogICAgICAgICAgICAvLyBfc2V0dGluZ3NTZXJ2aWNlTW9jayA/Pz0gRml4dHVyZS5GcmVlemU8TW9jazxJU2V0dGluZ3NTZXJ2aWNlPj4oKTsKICAgICAgICAgICAgLy8KICAgICAgICAgICAgLy8gRml4dHVyZS5SZWdpc3RlcigoKSA9PgogICAgICAgICAgICAvLyAgICAgbmV3IERlcmFuZ2VkQXJ0aWNsZU92ZXJyaWRlUnVsZShfc2V0dGluZ3NTZXJ2aWNlTW9jay5PYmplY3QpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9ja1NldHRpbmdzU2VydmljZShEZXJhbmdlZEFydGljbGVPdmVycmlkZVJ1bGUuU2V0dGluZ05hbWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3VzdG9tUmVnaXN0cmF0aW9ucygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRml4dHVyZS5GcmVlemUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgQXV0b0ZpeHR1cmUuS2VybmVsOwo=</text>
+        <text encoding="base64">dXNpbmcgQXV0b0ZpeHR1cmU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlJ1bnRpbWUuU2VyaWFsaXphdGlvbjsK</text>
+        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5SdWxlczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIC5TZWxlY3QodCA9PiBuZXcgU3BlY2ltZW5Db250ZXh0KEZpeHR1cmUpLlJlc29sdmUodCkpCg==</text>
+        <text encoding="base64">dXNpbmcgRmx1ZW50QXNzZXJ0aW9uczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5DYXN0PFQ+KCkK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlJlZmxlY3Rpb247Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGtlayA9IEZpeHR1cmUuQ3JlYXRlPERlcmFuZ2VkQXJ0aWNsZU92ZXJkZHJpZGVSdWxlPigpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>settingName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfc2V0dGluZ3NTZXJ2aWNlTW9ja1w+</text>
