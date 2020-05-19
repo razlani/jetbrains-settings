@@ -116,7 +116,7 @@
       <file name="vim_settings.xml" timestamp="1589850266977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589791536986">
+      <file name="/Dummy.txt" timestamp="1589865329071">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -190,12 +190,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="94" column="19" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" timestamp="1589854226490">
-        <mark key="'" line="151" column="0" />
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="18" column="38" />
-        <mark key="^" line="18" column="38" />
-        <mark key="." line="18" column="37" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" timestamp="1589863531372">
+        <mark key="'" line="152" column="0" />
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="28" column="35" />
+        <mark key="^" line="28" column="35" />
+        <mark key="." line="28" column="34" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" timestamp="1589449072069">
         <mark key="'" line="6" column="45" />
@@ -204,11 +204,11 @@
         <mark key="." line="27" column="11" />
         <mark key="^" line="27" column="12" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IntegrationTests/ArticleInventoryRuleIntegrationTests.cs" timestamp="1589855562633">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="37" column="12" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IntegrationTests/ArticleInventoryRuleIntegrationTests.cs" timestamp="1589865426518">
+        <mark key="[" line="37" column="53" />
+        <mark key="]" line="64" column="57" />
+        <mark key="." line="64" column="56" />
+        <mark key="^" line="64" column="57" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1589855525022">
         <mark key="'" line="18" column="39" />
@@ -330,37 +330,38 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Because the article had zero stock on hand.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>$&quot;Because the stock on hand was calculated via the weight-range criteria&quot; +
+                    $&quot;and was rounding &quot;</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJvdW5kZWRTb2ggPSBkZWNpbWFsLkZsb29yKHJhbmRvbVdlaWdodFJ1bGVTb2gpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJhbmRvbVdlaWdodFJ1bGVTb2ggPSAoa2dBcnRpY2xlQ2xvbmUuU3RvY2tPbkhhbmQgLyBhcnRpY2xlTWV0YWRhdGEuTWF4aW11bVdlaWdodCkuVmFsdWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3NldHRpbmdzU2VydmljZU1vY2sK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhb3IgPSBuZXcgRGVyYW5nZWRBcnRpY2xlT3ZlcnJpZGVSdWxlKF9zZXR0aW5nc1NlcnZpY2VNb2NrLk9iamVjdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRml4dHVyZS5pbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9ja1NldHRpbmdzU2VydmljZShEZXJhbmdlZEFydGljbGVPdmVycmlkZVJ1bGUuU2V0dGluZ05hbWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>settingName</text>
+        <text>Because the article had zero stock on hand.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfc2V0dGluZ3NTZXJ2aWNlTW9ja1w+</text>
