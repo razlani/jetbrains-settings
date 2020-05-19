@@ -113,6 +113,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="vim_settings.xml" timestamp="1589850266977">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" timestamp="1589449077712">
         <mark key="'" line="7" column="17" />
         <mark key="[" line="34" column="40" />
@@ -131,12 +134,6 @@
         <mark key="]" line="23" column="35" />
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="35" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/IArticleInventoryRule.cs" timestamp="1589448973978">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="12" />
-        <mark key="." line="7" column="11" />
-        <mark key="^" line="7" column="12" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IntegrationTests/IArticleInventoryRuleTests.cs" timestamp="1589774061678">
         <mark key="[" line="15" column="8" />
