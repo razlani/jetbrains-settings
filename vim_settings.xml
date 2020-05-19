@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb21wYXJlT25FeGlzdGluZ0FydGljbGVcPg==</entry>
         <entry encoding="base64">XDxfc2Vjb25kYXJ5UHVibGlzaGVyXD4=</entry>
         <entry encoding="base64">XDxjb2xsZWN0aW9uTmFtZVw+</entry>
         <entry encoding="base64">XDxfYWxjU3RhdHVzTWVzc2FnZVB1Ymxpc2hlclw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxhcnRpY2xlSW52ZW50b3J5UnVsZXNcPg==</entry>
         <entry encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</entry>
         <entry encoding="base64">XDxfc2V0dGluZ3NTZXJ2aWNlTW9ja1w+</entry>
+        <entry encoding="base64">XDxNb2NrU2V0dGluZ1w+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -116,17 +116,10 @@
       <file name="vim_settings.xml" timestamp="1589850266977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589866924440">
+      <file name="/Dummy.txt" timestamp="1589869804493">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" timestamp="1589449077712">
-        <mark key="'" line="7" column="17" />
-        <mark key="[" line="34" column="40" />
-        <mark key="]" line="34" column="37" />
-        <mark key="^" line="34" column="37" />
-        <mark key="." line="34" column="36" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryTestData.cs" timestamp="1589513530666">
         <mark key="'" line="165" column="0" />
@@ -177,12 +170,12 @@
       <file name="/Dummy.cs" timestamp="1589791525538">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" timestamp="1589773962614">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" timestamp="1589869605043">
         <mark key="'" line="114" column="55" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="94" column="19" />
+        <mark key="[" line="81" column="71" />
+        <mark key="]" line="14" column="64" />
+        <mark key="." line="14" column="63" />
+        <mark key="^" line="14" column="64" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" timestamp="1589863531372">
         <mark key="'" line="150" column="0" />
@@ -191,18 +184,24 @@
         <mark key="^" line="28" column="35" />
         <mark key="." line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IntegrationTests/ArticleInventoryRuleIntegrationTests.cs" timestamp="1589865426518">
-        <mark key="[" line="37" column="53" />
-        <mark key="]" line="64" column="57" />
-        <mark key="." line="64" column="56" />
-        <mark key="^" line="64" column="57" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IntegrationTests/ArticleInventoryRuleIntegrationTests.cs" timestamp="1589869811782">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" timestamp="1589866962524">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1589869539569">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="51" column="59" />
+      </file>
+      <file name="/UnitTest.cs" timestamp="1589869438187" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" timestamp="1589869652638">
         <mark key="'" line="46" column="12" />
-        <mark key="[" line="64" column="46" />
-        <mark key="]" line="64" column="47" />
-        <mark key="^" line="64" column="47" />
-        <mark key="." line="64" column="46" />
+        <mark key="[" line="134" column="45" />
+        <mark key="]" line="134" column="51" />
+        <mark key="^" line="134" column="51" />
+        <mark key="." line="134" column="50" />
       </file>
     </filemarks>
     <jumps>
@@ -311,29 +310,28 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">LSBBZGRzIGludGVncmF0aW9uIHRlc3RzCi0gUmVmYWN0b3JzIGV4aXN0aW5nIHVuaXQgdGVzdHMgZm9yIGNsZWFubGluZXNzIGFuZCByZS11c2FiaWxpdHkgYW5kIHJvYnVzdG5lc3MKLSBTbWFsbCBjbGVhbi11cCBvbiB0aGUgVW5pdFRlc3QuY3MgYW5kIFN0b3JlQ29uZmlndXJhdGlvblByb3h5VGVzdHMuY3MuIFJlLWppZ3MgdGhlIFR5cGVMb2FkZXJFeHRlbnNpb25zLmNzIHRvIGJlIHVzZWZ1bCA6KQoKVGhlIFJhbmRvbVdlaWdodEFydGljbGVJbnZlbnRvcnlSdWxlVGVzdHMuY3MgaGF2ZSA5IHRlc3QgY2FzZXMgaW4gc3BpdGUgb2YgdGhlIGNsYXNzIGNvbnRhaW5pbmcgdGhyZWUgdGVzdCBtZXRob2RzLCBhbW91bnRpbmcgdG8gZ3JlYXQgY29kZS1jb3ZlcmFnZSB3aXRoIGZldyBsaW5lcyBvZiBjb2RlLiBJdCBhbHNvIHNoYXJlcyBkYXRhIHdpdGggdGhlIEFydGljbGVJbnZlbnRvcnlSdWxlSW50ZWdyYXRpb25UZXN0cy5jcywgdXRpbGl6aW5nIGEgY29tbW9uIHhVbml0IHBhdHRlcm4sIGxvb3NlbmluZyB0aGUgZGF0YSBjb3VwbGluZyBmb3IgY2xlYW5saW5lc3MuCg==</text>
+        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5Nb2RlbHMuU2V0dGluZ2RkczsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">LSBBZGRzIGludGVncmF0aW9uIHRlc3RzCi0gUmVmYWN0b3JzIGV4aXN0aW5nIHVuaXQgdGVzdHMgZm9yIGNsZWFubGluZXNzIGFuZCByZS11c2FiaWxpdHkgYW5kIHJvYnVzdG5lc3MKLSBTbWFsbCBjbGVhbi11cCBvbiB0aGUgVW5pdFRlc3QuY3MgYW5kIFN0b3JlQ29uZmlndXJhdGlvblByb3h5VGVzdHMuY3MuIFJlLWppZ3MgdGhlIFR5cGVMb2FkZXJFeHRlbnNpb25zLmNzIHRvIGJlIHVzZWZ1bCA6KQoKVGhlIFJhbmRvbVdlaWdodEFydGljbGVJbnZlbnRvcnlSdWxlVGVzdHMuY3MgaGF2ZSA5IHRlc3QgY2FzZXMgaW4gc3BpdGUgb2YgdGhlIGNsYXNzIGNvbnRhaW5pbmcgdGhyZWUgdGVzdCBtZXRob2RzLCBhbW91bnRpbmcgdG8gZ3JlYXQgY29kZS1jb3ZlcmFnZSB3aXRoIGZldyBsaW5lcyBvZiBjb2RlLiBJdCBhbHNvIHNoYXJlcyBkYXRhIHdpdGggdGhlIEFydGljbGVJbnZlbnRvcnlSdWxlSW50ZWdyYXRpb25UZXN0cy5jcywgdXRpbGl6aW5nIGEgY29tbW9uIHhVbml0IHBhdHRlcm4sIGxvb3NlbmluZyB0aGUgZGF0YSBjb3VwbGluZyBmb3IgY2xlYW5saW5lc3MuCg==</text>
+        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5Nb2RlbHMuU2V0dGluZ2RkczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>$&quot;Because the stock on hand was calculated via the weight-range criteria&quot; +
-                    $&quot;and was rounding &quot;</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBwcm90ZWN0ZWQgdm9pZCBNb2NrU2V0dGluZzxUPihzdHJpbmcga2V5LCBUIHZhbHVlKQogICAgICAgIC8vIHsKICAgICAgICAvLyAgICAgX3NldHRpbmdzU2VydmljZU1vY2sgPz89IEZpeHR1cmUuRnJlZXplPE1vY2s8SVNldHRpbmdzU2VydmljZT4+KCk7CiAgICAgICAgLy8KICAgICAgICAvLyAgICAgX3NldHRpbmdzU2VydmljZU1vY2sKICAgICAgICAvLyAgICAgICAgIC5TZXR1cChzZXJ2aWNlID0+IHNlcnZpY2UuR2V0PFQ+KGtleSwgSXQuSXNBbnk8U2V0dGluZ0ZpbHRlcj4oKSkpCiAgICAgICAgLy8gICAgICAgICAuUmV0dXJuc0FzeW5jKHZhbHVlKTsKICAgICAgICAvLyB9Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJvdW5kZWRTb2ggPSBkZWNpbWFsLkZsb29yKHJhbmRvbVdlaWdodFJ1bGVTb2gpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJhbmRvbVdlaWdodFJ1bGVTb2ggPSAoa2dBcnRpY2xlQ2xvbmUuU3RvY2tPbkhhbmQgLyBhcnRpY2xlTWV0YWRhdGEuTWF4aW11bVdlaWdodCkuVmFsdWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdmFyIHNldHRpbmdzU2VydmljZU1vY2sgPSBGaXh0dXJlLkZyZWV6ZTxNb2NrPElTZXR0aW5nc1NlcnZpY2U+PigpOwogICAgICAgICAgICAvLwogICAgICAgICAgICAvLyBzZXR0aW5nc1NlcnZpY2VNb2NrCiAgICAgICAgICAgIC8vICAgICAuU2V0dXAoc3IgPT4gc3IuR2V0PGJvb2w+KEl0LklzQW55PHN0cmluZz4oKSwKICAgICAgICAgICAgLy8gICAgICAgICBJdC5Jc0FueTxTZXR0aW5nRmlsdGVyPigpKSkKICAgICAgICAgICAgLy8gICAgIC5SZXR1cm5zQXN5bmModHJ1ZSk7CgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRml4dHVyZS5SZWdpc3RlcigoKSA9PgogICAgICAgICAgICAvLyAgICAgbmV3IERlcmFuZ2VkQXJ0aWNsZU92ZXJyaWRlUnVsZShzZXR0aW5nc1NlcnZpY2VNb2NrLk9iamVjdCkpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -342,7 +340,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Because the article had zero stock on hand.</text>
+        <text>bool</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNb2NrU2V0dGluZ1w+</text>
