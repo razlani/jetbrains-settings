@@ -201,7 +201,7 @@
         <mark key="^" line="134" column="51" />
         <mark key="." line="134" column="50" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Models/ArticleInventory.cs" timestamp="1589936610343" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Models/ArticleInventory.cs" timestamp="1589937739606" />
     </filemarks>
     <jumps>
       <jump line="16" column="53" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleInventoryMessageProcessor.cs" />
