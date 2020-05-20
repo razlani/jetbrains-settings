@@ -116,7 +116,7 @@
       <file name="vim_settings.xml" timestamp="1589850266977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589869804493">
+      <file name="/Dummy.txt" timestamp="1589947025808">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -160,6 +160,7 @@
         <mark key="." line="15" column="14" />
         <mark key="^" line="15" column="15" />
       </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/azure-pipelines.yaml" timestamp="1589949383550" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/Program.cs" timestamp="1589504281866">
         <mark key="[" line="154" column="57" />
         <mark key="]" line="154" column="72" />
