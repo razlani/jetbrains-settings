@@ -141,12 +141,12 @@
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" timestamp="1590225841196">
         <mark key="'" line="41" column="12" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1590229848516">
-        <mark key="'" line="133" column="27" />
-        <mark key="[" line="37" column="23" />
-        <mark key="]" line="37" column="34" />
-        <mark key="." line="37" column="33" />
-        <mark key="^" line="37" column="34" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1590230030802">
+        <mark key="'" line="139" column="27" />
+        <mark key="[" line="77" column="62" />
+        <mark key="]" line="77" column="62" />
+        <mark key="." line="77" column="61" />
+        <mark key="^" line="77" column="62" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1590226850613">
         <mark key="[" line="22" column="18" />
