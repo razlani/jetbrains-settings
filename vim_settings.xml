@@ -142,12 +142,12 @@
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" timestamp="1590283091114">
         <mark key="'" line="74" column="43" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1590283576145">
-        <mark key="'" line="175" column="44" />
-        <mark key="[" line="92" column="31" />
-        <mark key="]" line="92" column="37" />
-        <mark key="." line="92" column="36" />
-        <mark key="^" line="92" column="37" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1590285545997">
+        <mark key="'" line="187" column="44" />
+        <mark key="[" line="97" column="100" />
+        <mark key="]" line="98" column="16" />
+        <mark key="." line="98" column="15" />
+        <mark key="^" line="98" column="16" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1590283338547">
         <mark key="[" line="22" column="18" />
@@ -321,7 +321,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>kek</text>
+        <text>:</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vTWV0YWRhdGEgc2hvd3MgYXJ0aWNsZSB0byBiZSBhIGNoaWxkCg==</text>
@@ -348,7 +348,7 @@
         <text encoding="base64">ICAgICAgICAvLyBwcm90ZWN0ZWQgdm9pZCBNb2NrU2V0dGluZzxUPihzdHJpbmcga2V5LCBUIHZhbHVlKQogICAgICAgIC8vIHsKICAgICAgICAvLyAgICAgX3NldHRpbmdzU2VydmljZU1vY2sgPz89IEZpeHR1cmUuRnJlZXplPE1vY2s8SVNldHRpbmdzU2VydmljZT4+KCk7CiAgICAgICAgLy8KICAgICAgICAvLyAgICAgX3NldHRpbmdzU2VydmljZU1vY2sKICAgICAgICAvLyAgICAgICAgIC5TZXR1cChzZXJ2aWNlID0+IHNlcnZpY2UuR2V0PFQ+KGtleSwgSXQuSXNBbnk8U2V0dGluZ0ZpbHRlcj4oKSkpCiAgICAgICAgLy8gICAgICAgICAuUmV0dXJuc0FzeW5jKHZhbHVlKTsKICAgICAgICAvLyB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>kek</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRTdG9yZUNvbmZpZ3VyYXRpb25cPg==</text>
