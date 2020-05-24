@@ -142,12 +142,17 @@
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" timestamp="1590283091114">
         <mark key="'" line="74" column="43" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1590285545997">
-        <mark key="'" line="187" column="44" />
-        <mark key="[" line="97" column="100" />
-        <mark key="]" line="98" column="16" />
-        <mark key="." line="98" column="15" />
-        <mark key="^" line="98" column="16" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleRelationship/ArticleRelationshipDto.cs" timestamp="1590286650032">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="34" />
+        <mark key="^" line="7" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1590287135018">
+        <mark key="'" line="195" column="44" />
+        <mark key="]" line="104" column="41" />
+        <mark key="^" line="104" column="41" />
+        <mark key="." line="104" column="40" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1590283338547">
         <mark key="[" line="22" column="18" />
@@ -168,12 +173,6 @@
         <mark key="^" line="15" column="15" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/azure-pipelines.yaml" timestamp="1589949383550" />
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2A925EDF-E558-4632-978E-98FD8509CDF4/c7/d49caeef/ClassDataAttribute.cs" timestamp="1589515246769">
-        <mark key="[" line="16" column="137" />
-        <mark key="]" line="16" column="137" />
-        <mark key="^" line="16" column="137" />
-        <mark key="." line="16" column="136" />
-      </file>
       <file name="/Dummy.cs" timestamp="1589791525538">
         <mark key="[" line="0" column="0" />
       </file>
@@ -318,37 +317,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vc2VsZWN0IG9ubHkgZmllbGRzIHBhcmVudCByZWZlcmVuY2UgYW5kIG9yZGVybXVsdGlwbGllcgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vc2VsZWN0IG9ubHkgZmllbGRzIHBhcmVudCByZWZlcmVuY2UgYW5kIG9yZGVybXVsdGlwbGllcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vTWV0YWRhdGEgc2hvd3MgYXJ0aWNsZSB0byBiZSBhIGNoaWxkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vTWV0YWRhdGEgc2hvd3MgYXJ0aWNsZSB0byBiZSBhIGNoaWxkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGFzeW5jIFRhc2sgVXBkYXRlQXJ0aWNsZUludmVudG9yeShBcnRpY2xlSW52ZW50b3J5IGFydGljbGVJbnZlbnRvcnkpCiAgICAgICAgewogICAgICAgICAgICB2YXIgYXJ0aWNsZUludmVudG9yeUtleSA9IEFydGljbGVJbnZlbnRvcnlLZXkuQ3JlYXRlKAogICAgICAgICAgICAgICAgYXJ0aWNsZUludmVudG9yeS5TdG9yZUtleSwKICAgICAgICAgICAgICAgIGFydGljbGVJbnZlbnRvcnkuQXJ0aWNsZUlkLAogICAgICAgICAgICAgICAgYXJ0aWNsZUludmVudG9yeS5Vbml0T2ZNZWFzdXJlKTsKICAgICAgICAgICAgYXJ0aWNsZUludmVudG9yeS5VcGRhdGVkRGF0ZVRpbWVVdGMgPSBEYXRlVGltZS5VdGNOb3c7CiAgICAgICAgICAgIGF3YWl0IF9hcnRpY2xlSW52ZW50b3J5UmVwb3NpdG9yeS5VcGRhdGUoYXJ0aWNsZUludmVudG9yeUtleSwgYXJ0aWNsZUludmVudG9yeSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGFzeW5jIFRhc2sgVXBkYXRlQXJ0aWNsZUludmVudG9yeShBcnRpY2xlSW52ZW50b3J5IGFydGljbGVJbnZlbnRvcnkpCiAgICAgICAgewogICAgICAgICAgICB2YXIgYXJ0aWNsZUludmVudG9yeUtleSA9IEFydGljbGVJbnZlbnRvcnlLZXkuQ3JlYXRlKAogICAgICAgICAgICAgICAgYXJ0aWNsZUludmVudG9yeS5TdG9yZUtleSwKICAgICAgICAgICAgICAgIGFydGljbGVJbnZlbnRvcnkuQXJ0aWNsZUlkLAogICAgICAgICAgICAgICAgYXJ0aWNsZUludmVudG9yeS5Vbml0T2ZNZWFzdXJlKTsKICAgICAgICAgICAgYXJ0aWNsZUludmVudG9yeS5VcGRhdGVkRGF0ZVRpbWVVdGMgPSBEYXRlVGltZS5VdGNOb3c7CiAgICAgICAgICAgIGF3YWl0IF9hcnRpY2xlSW52ZW50b3J5UmVwb3NpdG9yeS5VcGRhdGUoYXJ0aWNsZUludmVudG9yeUtleSwgYXJ0aWNsZUludmVudG9yeSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5Nb2RlbHMuU2V0dGluZ2RkczsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5Nb2RlbHMuU2V0dGluZ2RkczsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcm90ZWN0ZWQgdm9pZCBNb2NrU2V0dGluZzxUPihzdHJpbmcga2V5LCBUIHZhbHVlKQogICAgICAgIC8vIHsKICAgICAgICAvLyAgICAgX3NldHRpbmdzU2VydmljZU1vY2sgPz89IEZpeHR1cmUuRnJlZXplPE1vY2s8SVNldHRpbmdzU2VydmljZT4+KCk7CiAgICAgICAgLy8KICAgICAgICAvLyAgICAgX3NldHRpbmdzU2VydmljZU1vY2sKICAgICAgICAvLyAgICAgICAgIC5TZXR1cChzZXJ2aWNlID0+IHNlcnZpY2UuR2V0PFQ+KGtleSwgSXQuSXNBbnk8U2V0dGluZ0ZpbHRlcj4oKSkpCiAgICAgICAgLy8gICAgICAgICAuUmV0dXJuc0FzeW5jKHZhbHVlKTsKICAgICAgICAvLyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>response</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRTdG9yZUNvbmZpZ3VyYXRpb25cPg==</text>
