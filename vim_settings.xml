@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxBUFBMSUNBVElPTl9OQU1FXD4=</entry>
-        <entry encoding="base64">XDxOYW1lXD4=</entry>
         <entry encoding="base64">XDxPd25lclw+</entry>
         <entry encoding="base64">XDxQbGF0Zm9ybVw+</entry>
         <entry encoding="base64">XDxTeXN0ZW1cPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxodHRwQ2xpZW50XD4=</entry>
         <entry encoding="base64">XDxfaHR0cENsaWVudFw+</entry>
         <entry encoding="base64">XDxVcGRhdGVBcnRpY2xlSW52ZW50b3J5XD4=</entry>
+        <entry encoding="base64">XDxHZXRNZXRhZGF0YVw+</entry>
+        <entry encoding="base64">XDxHZXRTdG9yZUNvbmZpZ3VyYXRpb25cPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -126,7 +126,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Models/ArticleMetadata.cs" timestamp="1590229316516">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Models/ArticleMetadata.cs" timestamp="1590282478018">
+        <mark key="'" line="6" column="17" />
         <mark key="[" line="33" column="22" />
         <mark key="]" line="33" column="53" />
         <mark key="^" line="33" column="53" />
@@ -138,17 +139,17 @@
         <mark key="^" line="11" column="61" />
         <mark key="." line="11" column="60" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" timestamp="1590225841196">
-        <mark key="'" line="41" column="12" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" timestamp="1590283091114">
+        <mark key="'" line="74" column="43" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1590230030802">
-        <mark key="'" line="139" column="27" />
-        <mark key="[" line="77" column="62" />
-        <mark key="]" line="77" column="62" />
-        <mark key="." line="77" column="61" />
-        <mark key="^" line="77" column="62" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1590283576145">
+        <mark key="'" line="175" column="44" />
+        <mark key="[" line="92" column="31" />
+        <mark key="]" line="92" column="37" />
+        <mark key="." line="92" column="36" />
+        <mark key="^" line="92" column="37" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1590226850613">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1590283338547">
         <mark key="[" line="22" column="18" />
         <mark key="]" line="22" column="18" />
         <mark key="^" line="21" column="30" />
@@ -212,11 +213,6 @@
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Models/ArticleInventory.cs" timestamp="1589937739606" />
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" />
-      <jump line="11" column="33" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
-      <jump line="72" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" />
-      <jump line="22" column="26" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" />
-      <jump line="13" column="31" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
       <jump line="66" column="26" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/ArticleSohInventoryService.cs" />
       <jump line="69" column="67" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/ArticleSohInventoryService.cs" />
       <jump line="109" column="34" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleSohMessageProcessor.cs" />
@@ -312,6 +308,11 @@
       <jump line="86" column="22" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
       <jump line="101" column="30" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
       <jump line="130" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="6" column="17" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Models/ArticleMetadata.cs" />
+      <jump line="161" column="44" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="106" column="47" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" />
+      <jump line="48" column="46" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" />
+      <jump line="74" column="43" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,45 +321,45 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>OrderMultiple</text>
+        <text>kek</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGFzeW5jIFRhc2sgVXBkYXRlQXJ0aWNsZUludmVudG9yeShBcnRpY2xlSW52ZW50b3J5IGFydGljbGVJbnZlbnRvcnkpCiAgICAgICAgewogICAgICAgICAgICB2YXIgYXJ0aWNsZUludmVudG9yeUtleSA9IEFydGljbGVJbnZlbnRvcnlLZXkuQ3JlYXRlKAogICAgICAgICAgICAgICAgYXJ0aWNsZUludmVudG9yeS5TdG9yZUtleSwKICAgICAgICAgICAgICAgIGFydGljbGVJbnZlbnRvcnkuQXJ0aWNsZUlkLAogICAgICAgICAgICAgICAgYXJ0aWNsZUludmVudG9yeS5Vbml0T2ZNZWFzdXJlKTsKICAgICAgICAgICAgYXJ0aWNsZUludmVudG9yeS5VcGRhdGVkRGF0ZVRpbWVVdGMgPSBEYXRlVGltZS5VdGNOb3c7CiAgICAgICAgICAgIGF3YWl0IF9hcnRpY2xlSW52ZW50b3J5UmVwb3NpdG9yeS5VcGRhdGUoYXJ0aWNsZUludmVudG9yeUtleSwgYXJ0aWNsZUludmVudG9yeSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vTWV0YWRhdGEgc2hvd3MgYXJ0aWNsZSB0byBiZSBhIGNoaWxkCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5Nb2RlbHMuU2V0dGluZ2RkczsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGFzeW5jIFRhc2sgVXBkYXRlQXJ0aWNsZUludmVudG9yeShBcnRpY2xlSW52ZW50b3J5IGFydGljbGVJbnZlbnRvcnkpCiAgICAgICAgewogICAgICAgICAgICB2YXIgYXJ0aWNsZUludmVudG9yeUtleSA9IEFydGljbGVJbnZlbnRvcnlLZXkuQ3JlYXRlKAogICAgICAgICAgICAgICAgYXJ0aWNsZUludmVudG9yeS5TdG9yZUtleSwKICAgICAgICAgICAgICAgIGFydGljbGVJbnZlbnRvcnkuQXJ0aWNsZUlkLAogICAgICAgICAgICAgICAgYXJ0aWNsZUludmVudG9yeS5Vbml0T2ZNZWFzdXJlKTsKICAgICAgICAgICAgYXJ0aWNsZUludmVudG9yeS5VcGRhdGVkRGF0ZVRpbWVVdGMgPSBEYXRlVGltZS5VdGNOb3c7CiAgICAgICAgICAgIGF3YWl0IF9hcnRpY2xlSW52ZW50b3J5UmVwb3NpdG9yeS5VcGRhdGUoYXJ0aWNsZUludmVudG9yeUtleSwgYXJ0aWNsZUludmVudG9yeSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5Nb2RlbHMuU2V0dGluZ2RkczsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcm90ZWN0ZWQgdm9pZCBNb2NrU2V0dGluZzxUPihzdHJpbmcga2V5LCBUIHZhbHVlKQogICAgICAgIC8vIHsKICAgICAgICAvLyAgICAgX3NldHRpbmdzU2VydmljZU1vY2sgPz89IEZpeHR1cmUuRnJlZXplPE1vY2s8SVNldHRpbmdzU2VydmljZT4+KCk7CiAgICAgICAgLy8KICAgICAgICAvLyAgICAgX3NldHRpbmdzU2VydmljZU1vY2sKICAgICAgICAvLyAgICAgICAgIC5TZXR1cChzZXJ2aWNlID0+IHNlcnZpY2UuR2V0PFQ+KGtleSwgSXQuSXNBbnk8U2V0dGluZ0ZpbHRlcj4oKSkpCiAgICAgICAgLy8gICAgICAgICAuUmV0dXJuc0FzeW5jKHZhbHVlKTsKICAgICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdmFyIHNldHRpbmdzU2VydmljZU1vY2sgPSBGaXh0dXJlLkZyZWV6ZTxNb2NrPElTZXR0aW5nc1NlcnZpY2U+PigpOwogICAgICAgICAgICAvLwogICAgICAgICAgICAvLyBzZXR0aW5nc1NlcnZpY2VNb2NrCiAgICAgICAgICAgIC8vICAgICAuU2V0dXAoc3IgPT4gc3IuR2V0PGJvb2w+KEl0LklzQW55PHN0cmluZz4oKSwKICAgICAgICAgICAgLy8gICAgICAgICBJdC5Jc0FueTxTZXR0aW5nRmlsdGVyPigpKSkKICAgICAgICAgICAgLy8gICAgIC5SZXR1cm5zQXN5bmModHJ1ZSk7CgoK</text>
+        <text encoding="base64">ICAgICAgICAvLyBwcm90ZWN0ZWQgdm9pZCBNb2NrU2V0dGluZzxUPihzdHJpbmcga2V5LCBUIHZhbHVlKQogICAgICAgIC8vIHsKICAgICAgICAvLyAgICAgX3NldHRpbmdzU2VydmljZU1vY2sgPz89IEZpeHR1cmUuRnJlZXplPE1vY2s8SVNldHRpbmdzU2VydmljZT4+KCk7CiAgICAgICAgLy8KICAgICAgICAvLyAgICAgX3NldHRpbmdzU2VydmljZU1vY2sKICAgICAgICAvLyAgICAgICAgIC5TZXR1cChzZXJ2aWNlID0+IHNlcnZpY2UuR2V0PFQ+KGtleSwgSXQuSXNBbnk8U2V0dGluZ0ZpbHRlcj4oKSkpCiAgICAgICAgLy8gICAgICAgICAuUmV0dXJuc0FzeW5jKHZhbHVlKTsKICAgICAgICAvLyB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>OrderMultiple</text>
+        <text>kek</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVcGRhdGVBcnRpY2xlSW52ZW50b3J5XD4=</text>
+        <text encoding="base64">XDxHZXRTdG9yZUNvbmZpZ3VyYXRpb25cPg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxVcGRhdGVBcnRpY2xlSW52ZW50b3J5XD4=</last-search>
+      <last-search encoding="base64">XDxHZXRTdG9yZUNvbmZpZ3VyYXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVcGRhdGVBcnRpY2xlSW52ZW50b3J5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxHZXRTdG9yZUNvbmZpZ3VyYXRpb25cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
