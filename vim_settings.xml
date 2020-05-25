@@ -148,12 +148,12 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1590370389131">
-        <mark key="'" line="198" column="44" />
-        <mark key="[" line="87" column="13" />
-        <mark key="]" line="85" column="15" />
-        <mark key="^" line="85" column="15" />
-        <mark key="." line="85" column="14" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1590371289001">
+        <mark key="'" line="194" column="44" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="87" column="12" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1590283338547">
         <mark key="[" line="22" column="18" />
@@ -318,34 +318,34 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vP3BhcmVudFJlZmVyZW5jZU51bWJlcnM9YXNkZmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vP3BhcmVudFJlZmVyZW5jZU51bWJlcnM9YXNkZmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vc2VsZWN0IG9ubHkgZmllbGRzIHBhcmVudCByZWZlcmVuY2UgYW5kIG9yZGVybXVsdGlwbGllcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFydGljbGVNZXRhZGF0YT8uUGFyZW50UmVmZXJlbmNlTnVtYmVyID09IG51bGwpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vTWV0YWRhdGEgc2hvd3MgYXJ0aWNsZSB0byBiZSBhIGNoaWxkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vTWV0YWRhdGEgaXMgbnVsbCBvciBzaG93cyBwYXJlbnRyZWZlcmVuY2VudW1iZXIgdG8gYmUgbnVsbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vP3BhcmVudFJlZmVyZW5jZU51bWJlcnM9YXNkZmcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGFzeW5jIFRhc2sgVXBkYXRlQXJ0aWNsZUludmVudG9yeShBcnRpY2xlSW52ZW50b3J5IGFydGljbGVJbnZlbnRvcnkpCiAgICAgICAgewogICAgICAgICAgICB2YXIgYXJ0aWNsZUludmVudG9yeUtleSA9IEFydGljbGVJbnZlbnRvcnlLZXkuQ3JlYXRlKAogICAgICAgICAgICAgICAgYXJ0aWNsZUludmVudG9yeS5TdG9yZUtleSwKICAgICAgICAgICAgICAgIGFydGljbGVJbnZlbnRvcnkuQXJ0aWNsZUlkLAogICAgICAgICAgICAgICAgYXJ0aWNsZUludmVudG9yeS5Vbml0T2ZNZWFzdXJlKTsKICAgICAgICAgICAgYXJ0aWNsZUludmVudG9yeS5VcGRhdGVkRGF0ZVRpbWVVdGMgPSBEYXRlVGltZS5VdGNOb3c7CiAgICAgICAgICAgIGF3YWl0IF9hcnRpY2xlSW52ZW50b3J5UmVwb3NpdG9yeS5VcGRhdGUoYXJ0aWNsZUludmVudG9yeUtleSwgYXJ0aWNsZUludmVudG9yeSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vc2VsZWN0IG9ubHkgZmllbGRzIHBhcmVudCByZWZlcmVuY2UgYW5kIG9yZGVybXVsdGlwbGllcgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5Nb2RlbHMuU2V0dGluZ2RkczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vTWV0YWRhdGEgc2hvd3MgYXJ0aWNsZSB0byBiZSBhIGNoaWxkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>newArticleInventory.ArticleId</text>
