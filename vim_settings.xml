@@ -148,12 +148,11 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1590378977864">
-        <mark key="'" line="200" column="44" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="^" line="87" column="150" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1590382134200">
+        <mark key="'" line="198" column="44" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1590283338547">
         <mark key="[" line="22" column="18" />
@@ -324,28 +323,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9pZiB0aGUgYXJ0aWNsZSBpcyBhIGNoaWxkIGFuZCBpdCBoYXMgc2libGluZ3MvYSBwYXJlbnQsIGNhbGN1bGF0ZSB0aGUgc29oLCByb3VuZGluZyBkb3duLCB0aGVuIGRvIHRoZSBwYXJlbnQsIHRoZW4gZG8gdGhlIG90aGVyIHNpYmxpbmdzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFydGljbGVNZXRhZGF0YT8uUGFyZW50UmVmZXJlbmNlTnVtYmVyID09IG51bGwpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vTWV0YWRhdGEgaXMgbnVsbCBvciBzaG93cyBwYXJlbnRyZWZlcmVuY2VudW1iZXIgdG8gYmUgbnVsbAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vP3BhcmVudFJlZmVyZW5jZU51bWJlcnM9YXNkZmcK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vc2VsZWN0IG9ubHkgZmllbGRzIHBhcmVudCByZWZlcmVuY2UgYW5kIG9yZGVybXVsdGlwbGllcgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFydGljbGVNZXRhZGF0YT8uUGFyZW50UmVmZXJlbmNlTnVtYmVyID09IG51bGwpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vTWV0YWRhdGEgaXMgbnVsbCBvciBzaG93cyBwYXJlbnRyZWZlcmVuY2VudW1iZXIgdG8gYmUgbnVsbAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vP3BhcmVudFJlZmVyZW5jZU51bWJlcnM9YXNkZmcK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vTWV0YWRhdGEgc2hvd3MgYXJ0aWNsZSB0byBiZSBhIGNoaWxkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vc2VsZWN0IG9ubHkgZmllbGRzIHBhcmVudCByZWZlcmVuY2UgYW5kIG9yZGVybXVsdGlwbGllcgo=</text>
       </register>
       <register name="-" type="4">
         <text>newArticleInventory.ArticleId</text>
