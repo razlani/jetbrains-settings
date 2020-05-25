@@ -148,12 +148,12 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1590369029131">
-        <mark key="'" line="195" column="44" />
-        <mark key="[" line="107" column="93" />
-        <mark key="]" line="107" column="109" />
-        <mark key="^" line="107" column="109" />
-        <mark key="." line="107" column="108" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1590370389131">
+        <mark key="'" line="198" column="44" />
+        <mark key="[" line="87" column="13" />
+        <mark key="]" line="85" column="15" />
+        <mark key="^" line="85" column="15" />
+        <mark key="." line="85" column="14" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1590283338547">
         <mark key="[" line="22" column="18" />
