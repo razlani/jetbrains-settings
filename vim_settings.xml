@@ -116,6 +116,55 @@
       <file name="vim_settings.xml" timestamp="1589850266977">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" timestamp="1590283091114">
+        <mark key="'" line="74" column="43" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleRelationship/ArticleRelationshipDto.cs" timestamp="1590286650032">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="34" />
+        <mark key="^" line="7" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1590283338547">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="18" />
+        <mark key="^" line="21" column="30" />
+        <mark key="." line="22" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Extensions/TypeLoaderExtensions.cs" timestamp="1589852942601">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="22" column="38" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/azure-pipelines.yaml" timestamp="1589949383550" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1590387300032" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" timestamp="1589933348657">
+        <mark key="'" line="114" column="55" />
+        <mark key="[" line="81" column="71" />
+        <mark key="]" line="14" column="64" />
+        <mark key="." line="14" column="63" />
+        <mark key="^" line="14" column="64" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" timestamp="1589863531372">
+        <mark key="'" line="150" column="0" />
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="28" column="35" />
+        <mark key="^" line="28" column="35" />
+        <mark key="." line="28" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IntegrationTests/ArticleInventoryRuleIntegrationTests.cs" timestamp="1589869811782">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" timestamp="1589869652638">
+        <mark key="'" line="46" column="12" />
+        <mark key="[" line="134" column="45" />
+        <mark key="]" line="134" column="51" />
+        <mark key="^" line="134" column="51" />
+        <mark key="." line="134" column="50" />
+      </file>
       <file name="/Dummy.txt" timestamp="1589947025808">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -139,61 +188,12 @@
         <mark key="^" line="11" column="61" />
         <mark key="." line="11" column="60" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" timestamp="1590283091114">
-        <mark key="'" line="74" column="43" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleRelationship/ArticleRelationshipDto.cs" timestamp="1590286650032">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="35" />
-        <mark key="." line="7" column="34" />
-        <mark key="^" line="7" column="35" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1590382134200">
-        <mark key="'" line="198" column="44" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1590283338547">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="18" />
-        <mark key="^" line="21" column="30" />
-        <mark key="." line="22" column="18" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Extensions/TypeLoaderExtensions.cs" timestamp="1589852942601">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="22" column="38" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IntegrationTests/IArticleInventoryRuleTests.cs" timestamp="1589774061678">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="15" />
-        <mark key="." line="15" column="14" />
-        <mark key="^" line="15" column="15" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/azure-pipelines.yaml" timestamp="1589949383550" />
-      <file name="/Dummy.cs" timestamp="1589791525538">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" timestamp="1589933348657">
-        <mark key="'" line="114" column="55" />
-        <mark key="[" line="81" column="71" />
-        <mark key="]" line="14" column="64" />
-        <mark key="." line="14" column="63" />
-        <mark key="^" line="14" column="64" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" timestamp="1589863531372">
-        <mark key="'" line="150" column="0" />
-        <mark key="[" line="28" column="33" />
-        <mark key="]" line="28" column="35" />
-        <mark key="^" line="28" column="35" />
-        <mark key="." line="28" column="34" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IntegrationTests/ArticleInventoryRuleIntegrationTests.cs" timestamp="1589869811782">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1590387415327">
+        <mark key="'" line="210" column="44" />
+        <mark key="[" line="122" column="49" />
+        <mark key="]" line="122" column="41" />
+        <mark key="." line="122" column="40" />
+        <mark key="^" line="122" column="41" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1589869539569">
         <mark key="[" line="60" column="0" />
@@ -202,13 +202,6 @@
         <mark key="^" line="51" column="59" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" timestamp="1590228708968" />
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" timestamp="1589869652638">
-        <mark key="'" line="46" column="12" />
-        <mark key="[" line="134" column="45" />
-        <mark key="]" line="134" column="51" />
-        <mark key="^" line="134" column="51" />
-        <mark key="." line="134" column="50" />
-      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Models/ArticleInventory.cs" timestamp="1589937739606" />
     </filemarks>
     <jumps>
@@ -317,37 +310,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgY2hpbGRBaSA9IG5ldyBBcnRpY2xlSW52ZW50b3J5KCk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9pZiB0aGUgYXJ0aWNsZSBpcyBhIGNoaWxkIGFuZCBpdCBoYXMgc2libGluZ3MvYSBwYXJlbnQsIGNhbGN1bGF0ZSB0aGUgc29oLCByb3VuZGluZyBkb3duLCB0aGVuIGRvIHRoZSBwYXJlbnQsIHRoZW4gZG8gdGhlIG90aGVyIHNpYmxpbmdzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGlsZEFpLktleSA9IEFydGljbGVJbnZlbnRvcnlLZXkuQ3JlYXRlKG5ld0FydGljbGVJbnZlbnRvcnkuU3RvcmVLCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjaGlsZHJlblJlc3BvbnNlID0KICAgICAgICAgICAgICAgICAgICBhd2FpdCBfaHR0cENsaWVudC5HZXRTdHJpbmdBc3luYygKICAgICAgICAgICAgICAgICAgICAgICAgYmFzZVVybCArICQiP3BhcmVudFJlZmVyZW5jZU51bWJlcnM9e3BhcmVudFJlZmVyZW5jZX0iKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFydGljbGVNZXRhZGF0YT8uUGFyZW50UmVmZXJlbmNlTnVtYmVyID09IG51bGwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vTWV0YWRhdGEgaXMgbnVsbCBvciBzaG93cyBwYXJlbnRyZWZlcmVuY2VudW1iZXIgdG8gYmUgbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vP3BhcmVudFJlZmVyZW5jZU51bWJlcnM9YXNkZmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwYXJlbnRSZWZlcmVuY2UgIT0gbnVsbCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vc2VsZWN0IG9ubHkgZmllbGRzIHBhcmVudCByZWZlcmVuY2UgYW5kIG9yZGVybXVsdGlwbGllcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>newArticleInventory.ArticleId</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRTdG9yZUNvbmZpZ3VyYXRpb25cPg==</text>
