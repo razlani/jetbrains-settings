@@ -180,8 +180,11 @@
         <mark key="^" line="79" column="40" />
         <mark key="." line="79" column="39" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerService.cs" timestamp="1590555399167">
-        <mark key="^" line="39" column="28" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerService.cs" timestamp="1590555996613">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="35" column="28" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1590389757871">
         <mark key="[" line="68" column="0" />
@@ -189,11 +192,11 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="61" column="24" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" timestamp="1590555644006">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="2" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" timestamp="1590555750712">
+        <mark key="[" line="30" column="15" />
+        <mark key="]" line="30" column="18" />
+        <mark key="^" line="30" column="18" />
+        <mark key="." line="30" column="17" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" timestamp="1590389824275">
         <mark key="'" line="66" column="12" />
@@ -309,37 +312,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJpLnF1Cg==</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuQ29uZmlndXJhdGlvbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhc2VVcmwgPSBiYXNlVXJsLlRyaW1FbmQoJy8nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2NvbmZpZ3VyYXRpb24gPSBjb25maWd1cmF0aW9uOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0cmluZy5Jc051bGxPcldoaXRlU3BhY2UoYmFzZVVybCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElDb25maWd1cmF0aW9uIF9jb25maWd1cmF0aW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkIlJlcXVpcmVkIGNvbmZpZ3VyYXRpb24gdmFsdWUgZm9yIGtleSAne0FwaUJhc2VVcmxLZXl9JyB3YXMgbm90IGZvdW5kLiIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJpLnF1Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1ldGFEYXRhID0gX2FwaUJhc2VVcmwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhc2VVcmwgPSBiYXNlVXJsLlRyaW1FbmQoJy8nKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJhc2VVcmwgPSBfY29uZmlndXJhdGlvbi5HZXRWYWx1ZTxzdHJpbmc+KGNvbmZpZ0tleSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0cmluZy5Jc051bGxPcldoaXRlU3BhY2UoYmFzZVVybCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IEh0dHBDbGllbnQgX2h0dHBDbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>baseUri</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfY29uZmlndXJhdGlvblw+</text>
