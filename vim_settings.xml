@@ -145,11 +145,12 @@
         <mark key="^" line="55" column="61" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/IArticleMasterConsumerService.cs" timestamp="1590637653162" />
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" timestamp="1590644333170">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="57" column="22" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" timestamp="1590646738615">
+        <mark key="'" line="98" column="39" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="34" column="35" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Caching/ISettingsCache.cs" timestamp="1590640003043" />
       <file name="/Dummy.txt" timestamp="1590644250679">
@@ -213,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
       <jump line="19" column="48" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
       <jump line="27" column="48" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
       <jump line="16" column="29" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/ArticleSohInventoryService.cs" />
@@ -313,42 +313,43 @@
       <jump line="52" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
       <jump line="131" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
       <jump line="27" column="81" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="98" column="39" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3RvZG8gbWFrZSB0aGlzIG1vcmUgZ2VuZXJpYyB0byBnZW5lcmF0ZSBhIFVSSSB3aXRoIGEgS1ZQIHRvIGJyaW5nIGJhY2sgbGVzcyBkYXRhIHdoZW4gYXJ0aWNsZSBhcGkgZml4ZWQK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3RvZG8gbWFrZSB0aGlzIG1vcmUgZ2VuZXJpYyB0byBnZW5lcmF0ZSBhIFVSSSB3aXRoIGEgS1ZQIHRvIGJyaW5nIGJhY2sgbGVzcyBkYXRhIHdoZW4gYXJ0aWNsZSBhcGkgZml4ZWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlciA9IGxvZ2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy90b2RvIGFkZCBmaWVsZHMgdG8gdGhlIHF1ZXJ5IGJ1aWxkZXIgd2hlbiBhcnRpY2xlIGFwaSBmaXhlZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgRG5zQ2xpZW50LkludGVybmFsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdmFyIHBhcmVudFJlZmVyZW5jZVF1ZXJ5U3RyaW5nID0gJCI9e2FydGljbGVJZH0iOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlciA9IGxvZ2dlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgRG5zQ2xpZW50LkludGVybmFsOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>parentArticleId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfY29uZmlndXJhdGlvblw+</text>
