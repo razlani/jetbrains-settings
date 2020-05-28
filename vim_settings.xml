@@ -131,7 +131,7 @@
         <mark key="." line="12" column="41" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1590558322338" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1590628443897" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Data/ArticleMetadataRepository.cs" timestamp="1590554066329">
         <mark key="[" line="49" column="78" />
         <mark key="]" line="49" column="87" />
@@ -151,17 +151,17 @@
         <mark key="^" line="79" column="40" />
         <mark key="." line="79" column="39" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerService.cs" timestamp="1590558216146">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="35" column="28" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerService.cs" timestamp="1590628757898">
+        <mark key="[" line="62" column="72" />
+        <mark key="]" line="62" column="73" />
+        <mark key="^" line="62" column="73" />
+        <mark key="." line="62" column="72" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" timestamp="1590575990615">
-        <mark key="[" line="80" column="22" />
-        <mark key="]" line="80" column="33" />
-        <mark key="^" line="80" column="33" />
-        <mark key="." line="80" column="32" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" timestamp="1590628596065">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="72" column="19" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1590548386246">
         <mark key="[" line="0" column="0" />
@@ -174,18 +174,12 @@
         <mark key="." line="31" column="20" />
         <mark key="^" line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1590551426582">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1590628727184">
         <mark key="'" line="27" column="81" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="78" column="15" />
-        <mark key="." line="78" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Handlers/ArticleSohMessageHandlerTests.cs" timestamp="1590394714512">
-        <mark key="[" line="55" column="49" />
-        <mark key="]" line="55" column="56" />
-        <mark key="^" line="55" column="56" />
-        <mark key="." line="55" column="55" />
+        <mark key="[" line="77" column="45" />
+        <mark key="]" line="77" column="74" />
+        <mark key="^" line="77" column="74" />
+        <mark key="." line="77" column="73" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/Program.cs" timestamp="1590554604804">
         <mark key="[" line="63" column="45" />
@@ -194,6 +188,11 @@
         <mark key="^" line="63" column="49" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/110913F5-65B9-4BF7-8200-2B7F7096D12E/3C/HttpClient.cs" timestamp="1590559682539" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" timestamp="1590628689180">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="49" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
@@ -303,35 +302,35 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>child[&quot;articleUoms&quot;]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgVGFzazxMaXN0PEFydGljbGVJbnZlbnRvcnk+PiBSZXR1cm5BcnRpY2xlRmFtaWx5KEFydGljbGVJbnZlbnRvcnkgcGFyZW50QXJ0aWNsZUludmVudG9yeSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkIntuYW1lb2YoYXJ0aWNsZVVvbXMpfSBmcm9tIGFydGljbGUgQVBJLiBUaGlzIHNob3VsZG4ndCBoYXBwZW4iKTsKICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5Nb2RlbHM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2h0dHBDbGllbnQgPSBodHRwQ2xpZW50Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgIHsKICAgICAgICAgICAgfQogICAgICAgICAgICBjYXRjaCAoRXhjZXB0aW9uIGUpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElIdHRwQ2xpZW50IF9odHRwQ2xpZW50Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBtZXRhZGF0YTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1ldGFkYXRhOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>child[&quot;articleUoms&quot;]</text>
+        <text>async</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfY29uZmlndXJhdGlvblw+</text>
