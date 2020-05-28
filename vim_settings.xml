@@ -174,12 +174,12 @@
         <mark key="." line="31" column="20" />
         <mark key="^" line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1590628727184">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1590630452968">
         <mark key="'" line="27" column="81" />
-        <mark key="[" line="77" column="45" />
-        <mark key="]" line="77" column="74" />
-        <mark key="^" line="77" column="74" />
-        <mark key="." line="77" column="73" />
+        <mark key="[" line="84" column="57" />
+        <mark key="]" line="85" column="20" />
+        <mark key="^" line="85" column="20" />
+        <mark key="." line="85" column="19" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/Program.cs" timestamp="1590554604804">
         <mark key="[" line="63" column="45" />
@@ -306,28 +306,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgVGFzazxMaXN0PEFydGljbGVJbnZlbnRvcnk+PiBSZXR1cm5BcnRpY2xlRmFtaWx5KEFydGljbGVJbnZlbnRvcnkgcGFyZW50QXJ0aWNsZUludmVudG9yeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdmFyIGFydGljbGVGYW1pbHkgPSBhd2FpdCBfYXJ0aWNsZU1hc3RlckNvbnN1bWVyU2VydmljZS5SZXR1cm5BcnRpY2xlRmFtaWx5KG5ld0FydGljbGVJbnZlbnRvcnkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5Nb2RlbHM7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2h0dHBDbGllbnQgPSBodHRwQ2xpZW50Owo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElIdHRwQ2xpZW50IF9odHRwQ2xpZW50Owo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgVGFzazxMaXN0PEFydGljbGVJbnZlbnRvcnk+PiBSZXR1cm5BcnRpY2xlRmFtaWx5KEFydGljbGVJbnZlbnRvcnkgcGFyZW50QXJ0aWNsZUludmVudG9yeSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5Nb2RlbHM7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX2h0dHBDbGllbnQgPSBodHRwQ2xpZW50Owo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1ldGFkYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElIdHRwQ2xpZW50IF9odHRwQ2xpZW50Owo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1ldGFkYXRhOwo=</text>
       </register>
       <register name="-" type="4">
         <text>async</text>
