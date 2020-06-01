@@ -184,10 +184,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1590978689028">
-        <mark key="[" line="52" column="12" />
-        <mark key="]" line="52" column="14" />
-        <mark key="." line="52" column="13" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1590980949483">
+        <mark key="[" line="51" column="44" />
+        <mark key="]" line="51" column="44" />
+        <mark key="." line="51" column="44" />
         <mark key="^" line="52" column="14" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerService.cs" timestamp="1590970838382">
@@ -324,8 +324,8 @@
       <register name="1" type="2">
         <text>add article api base url to appspec.yaml</text>
       </register>
-      <register name="&quot;" type="2">
-        <text>add article api base url to appspec.yaml</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="2" type="2">
         <text>safety-check post refactor to fix broken test</text>
@@ -352,7 +352,7 @@
         <text encoding="base64">ICAgICAgICAgICAgX2FydGljbGVNYXN0ZXJDb25zdW1lclNlcnZpY2VQcm94eS5zZQogICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>but whatchagonnado</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYXBpUHJveHlcPg==</text>
