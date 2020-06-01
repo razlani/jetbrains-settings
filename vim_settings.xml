@@ -135,7 +135,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1590977615275">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1590978642763">
         <mark key="[" line="56" column="22" />
         <mark key="]" line="56" column="22" />
         <mark key="^" line="56" column="22" />
@@ -184,11 +184,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1590974500902">
-        <mark key="[" line="52" column="11" />
-        <mark key="]" line="52" column="28" />
-        <mark key="." line="52" column="27" />
-        <mark key="^" line="52" column="28" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1590978689028">
+        <mark key="[" line="52" column="12" />
+        <mark key="]" line="52" column="14" />
+        <mark key="." line="52" column="13" />
+        <mark key="^" line="52" column="14" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerService.cs" timestamp="1590970838382">
         <mark key="'" line="16" column="55" />
