@@ -152,7 +152,22 @@
     <keyboard-shortcut first-keystroke="shift f5" />
   </action>
   <action id="RiderUnitTestAppendTestsTwAction" />
-  <action id="RiderUnitTestDebugContextTwAction" />
+  <action id="RiderUnitTestDebugContextAction">
+    <keyboard-shortcut first-keystroke="meta t" second-keystroke="meta d" />
+  </action>
+  <action id="RiderUnitTestDebugContextTwAction">
+    <keyboard-shortcut first-keystroke="meta t" second-keystroke="d" />
+  </action>
+  <action id="RiderUnitTestRepeatPreviousRunTwAction">
+    <keyboard-shortcut first-keystroke="meta t" second-keystroke="t" />
+  </action>
+  <action id="RiderUnitTestRunContextAction">
+    <keyboard-shortcut first-keystroke="meta t" second-keystroke="meta r" />
+  </action>
+  <action id="RiderUnitTestRunContextTwAction">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta t" second-keystroke="r" />
+  </action>
   <action id="RiderUnitTestRunSolutionTwAction" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="f5" />
@@ -192,6 +207,7 @@
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
