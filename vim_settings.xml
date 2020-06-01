@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfYXJ0aWNsZU1ldGFkYXRhUmVwb3NpdG9yeVw+</entry>
         <entry encoding="base64">XDxtZXNzYWdlSGFuZGxlcnNcPg==</entry>
         <entry encoding="base64">XDxfc2V0dGluZ3NSZXBvc2l0b3J5XD4=</entry>
         <entry encoding="base64">XDxTZXR0aW5nS2V5XD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxfY29uZmlndXJhdGlvblw+</entry>
         <entry encoding="base64">XDxfaHR0cENsaWVudFw+</entry>
         <entry encoding="base64">XDxfYXBpUHJveHlcPg==</entry>
+        <entry encoding="base64">XDxQYXJzZUFydGljbGVNZXRhZGF0YVw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -124,11 +124,12 @@
         <mark key="." line="6" column="67" />
         <mark key="^" line="6" column="68" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" timestamp="1590738258293">
-        <mark key="[" line="31" column="55" />
-        <mark key="]" line="31" column="56" />
-        <mark key="." line="31" column="55" />
-        <mark key="^" line="31" column="56" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" timestamp="1590985296878">
+        <mark key="'" line="31" column="55" />
+        <mark key="[" line="38" column="82" />
+        <mark key="]" line="38" column="83" />
+        <mark key="." line="38" column="82" />
+        <mark key="^" line="38" column="83" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-infra/inventory-infra/src/environment/envvariables.tfvars" timestamp="1590732062145">
         <mark key="[" line="12" column="0" />
@@ -208,8 +209,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" timestamp="1590984190751">
-        <mark key="'" line="24" column="12" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" timestamp="1590985166618">
+        <mark key="'" line="52" column="39" />
         <mark key="[" line="52" column="8" />
         <mark key="]" line="52" column="17" />
         <mark key="." line="52" column="16" />
@@ -218,9 +219,6 @@
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" timestamp="1590968670592" />
     </filemarks>
     <jumps>
-      <jump line="14" column="4" filename="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" />
-      <jump line="15" column="4" filename="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" />
-      <jump line="16" column="4" filename="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" />
       <jump line="65" column="35" filename="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" />
       <jump line="82" column="45" filename="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" />
       <jump line="9" column="2" filename="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" />
@@ -318,53 +316,59 @@
       <jump line="16" column="36" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
       <jump line="22" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
       <jump line="16" column="55" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerService.cs" />
+      <jump line="31" column="55" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" />
+      <jump line="49" column="19" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
+      <jump line="52" column="39" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>private</text>
-      </register>
-      <register name="2" type="2">
-        <text>add article api base url to appspec.yaml</text>
-      </register>
-      <register name="3" type="2">
-        <text>safety-check post refactor to fix broken test</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZhbHVlID09IG51bGwpIHJldHVybjsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBMaXN0PEpUb2tlbj4gUGFyc2VBcnRpY2xlTWV0YWRhdGEoc3RyaW5nIGFwaVJlc3BvbnNlKQogICAgICAgIHsKCiAgICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjaGlsZHJlbiA9IFBhcnNlQXJ0aWNsZU1ldGFkYXRhKGFwaVJlc3BvbnNlKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjaGlsZHJlbjsK</text>
+        <text encoding="base64">UGFyc2VBcnRpY2xlTWV0YWRhdGEoSXQuSXNBbnk8c3RyaW5nPigpKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text encoding="base64">UGFyc2VBcnRpY2xlTWV0YWRhdGEoSXQuSXNBbnk8c3RyaW5nPigpKTs=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfYXBpUHJveHlcPg==</text>
+        <text encoding="base64">XDxQYXJzZUFydGljbGVNZXRhZGF0YVw+</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IAo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text>add article api base url to appspec.yaml</text>
+      </register>
+      <register name="4" type="2">
+        <text>safety-check post refactor to fix broken test</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZhbHVlID09IG51bGwpIHJldHVybjsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBMaXN0PEpUb2tlbj4gUGFyc2VBcnRpY2xlTWV0YWRhdGEoc3RyaW5nIGFwaVJlc3BvbnNlKQogICAgICAgIHsKCiAgICAgICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjaGlsZHJlbiA9IFBhcnNlQXJ0aWNsZU1ldGFkYXRhKGFwaVJlc3BvbnNlKTsK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfYXBpUHJveHlcPg==</last-search>
+      <last-search encoding="base64">XDxQYXJzZUFydGljbGVNZXRhZGF0YVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfYXBpUHJveHlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxQYXJzZUFydGljbGVNZXRhZGF0YVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
