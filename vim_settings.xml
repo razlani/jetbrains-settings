@@ -141,24 +141,24 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" timestamp="1591076257360">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" timestamp="1591077979432">
         <mark key="'" line="83" column="33" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="22" column="101" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591066786887">
+      <file name="/Dummy.txt" timestamp="1591076279810">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" timestamp="1590995275871">
-        <mark key="'" line="25" column="74" />
-        <mark key="[" line="55" column="44" />
-        <mark key="]" line="55" column="47" />
-        <mark key="." line="55" column="46" />
-        <mark key="^" line="55" column="47" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" timestamp="1591078018682">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="65" column="57" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/ArticleApiSampleResponse.json" timestamp="1590993477095">
         <mark key="[" line="221" column="39" />
@@ -191,7 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="29" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryRulesTests.cs" />
       <jump line="16" column="55" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryRulesTests.cs" />
       <jump line="28" column="56" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
       <jump line="29" column="90" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
@@ -291,21 +290,22 @@
       <jump line="45" column="60" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerService.cs" />
       <jump line="62" column="43" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerService.cs" />
       <jump line="30" column="49" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerService.cs" />
+      <jump line="72" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlciA9IGxvZ2dlcjsK</text>
+        <text encoding="base64">dXNpbmcgU2VyaWxvZzsK</text>
       </register>
       <register name="-" type="4">
-        <text>soh-raw</text>
+        <text>ILogger</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRCeVBhcmVudFw+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlciA9IGxvZ2dlcjsK</text>
+        <text encoding="base64">dXNpbmcgU2VyaWxvZzsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -314,26 +314,25 @@
         <text encoding="base64">dXNpbmcgRG5zQ2xpZW50LkludGVybmFsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text>Fixes various small bugs</text>
+        <text>Re-add separate interface for the proxy with the same signature for simplicity's sake.</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuRGVwZW5kZW5jeUluamVjdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlciA9IGxvZ2dlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FwaVByb3h5ID0gc2VydmljZXMuR2V0U2VydmljZTxBcnRpY2xlTWFzdGVyQ29uc3VtZXJTZXJ2aWNlUHJveHk+KCk7IC8vaGFja3k6IEkgYmxhbWUgTVMgREkgwq9cXyjjg4QpXy/Crwo=</text>
+        <text encoding="base64">dXNpbmcgRG5zQ2xpZW50LkludGVybmFsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Fixes various small bugs</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5BcnRpY2xlU2VydmljZTsK</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuRGVwZW5kZW5jeUluamVjdGlvbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FwaVByb3h5ID0gc2VydmljZXMuR2V0U2VydmljZTxBcnRpY2xlTWFzdGVyQ29uc3VtZXJTZXJ2aWNlUHJveHk+KCk7IC8vaGFja3k6IEkgYmxhbWUgTVMgREkgwq9cXyjjg4QpXy/Crwo=</text>
       </register>
       <register name="9" type="2">
-        <text>Change MS injected instance of httpclient with existing Ihttpclient implementation
-Adds ArticleMasterConsumerServiceProxyTests.cs</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
