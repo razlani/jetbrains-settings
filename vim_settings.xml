@@ -187,11 +187,11 @@
         <mark key="." line="5" column="217" />
         <mark key="^" line="5" column="218" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1591188278739">
-        <mark key="[" line="50" column="42" />
-        <mark key="]" line="50" column="42" />
-        <mark key="." line="50" column="42" />
-        <mark key="^" line="50" column="51" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1591189124730">
+        <mark key="[" line="45" column="60" />
+        <mark key="]" line="35" column="16" />
+        <mark key="." line="35" column="15" />
+        <mark key="^" line="35" column="16" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" timestamp="1591080496443">
         <mark key="[" line="33" column="51" />
