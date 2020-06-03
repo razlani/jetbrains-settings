@@ -118,12 +118,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" timestamp="1591164082929">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" timestamp="1591187069485">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="25" column="53" />
-        <mark key="]" line="25" column="59" />
-        <mark key="." line="25" column="58" />
-        <mark key="^" line="25" column="59" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="70" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Models/ArticleMetadata.cs" timestamp="1591101766007" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/HttpClientAdapter.cs" timestamp="1591087707216">
@@ -188,8 +188,12 @@
         <mark key="." line="5" column="217" />
         <mark key="^" line="5" column="218" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1591086238408">
-        <mark key="[" line="48" column="39" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1591187198921">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="45" column="37" />
+        <mark key="]" line="45" column="43" />
+        <mark key="." line="45" column="42" />
+        <mark key="^" line="45" column="43" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" timestamp="1591080496443">
         <mark key="[" line="33" column="51" />
@@ -197,16 +201,15 @@
         <mark key="^" line="33" column="54" />
         <mark key="." line="33" column="53" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" timestamp="1591164097714">
-        <mark key="'" line="116" column="22" />
-        <mark key="[" line="31" column="12" />
-        <mark key="]" line="31" column="22" />
-        <mark key="." line="31" column="21" />
-        <mark key="^" line="31" column="22" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" timestamp="1591164230437">
+        <mark key="'" line="118" column="22" />
+        <mark key="[" line="33" column="31" />
+        <mark key="]" line="33" column="49" />
+        <mark key="." line="33" column="48" />
+        <mark key="^" line="33" column="49" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="39" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
       <jump line="16" column="43" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
       <jump line="79" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
       <jump line="64" column="52" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
@@ -306,15 +309,16 @@
       <jump line="24" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" />
       <jump line="98" column="67" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
       <jump line="101" column="41" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="50" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>SetupGet</text>
       </register>
       <register name="-" type="4">
-        <text>kek</text>
+        <text>SetupGet</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRhZGF0YUxpc3RcPg==</text>
@@ -326,28 +330,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gX2NvbmZpZ3VyYXRpb24uU2V0dXBHZXQoeCA9PiB4W0l0LklzPHN0cmluZz4ocyA9PiBzID09ICJBcGk6QXJ0aWNsZVJlbGF0aW9uc2hpcENvbmZpZzpBcGlLZXkiKV0pCiAgICAgICAgICAgIC8vICAgICAuUmV0dXJucygia2VrIik7CiAgICAgICAgICAgIC8vIF9jb25maWd1cmF0aW9uLlNldHVwR2V0KHggPT4geFtJdC5JczxzdHJpbmc+KHMgPT4gcyA9PSAiQXBpOkFydGljbGVSZWxhdGlvbnNoaXBDb25maWc6QmFzZVVybCIpXSkKICAgICAgICAgICAgLy8gICAgIC5SZXR1cm5zKCJidXIiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIF9jb25maWd1cmF0aW9uID0gbmV3IE1vY2s8SUNvbmZpZ3VyYXRpb24+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9ja0NvbmZpZ3VyYXRpb24oQXJ0aWNsZUFwaUNvbmZpZ1NlY3Rpb24sICJrZWsiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text>comment out unit test class for now to prevent build failure and fix on pr</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5SZXR1cm5zKCJidXIiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text>changes post testing</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2NvbmZpZ3VyYXRpb24uU2V0dXBHZXQoeCA9PiB4W0l0LklzPHN0cmluZz4ocyA9PiBzID09ICJBcGk6QXJ0aWNsZVJlbGF0aW9uc2hpcENvbmZpZzpCYXNlVXJsIildKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIF9jb25maWd1cmF0aW9uID0gbmV3IE1vY2s8SUNvbmZpZ3VyYXRpb24+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5SZXR1cm5zKCJrZWsiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2NvbmZpZ3VyYXRpb24uU2V0dXBHZXQoeCA9PiB4W0l0LklzPHN0cmluZz4ocyA9PiBzID09ICJBcGk6QXJ0aWNsZVJlbGF0aW9uc2hpcENvbmZpZzpBcGlLZXkiKV0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhhdOKAmXMgZW5vdWdoLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRml4dHVyZS5GcmVlemU8TW9jazxJQ29uZmlndXJhdGlvbj4+KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9ja0NvbmZpZ3VyYXRpb24oIkFwaTpBcnRpY2xlUmVsYXRpb25zaGlwQ29uZmlnIiwgImJ1cjIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIiIK</text>
       </register>
     </registers>
   </component>
