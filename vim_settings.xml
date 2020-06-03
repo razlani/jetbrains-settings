@@ -187,11 +187,11 @@
         <mark key="." line="5" column="217" />
         <mark key="^" line="5" column="218" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1591189124730">
-        <mark key="[" line="45" column="60" />
-        <mark key="]" line="35" column="16" />
-        <mark key="." line="35" column="15" />
-        <mark key="^" line="35" column="16" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1591189813831">
+        <mark key="[" line="49" column="16" />
+        <mark key="]" line="51" column="16" />
+        <mark key="." line="51" column="15" />
+        <mark key="^" line="51" column="16" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" timestamp="1591080496443">
         <mark key="[" line="33" column="51" />
@@ -312,44 +312,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpqampqampqCg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">Rml4dHVyZS5DcmVhdGU8SUNvbmZpZ3VyYXRpb25Sb290Pigp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRhZGF0YUxpc3RcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpqampqampqCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5SZXR1cm5zKHZhbHVlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9ja0NvbmZpZ3VyYXRpb24oQXJ0aWNsZUFwaUNvbmZpZ1NlY3Rpb24sICJrZWsiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnUm9vdC5TZXR1cEdldChyID0+IHJbSXQuSXNBbnk8c3RyaW5nPigpXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5SZXR1cm5zKCJidXIiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2NvbmZpZ3VyYXRpb24uU2V0dXBHZXQoeCA9PiB4W0l0LklzPHN0cmluZz4ocyA9PiBzID09ICJBcGk6QXJ0aWNsZVJlbGF0aW9uc2hpcENvbmZpZzpCYXNlVXJsIildKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5SZXR1cm5zKCJrZWsiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9ja0NvbmZpZ3VyYXRpb24oQXJ0aWNsZUFwaUNvbmZpZ1NlY3Rpb24sICJrZWsiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2NvbmZpZ3VyYXRpb24uU2V0dXBHZXQoeCA9PiB4W0l0LklzPHN0cmluZz4ocyA9PiBzID09ICJBcGk6QXJ0aWNsZVJlbGF0aW9uc2hpcENvbmZpZzpBcGlLZXkiKV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5SZXR1cm5zKCJidXIiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRml4dHVyZS5GcmVlemU8TW9jazxJQ29uZmlndXJhdGlvbj4+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2NvbmZpZ3VyYXRpb24uU2V0dXBHZXQoeCA9PiB4W0l0LklzPHN0cmluZz4ocyA9PiBzID09ICJBcGk6QXJ0aWNsZVJlbGF0aW9uc2hpcENvbmZpZzpCYXNlVXJsIildKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5SZXR1cm5zKCJrZWsiKTsK</text>
       </register>
     </registers>
   </component>
