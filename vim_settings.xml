@@ -118,14 +118,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" timestamp="1591187069485">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" timestamp="1591187733684">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="70" />
+        <mark key="[" line="25" column="71" />
+        <mark key="]" line="25" column="81" />
+        <mark key="." line="25" column="80" />
+        <mark key="^" line="25" column="81" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Models/ArticleMetadata.cs" timestamp="1591101766007" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/HttpClientAdapter.cs" timestamp="1591087707216">
         <mark key="[" line="38" column="24" />
         <mark key="]" line="38" column="24" />
@@ -164,7 +163,7 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.cs" timestamp="1591104241788">
+      <file name="/Dummy.cs" timestamp="1591188199405">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
@@ -188,12 +187,11 @@
         <mark key="." line="5" column="217" />
         <mark key="^" line="5" column="218" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1591187198921">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="45" column="37" />
-        <mark key="]" line="45" column="43" />
-        <mark key="." line="45" column="42" />
-        <mark key="^" line="45" column="43" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1591188278739">
+        <mark key="[" line="50" column="42" />
+        <mark key="]" line="50" column="42" />
+        <mark key="." line="50" column="42" />
+        <mark key="^" line="50" column="51" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" timestamp="1591080496443">
         <mark key="[" line="33" column="51" />
@@ -315,10 +313,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>SetupGet</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>SetupGet</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRhZGF0YUxpc3RcPg==</text>
