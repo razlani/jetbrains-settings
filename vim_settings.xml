@@ -118,8 +118,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" timestamp="1591192418119">
-        <mark key="'" line="23" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" timestamp="1591256475184">
+        <mark key="'" line="63" column="0" />
         <mark key="[" line="64" column="147" />
         <mark key="]" line="64" column="156" />
         <mark key="." line="64" column="155" />
@@ -143,12 +143,6 @@
         <mark key="]" line="102" column="12" />
         <mark key="." line="102" column="11" />
         <mark key="^" line="102" column="12" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleServiceMetadataBuilderTests.cs" timestamp="1591192550671">
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="30" column="14" />
-        <mark key="^" line="30" column="14" />
-        <mark key="." line="30" column="13" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.json" timestamp="1591103156505">
         <mark key="'" line="52" column="8" />
@@ -218,9 +212,6 @@
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/IArticleServiceMetadataBuilder.cs" timestamp="1591192103221" />
     </filemarks>
     <jumps>
-      <jump line="32" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
-      <jump line="19" column="60" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" />
-      <jump line="32" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" />
       <jump line="34" column="47" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
       <jump line="24" column="60" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
       <jump line="23" column="60" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
@@ -318,12 +309,15 @@
       <jump line="15" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleServiceMetadataBuilder.cs" />
       <jump line="30" column="16" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleServiceMetadataBuilder.cs" />
       <jump line="57" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleServiceMetadataBuilder.cs" />
+      <jump line="41" column="8" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleServiceMetadataBuilderTests.cs" />
+      <jump line="34" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" />
+      <jump line="63" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>async</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsK</text>
       </register>
       <register name="-" type="4">
         <text>async</text>
@@ -332,34 +326,34 @@
         <text encoding="base64">XDxfbG9nZ2VyXD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuQ29uZmlndXJhdGlvbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgTmV3dG9uc29mdC5Kc29uLkxpbnE7Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHllbCA9IGJ1ci5HZXRDaGlsZHJlbigpLlRvTGlzdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGplbCA9IGJ1ci5WYWx1ZTsK</text>
+        <text encoding="base64">ICAgIC8vRHVlIHRvIHRoZSBjdG9yLWNoZWNrIG9mIEFwaUJhc2VVcmwgcHJvcCBhdCBydW4tdGltZSAob3IgdGVzdC10aW1lKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJ1ciA9IGNvbmZpZ3VyYXRpb24uR2V0U2VjdGlvbihBcnRpY2xlQXBpQ29uZmlnU2VjdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgIGludGVybmFsIGNsYXNzIEFydGljbGVNYXN0ZXJDb25zdW1lclNlcnZpY2VQcm94eVN1YiA6IEFydGljbGVNYXN0ZXJDb25zdW1lclNlcnZpY2VQcm94eQogICAgewogICAgICAgIHB1YmxpYyBBcnRpY2xlTWFzdGVyQ29uc3VtZXJTZXJ2aWNlUHJveHlTdWIoSUh0dHBDbGllbnQgaHR0cENsaWVudCwgSUNvbmZpZ3VyYXRpb24gY29uZmlndXJhdGlvbiwKICAgICAgICAgICAgSUxvZ2dlcjxBcnRpY2xlTWFzdGVyQ29uc3VtZXJTZXJ2aWNlUHJveHlTdWI+IGxvZ2dlciwgSUFydGljbGVTZXJ2aWNlTWV0YWRhdGFCdWlsZGVyIGJ1aWxkZXIpIDoKICAgICAgICAgICAgYmFzZShodHRwQ2xpZW50LCBjb25maWd1cmF0aW9uLCBsb2dnZXIsIGJ1aWxkZXIpCiAgICAgICAgewogICAgICAgIH0KCiAgICAgICAgcHJvdGVjdGVkIG92ZXJyaWRlIHN0cmluZyBBcGlCYXNlVXJsID0+IG5hbWVvZihBcGlCYXNlVXJsKTsKICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgc3RyaW5nIEFwaUtleSA9PiBuYW1lb2YoQXBpS2V5KTsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuQ29uZmlndXJhdGlvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y29uZmlndXJhdGlvbiwK</text>
+      <register name="9" type="2">
+        <text encoding="base64">dXNpbmcgTmV3dG9uc29mdC5Kc29uLkxpbnE7Cg==</text>
       </register>
     </registers>
   </component>
