@@ -132,14 +132,15 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/rustlings/exercises/option/option2.rs" timestamp="1591528449503">
+        <mark key="'" line="8" column="52" />
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="8" column="53" />
+        <mark key="^" line="8" column="53" />
+        <mark key="." line="8" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/rustlings/exercises/error_handling/option1.rs" timestamp="1591518588130">
         <mark key="'" line="20" column="12" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/Program.cs" timestamp="1589504281866">
-        <mark key="[" line="154" column="57" />
-        <mark key="]" line="154" column="72" />
-        <mark key="." line="154" column="71" />
-        <mark key="^" line="154" column="72" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" timestamp="1589933348657">
         <mark key="'" line="114" column="55" />
@@ -160,9 +161,6 @@
         <mark key="]" line="160" column="0" />
         <mark key="." line="160" column="0" />
         <mark key="^" line="159" column="35" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1589504460627">
-        <mark key="'" line="42" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/rustlings/exercises/option/option1.rs" timestamp="1591520341003">
         <mark key="[" line="21" column="8" />
@@ -210,17 +208,21 @@
         <mark key="^" line="22" column="38" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/testy3/src/main.rs" timestamp="1591520334734">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="15" column="46" />
-        <mark key="]" line="15" column="47" />
-        <mark key="^" line="15" column="47" />
-        <mark key="." line="15" column="46" />
+      <file name="$USER_HOME$/CLionProjects/testy3/src/main.rs" timestamp="1591528332298">
+        <mark key="'" line="10" column="10" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="14" />
+        <mark key="^" line="20" column="14" />
+        <mark key="." line="20" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/rustlings/exercises/generics/generics1.rs" timestamp="1591528567595">
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="12" />
+        <mark key="^" line="3" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="41" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" />
-      <jump line="26" column="38" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" />
       <jump line="60" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" />
       <jump line="11" column="33" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
       <jump line="72" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" />
@@ -319,6 +321,8 @@
       <jump line="20" column="12" filename="$USER_HOME$/Documents/rustlings/exercises/error_handling/option1.rs" />
       <jump line="33" column="0" filename="$USER_HOME$/CLionProjects/testy3/src/main.rs" />
       <jump line="22" column="0" filename="$USER_HOME$/Documents/rustlings/exercises/option/option1.rs" />
+      <jump line="10" column="10" filename="$USER_HOME$/CLionProjects/testy3/src/main.rs" />
+      <jump line="8" column="52" filename="$USER_HOME$/Documents/rustlings/exercises/option/option2.rs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,34 +331,34 @@
         <text encoding="base64">Ly8gSSBBTSBOT1QgRE9ORQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>u16</text>
+        <text>S</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5Nb2RlbHMuU2V0dGluZ2RkczsK</text>
+        <text encoding="base64">Ly8gSSBBTSBOT1QgRE9ORQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gSSBBTSBOT1QgRE9ORQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5Nb2RlbHMuU2V0dGluZ2RkczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcm90ZWN0ZWQgdm9pZCBNb2NrU2V0dGluZzxUPihzdHJpbmcga2V5LCBUIHZhbHVlKQogICAgICAgIC8vIHsKICAgICAgICAvLyAgICAgX3NldHRpbmdzU2VydmljZU1vY2sgPz89IEZpeHR1cmUuRnJlZXplPE1vY2s8SVNldHRpbmdzU2VydmljZT4+KCk7CiAgICAgICAgLy8KICAgICAgICAvLyAgICAgX3NldHRpbmdzU2VydmljZU1vY2sKICAgICAgICAvLyAgICAgICAgIC5TZXR1cChzZXJ2aWNlID0+IHNlcnZpY2UuR2V0PFQ+KGtleSwgSXQuSXNBbnk8U2V0dGluZ0ZpbHRlcj4oKSkpCiAgICAgICAgLy8gICAgICAgICAuUmV0dXJuc0FzeW5jKHZhbHVlKTsKICAgICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdmFyIHNldHRpbmdzU2VydmljZU1vY2sgPSBGaXh0dXJlLkZyZWV6ZTxNb2NrPElTZXR0aW5nc1NlcnZpY2U+PigpOwogICAgICAgICAgICAvLwogICAgICAgICAgICAvLyBzZXR0aW5nc1NlcnZpY2VNb2NrCiAgICAgICAgICAgIC8vICAgICAuU2V0dXAoc3IgPT4gc3IuR2V0PGJvb2w+KEl0LklzQW55PHN0cmluZz4oKSwKICAgICAgICAgICAgLy8gICAgICAgICBJdC5Jc0FueTxTZXR0aW5nRmlsdGVyPigpKSkKICAgICAgICAgICAgLy8gICAgIC5SZXR1cm5zQXN5bmModHJ1ZSk7CgoK</text>
+        <text encoding="base64">ICAgICAgICAvLyBwcm90ZWN0ZWQgdm9pZCBNb2NrU2V0dGluZzxUPihzdHJpbmcga2V5LCBUIHZhbHVlKQogICAgICAgIC8vIHsKICAgICAgICAvLyAgICAgX3NldHRpbmdzU2VydmljZU1vY2sgPz89IEZpeHR1cmUuRnJlZXplPE1vY2s8SVNldHRpbmdzU2VydmljZT4+KCk7CiAgICAgICAgLy8KICAgICAgICAvLyAgICAgX3NldHRpbmdzU2VydmljZU1vY2sKICAgICAgICAvLyAgICAgICAgIC5TZXR1cChzZXJ2aWNlID0+IHNlcnZpY2UuR2V0PFQ+KGtleSwgSXQuSXNBbnk8U2V0dGluZ0ZpbHRlcj4oKSkpCiAgICAgICAgLy8gICAgICAgICAuUmV0dXJuc0FzeW5jKHZhbHVlKTsKICAgICAgICAvLyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRml4dHVyZS5SZWdpc3RlcigoKSA9PgogICAgICAgICAgICAvLyAgICAgbmV3IERlcmFuZ2VkQXJ0aWNsZU92ZXJyaWRlUnVsZShzZXR0aW5nc1NlcnZpY2VNb2NrLk9iamVjdCkpOwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdmFyIHNldHRpbmdzU2VydmljZU1vY2sgPSBGaXh0dXJlLkZyZWV6ZTxNb2NrPElTZXR0aW5nc1NlcnZpY2U+PigpOwogICAgICAgICAgICAvLwogICAgICAgICAgICAvLyBzZXR0aW5nc1NlcnZpY2VNb2NrCiAgICAgICAgICAgIC8vICAgICAuU2V0dXAoc3IgPT4gc3IuR2V0PGJvb2w+KEl0LklzQW55PHN0cmluZz4oKSwKICAgICAgICAgICAgLy8gICAgICAgICBJdC5Jc0FueTxTZXR0aW5nRmlsdGVyPigpKSkKICAgICAgICAgICAgLy8gICAgIC5SZXR1cm5zQXN5bmModHJ1ZSk7CgoK</text>
+      </register>
       <register name="-" type="4">
-        <text>u16</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWNvbmRfdG9fbGFzdFw+</text>
