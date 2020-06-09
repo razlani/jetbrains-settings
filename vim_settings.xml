@@ -113,22 +113,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591667036142">
+      <file name="/console" timestamp="1591677740104">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Caching/ArticleMetadataCache.cs" timestamp="1591269335267">
-        <mark key="[" line="8" column="115" />
-        <mark key="]" line="8" column="109" />
-        <mark key="^" line="8" column="109" />
-        <mark key="." line="8" column="108" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/HttpClientAdapter.cs" timestamp="1591670257844">
-        <mark key="[" line="33" column="20" />
-        <mark key="]" line="33" column="20" />
-        <mark key="^" line="33" column="20" />
-        <mark key="." line="33" column="19" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" timestamp="1591667484697">
         <mark key="'" line="41" column="12" />
@@ -139,39 +125,14 @@
         <mark key="^" line="56" column="23" />
         <mark key="." line="56" column="22" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1591271155257">
-        <mark key="'" line="98" column="27" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="78" column="148" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleServiceMetadataBuilderTests.cs" timestamp="1591268652328">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="30" column="19" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/kek.json" timestamp="1591273706884">
+      <file name="/master.dbo.spt_monitor 1" timestamp="1591677988250">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleServiceMetadataBuilder.cs" timestamp="1591258226042">
-        <mark key="'" line="56" column="12" />
-        <mark key="[" line="11" column="72" />
-        <mark key="]" line="12" column="8" />
-        <mark key="^" line="12" column="8" />
-        <mark key="." line="12" column="7" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/Program.cs" timestamp="1591271626426">
-        <mark key="[" line="90" column="94" />
-        <mark key="]" line="89" column="84" />
-        <mark key="." line="89" column="83" />
-        <mark key="^" line="89" column="84" />
-      </file>
-      <file name="/Dummy.cs" timestamp="1591267273962">
+      <file name="/a.sql" timestamp="1591678083921">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="32" />
-        <mark key="." line="0" column="32" />
+      </file>
+      <file name="/spt_monitor [ecf uat db]" timestamp="1591677923424">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1591269252690">
         <mark key="[" line="45" column="36" />
@@ -193,14 +154,6 @@
         <mark key="^" line="70" column="58" />
         <mark key="." line="70" column="57" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1591191184318">
-        <mark key="'" line="39" column="12" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="50" column="43" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" timestamp="1591669990877" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" timestamp="1591671216899">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="53" column="75" />
@@ -208,11 +161,52 @@
         <mark key="^" line="53" column="91" />
         <mark key="." line="53" column="90" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Models/ArticleInventory.cs" timestamp="1591267168986">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="/Dummy.txt" timestamp="1591678083934">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Caching/ArticleMetadataCache.cs" timestamp="1591269335267">
+        <mark key="[" line="8" column="115" />
+        <mark key="]" line="8" column="109" />
+        <mark key="^" line="8" column="109" />
+        <mark key="." line="8" column="108" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/HttpClientAdapter.cs" timestamp="1591670257844">
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="20" />
+        <mark key="^" line="33" column="20" />
+        <mark key="." line="33" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1591271155257">
+        <mark key="'" line="98" column="27" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="78" column="148" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleServiceMetadataBuilderTests.cs" timestamp="1591268652328">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="30" column="19" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/kek.json" timestamp="1591273706884">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/Program.cs" timestamp="1591271626426">
+        <mark key="[" line="90" column="94" />
+        <mark key="]" line="89" column="84" />
+        <mark key="." line="89" column="83" />
+        <mark key="^" line="89" column="84" />
+      </file>
+      <file name="/master.dbo.spt_monitor" timestamp="1591677923436">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1591677923501">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" timestamp="1591669990877" />
     </filemarks>
     <jumps>
       <jump line="0" column="6" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" />
