@@ -128,6 +128,9 @@
       <file name="/default" timestamp="1591678243985">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/MORPRocessingE.dbo.dbVersion" timestamp="1591683372036">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/projects/Databases/Src/Databases/ECF.Database/dbo/Stored Procedures/MNT_ModifyDeliverywindow.sql" timestamp="1591679506021" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" timestamp="1591671216899">
         <mark key="'" line="50" column="0" />
@@ -139,16 +142,13 @@
       <file name="/dummy.sql" timestamp="1591680611178">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/dbVersion [ecf uat db]" timestamp="1591683372019">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1591680611170">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/HttpClientAdapter.cs" timestamp="1591670257844">
-        <mark key="[" line="33" column="20" />
-        <mark key="]" line="33" column="20" />
-        <mark key="^" line="33" column="20" />
-        <mark key="." line="33" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/89f25c05-7785-4bac-8289-7f8163f0d24d/console_1.sql" timestamp="1591678239116">
         <mark key="[" line="0" column="0" />
@@ -159,19 +159,18 @@
       <file name="/master.dbo.spt_monitor" timestamp="1591677923436">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1591679509312">
+      <file name="/foo.bar" timestamp="1591683372049">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console_1" timestamp="1591678235027">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/89f25c05-7785-4bac-8289-7f8163f0d24d/console.sql" timestamp="1591681086751">
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="5" column="2" />
-        <mark key="." line="5" column="1" />
-        <mark key="^" line="5" column="2" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/89f25c05-7785-4bac-8289-7f8163f0d24d/console.sql" timestamp="1591683433629">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="45" />
+        <mark key="." line="6" column="44" />
+        <mark key="^" line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" timestamp="1591669990877" />
     </filemarks>
     <jumps>
       <jump line="0" column="6" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" />
@@ -279,7 +278,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Z28K</text>
+        <text encoding="base64">YWx0ZXIgdGFibGUgTW9yLkZpbmFuY2VIZWFkZXIKCWFkZCBTaG9wcGVySWQgdmFyY2hhcigxMCkKCWFkZCBUcmFkaW5nQWNjb3VudElkIHZhcmNoYXIoMTApCglhZGQgUGF5bWVudFR5cGUgdmFyY2hhcigxMCkKCWFkZCBQYXltZW50SWQgdmFyY2hhcigxMCkKCgo=</text>
       </register>
       <register name="-" type="4">
         <text>Requesting</text>
@@ -288,34 +287,34 @@
         <text encoding="base64">XDxfaHR0cENsaWVudFw+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z28K</text>
+        <text encoding="base64">YWx0ZXIgdGFibGUgTW9yLkZpbmFuY2VIZWFkZXIKCWFkZCBTaG9wcGVySWQgdmFyY2hhcigxMCkKCWFkZCBUcmFkaW5nQWNjb3VudElkIHZhcmNoYXIoMTApCglhZGQgUGF5bWVudFR5cGUgdmFyY2hhcigxMCkKCWFkZCBQYXltZW50SWQgdmFyY2hhcigxMCkKCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgTW9yLkZpbmFuY2VIZWFkZXIK</text>
+        <text encoding="base64">Z28K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWx0ZXIgdGFibGUgTW9yLkZpbmFuY2VIZWFkZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Z28K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgTW9yLkZpbmFuY2VIZWFkZXIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Z28K</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">YWx0ZXIgdGFibGUgTW9yLkZpbmFuY2VIZWFkZXIK</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Z28K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">YWx0ZXIgdGFibGUgTW9yLkZpbmFuY2VIZWFkZXIK</text>
       </register>
     </registers>
   </component>
