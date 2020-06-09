@@ -1,0 +1,16 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ecf uat db" uuid="89f25c05-7785-4bac-8289-7f8163f0d24d">
+      <driver-ref>sqlserver.jtds</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://wowuatecfcentral.woolworths.com.au:1433</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="DOMAIN" value="NSWRO" />
+      </jdbc-additional-properties>
+      <driver-properties>
+        <property name="applicationIntent" value="readonly" />
+      </driver-properties>
+    </data-source>
+  </component>
+</application>

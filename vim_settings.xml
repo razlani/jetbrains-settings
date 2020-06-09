@@ -113,7 +113,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/console" timestamp="1591677740104">
+      <file name="/console" timestamp="1591693071396">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/master.dbo.spt_monitor 1" timestamp="1591677988250">
@@ -132,13 +132,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/Databases/Src/Databases/ECF.Database/dbo/Stored Procedures/MNT_ModifyDeliverywindow.sql" timestamp="1591679506021" />
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" timestamp="1591671216899">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="53" column="75" />
-        <mark key="]" line="53" column="91" />
-        <mark key="^" line="53" column="91" />
-        <mark key="." line="53" column="90" />
-      </file>
       <file name="/dummy.sql" timestamp="1591680611178">
         <mark key="[" line="0" column="0" />
       </file>
@@ -156,6 +149,7 @@
       <file name="/FinanceHeader [ecf uat db]" timestamp="1591679509267">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/FinanceHeader.sql" timestamp="1591683815861" />
       <file name="/master.dbo.spt_monitor" timestamp="1591677923436">
         <mark key="[" line="0" column="0" />
       </file>
