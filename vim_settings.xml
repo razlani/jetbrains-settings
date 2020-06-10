@@ -119,89 +119,69 @@
         <mark key="^" line="24" column="49" />
         <mark key="." line="24" column="48" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleServiceProxy.cs" timestamp="1591788536025">
-        <mark key="[" line="29" column="68" />
-        <mark key="]" line="29" column="55" />
-        <mark key="." line="29" column="54" />
-        <mark key="^" line="29" column="55" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 ALTER mor.FinanceHeader.sql" timestamp="1591793498698">
+        <mark key="[" line="30" column="60" />
+        <mark key="]" line="30" column="62" />
+        <mark key="." line="30" column="61" />
+        <mark key="^" line="30" column="62" />
       </file>
-      <file name="/Dummy.cs" timestamp="1591787259541">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="32" />
-        <mark key="." line="0" column="32" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.FinanceHeader.sql" timestamp="1591793829918" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.FinanceHeader.rollback.sql" timestamp="1591793835080" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 ALTER mor.FinanceHeader.rollback.sql" timestamp="1591793513932" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.FinanceDetail.rollback.sql" timestamp="1591793844652" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/FinanceHeader.sql" timestamp="1591794839361">
+        <mark key="[" line="45" column="43" />
+        <mark key="]" line="45" column="45" />
+        <mark key="." line="45" column="44" />
+        <mark key="^" line="45" column="45" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1591788275332">
-        <mark key="[" line="73" column="10" />
-        <mark key="]" line="73" column="15" />
-        <mark key="^" line="73" column="15" />
-        <mark key="." line="73" column="14" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Data/testss.json" timestamp="1591772617921" />
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1591790268727">
-        <mark key="'" line="116" column="51" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-        <mark key="^" line="120" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/FinanceHeader.sql" timestamp="1591791755052">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 ALTER mor.StageTransaction.sql" timestamp="1591793537547">
+        <mark key="[" line="24" column="64" />
+        <mark key="]" line="24" column="65" />
+        <mark key="." line="24" column="64" />
+        <mark key="^" line="24" column="65" />
       </file>
       <file name="$USER_HOME$/git/projects/Databases/Src/Databases/ECF.SQLRun.Upgrade/62920191028120000 ALTER TABLE [dbo].[ECF_Product_Sequence_Location_POG].sql" timestamp="1591791160625" />
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" timestamp="1591774868716">
-        <mark key="'" line="14" column="12" />
+      <file name="$USER_HOME$/git/projects/Databases/Src/Databases/ECF.SQLRun.Upgrade/62920191028120000 ALTER TABLE [dbo].[ECF_Product_Sequence_Location_POG].rollback.sql" timestamp="1591793738172" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/FinanceDetail.sql" timestamp="1591794604064">
+        <mark key="[" line="38" column="37" />
+        <mark key="]" line="38" column="42" />
+        <mark key="^" line="38" column="42" />
+        <mark key="." line="38" column="41" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1591788234023">
-        <mark key="[" line="56" column="29" />
-        <mark key="]" line="56" column="23" />
-        <mark key="^" line="56" column="23" />
-        <mark key="." line="56" column="22" />
-      </file>
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.StageTransaction.rollback.sql" timestamp="1591793822075" />
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 Update mor.FinanceHeader.sql" timestamp="1591791517649">
         <mark key="[" line="24" column="42" />
         <mark key="]" line="24" column="53" />
         <mark key="^" line="24" column="53" />
         <mark key="." line="24" column="52" />
       </file>
-      <file name="/default" timestamp="1591694858208">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 ALTER mor.StageTransaction.rollback.sql" timestamp="1591793573412" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/StageTransaction.sql" timestamp="1591794811574">
+        <mark key="[" line="55" column="47" />
+        <mark key="]" line="55" column="48" />
+        <mark key="^" line="55" column="48" />
+        <mark key="." line="55" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591791374594">
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.StageTransaction.sql" timestamp="1591794774775" />
+      <file name="/Dummy.txt" timestamp="1591794405988">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 ALTER mor.FinanceDetail.rollback.sql" timestamp="1591792038990">
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 ALTER mor.FinanceDetail.rollback.sql" timestamp="1591793445322">
         <mark key="[" line="12" column="62" />
         <mark key="]" line="12" column="62" />
         <mark key="^" line="12" column="49" />
         <mark key="." line="12" column="62" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Handlers/ArticleSohMessageHandlerTests.cs" timestamp="1591790708920">
-        <mark key="[" line="339" column="67" />
-        <mark key="]" line="339" column="76" />
-        <mark key="." line="339" column="75" />
-        <mark key="^" line="339" column="76" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/Program.cs" timestamp="1591787858928">
-        <mark key="[" line="90" column="94" />
-        <mark key="]" line="89" column="84" />
-        <mark key="." line="89" column="83" />
-        <mark key="^" line="89" column="84" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/89f25c05-7785-4bac-8289-7f8163f0d24d/console.sql" timestamp="1591747713818">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 ALTER mor.FinanceDetail.sql" timestamp="1591792025946">
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 ALTER mor.FinanceDetail.sql" timestamp="1591793426120">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="^" line="12" column="63" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.FinanceDetail.sql" timestamp="1591793840538" />
     </filemarks>
     <jumps>
       <jump line="7" column="17" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" />
@@ -309,15 +289,39 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VkFSQ0hBUigzKSA=</text>
+        <text>10</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VkFSQ0hBUigzKSA=</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGZXRjaEFydGljbGVGYW1pbHlGcm9tUGFyZW50XD4=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIFtQYXltZW50VHlwZV0gVkFSQ0hBUigxMCkgTlVMTCwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFtUcmFkaW5nQWNjb3VudElkXSBWQVJDSEFSKDEwKSBOVUxMLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFtTaG9wcGVySWRdIFZBUkNIQVIoMTApIE5VTEwsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text>IF COL_LENGTH('[Mor].[FinanceHeader]', 'TradingAccountId') IS NULL
     BEGIN
         ALTER TABLE Mor.FinanceHeader ADD TradingAccountId VARCHAR(10) 
@@ -336,32 +340,8 @@ IF COL_LENGTH('[Mor].[FinanceHeader]', 'PaymentId') IS NULL
     END
 GO</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">LS0gMjUvMDYvMjAxNAlQV2FkZQkJRml4ZWQgYnVnIG9uIGluc2VydGVkIGpvaW4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LS0gV2hlbgkJCVdobwkJCVdoeQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">LS0gQ2hhbmdlbG9nCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LS0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">LS0gTm90ZXM6Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">LS0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0JCQkJVXBkYXRlRGF0ZVRpbWUsIFVwZGF0ZVVzZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
