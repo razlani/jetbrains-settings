@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxNb2NrU3RvcmVDb25maWdIdHRwQ2xpZW50XD4=</entry>
-        <entry encoding="base64">XDxfY29uZmlndXJhdGlvblw+</entry>
         <entry encoding="base64">XDxfYXBpUHJveHlcPg==</entry>
         <entry encoding="base64">XDxQYXJzZUFydGljbGVNZXRhZGF0YVw+</entry>
         <entry encoding="base64">XDxWZXJzaW9uXD4=</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxfaHR0cENsaWVudFw+</entry>
         <entry encoding="base64">XDxfc2V0dGluZ3NTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxUcnlGZXRjaEFydGljbGVJbnZlbnRvcnlcPg==</entry>
+        <entry encoding="base64">XDxGZXRjaEFydGljbGVGYW1pbHlGcm9tUGFyZW50XD4=</entry>
+        <entry encoding="base64">XDxQcm9jZXNzQXJ0aWNsZUZhbWlseVw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -116,14 +116,17 @@
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" timestamp="1591774868716">
         <mark key="'" line="14" column="12" />
       </file>
-      <file name="/console" timestamp="1591693773918">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 Update mor.FinanceHeader.rollback.sql" timestamp="1591747407110">
         <mark key="'" line="81" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1591788234023">
+        <mark key="[" line="56" column="29" />
+        <mark key="]" line="56" column="23" />
+        <mark key="^" line="56" column="23" />
+        <mark key="." line="56" column="22" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 Update mor.FinanceHeader.sql" timestamp="1591747873272">
         <mark key="[" line="24" column="42" />
@@ -131,42 +134,47 @@
         <mark key="^" line="24" column="53" />
         <mark key="." line="24" column="52" />
       </file>
-      <file name="/MORPRocessingE.Mor.FinanceHeader" timestamp="1591679509288">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleServiceProxy.cs" timestamp="1591788536025">
+        <mark key="[" line="29" column="68" />
+        <mark key="]" line="29" column="55" />
+        <mark key="." line="29" column="54" />
+        <mark key="^" line="29" column="55" />
+      </file>
+      <file name="/Dummy.cs" timestamp="1591787259541">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/appspec.yaml" timestamp="1591788275332">
+        <mark key="[" line="73" column="10" />
+        <mark key="]" line="73" column="15" />
+        <mark key="^" line="73" column="15" />
+        <mark key="." line="73" column="14" />
       </file>
       <file name="/default" timestamp="1591694858208">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/MORPRocessingE.dbo.dbVersion" timestamp="1591693355550">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Data/testss.json" timestamp="1591772617921" />
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/63320191230134505 ALTER ProcessFinanceOrder.rollback.sql" timestamp="1591694116577" />
-      <file name="$USER_HOME$/git/projects/Databases/Src/Databases/ECF.Database/dbo/Stored Procedures/MNT_ModifyDeliverywindow.sql" timestamp="1591679506021" />
       <file name="/dummy.sql" timestamp="1591694426217">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dbVersion [ecf uat db]" timestamp="1591693355538">
+      <file name="/Dummy.txt" timestamp="1591789028763">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591694426207">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1591785019106">
-        <mark key="'" line="149" column="12" />
-        <mark key="[" line="102" column="110" />
-        <mark key="]" line="102" column="132" />
-        <mark key="^" line="102" column="132" />
-        <mark key="." line="102" column="131" />
-      </file>
-      <file name="/FinanceHeader [ecf uat db]" timestamp="1591679509267">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1591787452481">
+        <mark key="'" line="85" column="22" />
+        <mark key="[" line="109" column="35" />
+        <mark key="]" line="109" column="44" />
+        <mark key="." line="109" column="43" />
+        <mark key="^" line="109" column="44" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/FinanceHeader.sql" timestamp="1591693970857" />
-      <file name="/foo.bar" timestamp="1591693355563">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/Program.cs" timestamp="1591787858928">
+        <mark key="[" line="90" column="94" />
+        <mark key="]" line="89" column="84" />
+        <mark key="." line="89" column="83" />
+        <mark key="^" line="89" column="84" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/89f25c05-7785-4bac-8289-7f8163f0d24d/console.sql" timestamp="1591747713818">
         <mark key="[" line="0" column="0" />
@@ -175,8 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" />
-      <jump line="6" column="45" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" />
       <jump line="7" column="17" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" />
       <jump line="5" column="17" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/RandomWeightArticleRule.cs" />
       <jump line="42" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
@@ -254,7 +260,6 @@
       <jump line="21" column="33" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
       <jump line="116" column="22" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
       <jump line="24" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" />
-      <jump line="101" column="41" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
       <jump line="50" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" />
       <jump line="18" column="37" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" />
       <jump line="37" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" />
@@ -275,56 +280,62 @@
       <jump line="81" column="0" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 Update mor.FinanceHeader.rollback.sql" />
       <jump line="14" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" />
       <jump line="141" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="116" column="51" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="101" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="85" column="22" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>ni</text>
+      <register name="&quot;" type="2">
+        <text>resolve patrick comments</text>
       </register>
       <register name="-" type="4">
-        <text>ni</text>
+        <text>IHttpClient httpClient</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUcnlGZXRjaEFydGljbGVJbnZlbnRvcnlcPg==</text>
+        <text encoding="base64">XDxQcm9jZXNzQXJ0aWNsZUZhbWlseVw+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text>resolve patrick comments</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9pZiBpdCdzIGFuIGV4aXN0aW5nIGFydGljbGUK</text>
+        <text>renamed files away from 'masterconsumer' format
+fixed bug around only targetting EA articles for pack breakdown
+fixed pre-existing bug around making superfluous mongo requests
+refactored and general house-keeping</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2h0dHBDbGllbnQuQWRkSGVhZGVyKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgTGlzdDxBcnRpY2xlSW52ZW50b3J5PigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KiAyNS8wMS8yMDE3CUdpcmlzaEsJUE9TRE0tNjUgIERvbnQgY3JlYXRlIHJldmVyc2VkIHRyYW5zYWN0aW9uIGZvciBXT1cgb3JkZXIgcmV0dXJuIHRocm91Z2ggUkYgR3VuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgY2hpbGRBcnRpY2xlTWV0YWRhdGEgPQogICAgICAgICAgICAgICAgICAgICAgICBhd2FpdCBfYXJ0aWNsZU1hc3RlckNvbnN1bWVyU2VydmljZS5HZXRNZXRhZGF0YUJ5UGFyZW50KCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFydGljbGVJZDogaW5jb21pbmdBcnRpY2xlSW52ZW50b3J5LkFydGljbGVJZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNhbGVzT3JnOiBpbmNvbWluZ0FydGljbGVJbnZlbnRvcnkuU2FwU2FsZXNPcmcpKTsKCiAgICAgICAgICAgICAgICAgICAgdmFyIGFydGljbGVGYW1pbHkgPSBuZXcgTGlzdDxBcnRpY2xlSW52ZW50b3J5PiB7IGluY29taW5nQXJ0aWNsZUludmVudG9yeSB9OwoKICAgICAgICAgICAgICAgICAgICBhcnRpY2xlRmFtaWx5LkFkZFJhbmdlKGNoaWxkQXJ0aWNsZU1ldGFkYXRhCiAgICAgICAgICAgICAgICAgICAgICAgIC5TZWxlY3QoY2hpbGQgPT4gX2FydGljbGVJbnZlbnRvcnlGYWN0b3J5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuQ3JlYXRlRnJvbU1ldGFkYXRhKGFydGljbGVTb2gsIHN0b3JlQ29uZmlndXJhdGlvbiwgY2hpbGQpKSk7CgogICAgICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBhcnRpY2xlIGluIGFydGljbGVGYW1pbHkpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBhd2FpdCBBcHBseVJ1bGVzKGFydGljbGUsIGFydGljbGVNZXRhZGF0YSk7CgogICAgICAgICAgICAgICAgICAgICAgICAvKnBlcmZvcm0gYSBzaW1pbGFyIGNoZWNrIGluIGhlcmUgYXMgcGVyIFRyeUZldGNoIG1ldGhvZCBhYm92ZSBhcyBpdCdzIG5vdCBmb29scHJvb2YsCiAgICAgICAgICAgICAgICAgICAgICAgICBlcmdvIHNhZmVyIGlmIG1lc3NpZXIgKi8KICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGV4aXN0aW5nQXJ0aWNsZUludmVudG9yeSA9IGF3YWl0IFNhdmVBcnRpY2xlSW52ZW50b3J5KGFydGljbGUpOwoKICAgICAgICAgICAgICAgICAgICAgICAgYXdhaXQgUHVibGlzaChhcnRpY2xlLCBleGlzdGluZ0FydGljbGVJbnZlbnRvcnkpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KiAwOS8wNi8yMDE2CU1haWFGCVBPU0RNIC0gUmV2ZXJzZWQgVHJhbnNhY3Rpb25zIG11c3Qgbm93IGhhdmUgdW5pcXVlIFRyYW5zYWN0aW9uU2VxdWVuY2VOdW1iZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KiAyOC8wNC8yMDE2CU1haWFGCUZ1bGxSZXZlcnNhbCgxKSwgRGVsdGFzICgwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxUcnlGZXRjaEFydGljbGVJbnZlbnRvcnlcPg==</last-search>
+      <last-search encoding="base64">XDxQcm9jZXNzQXJ0aWNsZUZhbWlseVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUcnlGZXRjaEFydGljbGVJbnZlbnRvcnlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxQcm9jZXNzQXJ0aWNsZUZhbWlseVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
