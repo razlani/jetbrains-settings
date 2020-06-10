@@ -116,16 +116,17 @@
       <file name="/console" timestamp="1591693773918">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 Update mor.FinanceHeader.rollback.sql" timestamp="1591694047612">
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 Update mor.FinanceHeader.rollback.sql" timestamp="1591747407110">
+        <mark key="'" line="81" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 Update mor.FinanceHeader.sql" timestamp="1591694868029">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="54" />
-        <mark key="^" line="12" column="54" />
-        <mark key="." line="12" column="53" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 Update mor.FinanceHeader.sql" timestamp="1591747873272">
+        <mark key="[" line="24" column="42" />
+        <mark key="]" line="24" column="53" />
+        <mark key="^" line="24" column="53" />
+        <mark key="." line="24" column="52" />
       </file>
       <file name="/MORPRocessingE.Mor.FinanceHeader" timestamp="1591679509288">
         <mark key="[" line="0" column="0" />
@@ -162,14 +163,13 @@
       <file name="/console_1" timestamp="1591678235027">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/89f25c05-7785-4bac-8289-7f8163f0d24d/console.sql" timestamp="1591694797186">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/89f25c05-7785-4bac-8289-7f8163f0d24d/console.sql" timestamp="1591747713818">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="6" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" />
       <jump line="49" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/RandomWeightArticleRule.cs" />
       <jump line="5" column="17" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" />
       <jump line="36" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" />
@@ -269,15 +269,16 @@
       <jump line="52" column="62" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Factories/ArticleInventoryFactory.cs" />
       <jump line="29" column="37" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" />
       <jump line="41" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" />
+      <jump line="81" column="0" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 Update mor.FinanceHeader.rollback.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>dbo</text>
+        <text>CsvFileName</text>
       </register>
       <register name="-" type="4">
-        <text>dbo</text>
+        <text>CsvFileName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfaHR0cENsaWVudFw+</text>
