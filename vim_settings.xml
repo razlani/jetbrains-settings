@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZXRTdG9yZUNvbmZpZ3VyYXRpb25cPg==</entry>
         <entry encoding="base64">XDxNb2NrU3RvcmVDb25maWdIdHRwQ2xpZW50XD4=</entry>
         <entry encoding="base64">XDxfY29uZmlndXJhdGlvblw+</entry>
         <entry encoding="base64">XDxfYXBpUHJveHlcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxhcnRpY2xlU29oXD4=</entry>
         <entry encoding="base64">XDxfaHR0cENsaWVudFw+</entry>
         <entry encoding="base64">XDxfc2V0dGluZ3NTZXJ2aWNlXD4=</entry>
+        <entry encoding="base64">XDxUcnlGZXRjaEFydGljbGVJbnZlbnRvcnlcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -154,12 +154,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1591774578714">
-        <mark key="'" line="100" column="27" />
-        <mark key="[" line="78" column="84" />
-        <mark key="]" line="78" column="85" />
-        <mark key="." line="78" column="85" />
-        <mark key="^" line="78" column="142" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1591776591500">
+        <mark key="'" line="142" column="12" />
+        <mark key="[" line="81" column="13" />
+        <mark key="]" line="83" column="16" />
+        <mark key="." line="83" column="15" />
+        <mark key="^" line="83" column="16" />
       </file>
       <file name="/FinanceHeader [ecf uat db]" timestamp="1591679509267">
         <mark key="[" line="0" column="0" />
@@ -175,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="17" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" />
       <jump line="36" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" />
       <jump line="6" column="45" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" />
       <jump line="7" column="17" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" />
@@ -275,56 +274,57 @@
       <jump line="41" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" />
       <jump line="81" column="0" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 Update mor.FinanceHeader.rollback.sql" />
       <jump line="14" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" />
+      <jump line="141" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>CsvFileName</text>
+        <text>articleInventory</text>
       </register>
       <register name="-" type="4">
-        <text>CsvFileName</text>
+        <text>articleInventory</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc2V0dGluZ3NTZXJ2aWNlXD4=</text>
+        <text encoding="base64">XDxUcnlGZXRjaEFydGljbGVJbnZlbnRvcnlcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KiAyNS8wMS8yMDE3CUdpcmlzaEsJUE9TRE0tNjUgIERvbnQgY3JlYXRlIHJldmVyc2VkIHRyYW5zYWN0aW9uIGZvciBXT1cgb3JkZXIgcmV0dXJuIHRocm91Z2ggUkYgR3VuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KiAwOS8wNi8yMDE2CU1haWFGCVBPU0RNIC0gUmV2ZXJzZWQgVHJhbnNhY3Rpb25zIG11c3Qgbm93IGhhdmUgdW5pcXVlIFRyYW5zYWN0aW9uU2VxdWVuY2VOdW1iZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KiAyOC8wNC8yMDE2CU1haWFGCUZ1bGxSZXZlcnNhbCgxKSwgRGVsdGFzICgwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KiAzMC8wNy8yMDE0CVBXYWRlCUZpeCBhIGJ1ZyB3aGVyZSBkZWx0YXMgb24gRnVsZmlsbWVudCBmZWUgbm90IGNhbGN1bGF0aW5nIGNvcnJlY3RseQo=</text>
+        <text encoding="base64">KiAyNS8wMS8yMDE3CUdpcmlzaEsJUE9TRE0tNjUgIERvbnQgY3JlYXRlIHJldmVyc2VkIHRyYW5zYWN0aW9uIGZvciBXT1cgb3JkZXIgcmV0dXJuIHRocm91Z2ggUkYgR3VuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KgkJCQkJCUFsc28gZml4IGRlbHRhcy4K</text>
+        <text encoding="base64">KiAwOS8wNi8yMDE2CU1haWFGCVBPU0RNIC0gUmV2ZXJzZWQgVHJhbnNhY3Rpb25zIG11c3Qgbm93IGhhdmUgdW5pcXVlIFRyYW5zYWN0aW9uU2VxdWVuY2VOdW1iZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KiAyNi8wNi8yMDE0CVBXYWRlCUZpeCBhIGJ1ZyB3aGVuIGEgY2hhbmdlZCBvcmRlciBjYW1lIHRocnUgY2hlY2tlZCB0byBzZWUgaWYgdGhlIG9yZGVyIGhhZCBiZWVuIHNlbnQgdG8gU0FQLCBidXQgbmVlZGVkIHRvIGJlIGNoZWNrZWQgdG8gc2VlIGlmIHByb2Nlc3NlZCBieSBFT0QgcHJvY2Vzcy4K</text>
+        <text encoding="base64">KiAyOC8wNC8yMDE2CU1haWFGCUZ1bGxSZXZlcnNhbCgxKSwgRGVsdGFzICgwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KiAwNC8wNS8yMDE0CVBXYWRlCVFDMTIyIC0gRml4IGZvciBDdXN0b21lciBDb3VudHMuICBOZWVkIHRvIHByb3ZpZGUgU3VwcGxpZWQgUXVhbnRpdHkgdmFsdWUgYXMgb3JnaW5hbCB2YWx1ZSBub3Qgd2l0aCBFYWNoIE11bHRpcGxpZXIgY2FsYy4K</text>
+        <text encoding="base64">KiAzMC8wNy8yMDE0CVBXYWRlCUZpeCBhIGJ1ZyB3aGVyZSBkZWx0YXMgb24gRnVsZmlsbWVudCBmZWUgbm90IGNhbGN1bGF0aW5nIGNvcnJlY3RseQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KiAxNS8wNS8yMDE0CVBXYWRlCVFDIzk5IEZ1bGZpbG1lbnRGZWVOZXQgdG8gaGF2ZSBpdCBFeCBHU1QuICBUaGlzIGNhbiBiZSB1c2VkIGZvciBDdXN5dG9tZXIgQ291bnQgcHJvY2Vzc2luZy4gRnVsZmlsbWVudEZlZSBjYW4gYmUgdXNlZCBmb3IgU3RhZ2VUcmFuc2FjdGlvbnMuCg==</text>
+        <text encoding="base64">KgkJCQkJCUFsc28gZml4IGRlbHRhcy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KiAxNi8wOS8yMDEzCVBXYWRlCU1vZGlmaWVkIHRoZSBDaGFuZ2UgcHJvY2VzcyB0byByZW1vdmUgb3JpZ2luYWwgU3RhZ2luZyByZWNvcmQgaW5zdGVhZCBvZiBtYXJraW5nIGl0IGFzIHByb2Nlc3NlZC4gIFRoaXMgd2FzIGNhdXNpbmcgVG90YWxzIHRhYmxlcyB0byBiZSBjYWxjdWxhdGVkIGluY29ycmVjdGx5Lgo=</text>
+        <text encoding="base64">KiAyNi8wNi8yMDE0CVBXYWRlCUZpeCBhIGJ1ZyB3aGVuIGEgY2hhbmdlZCBvcmRlciBjYW1lIHRocnUgY2hlY2tlZCB0byBzZWUgaWYgdGhlIG9yZGVyIGhhZCBiZWVuIHNlbnQgdG8gU0FQLCBidXQgbmVlZGVkIHRvIGJlIGNoZWNrZWQgdG8gc2VlIGlmIHByb2Nlc3NlZCBieSBFT0QgcHJvY2Vzcy4K</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfc2V0dGluZ3NTZXJ2aWNlXD4=</last-search>
+      <last-search encoding="base64">XDxUcnlGZXRjaEFydGljbGVJbnZlbnRvcnlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc2V0dGluZ3NTZXJ2aWNlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxUcnlGZXRjaEFydGljbGVJbnZlbnRvcnlcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
