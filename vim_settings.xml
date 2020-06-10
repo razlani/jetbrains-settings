@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZXRNZXRhZGF0YVw+</entry>
         <entry encoding="base64">XDxHZXRTdG9yZUNvbmZpZ3VyYXRpb25cPg==</entry>
         <entry encoding="base64">XDxNb2NrU3RvcmVDb25maWdIdHRwQ2xpZW50XD4=</entry>
         <entry encoding="base64">XDxfY29uZmlndXJhdGlvblw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxTYXZlQ2hpbGRNZXRhRGF0YVw+</entry>
         <entry encoding="base64">XDxhcnRpY2xlU29oXD4=</entry>
         <entry encoding="base64">XDxfaHR0cENsaWVudFw+</entry>
+        <entry encoding="base64">XDxfc2V0dGluZ3NTZXJ2aWNlXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -113,6 +113,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" timestamp="1591774868716">
+        <mark key="'" line="14" column="12" />
+      </file>
       <file name="/console" timestamp="1591693773918">
         <mark key="[" line="0" column="0" />
       </file>
@@ -151,8 +154,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/89f25c05-7785-4bac-8289-7f8163f0d24d/console_1.sql" timestamp="1591678239116">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1591774578714">
+        <mark key="'" line="100" column="27" />
+        <mark key="[" line="78" column="84" />
+        <mark key="]" line="78" column="85" />
+        <mark key="." line="78" column="85" />
+        <mark key="^" line="78" column="142" />
       </file>
       <file name="/FinanceHeader [ecf uat db]" timestamp="1591679509267">
         <mark key="[" line="0" column="0" />
@@ -168,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/RandomWeightArticleRule.cs" />
       <jump line="5" column="17" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" />
       <jump line="36" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" />
       <jump line="6" column="45" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" />
@@ -268,6 +274,7 @@
       <jump line="29" column="37" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" />
       <jump line="41" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" />
       <jump line="81" column="0" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 Update mor.FinanceHeader.rollback.sql" />
+      <jump line="14" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -279,7 +286,7 @@
         <text>CsvFileName</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaHR0cENsaWVudFw+</text>
+        <text encoding="base64">XDxfc2V0dGluZ3NTZXJ2aWNlXD4=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">KiAyNS8wMS8yMDE3CUdpcmlzaEsJUE9TRE0tNjUgIERvbnQgY3JlYXRlIHJldmVyc2VkIHRyYW5zYWN0aW9uIGZvciBXT1cgb3JkZXIgcmV0dXJuIHRocm91Z2ggUkYgR3VuCg==</text>
@@ -315,9 +322,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfaHR0cENsaWVudFw+</last-search>
+      <last-search encoding="base64">XDxfc2V0dGluZ3NTZXJ2aWNlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaHR0cENsaWVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxfc2V0dGluZ3NTZXJ2aWNlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
