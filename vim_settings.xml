@@ -178,7 +178,7 @@
         <mark key="." line="64" column="47" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.StageTransaction.sql" timestamp="1591839986079" />
-      <file name="/Dummy.txt" timestamp="1591794405988">
+      <file name="/Dummy.txt" timestamp="1591840026705">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -303,7 +303,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LS0gMTAvMDYvMjAyMCBSaWF6ICAgICBGTE9GLTE0NjggQWRkIEIyQiByZWxhdGVkIGZpZWxkcyB0byBNT1JlIERCIHRhYmxlcyAK</text>
+        <text>Add B2B related fields to MORe DB tables</text>
       </register>
       <register name="-" type="4">
         <text>10</text>
@@ -312,7 +312,7 @@
         <text encoding="base64">XDxGZXRjaEFydGljbGVGYW1pbHlGcm9tUGFyZW50XD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0gMTAvMDYvMjAyMCBSaWF6ICAgICBGTE9GLTE0NjggQWRkIEIyQiByZWxhdGVkIGZpZWxkcyB0byBNT1JlIERCIHRhYmxlcyAK</text>
+        <text>Add B2B related fields to MORe DB tables</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -324,22 +324,22 @@
         <text encoding="base64">LS0gMTAvMDYvMjAyMCBSaWF6ICAgICBGTE9GLTE0NjggQWRkIEIyQiByZWxhdGVkIGZpZWxkcyB0byBNT1JlIERCIHRhYmxlcyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gMTAvMDYvMjAyMCBSaWF6ICAgICBGTE9GLTE0NjggQWRkIEIyQiByZWxhdGVkIGZpZWxkcyB0byBNT1JlIERCIHRhYmxlcyAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFtQYXltZW50VHlwZV0gVkFSQ0hBUigxMCkgTlVMTCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFtUcmFkaW5nQWNjb3VudElkXSBWQVJDSEFSKDEwKSBOVUxMLAo=</text>
+        <text encoding="base64">ICAgIFtQYXltZW50VHlwZV0gVkFSQ0hBUigxMCkgTlVMTCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFtTaG9wcGVySWRdIFZBUkNIQVIoMTApIE5VTEwsCg==</text>
+        <text encoding="base64">ICAgIFtUcmFkaW5nQWNjb3VudElkXSBWQVJDSEFSKDEwKSBOVUxMLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgIFtTaG9wcGVySWRdIFZBUkNIQVIoMTApIE5VTEwsCg==</text>
       </register>
     </registers>
   </component>
