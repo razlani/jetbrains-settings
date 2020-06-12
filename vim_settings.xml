@@ -113,6 +113,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/app/89f25c05-7785-4bac-8289-7f8163f0d24d/database/MORPRocessingE/schema/Mor/routine/CreateStageTransactionData.sql" timestamp="1591942703069" />
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.FinanceHeader.sql" timestamp="1591839966288" />
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.FinanceHeader.rollback.sql" timestamp="1591839863789">
         <mark key="[" line="6" column="0" />
@@ -132,12 +133,6 @@
         <mark key="^" line="54" column="45" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-infra/inventory-infra/src/modules/function/main.tf" timestamp="1591855716761" />
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 ALTER mor.StageTransaction.sql" timestamp="1591793537547">
-        <mark key="[" line="24" column="64" />
-        <mark key="]" line="24" column="65" />
-        <mark key="." line="24" column="64" />
-        <mark key="^" line="24" column="65" />
-      </file>
       <file name="$USER_HOME$/git/projects/Databases/Src/Databases/ECF.SQLRun.Upgrade/62920191028120000 ALTER TABLE [dbo].[ECF_Product_Sequence_Location_POG].rollback.sql" timestamp="1591793738172" />
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/FinanceDetail.sql" timestamp="1591839946403">
         <mark key="[" line="7" column="48" />
