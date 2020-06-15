@@ -12,5 +12,17 @@
         <property name="applicationIntent" value="readonly" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="ecf dev db" uuid="2c176f6c-9598-44f9-8597-a55f987be83e">
+      <driver-ref>sqlserver.jtds</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://ECFDBCNHP.woolworths.com.au:1433</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="DOMAIN" value="NSWRO" />
+      </jdbc-additional-properties>
+      <driver-properties>
+        <property name="applicationIntent" value="readonly" />
+      </driver-properties>
+    </data-source>
   </component>
 </application>

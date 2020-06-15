@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfYXBpUHJveHlcPg==</entry>
-        <entry encoding="base64">XDxQYXJzZUFydGljbGVNZXRhZGF0YVw+</entry>
         <entry encoding="base64">XDxWZXJzaW9uXD4=</entry>
         <entry encoding="base64">XDxNYXRjaEFydGljbGVVb21cPg==</entry>
         <entry encoding="base64">XDxfYXJ0aWNsZU1hc3RlckNvbnN1bWVyU2VydmljZVw+</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxUcnlGZXRjaEFydGljbGVJbnZlbnRvcnlcPg==</entry>
         <entry encoding="base64">XDxQcm9jZXNzQXJ0aWNsZUZhbWlseVw+</entry>
         <entry encoding="base64">XDxGZXRjaEFydGljbGVGYW1pbHlGcm9tUGFyZW50XD4=</entry>
+        <entry encoding="base64">XDxJTlNFUlRFRFw+</entry>
+        <entry encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -133,17 +133,21 @@
         <mark key="^" line="54" column="45" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-infra/inventory-infra/src/modules/function/main.tf" timestamp="1591855716761" />
-      <file name="$USER_HOME$/git/projects/Databases/Src/Databases/ECF.SQLRun.Upgrade/62920191028120000 ALTER TABLE [dbo].[ECF_Product_Sequence_Location_POG].rollback.sql" timestamp="1591793738172" />
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/FinanceDetail.sql" timestamp="1591839946403">
         <mark key="[" line="7" column="48" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.StageTransaction.rollback.sql" timestamp="1591839852273">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="/console" timestamp="1592191600876">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" timestamp="1592193108412">
+        <mark key="'" line="74" column="17" />
+        <mark key="[" line="177" column="37" />
+        <mark key="]" line="177" column="16" />
+        <mark key="^" line="177" column="16" />
+        <mark key="." line="177" column="15" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1591857508922">
         <mark key="[" line="58" column="33" />
@@ -151,8 +155,10 @@
         <mark key="^" line="58" column="36" />
         <mark key="." line="58" column="35" />
       </file>
+      <file name="/a.sql" timestamp="1592191596219">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/projects/Databases/Src/Databases/ECF.SQLRun.Upgrade/62920191021104001 DROP PROCEDURE ecfGetDepartmentList.rollback.sql" timestamp="1591855726443" />
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 ALTER mor.StageTransaction.rollback.sql" timestamp="1591793573412" />
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/StageTransaction.sql" timestamp="1591839987344">
         <mark key="'" line="64" column="47" />
         <mark key="[" line="64" column="47" />
@@ -161,7 +167,7 @@
         <mark key="." line="64" column="47" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.StageTransaction.sql" timestamp="1591839986079" />
-      <file name="/Dummy.txt" timestamp="1591840657064">
+      <file name="/Dummy.txt" timestamp="1592191596228">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -169,11 +175,6 @@
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.FinanceDetail.sql" timestamp="1591839936800" />
     </filemarks>
     <jumps>
-      <jump line="168" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" />
-      <jump line="165" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryTestData.cs" />
-      <jump line="103" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" />
-      <jump line="165" column="19" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" />
-      <jump line="168" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" />
       <jump line="150" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" />
       <jump line="163" column="51" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" />
@@ -269,6 +270,11 @@
       <jump line="18" column="33" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/FinanceHeader.sql" />
       <jump line="86" column="0" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/FinanceHeader.sql" />
       <jump line="55" column="47" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/StageTransaction.sql" />
+      <jump line="126" column="81" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="219" column="101" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="316" column="16" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="348" column="16" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="74" column="17" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -280,7 +286,7 @@
         <text>300</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGZXRjaEFydGljbGVGYW1pbHlGcm9tUGFyZW50XD4=</text>
+        <text encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</text>
       </register>
       <register name="1" type="2">
         <text>Add B2B related fields to MORe DB tables</text>
@@ -316,9 +322,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxGZXRjaEFydGljbGVGYW1pbHlGcm9tUGFyZW50XD4=</last-search>
+      <last-search encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGZXRjaEFydGljbGVGYW1pbHlGcm9tUGFyZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
