@@ -117,6 +117,11 @@
     <globalmarks />
     <filemarks>
       <file name="/app/89f25c05-7785-4bac-8289-7f8163f0d24d/database/MORPRocessingE/schema/Mor/routine/CreateStageTransactionData.sql" timestamp="1591942703069" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1592293887803">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/IArticleMetadataService.cs" timestamp="1592204374283">
         <mark key="[" line="8" column="97" />
         <mark key="]" line="8" column="98" />
@@ -148,14 +153,13 @@
         <mark key="^" line="129" column="20" />
         <mark key="." line="129" column="19" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-infra/inventory-infra/src/modules/function/main.tf" timestamp="1591855716761" />
       <file name="/CreateStageTransactionData" timestamp="1592211360494">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console" timestamp="1592191600876">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" timestamp="1592285761672">
+      <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" timestamp="1592292994342">
         <mark key="'" line="91" column="57" />
         <mark key="[" line="252" column="0" />
         <mark key="]" line="252" column="0" />
@@ -168,16 +172,27 @@
         <mark key="^" line="58" column="36" />
         <mark key="." line="58" column="35" />
       </file>
-      <file name="/a.sql" timestamp="1592284710169">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c176f6c-9598-44f9-8597-a55f987be83e/console.sql" timestamp="1592294430539">
+        <mark key="[" line="54" column="57" />
+        <mark key="]" line="54" column="57" />
+        <mark key="^" line="54" column="57" />
+        <mark key="." line="54" column="56" />
+      </file>
+      <file name="/a.sql" timestamp="1592293605267">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/Databases/Src/Databases/ECF.SQLRun.Upgrade/62920191021104001 DROP PROCEDURE ecfGetDepartmentList.rollback.sql" timestamp="1591855726443" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMetadataService.cs" timestamp="1592281602169">
         <mark key="'" line="80" column="27" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="29" column="69" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="/console 1" timestamp="1592294243228">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/default" timestamp="1592294330633">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/StageTransaction.sql" timestamp="1592210937530">
         <mark key="'" line="64" column="47" />
@@ -186,7 +201,7 @@
         <mark key="^" line="64" column="48" />
         <mark key="." line="64" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592211401646">
+      <file name="/Dummy.txt" timestamp="1592293605277">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -298,10 +313,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTYXZlQ2hpbGRNZXRhRGF0YVw+</text>
