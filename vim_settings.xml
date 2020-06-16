@@ -15,7 +15,6 @@
         <entry encoding="base64">XDxfY29uZmlndXJhdGlvbk1vY2tcPg==</entry>
         <entry encoding="base64">XDxjb25maWd1cmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxfbG9nZ2VyXD4=</entry>
-        <entry encoding="base64">XDxTYXZlQ2hpbGRNZXRhRGF0YVw+</entry>
         <entry encoding="base64">XDxhcnRpY2xlU29oXD4=</entry>
         <entry encoding="base64">XDxfaHR0cENsaWVudFw+</entry>
         <entry encoding="base64">XDxfc2V0dGluZ3NTZXJ2aWNlXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxJTlNFUlRFRFw+</entry>
         <entry encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</entry>
         <entry encoding="base64">XDxHZW5lcmF0ZVVyaVw+</entry>
+        <entry encoding="base64">XDxTYXZlQ2hpbGRNZXRhRGF0YVw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -172,7 +172,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/Databases/Src/Databases/ECF.SQLRun.Upgrade/62920191021104001 DROP PROCEDURE ecfGetDepartmentList.rollback.sql" timestamp="1591855726443" />
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMetadataService.cs" timestamp="1592204399495">
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMetadataService.cs" timestamp="1592281602169">
+        <mark key="'" line="80" column="27" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="29" column="69" />
@@ -192,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" />
       <jump line="19" column="39" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" />
       <jump line="14" column="48" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
       <jump line="18" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
@@ -292,6 +292,7 @@
       <jump line="75" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleServiceProxy.cs" />
       <jump line="39" column="32" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
       <jump line="368" column="37" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="80" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMetadataService.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -303,7 +304,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZW5lcmF0ZVVyaVw+</text>
+        <text encoding="base64">XDxTYXZlQ2hpbGRNZXRhRGF0YVw+</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBXaGVuICdIRFonIFRoZW4gJ0hEWicgLyogV09XIEIyQiBOZXcgSEQgKi8K</text>
@@ -339,9 +340,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxHZW5lcmF0ZVVyaVw+</last-search>
+      <last-search encoding="base64">XDxTYXZlQ2hpbGRNZXRhRGF0YVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZW5lcmF0ZVVyaVw+</last-pattern>
+      <last-pattern encoding="base64">XDxTYXZlQ2hpbGRNZXRhRGF0YVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
