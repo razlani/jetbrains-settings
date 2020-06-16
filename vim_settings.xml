@@ -117,7 +117,7 @@
     <globalmarks />
     <filemarks>
       <file name="/app/89f25c05-7785-4bac-8289-7f8163f0d24d/database/MORPRocessingE/schema/Mor/routine/CreateStageTransactionData.sql" timestamp="1591942703069" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1592293887803">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1592298148907">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -159,26 +159,20 @@
       <file name="/console" timestamp="1592191600876">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" timestamp="1592292994342">
-        <mark key="'" line="91" column="57" />
-        <mark key="[" line="252" column="0" />
-        <mark key="]" line="252" column="0" />
-        <mark key="^" line="255" column="88" />
-        <mark key="." line="252" column="0" />
+      <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" timestamp="1592297552635">
+        <mark key="'" line="90" column="57" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="^" line="90" column="65" />
+        <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/appsettings.Development.json" timestamp="1591857508922">
-        <mark key="[" line="58" column="33" />
-        <mark key="]" line="58" column="36" />
-        <mark key="^" line="58" column="36" />
-        <mark key="." line="58" column="35" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c176f6c-9598-44f9-8597-a55f987be83e/console.sql" timestamp="1592298221749">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c176f6c-9598-44f9-8597-a55f987be83e/console.sql" timestamp="1592294430539">
-        <mark key="[" line="54" column="57" />
-        <mark key="]" line="54" column="57" />
-        <mark key="^" line="54" column="57" />
-        <mark key="." line="54" column="56" />
-      </file>
-      <file name="/a.sql" timestamp="1592293605267">
+      <file name="/a.sql" timestamp="1592297047498">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMetadataService.cs" timestamp="1592281602169">
@@ -208,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="48" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
       <jump line="18" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
       <jump line="26" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
       <jump line="38" column="55" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
@@ -308,48 +301,49 @@
       <jump line="368" column="37" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
       <jump line="80" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMetadataService.cs" />
       <jump line="91" column="57" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="55" column="70" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2c176f6c-9598-44f9-8597-a55f987be83e/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">d2hlcmUgT3JkZXJOdW1iZXIgaW4gKCc3MDAwMDA1MTInKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>from</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTYXZlQ2hpbGRNZXRhRGF0YVw+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBXaGVuICdIRFonIFRoZW4gJ0hEWicgLyogV09XIEIyQiBOZXcgSEQgKi8K</text>
+        <text encoding="base64">d2hlcmUgT3JkZXJOdW1iZXIgaW4gKCc3MDAwMDA1MTInKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgV2hlbiAnU1REJyBUaGVuICdIRDEnIC8qIERNIFN0YW5kYXJkIERlbGl2ZXJ5ICovCg==</text>
+        <text encoding="base64">CQlwcmludCAnaW5zZXJ0aW5nIGludG8gU1QgZnJvbSBmaW5hbmNlIGhlYWRlcicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgV2hlbiAnQ0MzJyBUaGVuICdDQzMnICAvKiBCV1MgQ2xpY2sgYW5kIENvbGxlY3QgKi8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgV2hlbiAnSEQxJyBUaGVuICdIRDEnIC8qIEhEMSBEZWxpdmVyeSAqLwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBXaGVuICdIRDInIFRoZW4gJ0hEMicgLyogSEQyIERlbGl2ZXJ5ICovCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFdoZW4gJ0hEMycgVGhlbiAnSEQzJyAvKiBIRDMgRGVsaXZlcnkgKi8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgV2hlbiAnSEQ0JyBUaGVuICdIRDQnIC8qIEhENCBEZWxpdmVyeSAqLwo=</text>
+        <text encoding="base64">CQlwcmludCAna2VrIDE1MTkyJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgV2hlbiAnQ0MyJyBUaGVuICdDQzInICAvKiBCaWdXIENsaWNrIGFuZCBDb2xsZWN0ICovCg==</text>
+        <text encoding="base64">UHJpbnQgJ2tlaycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgV2hlbiAnQ0MxJyBUaGVuICdDQzEnICAvKiBDbGljayBhbmQgQ29sbGVjdCAqLwo=</text>
+        <text encoding="base64">ICAgICAgICw1NTUsNTU1LDU1NSw1NTUsNTU1LDU1NSw1NTUsNTU1LDU1NSw1NTUsNTU1LDU1NSw1NTUsNTU1LDU1NSw1NTUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgV2hlbiAnUEFEJyBUaGVuICdIRDQnIC8qIERNIFBpY2sgYSBEYXkgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAsNTU1LDU1NSw1NTUsNTU1LDU1NSw1NTUsNTU1LDU1NSw1NTUsNTU1LDU1NSw1NTUsNTU1LDU1NSw1NTUsNTU1Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgV2hlbiAnTkJEJyBUaGVuICdIRDMnIC8qIERNIE5leHQgQnVzaW5lc3MgRGF5ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAsNTU1LDU1NSw1NTUsNTU1LDU1NSw1NTUsNTU1LDU1NSw1NTUsNTU1LDU1NSw1NTUsNTU1LDU1NSw1NTUsNTU1Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgV2hlbiAnU0REJyBUaGVuICdIRDInIC8qIERNIFNhbWUgRGF5IERlbGl2ZXJ5ICovCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICwgPCBCYXJjb2RlLAogICAgICAgIHZhcmNoYXIoMjApLCA+LCA8IFByaWNpbmdVbml0LCB2YXJjaGFyKDEwKSwgPiwgPCBVbml0UHJpY2UsIG51bWVyaWMoOSwgMiksID4sIDwKICAgICAgICBRdWFudGl0eVN1cHBsaWVkLCBudW1lcmljKDksIDMpLCA+LCA8IFF1YW50aXR5U3VwcGxpZWROZXQsIG51bWVyaWMoOSwgMyksID4sIDwKICAgICAgICBRdWFudGl0eVdlaWdodCwgbnVtZXJpYyg5LCAzKSwgPiwgPCBMaW5lQW1vdW50LCBudW1lcmljKDEyLCAyKSwgPiwgPCBMaW5lQW1vdW50TmV0LAogICAgICAgIG51bWVyaWMoMTIsIDIpLCA+LCA8IFRheFJhdGUsIG51bWVyaWMoOSwgNCksID4sIDwgR2lmdENhcmRGbGFnLCBiaXQsID4sIDwKICAgICAgICBTdWJzdGl0dXRlZEl0ZW1GbGFnLCBiaXQsID4sIDwgVHJhbnNhY3Rpb25UeXBlLCBpbnQsID4sIDwgVHJhZGluZ0RlcHRDb2RlLCBpbnQsID4sIDwKICAgICAgICBUcmFkaW5nRGVwdE5hbWUsIHZhcmNoYXIoNTApLCA+LCA8IENvYXJzZURlcHRDb2RlLCBpbnQsID4sIDwgQ29hcnNlRGVwdE5hbWUsCiAgICAgICAgdmFyY2hhcig1MCksID4sIDwgUHJvY2Vzc2VkRGF0ZVRpbWUsIGRhdGV0aW1lLCA+LCA8IENyZWF0ZURhdGVUaW1lLCBkYXRldGltZSwgPiwgPAogICAgICAgIENyZWF0ZVVzZXIsIHZhcmNoYXIoNTApLCA+LCA8IFVwZGF0ZURhdGVUaW1lLCBkYXRldGltZSwgPiwgPCBVcGRhdGVVc2VyLCB2YXJjaGFyKDUwKSwgPiwgPAogICAgICAgIFF1YW50aXR5V2VpZ2h0TmV0LCBudW1lcmljKDksIDMpLCA+LCA8IEV4Y2x1ZGVEaXNjb3VudCwgYml0LCA+LCA8IFJSUCwgbnVtZXJpYyg5LCAzKSwgPiwgPAogICAgICAgIFJSUEV4Y2xUYXgsIG51bWVyaWMoOSwgMyksID4sIDwgU2VsbFVuaXRQcmljZSwgbnVtZXJpYyg5LCAzKSwgPiwgPCBMaW5lR3Jvc3NFeGNsVGF4LAogICAgICAgIG51bWVyaWMoOSwgMyksID4sIDwgTGluZU5ldFRheCwgbnVtZXJpYyg5LCAzKSwgPiwgPCBJbmZvRmxhZywgc21hbGxpbnQsID4sIDwgSGllcmFyY2h5Tm9kZSwKICAgICAgICB2YXJjaGFyKDIwKSwgPiwgPCBQcmljaW5nVHlwZSwgdmFyY2hhcigzKSwgPik=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRWxzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ2FzZSBXaGVuIENvbGxlY3RGbGFnID0gMQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGhlbiAnQ0MxJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBFbHNlICdIRDEnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBXaGVuICdIRFonIFRoZW4gJ0hEWicgLyogV09XIEIyQiBOZXcgSEQgKi8K</text>
       </register>
     </registers>
   </component>
