@@ -150,13 +150,10 @@
         <mark key="^" line="129" column="20" />
         <mark key="." line="129" column="19" />
       </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" timestamp="1592300865158">
-        <mark key="[" line="135" column="15" />
-        <mark key="]" line="134" column="19" />
-        <mark key="." line="134" column="18" />
-        <mark key="^" line="134" column="19" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" timestamp="1592358187088">
+        <mark key="[" line="41" column="15" />
       </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200615120000 ALTER mor.CreateStageTransactionData.rollback.sql" timestamp="1592300569312">
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200615120000 ALTER mor.CreateStageTransactionData.rollback.sql" timestamp="1592358460086">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="5" />
         <mark key="." line="42" column="4" />
@@ -168,7 +165,7 @@
       <file name="/console" timestamp="1592300959207">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" timestamp="1592300874034">
+      <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" timestamp="1592358486483">
         <mark key="'" line="56" column="45" />
         <mark key="[" line="77" column="17" />
         <mark key="]" line="61" column="71" />
@@ -182,11 +179,11 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200615120000 ALTER mor.CreateStageTransactionData.sql" timestamp="1592300764919">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="5" />
-        <mark key="." line="39" column="4" />
-        <mark key="^" line="39" column="5" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200615120000 ALTER mor.CreateStageTransactionData.sql" timestamp="1592358506524">
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="41" column="8" />
+        <mark key="." line="41" column="8" />
+        <mark key="^" line="41" column="7" />
       </file>
       <file name="/a.sql" timestamp="1592300107268">
         <mark key="[" line="0" column="0" />
@@ -322,11 +319,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2018</text>
       </register>
       <register name="-" type="4">
-        <text>CREATE</text>
+        <text>2018</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTYXZlQ2hpbGRNZXRhRGF0YVw+</text>
@@ -347,19 +344,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2hlcmUgT3JkZXJOdW1iZXIgaW4gKCc3MDAwMDA1MTInKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">d2hlcmUgT3JkZXJOdW1iZXIgaW4gKCc3MDAwMDA1MTInKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlwcmludCAnaW5zZXJ0aW5nIGludG8gU1QgZnJvbSBmaW5hbmNlIGhlYWRlcicK</text>
+        <text encoding="base64">d2hlcmUgT3JkZXJOdW1iZXIgaW4gKCc3MDAwMDA1MTInKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlwcmludCAna2VrIDE1MTkyJwo=</text>
+        <text encoding="base64">CQlwcmludCAnaW5zZXJ0aW5nIGludG8gU1QgZnJvbSBmaW5hbmNlIGhlYWRlcicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UHJpbnQgJ2tlaycK</text>
+        <text encoding="base64">CQlwcmludCAna2VrIDE1MTkyJwo=</text>
       </register>
     </registers>
   </component>
