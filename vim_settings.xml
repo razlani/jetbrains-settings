@@ -126,12 +126,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1592299867679">
         <mark key="'" line="371" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" timestamp="1592377550526">
-        <mark key="'" line="79" column="17" />
-        <mark key="[" line="168" column="34" />
-        <mark key="]" line="168" column="34" />
-        <mark key="." line="168" column="33" />
-        <mark key="^" line="168" column="34" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" timestamp="1592379503488">
+        <mark key="'" line="97" column="10" />
+        <mark key="[" line="88" column="36" />
+        <mark key="]" line="88" column="37" />
+        <mark key="." line="88" column="37" />
+        <mark key="^" line="88" column="28" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200615120000 ALTER mor.CreateStageTransactionData.rollback.sql" timestamp="1592359737467">
         <mark key="[" line="42" column="0" />
@@ -145,7 +145,7 @@
       <file name="/console" timestamp="1592368892948">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" timestamp="1592360333730">
+      <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" timestamp="1592379466760">
         <mark key="'" line="56" column="45" />
         <mark key="[" line="77" column="17" />
         <mark key="]" line="61" column="71" />
@@ -175,16 +175,16 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.StageTransaction.sql" timestamp="1592369216247" />
-      <file name="/Dummy.txt" timestamp="1592371301538">
+      <file name="/Dummy.txt" timestamp="1592379162913">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/89f25c05-7785-4bac-8289-7f8163f0d24d/console_1.sql" timestamp="1592377117111">
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="6" column="35" />
-        <mark key="." line="6" column="34" />
-        <mark key="^" line="6" column="35" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/89f25c05-7785-4bac-8289-7f8163f0d24d/console_1.sql" timestamp="1592378915083">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="18" />
+        <mark key="." line="22" column="17" />
+        <mark key="^" line="22" column="18" />
       </file>
       <file name="/console_1" timestamp="1592368841852">
         <mark key="[" line="0" column="0" />
@@ -195,9 +195,6 @@
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.FinanceDetail.sql" timestamp="1592368848228" />
     </filemarks>
     <jumps>
-      <jump line="102" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
-      <jump line="114" column="55" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
-      <jump line="20" column="39" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" />
       <jump line="64" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" />
       <jump line="83" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" />
       <jump line="97" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" />
@@ -295,58 +292,24 @@
       <jump line="400" column="0" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" />
       <jump line="223" column="22" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" />
       <jump line="79" column="17" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" />
+      <jump line="168" column="21" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" />
+      <jump line="110" column="74" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" />
+      <jump line="97" column="10" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>IsNull(h.ShipType, '') When 'COL' Then 'CC1'  /* Click and Collect */</text>
+        <text>ShipType</text>
       </register>
       <register name="-" type="4">
-        <text>IsNull(h.ShipType, '') When 'COL' Then 'CC1'  /* Click and Collect */</text>
+        <text>ShipType</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</text>
       </register>
-      <register name="1" type="2">
-        <text>-- =============================================
--- Author:	
--- Create date: 
--- Description:	
--- Changelog
--- When       Who      Why
--- 10/06/2020 Riaz     FLOF-1468 Add B2B related fields to MORe DB tables 
--- =============================================
-
-IF COL_LENGTH('[Mor].[StageTransaction]', 'ShopperId') IS NULL
-    BEGIN
-        ALTER TABLE Mor.StageTransaction ADD ShopperId VARCHAR(10)
-    END
-GO
-
-IF COL_LENGTH('[Mor].[StageTransaction]', 'TradingAccountId') IS NULL
-    BEGIN
-        ALTER TABLE Mor.StageTransaction ADD TradingAccountId VARCHAR(10)
-    END
-GO
-
-IF COL_LENGTH('[Mor].[StageTransaction]', 'TenderType') IS NULL
-    BEGIN
-        ALTER TABLE Mor.StageTransaction ADD TenderType VARCHAR(5)
-    END
-GO
-
-IF COL_LENGTH('[Mor].[StageTransaction]', 'PaymentId') IS NULL
-    BEGIN
-        ALTER TABLE Mor.StageTransaction ADD PaymentId VARCHAR(40)
-    END
-GO
-
-IF COL_LENGTH('[Mor].[StageTransaction]', 'PricingType') IS NULL
-    BEGIN
-        ALTER TABLE Mor.StageTransaction ADD PricingType VARCHAR(3)
-    END
-GO</text>
+      <register name="1" type="8">
+        <text encoding="base64">VkFMVUVTIApWQUxVRVMgClZBTFVFUyAKVkFMVUVTIApWQUxVRVMgClZBTFVFUyAKVkFMVUVTIApWQUxVRVMgClZBTFVFUyAKVkFMVUVTIApWQUxVRVMgClZBTFVFUyAKVkFMVUVTIApWQUxVRVMgClZBTFVFUyAKVkFMVUVTIA==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -358,22 +321,22 @@ GO</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KiAxNy8wNi8yMDE4CVJpYXpBCUZMT0YtMTQ2OSBNT1JlIGJ1c2luZXNzIGxvZ2ljIGZvciBCMkIK</text>
+        <text encoding="base64">CQkJCSAgICwgQ2FzZSBJc051bGwoZmguU2hpcFR5cGUsICcnKSBXaGVuICdDT0wnIFRoZW4gJ0NDMScgIC8qIENsaWNrIGFuZCBDb2xsZWN0ICovCgkJCQkJCQkJCQkJCVdoZW4gJ1NURCcgVGhlbiAnSEQxJyAvKiBETSBTdGFuZGFyZCBEZWxpdmVyeSAqLwoJCQkJCQkJCQkJCQlXaGVuICdTREQnIFRoZW4gJ0hEMicgLyogRE0gU2FtZSBEYXkgRGVsaXZlcnkgKi8KCQkJCQkJCQkJCQkJV2hlbiAnTkJEJyBUaGVuICdIRDMnIC8qIERNIE5leHQgQnVzaW5lc3MgRGF5ICovCgkJCQkJCQkJCQkJCVdoZW4gJ1BBRCcgVGhlbiAnSEQ0JyAvKiBETSBQaWNrIGEgRGF5ICovCgkJCQkJCQkJCQkJCVdoZW4gJ0NDMScgVGhlbiAnQ0MxJyAgLyogQ2xpY2sgYW5kIENvbGxlY3QgKi8KCQkJCQkJCQkJCQkJV2hlbiAnQ0MyJyBUaGVuICdDQzInICAvKiBCaWdXIENsaWNrIGFuZCBDb2xsZWN0ICovCgkJCQkJCQkJCQkJCVdoZW4gJ0NDMycgVGhlbiAnQ0MzJyAgLyogQldTIENsaWNrIGFuZCBDb2xsZWN0ICovCgkJCQkJCQkJCQkJCVdoZW4gJ0hEMScgVGhlbiAnSEQxJyAvKiBIRDEgRGVsaXZlcnkgKi8KCQkJCQkJCQkJCQkJV2hlbiAnSEQyJyBUaGVuICdIRDInIC8qIEhEMiBEZWxpdmVyeSAqLwoJCQkJCQkJCQkJCQlXaGVuICdIRDMnIFRoZW4gJ0hEMycgLyogSEQzIERlbGl2ZXJ5ICovCgkJCQkJCQkJCQkJCVdoZW4gJ0hENCcgVGhlbiAnSEQ0JyAvKiBIRDQgRGVsaXZlcnkgKi8KCQkJCQkJCQkJCQkJV2hlbiAnSEQ1JyBUaGVuICdIRDUnIC8qIEJXUyBIRDUgRGVsaXZlcnkgKi8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgV2hlbiAnQ0NZJyBUaGVuICdDQ1knIC8qIFdPVyBCMkIgT2xkIEMmQyAqLwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBXaGVuICdIRFknIFRoZW4gJ0hEWScgLyogV09XIEIyQiBPbGQgSEQgKi8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgV2hlbiAnQ0NaJyBUaGVuICdDQ1onIC8qIFdPVyBCMkIgTmV3IEMmQyAqLwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBXaGVuICdIRFonIFRoZW4gJ0hEWicgLyogV09XIEIyQiBOZXcgSEQgKi8KCQkJCQkJCQkJCQkJRWxzZSAKCQkJCQkJCQkJCQkJCUNhc2UgV2hlbiBDb2xsZWN0RmxhZyA9IDEgCgkJCQkJCQkJCQkJCQkJICBUaGVuICdDQzEnCgkJCQkJCQkJCQkJCQkJICBFbHNlICdIRDEnCgkJCQkJCQkJCQkJCQlFbmQKCQkJCQkgRW5kIGFzIFRyYW5zYWN0aW9uVHlwZUNvZGUK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgV2hlbiAnSERaJyBUaGVuICdIRFonIC8qICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgV2hlbiAnQ0NaJyBUaGVuICdDQ1onIC8qICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
     </registers>
   </component>
