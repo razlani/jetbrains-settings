@@ -22,9 +22,9 @@
         <entry encoding="base64">XDxQcm9jZXNzQXJ0aWNsZUZhbWlseVw+</entry>
         <entry encoding="base64">XDxGZXRjaEFydGljbGVGYW1pbHlGcm9tUGFyZW50XD4=</entry>
         <entry encoding="base64">XDxJTlNFUlRFRFw+</entry>
-        <entry encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</entry>
         <entry encoding="base64">XDxHZW5lcmF0ZVVyaVw+</entry>
         <entry encoding="base64">XDxTYXZlQ2hpbGRNZXRhRGF0YVw+</entry>
+        <entry encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -126,12 +126,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1592299867679">
         <mark key="'" line="371" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" timestamp="1592373210135">
-        <mark key="'" line="402" column="0" />
-        <mark key="[" line="86" column="67" />
-        <mark key="]" line="160" column="55" />
-        <mark key="." line="160" column="54" />
-        <mark key="^" line="160" column="55" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" timestamp="1592377550526">
+        <mark key="'" line="79" column="17" />
+        <mark key="[" line="168" column="34" />
+        <mark key="]" line="168" column="34" />
+        <mark key="." line="168" column="33" />
+        <mark key="^" line="168" column="34" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200615120000 ALTER mor.CreateStageTransactionData.rollback.sql" timestamp="1592359737467">
         <mark key="[" line="42" column="0" />
@@ -180,8 +180,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/89f25c05-7785-4bac-8289-7f8163f0d24d/console_1.sql" timestamp="1592369256884">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/89f25c05-7785-4bac-8289-7f8163f0d24d/console_1.sql" timestamp="1592377117111">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="34" />
+        <mark key="^" line="6" column="35" />
       </file>
       <file name="/console_1" timestamp="1592368841852">
         <mark key="[" line="0" column="0" />
@@ -192,8 +195,6 @@
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.FinanceDetail.sql" timestamp="1592368848228" />
     </filemarks>
     <jumps>
-      <jump line="77" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
-      <jump line="89" column="55" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
       <jump line="102" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
       <jump line="114" column="55" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
       <jump line="20" column="39" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" />
@@ -292,21 +293,60 @@
       <jump line="62" column="46" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2c176f6c-9598-44f9-8597-a55f987be83e/console.sql" />
       <jump line="56" column="45" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
       <jump line="400" column="0" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" />
+      <jump line="223" column="22" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" />
+      <jump line="79" column="17" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>IsNull(h.ShipType, '') When 'COL' Then 'CC1'  /* Click and Collect */</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>IsNull(h.ShipType, '') When 'COL' Then 'CC1'  /* Click and Collect */</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTYXZlQ2hpbGRNZXRhRGF0YVw+</text>
+        <text encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>-- =============================================
+-- Author:	
+-- Create date: 
+-- Description:	
+-- Changelog
+-- When       Who      Why
+-- 10/06/2020 Riaz     FLOF-1468 Add B2B related fields to MORe DB tables 
+-- =============================================
+
+IF COL_LENGTH('[Mor].[StageTransaction]', 'ShopperId') IS NULL
+    BEGIN
+        ALTER TABLE Mor.StageTransaction ADD ShopperId VARCHAR(10)
+    END
+GO
+
+IF COL_LENGTH('[Mor].[StageTransaction]', 'TradingAccountId') IS NULL
+    BEGIN
+        ALTER TABLE Mor.StageTransaction ADD TradingAccountId VARCHAR(10)
+    END
+GO
+
+IF COL_LENGTH('[Mor].[StageTransaction]', 'TenderType') IS NULL
+    BEGIN
+        ALTER TABLE Mor.StageTransaction ADD TenderType VARCHAR(5)
+    END
+GO
+
+IF COL_LENGTH('[Mor].[StageTransaction]', 'PaymentId') IS NULL
+    BEGIN
+        ALTER TABLE Mor.StageTransaction ADD PaymentId VARCHAR(40)
+    END
+GO
+
+IF COL_LENGTH('[Mor].[StageTransaction]', 'PricingType') IS NULL
+    BEGIN
+        ALTER TABLE Mor.StageTransaction ADD PricingType VARCHAR(3)
+    END
+GO</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -315,10 +355,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KiAxNy8wNi8yMDE4CVJpYXpBCUZMT0YtMTQ2OSBNT1JlIGJ1c2luZXNzIGxvZ2ljIGZvciBCMkIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiAxNy8wNi8yMDE4CVJpYXpBCUZMT0YtMTQ2OSBNT1JlIGJ1c2luZXNzIGxvZ2ljIGZvciBCMkIK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -339,9 +379,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTYXZlQ2hpbGRNZXRhRGF0YVw+</last-search>
+      <last-search encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTYXZlQ2hpbGRNZXRhRGF0YVw+</last-pattern>
+      <last-pattern encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
