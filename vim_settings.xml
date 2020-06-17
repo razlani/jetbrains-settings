@@ -121,34 +121,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/IArticleMetadataService.cs" timestamp="1592204374283">
-        <mark key="[" line="8" column="97" />
-        <mark key="]" line="8" column="98" />
-        <mark key="^" line="8" column="98" />
-        <mark key="." line="8" column="97" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleServiceProxy.cs" timestamp="1592203827079">
-        <mark key="'" line="75" column="27" />
-        <mark key="[" line="56" column="91" />
-        <mark key="]" line="56" column="91" />
-        <mark key="." line="56" column="91" />
-        <mark key="^" line="77" column="39" />
-      </file>
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.FinanceHeader.sql" timestamp="1592369164872" />
       <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.orig.sql" timestamp="1592299374182" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1592299867679">
         <mark key="'" line="371" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/HttpClientAdapter.cs" timestamp="1592203719194">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="33" column="20" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1592204437475">
-        <mark key="[" line="128" column="30" />
-        <mark key="]" line="129" column="20" />
-        <mark key="^" line="129" column="20" />
-        <mark key="." line="129" column="19" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" timestamp="1592360580073">
         <mark key="[" line="42" column="0" />
@@ -161,10 +137,7 @@
         <mark key="." line="42" column="4" />
         <mark key="^" line="42" column="5" />
       </file>
-      <file name="/CreateStageTransactionData" timestamp="1592211360494">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console" timestamp="1592300959207">
+      <file name="/console" timestamp="1592368892948">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" timestamp="1592360333730">
@@ -187,7 +160,7 @@
         <mark key="." line="41" column="60" />
         <mark key="^" line="41" column="61" />
       </file>
-      <file name="/a.sql" timestamp="1592300107268">
+      <file name="/a.sql" timestamp="1592368812811">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMetadataService.cs" timestamp="1592281602169">
@@ -203,18 +176,22 @@
       <file name="/default" timestamp="1592294330633">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/StageTransaction.sql" timestamp="1592210937530">
-        <mark key="'" line="64" column="47" />
-        <mark key="[" line="64" column="47" />
-        <mark key="]" line="64" column="48" />
-        <mark key="^" line="64" column="48" />
-        <mark key="." line="64" column="47" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592368028295">
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.StageTransaction.sql" timestamp="1592369216247" />
+      <file name="/Dummy.txt" timestamp="1592368812890">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/89f25c05-7785-4bac-8289-7f8163f0d24d/console_1.sql" timestamp="1592369256884">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_1" timestamp="1592368841852">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console_2" timestamp="1592369132759">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.FinanceDetail.sql" timestamp="1592368848228" />
     </filemarks>
     <jumps>
       <jump line="63" column="55" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
