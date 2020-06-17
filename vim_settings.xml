@@ -126,10 +126,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1592299867679">
         <mark key="'" line="371" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" timestamp="1592360580073">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" timestamp="1592371331782">
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="41" column="12" />
+        <mark key="." line="41" column="11" />
+        <mark key="^" line="41" column="12" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200615120000 ALTER mor.CreateStageTransactionData.rollback.sql" timestamp="1592359737467">
         <mark key="[" line="42" column="0" />
@@ -177,7 +178,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.StageTransaction.sql" timestamp="1592369216247" />
-      <file name="/Dummy.txt" timestamp="1592368812890">
+      <file name="/Dummy.txt" timestamp="1592371301538">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -298,11 +299,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2018</text>
       </register>
       <register name="-" type="4">
-        <text>BWS Channel HD5 for MOR db</text>
+        <text>2018</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTYXZlQ2hpbGRNZXRhRGF0YVw+</text>
@@ -314,7 +315,7 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiAxNy8wNi8yMDE4CVJpYXpBCUZMT0YtMTQ2OSBNT1JlIGJ1c2luZXNzIGxvZ2ljIGZvciBCMkIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
