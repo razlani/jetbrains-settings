@@ -134,12 +134,6 @@
         <mark key="." line="56" column="91" />
         <mark key="^" line="77" column="39" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/IHttpClient.cs" timestamp="1592203688839">
-        <mark key="[" line="7" column="47" />
-        <mark key="]" line="7" column="47" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="7" column="47" />
-      </file>
       <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.orig.sql" timestamp="1592299374182" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1592299867679">
         <mark key="'" line="371" column="0" />
@@ -171,7 +165,10 @@
       <file name="/CreateStageTransactionData" timestamp="1592211360494">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" timestamp="1592300130963">
+      <file name="/console" timestamp="1592300959207">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" timestamp="1592300874034">
         <mark key="'" line="56" column="45" />
         <mark key="[" line="77" column="17" />
         <mark key="]" line="61" column="71" />
