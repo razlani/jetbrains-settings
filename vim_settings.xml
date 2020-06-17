@@ -126,12 +126,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1592299867679">
         <mark key="'" line="371" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" timestamp="1592372256762">
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" timestamp="1592373210135">
         <mark key="'" line="402" column="0" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="85" column="8" />
+        <mark key="[" line="86" column="67" />
+        <mark key="]" line="160" column="55" />
+        <mark key="." line="160" column="54" />
+        <mark key="^" line="160" column="55" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200615120000 ALTER mor.CreateStageTransactionData.rollback.sql" timestamp="1592359737467">
         <mark key="[" line="42" column="0" />
@@ -296,11 +296,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>17</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTYXZlQ2hpbGRNZXRhRGF0YVw+</text>
