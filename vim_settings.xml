@@ -140,12 +140,12 @@
         <mark key="." line="54" column="44" />
         <mark key="^" line="54" column="45" />
       </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" timestamp="1592461067929">
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" timestamp="1592461689061">
         <mark key="'" line="97" column="10" />
-        <mark key="[" line="264" column="29" />
-        <mark key="]" line="115" column="36" />
-        <mark key="." line="115" column="35" />
-        <mark key="^" line="115" column="36" />
+        <mark key="[" line="208" column="31" />
+        <mark key="]" line="208" column="33" />
+        <mark key="." line="208" column="32" />
+        <mark key="^" line="208" column="33" />
       </file>
       <file name="/CreateStageTransactionData.sql" timestamp="1592372137164">
         <mark key="[" line="82" column="17" />
@@ -185,7 +185,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.StageTransaction.sql" timestamp="1592369216247" />
-      <file name="/Dummy.txt" timestamp="1592461404840">
+      <file name="/Dummy.txt" timestamp="1592461701091">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -308,8 +308,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>CREATE</text>
+      <register name="&quot;" type="2">
+        <text>MORe business logic for B2B fields</text>
       </register>
       <register name="-" type="4">
         <text>CREATE</text>
@@ -318,31 +318,31 @@
         <text encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFbmQgYXMgVGVuZGVyVHlwZQo=</text>
+        <text>MORe business logic for B2B fields</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkgICAgICAgICAgICAgICAgRUxTRSAnJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFbmQgYXMgVGVuZGVyVHlwZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkgICAgICAgICAgICwgQ2FzZSBJc051bGwoaC5QYXltZW50VHlwZSwgJycpIFdoZW4gJ09wZW5QYXknIFRoZW4gJzkxJwo=</text>
+        <text encoding="base64">CQkgICAgICAgICAgICAgICAgRUxTRSAnJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJICAgIEVsc2UgJ0hEMScK</text>
+        <text encoding="base64">CQkgICAgICAgICAgICwgQ2FzZSBJc051bGwoaC5QYXltZW50VHlwZSwgJycpIFdoZW4gJ09wZW5QYXknIFRoZW4gJzkxJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkgICAgICAgIFRoZW4gJ0NDMScK</text>
+        <text encoding="base64">CQkJCQkJICAgIEVsc2UgJ0hEMScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkgICAgV0hFTiBoLkNvbGxlY3RGbGFnID0gMSAgCg==</text>
+        <text encoding="base64">CQkJCQkgICAgICAgIFRoZW4gJ0NDMScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICgnU1REJywgJ0hEMScpLCAK</text>
+        <text encoding="base64">CQkJCQkgICAgV0hFTiBoLkNvbGxlY3RGbGFnID0gMSAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICgnU1REJywgJ0hEMScpLCAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
