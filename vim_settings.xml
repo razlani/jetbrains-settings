@@ -117,6 +117,18 @@
     <globalmarks />
     <filemarks>
       <file name="/app/89f25c05-7785-4bac-8289-7f8163f0d24d/database/MORPRocessingE/schema/Mor/routine/CreateStageTransactionData.sql" timestamp="1592380736597" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/63520200212100005 CREATE View DataLake.vwFinanceDetailReward.sql" timestamp="1592449310653">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/63520200212100003 CREATE View DataLake.vwFinanceDetail.sql" timestamp="1592449210169">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.FinanceHeader.sql" timestamp="1592369164872" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1592380815742">
         <mark key="'" line="0" column="0" />
@@ -135,19 +147,19 @@
         <mark key="." line="207" column="0" />
         <mark key="^" line="212" column="38" />
       </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200615120000 ALTER mor.CreateStageTransactionData.rollback.sql" timestamp="1592359737467">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="5" />
-        <mark key="." line="42" column="4" />
-        <mark key="^" line="42" column="5" />
-      </file>
       <file name="/CreateStageTransactionData.sql" timestamp="1592372137164">
         <mark key="[" line="82" column="17" />
       </file>
-      <file name="/console" timestamp="1592368892948">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/63520200212100004 CREATE View DataLake.vwFinanceHeaderReward.sql" timestamp="1592449218380">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" timestamp="1592438419101" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/63520200212100007 CREATE View vwStageTransactionReward.sql" timestamp="1592449336997">
+        <mark key="[" line="0" column="3" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c176f6c-9598-44f9-8597-a55f987be83e/console.sql" timestamp="1592444559764">
         <mark key="'" line="79" column="0" />
         <mark key="[" line="77" column="40" />
@@ -155,20 +167,17 @@
         <mark key="^" line="70" column="16" />
         <mark key="." line="70" column="15" />
       </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200615120000 ALTER mor.CreateStageTransactionData.sql" timestamp="1592360566798">
-        <mark key="[" line="41" column="34" />
-        <mark key="]" line="41" column="61" />
-        <mark key="." line="41" column="60" />
-        <mark key="^" line="41" column="61" />
-      </file>
       <file name="/a.sql" timestamp="1592380842216">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/63520200212100006 CREATE View vwStageTransaction.sql" timestamp="1592449318377">
+        <mark key="[" line="0" column="3" />
       </file>
       <file name="/default" timestamp="1592380752064">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.StageTransaction.sql" timestamp="1592369216247" />
-      <file name="/Dummy.txt" timestamp="1592379162913">
+      <file name="/Dummy.txt" timestamp="1592449012846">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -179,14 +188,15 @@
         <mark key="." line="22" column="17" />
         <mark key="^" line="22" column="18" />
       </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/63520200212100002 CREATE View DataLake.vwFinanceHeader.sql" timestamp="1592443959950" />
-      <file name="/console_1" timestamp="1592368841852">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/63520200212100002 CREATE View DataLake.vwFinanceHeader.sql" timestamp="1592449202477">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="/console_2" timestamp="1592369132759">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200609130600 ALTER mor.FinanceDetail.sql" timestamp="1592368848228" />
     </filemarks>
     <jumps>
       <jump line="83" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" />
