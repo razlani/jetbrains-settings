@@ -116,17 +116,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200615120000 CREATE Table Mor.ShipTransactionType.sql" timestamp="1592540751561">
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="21" column="28" />
-        <mark key="." line="21" column="28" />
-        <mark key="^" line="2" column="54" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592542552023">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/ShipTransactionType.sql" timestamp="1592540579742">
         <mark key="[" line="19" column="20" />
         <mark key="]" line="19" column="30" />
@@ -139,11 +128,10 @@
         <mark key="." line="11" column="44" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" timestamp="1592526977653">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
+      <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" timestamp="1592543378173">
+        <mark key="[" line="43" column="4" />
+        <mark key="]" line="43" column="4" />
+        <mark key="." line="43" column="4" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200615120000 CREATE Table Mor.ShipTransactionType.rollback.sql" timestamp="1592535242498">
         <mark key="[" line="11" column="28" />
@@ -157,12 +145,47 @@
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c176f6c-9598-44f9-8597-a55f987be83e/console.sql" timestamp="1592527001299">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c176f6c-9598-44f9-8597-a55f987be83e/console.sql" timestamp="1592543592526">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="69" column="0" />
         <mark key="]" line="101" column="0" />
         <mark key="^" line="101" column="0" />
         <mark key="." line="101" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200615120000 ALTER mor.CreateStageTransactionData.sql" timestamp="1592543657562">
+        <mark key="[" line="268" column="26" />
+        <mark key="]" line="268" column="30" />
+        <mark key="." line="268" column="29" />
+        <mark key="^" line="268" column="30" />
+      </file>
+      <file name="/a.sql" timestamp="1592543447216">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/console 1" timestamp="1592533576413">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/PaymentTenderType.sql" timestamp="1592540631512">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="14" column="37" />
+      </file>
+      <file name="/default" timestamp="1592543392703">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1592533630626">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200615120000 CREATE Table Mor.ShipTransactionType.sql" timestamp="1592543251505">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="21" column="28" />
+        <mark key="^" line="2" column="54" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592542552023">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200615120000 CREATE Table Mor.TransactionType.sql" timestamp="1592533852102">
         <mark key="[" line="25" column="0" />
@@ -170,20 +193,11 @@
         <mark key="^" line="20" column="28" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200615120000 ALTER mor.CreateStageTransactionData.sql" timestamp="1592542461213">
-        <mark key="[" line="268" column="26" />
-        <mark key="]" line="268" column="30" />
-        <mark key="." line="268" column="29" />
-        <mark key="^" line="268" column="30" />
-      </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200615120000 CREATE Table Mor.PaymentTenderType.sql" timestamp="1592540625607">
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200615120000 CREATE Table Mor.PaymentTenderType.sql" timestamp="1592543303566">
         <mark key="[" line="21" column="28" />
         <mark key="]" line="21" column="38" />
         <mark key="^" line="21" column="38" />
         <mark key="." line="21" column="37" />
-      </file>
-      <file name="/a.sql" timestamp="1592533617239">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" timestamp="1592542432406">
         <mark key="[" line="268" column="26" />
@@ -197,21 +211,8 @@
         <mark key="." line="11" column="42" />
         <mark key="^" line="11" column="43" />
       </file>
-      <file name="/console 1" timestamp="1592533576413">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/PaymentTenderType.sql" timestamp="1592540631512">
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="19" column="20" />
-        <mark key="." line="19" column="20" />
-        <mark key="^" line="14" column="37" />
-      </file>
-      <file name="/dummy.sql" timestamp="1592533630626">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" />
       <jump line="22" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Extensions/TypeLoaderExtensions.cs" />
       <jump line="37" column="51" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" />
       <jump line="170" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
@@ -311,15 +312,16 @@
       <jump line="221" column="28" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
       <jump line="171" column="0" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
       <jump line="0" column="0" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="271" column="56" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>change type of index to clustered</text>
+      <register name="&quot;" type="4">
+        <text>ALTER</text>
       </register>
       <register name="-" type="4">
-        <text>nonclustered</text>
+        <text>ALTER</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</text>
