@@ -5,26 +5,26 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb2xsZWN0aW9uTmFtZVw+</entry>
-        <entry encoding="base64">XDxfYWxjU3RhdHVzTWVzc2FnZVB1Ymxpc2hlclw+</entry>
-        <entry encoding="base64">XDxBUFBMSUNBVElPTl9OQU1FXD4=</entry>
-        <entry encoding="base64">XDxOYW1lXD4=</entry>
-        <entry encoding="base64">XDxPd25lclw+</entry>
-        <entry encoding="base64">XDxQbGF0Zm9ybVw+</entry>
-        <entry encoding="base64">XDxTeXN0ZW1cPg==</entry>
-        <entry encoding="base64">XDxjb21tb25fdGFnc1w+</entry>
-        <entry encoding="base64">XDxfYXJ0aWNsZU1ldGFkYXRhUmVwb3NpdG9yeVw+</entry>
-        <entry encoding="base64">XDxtZXNzYWdlSGFuZGxlcnNcPg==</entry>
-        <entry encoding="base64">XDxfc2V0dGluZ3NSZXBvc2l0b3J5XD4=</entry>
-        <entry encoding="base64">XDxTZXR0aW5nS2V5XD4=</entry>
-        <entry encoding="base64">XDxfbWVzc2FnZUhhbmRsZXJzXD4=</entry>
-        <entry encoding="base64">XDxCdWlsZEFydGljbGVJbnZlbnRvcmllc1w+</entry>
-        <entry encoding="base64">XDxUXD4=</entry>
-        <entry encoding="base64">XDxhcnRpY2xlSW52ZW50b3J5UnVsZXNcPg==</entry>
-        <entry encoding="base64">XDxfYXJ0aWNsZUludmVudG9yeVJ1bGVzXD4=</entry>
-        <entry encoding="base64">XDxfc2V0dGluZ3NTZXJ2aWNlTW9ja1w+</entry>
-        <entry encoding="base64">XDxNb2NrU2V0dGluZ1w+</entry>
-        <entry encoding="base64">XDxzZWNvbmRfdG9fbGFzdFw+</entry>
+        <entry encoding="base64">XDxNYXRjaEFydGljbGVVb21cPg==</entry>
+        <entry encoding="base64">XDxfYXJ0aWNsZU1hc3RlckNvbnN1bWVyU2VydmljZVw+</entry>
+        <entry encoding="base64">XDxHZXRNZXRhZGF0YUZyb21BcnRpY2xlU2VydmljZVw+</entry>
+        <entry encoding="base64">XDxHZXRCeVBhcmVudFw+</entry>
+        <entry encoding="base64">XDxfYXBpQmFzZVVybFw+</entry>
+        <entry encoding="base64">XDxBcGlCYXNlVXJsXD4=</entry>
+        <entry encoding="base64">XDxtZXRhZGF0YUxpc3RcPg==</entry>
+        <entry encoding="base64">XDxfY29uZmlndXJhdGlvbk1vY2tcPg==</entry>
+        <entry encoding="base64">XDxjb25maWd1cmF0aW9uXD4=</entry>
+        <entry encoding="base64">XDxfbG9nZ2VyXD4=</entry>
+        <entry encoding="base64">XDxhcnRpY2xlU29oXD4=</entry>
+        <entry encoding="base64">XDxfaHR0cENsaWVudFw+</entry>
+        <entry encoding="base64">XDxfc2V0dGluZ3NTZXJ2aWNlXD4=</entry>
+        <entry encoding="base64">XDxUcnlGZXRjaEFydGljbGVJbnZlbnRvcnlcPg==</entry>
+        <entry encoding="base64">XDxQcm9jZXNzQXJ0aWNsZUZhbWlseVw+</entry>
+        <entry encoding="base64">XDxGZXRjaEFydGljbGVGYW1pbHlGcm9tUGFyZW50XD4=</entry>
+        <entry encoding="base64">XDxJTlNFUlRFRFw+</entry>
+        <entry encoding="base64">XDxHZW5lcmF0ZVVyaVw+</entry>
+        <entry encoding="base64">XDxTYXZlQ2hpbGRNZXRhRGF0YVw+</entry>
+        <entry encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -108,268 +108,259 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="vim_settings.xml" timestamp="1589850266977">
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/PaymentTenderType" timestamp="1592528718234" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/63520200212100005 CREATE View DataLake.vwFinanceDetailReward.sql" timestamp="1592449310653">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200615120000 CREATE Table Mor.TransactionType.rollback.sql" timestamp="1592463799635">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="43" />
+        <mark key="." line="11" column="42" />
+        <mark key="^" line="11" column="43" />
+      </file>
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/63520200212100004 CREATE View DataLake.vwFinanceHeaderReward.sql" timestamp="1592449218380">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" timestamp="1592526977653">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/63520200212100007 CREATE View vwStageTransactionReward.sql" timestamp="1592449336997">
+        <mark key="[" line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/TransactionType.sql" timestamp="1592528670862">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="14" />
+        <mark key="^" line="14" column="14" />
+        <mark key="." line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200615120000 ALTER mor.CreateStageTransactionData.sql" timestamp="1592530261189">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="5" />
+        <mark key="." line="43" column="4" />
+        <mark key="^" line="43" column="5" />
+      </file>
+      <file name="/a.sql" timestamp="1592462535600">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/pies-article-consumer-functions/src/Wow.Inventory.ArticleConsumer/local.settings.json" timestamp="1589940003772">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="61" />
-        <mark key="^" line="11" column="61" />
-        <mark key="." line="11" column="60" />
+      <file name="$USER_HOME$/git/projects/Databases/Src/Databases/ECF.SQLRun.Upgrade/60020191004010000 CREATE Replicate ECF_TMP_Order_Detail.rollback.sql" timestamp="1592462870108" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/PaymentTenderType.sql" timestamp="1592528764990">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591360031273">
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200615120000 CREATE Table Mor.PaymentTenderType.sql" timestamp="1592530233524">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="6" />
+        <mark key="^" line="1" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200615120000 CREATE Table Mor.PaymentTenderType.rollback.sql" timestamp="1592463954094">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="45" />
+        <mark key="." line="11" column="44" />
+        <mark key="^" line="11" column="45" />
+      </file>
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" timestamp="1592526290633">
+        <mark key="[" line="175" column="34" />
+        <mark key="]" line="175" column="44" />
+        <mark key="." line="175" column="43" />
+        <mark key="^" line="175" column="44" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c176f6c-9598-44f9-8597-a55f987be83e/console.sql" timestamp="1592527001299">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="^" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/Databases/Src/Databases/ECF.SQLRun.Upgrade/63120191108100062 CREATE Table ECF_Web_Supply_Log.sql" timestamp="1592463172399" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/63520200212100006 CREATE View vwStageTransaction.sql" timestamp="1592449318377">
+        <mark key="[" line="0" column="3" />
+      </file>
+      <file name="/dummy.sql" timestamp="1592462562554">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592528926832">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IntegrationTests/ArticleInventoryRuleIntegrationTests.cs" timestamp="1589869811782">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/rustlings/exercises/option/option2.rs" timestamp="1591528449503">
-        <mark key="'" line="8" column="52" />
-        <mark key="[" line="22" column="34" />
-        <mark key="]" line="8" column="53" />
-        <mark key="^" line="8" column="53" />
-        <mark key="." line="8" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/rustlings/exercises/error_handling/option1.rs" timestamp="1591518588130">
-        <mark key="'" line="20" column="12" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" timestamp="1589933348657">
-        <mark key="'" line="114" column="55" />
-        <mark key="[" line="81" column="71" />
-        <mark key="]" line="14" column="64" />
-        <mark key="." line="14" column="63" />
-        <mark key="^" line="14" column="64" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" timestamp="1589869539569">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="51" column="59" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryTestData.cs" timestamp="1589513530666">
-        <mark key="'" line="165" column="0" />
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="0" />
-        <mark key="." line="160" column="0" />
-        <mark key="^" line="159" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/rustlings/exercises/option/option1.rs" timestamp="1591520341003">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="12" />
-        <mark key="." line="21" column="11" />
-        <mark key="^" line="21" column="12" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/NewFile1.txt" timestamp="1589853116046">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" timestamp="1589869652638">
-        <mark key="'" line="46" column="12" />
-        <mark key="[" line="134" column="45" />
-        <mark key="]" line="134" column="51" />
-        <mark key="^" line="134" column="51" />
-        <mark key="." line="134" column="50" />
-      </file>
-      <file name="/Dummy.cs" timestamp="1589791525538">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IntegrationTests/IArticleInventoryRuleTests.cs" timestamp="1589774061678">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="15" />
-        <mark key="." line="15" column="14" />
-        <mark key="^" line="15" column="15" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" timestamp="1589863531372">
-        <mark key="'" line="150" column="0" />
-        <mark key="[" line="28" column="33" />
-        <mark key="]" line="28" column="35" />
-        <mark key="^" line="28" column="35" />
-        <mark key="." line="28" column="34" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2A925EDF-E558-4632-978E-98FD8509CDF4/c7/d49caeef/ClassDataAttribute.cs" timestamp="1589515246769">
-        <mark key="[" line="16" column="137" />
-        <mark key="]" line="16" column="137" />
-        <mark key="^" line="16" column="137" />
-        <mark key="." line="16" column="136" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Extensions/TypeLoaderExtensions.cs" timestamp="1589852942601">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="22" column="38" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/testy3/src/main.rs" timestamp="1591528332298">
-        <mark key="'" line="10" column="10" />
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="14" />
-        <mark key="^" line="20" column="14" />
-        <mark key="." line="20" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/rustlings/exercises/generics/generics1.rs" timestamp="1591528567595">
-        <mark key="[" line="6" column="31" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="3" column="12" />
-        <mark key="^" line="3" column="13" />
+      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200615120000 CREATE Table Mor.TransactionType.sql" timestamp="1592530240894">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="6" />
+        <mark key="^" line="1" column="7" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" />
-      <jump line="11" column="33" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
-      <jump line="72" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" />
-      <jump line="22" column="26" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/EventHubPublisher.cs" />
-      <jump line="13" column="31" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
-      <jump line="66" column="26" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/ArticleSohInventoryService.cs" />
-      <jump line="69" column="67" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/ArticleSohInventoryService.cs" />
-      <jump line="109" column="34" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleSohMessageProcessor.cs" />
-      <jump line="121" column="22" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleSohMessageProcessor.cs" />
-      <jump line="38" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/ArticleSohMessageProcessor.cs" />
-      <jump line="49" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
-      <jump line="19" column="48" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
-      <jump line="27" column="48" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Messaging/MessagePublisherBase.cs" />
-      <jump line="16" column="29" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/ArticleSohInventoryService.cs" />
-      <jump line="13" column="52" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/AlcStatusMessageProcessor.cs" />
-      <jump line="22" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Processors/AlcStatusMessageProcessor.cs" />
-      <jump line="27" column="79" filename="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" />
-      <jump line="13" column="4" filename="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" />
-      <jump line="14" column="4" filename="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" />
-      <jump line="15" column="4" filename="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" />
-      <jump line="16" column="4" filename="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" />
-      <jump line="65" column="35" filename="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" />
-      <jump line="82" column="45" filename="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" />
-      <jump line="9" column="2" filename="$USER_HOME$/git/projects/flash/eventhub-consumer-group/src/main.tf" />
-      <jump line="108" column="49" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
-      <jump line="30" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
-      <jump line="50" column="40" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
-      <jump line="25" column="41" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" />
-      <jump line="15" column="39" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" />
-      <jump line="68" column="8" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryRulesTests.cs" />
-      <jump line="10" column="45" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/SettingsService.cs" />
-      <jump line="14" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/SettingsService.cs" />
-      <jump line="19" column="32" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Services/SettingsService.cs" />
-      <jump line="21" column="29" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryRulesTests.cs" />
-      <jump line="16" column="55" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryRulesTests.cs" />
-      <jump line="28" column="56" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
-      <jump line="29" column="90" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
-      <jump line="25" column="8" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
-      <jump line="26" column="47" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
-      <jump line="21" column="54" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" />
-      <jump line="28" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" />
-      <jump line="33" column="39" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
-      <jump line="16" column="43" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
-      <jump line="79" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
-      <jump line="64" column="52" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryRuleTests.cs" />
-      <jump line="29" column="77" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" />
-      <jump line="216" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" />
-      <jump line="33" column="47" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
-      <jump line="19" column="60" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
-      <jump line="32" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesEachMultiplierChangedMessageHandler.cs" />
-      <jump line="19" column="60" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" />
-      <jump line="32" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" />
-      <jump line="34" column="47" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
-      <jump line="24" column="60" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
-      <jump line="23" column="60" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
-      <jump line="41" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
-      <jump line="165" column="49" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
-      <jump line="0" column="6" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/PiesMaximumWeightChangedMessageHandler.cs" />
-      <jump line="49" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/RandomWeightArticleRule.cs" />
-      <jump line="5" column="17" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" />
-      <jump line="36" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" />
-      <jump line="6" column="45" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/SohRoundingRule.cs" />
-      <jump line="7" column="17" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" />
-      <jump line="5" column="17" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/RandomWeightArticleRule.cs" />
-      <jump line="42" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
-      <jump line="168" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" />
-      <jump line="165" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/IArticleInventoryTestData.cs" />
-      <jump line="103" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/RandomWeightArticleInventoryRuleTests.cs" />
-      <jump line="165" column="19" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" />
-      <jump line="168" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" />
-      <jump line="150" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" />
-      <jump line="163" column="51" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" />
-      <jump line="151" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/ArticleInventoryTestData.cs" />
-      <jump line="19" column="39" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" />
-      <jump line="14" column="48" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
-      <jump line="18" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
-      <jump line="26" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
-      <jump line="38" column="55" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
-      <jump line="51" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
-      <jump line="63" column="55" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
-      <jump line="77" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
-      <jump line="89" column="55" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
-      <jump line="102" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
-      <jump line="114" column="55" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Rules/DerangedArticleOverrideRuleTests.cs" />
-      <jump line="20" column="39" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" />
-      <jump line="64" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" />
-      <jump line="83" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" />
-      <jump line="97" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" />
-      <jump line="117" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" />
-      <jump line="134" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" />
-      <jump line="33" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" />
       <jump line="46" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" />
       <jump line="22" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Extensions/TypeLoaderExtensions.cs" />
-      <jump line="17" column="16" filename="$USER_HOME$/Documents/rustlings/exercises/error_handling/option1.rs" />
-      <jump line="20" column="12" filename="$USER_HOME$/Documents/rustlings/exercises/error_handling/option1.rs" />
-      <jump line="33" column="0" filename="$USER_HOME$/CLionProjects/testy3/src/main.rs" />
-      <jump line="22" column="0" filename="$USER_HOME$/Documents/rustlings/exercises/option/option1.rs" />
-      <jump line="10" column="10" filename="$USER_HOME$/CLionProjects/testy3/src/main.rs" />
-      <jump line="8" column="52" filename="$USER_HOME$/Documents/rustlings/exercises/option/option2.rs" />
+      <jump line="37" column="51" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" />
+      <jump line="170" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="86" column="22" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="130" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="6" column="17" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Models/ArticleMetadata.cs" />
+      <jump line="161" column="44" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="106" column="47" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" />
+      <jump line="48" column="46" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" />
+      <jump line="74" column="43" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" />
+      <jump line="66" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" />
+      <jump line="41" column="51" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="30" column="40" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="52" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="131" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="98" column="39" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
+      <jump line="36" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerService.cs" />
+      <jump line="55" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
+      <jump line="113" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
+      <jump line="16" column="36" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
+      <jump line="22" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
+      <jump line="16" column="55" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerService.cs" />
+      <jump line="31" column="55" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" />
+      <jump line="49" column="19" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
+      <jump line="52" column="39" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
+      <jump line="44" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" />
+      <jump line="27" column="8" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" />
+      <jump line="35" column="8" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" />
+      <jump line="47" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" />
+      <jump line="29" column="74" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" />
+      <jump line="751" column="50" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/110913F5-65B9-4BF7-8200-2B7F7096D12E/3C/HttpClient.cs" />
+      <jump line="27" column="16" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/110913F5-65B9-4BF7-8200-2B7F7096D12E/3C/HttpClient.cs" />
+      <jump line="83" column="33" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
+      <jump line="27" column="55" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="57" column="50" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerService.cs" />
+      <jump line="45" column="60" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerService.cs" />
+      <jump line="62" column="43" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerService.cs" />
+      <jump line="30" column="49" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerService.cs" />
+      <jump line="72" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" />
+      <jump line="52" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.json" />
+      <jump line="18" column="23" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
+      <jump line="42" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
+      <jump line="21" column="33" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
+      <jump line="116" column="22" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
+      <jump line="24" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" />
+      <jump line="50" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" />
+      <jump line="18" column="37" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" />
+      <jump line="37" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" />
+      <jump line="39" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/UnitTest.cs" />
+      <jump line="12" column="64" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleServiceMetadataBuilder.cs" />
+      <jump line="15" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleServiceMetadataBuilder.cs" />
+      <jump line="30" column="16" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleServiceMetadataBuilder.cs" />
+      <jump line="57" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleServiceMetadataBuilder.cs" />
+      <jump line="41" column="8" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleServiceMetadataBuilderTests.cs" />
+      <jump line="34" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" />
+      <jump line="63" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" />
+      <jump line="53" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
+      <jump line="32" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory.SohConsumer/SohEventHubTrigger.cs" />
+      <jump line="98" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="52" column="62" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Factories/ArticleInventoryFactory.cs" />
+      <jump line="29" column="37" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" />
+      <jump line="41" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" />
+      <jump line="81" column="0" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 Update mor.FinanceHeader.rollback.sql" />
+      <jump line="14" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" />
+      <jump line="141" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="101" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="85" column="22" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="116" column="51" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="18" column="33" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/FinanceHeader.sql" />
+      <jump line="86" column="0" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/FinanceHeader.sql" />
+      <jump line="55" column="47" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/StageTransaction.sql" />
+      <jump line="126" column="81" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="219" column="101" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="316" column="16" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="348" column="16" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="74" column="17" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="75" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleServiceProxy.cs" />
+      <jump line="39" column="32" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="368" column="37" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="80" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMetadataService.cs" />
+      <jump line="91" column="57" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="55" column="70" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2c176f6c-9598-44f9-8597-a55f987be83e/console.sql" />
+      <jump line="61" column="70" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="371" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
+      <jump line="56" column="45" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="400" column="0" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" />
+      <jump line="223" column="22" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" />
+      <jump line="79" column="17" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" />
+      <jump line="168" column="21" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" />
+      <jump line="110" column="74" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" />
+      <jump line="97" column="10" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" />
+      <jump line="79" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2c176f6c-9598-44f9-8597-a55f987be83e/console.sql" />
+      <jump line="400" column="0" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="61" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2c176f6c-9598-44f9-8597-a55f987be83e/console.sql" />
+      <jump line="62" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2c176f6c-9598-44f9-8597-a55f987be83e/console.sql" />
+      <jump line="221" column="28" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="171" column="0" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="0" column="0" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gSSBBTSBOT1QgRE9ORQo=</text>
+      <register name="&quot;" type="2">
+        <text>de-couple table variables into full fledged sql tables</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>S</text>
+      <register name="-" type="4">
+        <text>CREATE</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</text>
+      </register>
+      <register name="1" type="2">
+        <text>de-couple table variables into full fledged sql tables</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gSSBBTSBOT1QgRE9ORQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gSSBBTSBOT1QgRE9ORQo=</text>
+        <text encoding="base64">ICAgICAgICBCRUdJTiBUUkFOIEluc2VydFN0YWdlVHJhbnNhY3Rpb25zCiAgICAgICAgICAgIElOU0VSVCBJTlRPIG1vci5TdGFnZVRyYW5zYWN0aW9uCiAgICAgICAgICAgIChGaW5hbmNlSGVhZGVySWQKICAgICAgICAgICAgLFJldGFpbFN0b3JlSWQKICAgICAgICAgICAgLFRyYW5zYWN0aW9uRGF0ZVRpbWVMb2NhbAogICAgICAgICAgICAsVHJhbnNhY3Rpb25EYXRlVGltZVV0YwogICAgICAgICAgICAsVHJhbnNhY3Rpb25UeXBlQ29kZQogICAgICAgICAgICAsV29ya1N0YXRpb25JZAogICAgICAgICAgICAsVHJhbnNhY3Rpb25TZXF1ZW5jZU51bWJlcgogICAgICAgICAgICAsUmVjb3JkUXVhbGlmaWVyCiAgICAgICAgICAgICxCZWdpbkRhdGVUaW1lU3RhbXBVdGMKICAgICAgICAgICAgLE9yZGVyRGF0ZQogICAgICAgICAgICAsT25lQ2FyZE51bWJlcgogICAgICAgICAgICAsUmVkZW1wdGlvbkFtb3VudAogICAgICAgICAgICAsT3JkZXJOdW1iZXIKICAgICAgICAgICAgLEV4dGVybmFsT3JkZXJOdW1iZXIKICAgICAgICAgICAgLFJldGFpbFF1YW50aXR5CiAgICAgICAgICAgICxUb3RhbFNhbGVzCiAgICAgICAgICAgICxUb3RhbFRheAogICAgICAgICAgICAsVG90YWxTYWxlc1RheGFibGUKICAgICAgICAgICAgLE9yZGVyU291cmNlCiAgICAgICAgICAgICxHaWZ0RmxhZwogICAgICAgICAgICAsU2hpcFRvU3RhdGUKICAgICAgICAgICAgLFNoaXBTbWFydEZsYWcKICAgICAgICAgICAgLFNoaXBTbWFydFJlZ2lvbgogICAgICAgICAgICAsQ29ycG9yYXRlRmxhZwogICAgICAgICAgICAsRmlyc3RPcmRlckZsYWcKICAgICAgICAgICAgLFJlcGxhY2VtZW50RmxhZwogICAgICAgICAgICAsQ291cmllcgogICAgICAgICAgICAsU291cmNlQnJhbmQKICAgICAgICAgICAgLFByb21vQ29kZQogICAgICAgICAgICAsUGFyZW50T3JkZXJOdW1iZXIKICAgICAgICAgICAgLFNob3BwZXJJZAogICAgICAgICAgICAsVHJhZGluZ0FjY291bnRJZAogICAgICAgICAgICAsUGF5bWVudElkCiAgICAgICAgICAgICxUZW5kZXJUeXBlCiAgICAgICAgICAgICkKICAgICAgICAgICAgT1VUUFVUIElOU0VSVEVELlN0YWdlVHJhbnNhY3Rpb25JZCwgSU5TRVJURUQuRmluYW5jZUhlYWRlcklkLCBudWxsIElOVE8gQFN0YWdlVHJhbnNhY3Rpb25JZHMKICAgICAgICAgICAgU2VsZWN0IGguRmluYW5jZUhlYWRlcklkCiAgICAgICAgICAgICAgICAgLCBDYXN0KGguQnJhbmNoTnVtYmVyIGFzIFZhcmNoYXIoMTApKSBhcyBSZXRhaWxTdG9yZUlkCiAgICAgICAgICAgICAgICAgLCBoLlRyYW5zYWN0aW9uRGF0ZVRpbWUgYXMgVHJhbnNhY3Rpb25EYXRlVGltZUxvY2FsCiAgICAgICAgICAgICAgICAgLCBoLlRyYW5zYWN0aW9uRGF0ZVRpbWVVdGMgQXMgVHJhbnNhY3Rpb25EYXRlVGltZVV0YwogICAgICAgICAgICAgICAgICwgQ0FTRSBXSEVOIHR0LlRyYW5zYWN0aW9uVHlwZUNvZGUgSVMgTk9UIE5VTEwgVEhFTiB0dC5UcmFuc2FjdGlvblR5cGVDb2RlCiAgICAgICAgICAgICAgICAgICAgICAgIFdIRU4gaC5Db2xsZWN0RmxhZyA9IDEKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRoZW4gJ0NDMScKICAgICAgICAgICAgICAgICAgICAgICAgRWxzZSAnSEQxJwogICAgICAgICAgICAgICAgRW5kIGFzIFRyYW5zYWN0aW9uVHlwZUNvZGUKICAgICAgICAgICAgICAgICAsIDEwMSBhcyBXb3JrU3RhdGlvbklkCiAgICAgICAgICAgICAgICAgLCBjYXN0KGNhc3QoaC5GaW5hbmNlSGVhZGVySWQgYXMgdmFyY2hhcigxMCkpICsgcmlnaHQoJzAwMDAwMDAwMCcgKyBDYXN0KGguT3JkZXJOdW1iZXIgYXMgdmFyY2hhcigxMCkpLCA5KSBhcyBCaWdJbnQpIGFzIFRyYW5zYWN0aW9uU2VxdWVuY2VOdW1iZXIKICAgICAgICAgICAgICAgICAsICcxMDAwJyBhcyBSZWNvcmRRdWFsaWZpZXIKICAgICAgICAgICAgICAgICAsIEdldFVUQ2RhdGUoKSBhcyBCZWdpbkRhdGVUaW1lU3RhbXAKICAgICAgICAgICAgICAgICAsIGguT3JkZXJEYXRlCiAgICAgICAgICAgICAgICAgLCBoLk9uZUNhcmROdW1iZXIKICAgICAgICAgICAgICAgICAsIGguUmVkZW1wdGlvbkFtb3VudAogICAgICAgICAgICAgICAgICwgaC5PcmRlck51bWJlcgogICAgICAgICAgICAgICAgICwgaC5FeHRlcm5hbE9yZGVyTnVtYmVyCiAgICAgICAgICAgICAgICAgLCB0LlRvdGFsUXVhbnRpdHlXZWlnaHROZXQgKyB0LlRvdGFsUXVhbnRpdHlTdXBwbGllZE5ldCAvKiBDb3VudCBLRyBpdGVtcyBhbmQgU3VtIEVBQ0ggLSB1c2VkIGZvciBTYWxlcyByZXBvcnRpbmcgKi8KICAgICAgICAgICAgICAgICAsIGguVG90YWxTYWxlcwogICAgICAgICAgICAgICAgICwgaC5Ub3RhbFRheAogICAgICAgICAgICAgICAgICwgaC5Ub3RhbFNhbGVzVGF4YWJsZQogICAgICAgICAgICAgICAgICwgaC5PcmRlclNvdXJjZQogICAgICAgICAgICAgICAgICwgaC5HaWZ0RmxhZwogICAgICAgICAgICAgICAgICwgaC5TaGlwVG9TdGF0ZQogICAgICAgICAgICAgICAgICwgaC5TaGlwU21hcnRGbGFnCiAgICAgICAgICAgICAgICAgLCBoLlNoaXBTbWFydFJlZ2lvbgogICAgICAgICAgICAgICAgICwgaC5Db3Jwb3JhdGVGbGFnCiAgICAgICAgICAgICAgICAgLCBoLkZpcnN0T3JkZXJGbGFnCiAgICAgICAgICAgICAgICAgLCBoLlJlcGxhY2VtZW50RmxhZwogICAgICAgICAgICAgICAgICwgaC5Db3VyaWVyCiAgICAgICAgICAgICAgICAgLCBoLlNvdXJjZUJyYW5kCiAgICAgICAgICAgICAgICAgLCBoLlByb21vQ29kZQogICAgICAgICAgICAgICAgICwgaC5QYXJlbnRPcmRlck51bWJlcgogICAgICAgICAgICAgICAgICwgaC5TaG9wcGVySWQKICAgICAgICAgICAgICAgICAsIGguVHJhZGluZ0FjY291bnRJZAogICAgICAgICAgICAgICAgICwgaC5QYXltZW50SWQKICAgICAgICAgICAgICAgICAsIENBU0UgV0hFTiBwdC5QYXltZW50VHlwZSBJUyBOT1QgTlVMTCBUSEVOIHB0LlRlbmRlclR5cGUKICAgICAgICAgICAgICAgICAgICAgICAgRUxTRSBOVUxMCiAgICAgICAgICAgICAgICBFbmQgYXMgVGVuZGVyVHlwZQogICAgICAgICAgICBGUk9NIEBTZWxlY3RIZWFkZXIgcyBpbm5lciBqb2luIG1vci5GaW5hbmNlSGVhZGVyIGggb24gcy5GaW5hbmNlSGVhZGVySWQ9aC5GaW5hbmNlSGVhZGVySWQgaW5uZXIgam9pbiAoc2VsZWN0IEZpbmFuY2VIZWFkZXJJZCwgaXNudWxsKHN1bShjYXNlIHdoZW4gUHJpY2luZ1VuaXQ9J0tHJyBhbmQgUXVhbnRpdHlTdXBwbGllZE5ldD4wIHRoZW4gMSB3aGVuIFByaWNpbmdVbml0PSdLRycgYW5kIFF1YW50aXR5U3VwcGxpZWROZXQ8MCB0aGVuIC0xIHdoZW4gaXNudWxsKFF1YW50aXR5V2VpZ2h0TmV0LDApPTAgdGhlbiAwIHdoZW4gUXVhbnRpdHlXZWlnaHROZXQ+MCB0aGVuIDEgZWxzZSAtMSBlbmQpLDApIFRvdGFsUXVhbnRpdHlXZWlnaHROZXQsIGlzbnVsbChzdW0oY2FzZSB3aGVuIFByaWNpbmdVbml0PSdLRycgdGhlbiAwIHdoZW4gaXNudWxsKFF1YW50aXR5V2VpZ2h0TmV0LDApPTAgdGhlbiBRdWFudGl0eVN1cHBsaWVkTmV0IGVsc2UgbnVsbCBlbmQpLDApIFRvdGFsUXVhbnRpdHlTdXBwbGllZE5ldCBmcm9tIG1vci5GaW5hbmNlRGV0YWlsIGdyb3VwIGJ5IEZpbmFuY2VIZWFkZXJJZCkgdCBvbiB0LkZpbmFuY2VIZWFkZXJJZD1oLkZpbmFuY2VIZWFkZXJJZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMRUZUIEpPSU4gbW9yLlRyYW5zYWN0aW9uVHlwZSB0dCBvbiB0dC5TaGlwVHlwZSA9IGguU2hpcFR5cGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTEVGVCBKT0lOIG1vci5QYXltZW50VGVuZGVyVHlwZSBwdCBvbiBwdC5QYXltZW50VHlwZSA9IGguUGF5bWVudFR5cGUKICAgICAgICAgICAgV2hlcmUgaC5GaW5hbmNlSGVhZGVySWQgTm90IElOCiAgICAgICAgICAgICAgICAgICgKICAgICAgICAgICAgICAgICAgICAgIFNlbGVjdAkJRmluYW5jZUhlYWRlcklkCiAgICAgICAgICAgICAgICAgICAgICBGcm9tCQkoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZWN0CQlGaW5hbmNlSGVhZGVySWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICwgSXNOdWxsKHN1bShRdWFudGl0eVN1cHBsaWVkTmV0KSwgMCkgYXMgUXR5U3VwcGxpZWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICwgSXNOdWxsKHN1bShMaW5lQW1vdW50TmV0KSwgMCkgYXMgTGluZUFtb3VudAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZyb20gbW9yLkZpbmFuY2VEZXRhaWwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBHcm91cCBCeSBGaW5hbmNlSGVhZGVySWQKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApIHRibAogICAgICAgICAgICAgICAgICAgICAgV2hlcmUgKFF0eVN1cHBsaWVkID0gMCBhbmQgTGluZUFtb3VudCA9IDApCiAgICAgICAgICAgICAgICAgICkKCiAgICAgICAgICAgIElOU0VSVCBJTlRPIG1vci5TdGFnZVRyYW5zYWN0aW9uCiAgICAgICAgICAgIChGaW5hbmNlSGVhZGVySWQKICAgICAgICAgICAgLEZpbmFuY2VEZXRhaWxJZAogICAgICAgICAgICAsUmV0YWlsU3RvcmVJZAogICAgICAgICAgICAsVHJhbnNhY3Rpb25EYXRlVGltZUxvY2FsCiAgICAgICAgICAgICxUcmFuc2FjdGlvbkRhdGVUaW1lVXRjCiAgICAgICAgICAgICxUcmFuc2FjdGlvblR5cGVDb2RlCiAgICAgICAgICAgICxXb3JrU3RhdGlvbklkCiAgICAgICAgICAgICxUcmFuc2FjdGlvblNlcXVlbmNlTnVtYmVyCiAgICAgICAgICAgICxSZWNvcmRRdWFsaWZpZXIKICAgICAgICAgICAgLE9yZGVyRGF0ZQogICAgICAgICAgICAsUmV0YWlsU2VxdWVuY2VOdW1iZXIKICAgICAgICAgICAgLFJldGFpbFR5cGVDb2RlCiAgICAgICAgICAgICxJdGVtSWQKICAgICAgICAgICAgLFJldGFpbFF1YW50aXR5CiAgICAgICAgICAgICxTYWxlc1VuaXRPZk1lYXN1cmUKICAgICAgICAgICAgLFNhbGVzQW1vdW50CiAgICAgICAgICAgICxUcmFkaW5nRGVwdENvZGUKICAgICAgICAgICAgLENvYXJzZURlcHRDb2RlCiAgICAgICAgICAgICxUYXhSYXRlCiAgICAgICAgICAgICxVbml0UHJpY2UKICAgICAgICAgICAgLEFydGljbGVOdW1iZXIKICAgICAgICAgICAgLEhpZXJhcmNoeU5vZGUKICAgICAgICAgICAgLFJSUAogICAgICAgICAgICAsUlJQRXhjbFRheAogICAgICAgICAgICAsU2VsbFVuaXRQcmljZQogICAgICAgICAgICAsTGluZUdyb3NzZXhjbFRheAogICAgICAgICAgICAsTGluZU5ldFRheAogICAgICAgICAgICAsUHJpY2luZ1R5cGUKICAgICAgICAgICAgKQogICAgICAgICAgICBPVVRQVVQgSU5TRVJURUQuU3RhZ2VUcmFuc2FjdGlvbklkLCBJTlNFUlRFRC5GaW5hbmNlSGVhZGVySWQsIElOU0VSVEVELkZpbmFuY2VEZXRhaWxJZCBJTlRPIEBTdGFnZVRyYW5zYWN0aW9uSWRzCiAgICAgICAgICAgIFNlbGVjdCAgIGZkLkZpbmFuY2VIZWFkZXJJZCAgQXMgRmluYW5jZUhlYWRlcklkCiAgICAgICAgICAgICAgICAgLCBmZC5GaW5hbmNlRGV0YWlsSWQgQXMgRmluYW5jZURldGFpbElkCiAgICAgICAgICAgICAgICAgLCBDYXN0KGZoLkJyYW5jaE51bWJlciBhcyBWYXJjaGFyKDEwKSkgYXMgUmV0YWlsU3RvcmVJZAogICAgICAgICAgICAgICAgICwgVHJhbnNhY3Rpb25EYXRlVGltZSBhcyBUcmFuc2FjdGlvbkRhdGVUaW1lTG9jYWwKICAgICAgICAgICAgICAgICAsIFRyYW5zYWN0aW9uRGF0ZVRpbWVVdGMgQXMgVHJhbnNhY3Rpb25EYXRlVGltZVV0YwogICAgICAgICAgICAgICAgICwgQ0FTRSBXSEVOIHR0LlRyYW5zYWN0aW9uVHlwZUNvZGUgSVMgTk9UIE5VTEwgVEhFTiB0dC5UcmFuc2FjdGlvblR5cGVDb2RlCiAgICAgICAgICAgICAgICAgICAgICAgIFdIRU4gZmguQ29sbGVjdEZsYWcgPSAxCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaGVuICdDQzEnCiAgICAgICAgICAgICAgICAgICAgICAgIEVsc2UgJ0hEMScKICAgICAgICAgICAgICAgIEVuZCBhcyBUcmFuc2FjdGlvblR5cGVDb2RlCiAgICAgICAgICAgICAgICAgLCAxMDEgYXMgV29ya1N0YXRpb25JZAogICAgICAgICAgICAgICAgICwgY2FzdChjYXN0KGZkLkZpbmFuY2VIZWFkZXJJZCBhcyB2YXJjaGFyKDEwKSkgKyByaWdodCgnMDAwMDAwMDAwJyArIENhc3QoZmQuT3JkZXJOdW1iZXIgYXMgdmFyY2hhcigxMCkpLCA5KSBhcyBCaWdJbnQpIGFzIFRyYW5zYWN0aW9uU2VxdWVuY2VOdW1iZXIKICAgICAgICAgICAgICAgICAsICcxMTAxJyBBcyBSZWNvcmRRdWFsaWZpZXIKICAgICAgICAgICAgICAgICAsIG51bGwgT3JkZXJEYXRlCiAgICAgICAgICAgICAgICAgLCBmZC5JbnZvaWNlTGluZU51bWJlciBBcyBSZXRhaWxTZXF1ZW5jZU51bWJlcgogICAgICAgICAgICAgICAgICwgQ2FzZQogICAgICAgICAgICAgICAgICAgICAgIFdoZW4gZmQuTGluZUFtb3VudE5ldCA8IDAgVGhlbiAnMjAwMycKICAgICAgICAgICAgICAgICAgICAgICBXaGVuIGZkLlF1YW50aXR5U3VwcGxpZWROZXQgPCAwIFRoZW4gJzIwMDMnCiAgICAgICAgICAgICAgICAgICAgICAgV2hlbiBmZC5HaWZ0Q2FyZEZsYWcgPSAxIFRoZW4gJzIwMDInCiAgICAgICAgICAgICAgICAgICAgICAgRWxzZSAnMjAwMScKICAgICAgICAgICAgICAgIEVuZCBBcyBSZXRhaWxUeXBlQ29kZQogICAgICAgICAgICAgICAgICwgZmQuQmFyY29kZSBBcyBJdGVtSWQKICAgICAgICAgICAgICAgICAsQ29hbGVzY2UoZmQuUXVhbnRpdHlXZWlnaHROZXQsIGZkLlF1YW50aXR5U3VwcGxpZWROZXQpIFJldGFpbFF1YW50aXR5IC0tIFBMVyA0LzUvMjAxNCBpZiB3ZSBoYXZlIHdlaWdodCB2YWx1ZSBmcm9tIGVhY2ggbXVsaXBsaWVyIHRoZW4gdXNlIGl0IGVsc2UgdXNlIG5vcm1hbCBzdXBwbGllZCBxdHkKICAgICAgICAgICAgICAgICAsIENhc2UgV2hlbiBmZC5QcmljaW5nVW5pdCA9ICdFYWNoJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgVGhlbiAnRUEnCiAgICAgICAgICAgICAgICAgICAgICAgIEVsc2UgZmQuUHJpY2luZ1VuaXQKICAgICAgICAgICAgICAgIEVuZCBBcyBTYWxlc1VuaXRPZk1lYXN1cmUKICAgICAgICAgICAgICAgICAsICBMaW5lQW1vdW50TmV0CWFzIFNhbGVzQW1vdW50CiAgICAgICAgICAgICAgICAgLCAgVHJhZGluZ0RlcHRDb2RlCiAgICAgICAgICAgICAgICAgLCAgQ29hcnNlRGVwdENvZGUKICAgICAgICAgICAgICAgICAsICBmZC5UYXhSYXRlCiAgICAgICAgICAgICAgICAgLCAgZmQuVW5pdFByaWNlCiAgICAgICAgICAgICAgICAgLCAgZmQuU3RvY2tDb2RlCiAgICAgICAgICAgICAgICAgLCAgZmQuSGllcmFyY2h5Tm9kZQogICAgICAgICAgICAgICAgICwgIGlzbnVsbChudWxsaWYoZmQuUlJQLDApLGNhc2Ugd2hlbiBmZC5wcmljaW5nVW5pdCA9ICdLRycgdGhlbiBjYXN0KHJvdW5kKCgxL2lzbnVsbChudWxsaWYoZmQuUXVhbnRpdHlXZWlnaHQsMCksZmQuUXVhbnRpdHlTdXBwbGllZCkpLDIpICogZmQubGluZWFtb3VudCBhcyBudW1lcmljKDksMikpIGVsc2UgZmQuU2VsbFVuaXRQcmljZSBlbmQpCiAgICAgICAgICAgICAgICAgLCAgaXNudWxsKG51bGxpZihmZC5SUlBFeGNsVGF4LDApLChjYXNlIHdoZW4gZmQucHJpY2luZ1VuaXQgPSAnS0cnIHRoZW4gY2FzdChyb3VuZCgoMS9pc251bGwobnVsbGlmKGZkLlF1YW50aXR5V2VpZ2h0LDApLGZkLlF1YW50aXR5U3VwcGxpZWQpKSwyKSAqIGZkLmxpbmVhbW91bnQgYXMgbnVtZXJpYyg5LDIpKSBlbHNlIGZkLlNlbGxVbml0UHJpY2UgZW5kKSAvICgxICsgKElTTlVMTChmZC5UYXhSYXRlLDApIC8gMTAwKSkpCiAgICAgICAgICAgICAgICAgLCAgY2FzZSB3aGVuIGZkLnByaWNpbmdVbml0ID0gJ0tHJyB0aGVuIGNhc3Qocm91bmQoKDEvaXNudWxsKG51bGxpZihmZC5RdWFudGl0eVdlaWdodCwwKSxmZC5RdWFudGl0eVN1cHBsaWVkKSksMikgKiBmZC5saW5lYW1vdW50IGFzIG51bWVyaWMoOSwyKSkgZWxzZSBmZC5TZWxsVW5pdFByaWNlIGVuZAogICAgICAgICAgICAgICAgICwgIGlzbnVsbChudWxsaWYoZmQuTGluZUdyb3NzZXhjbFRheCwwKSwoY2FzZSB3aGVuIGZkLnByaWNpbmdVbml0ID0gJ0tHJyB0aGVuIGNhc3Qocm91bmQoKDEvaXNudWxsKG51bGxpZihmZC5RdWFudGl0eVdlaWdodCwwKSxmZC5RdWFudGl0eVN1cHBsaWVkKSksMikgKiBmZC5saW5lYW1vdW50IGFzIG51bWVyaWMoOSwyKSkgZWxzZSBmZC5TZWxsVW5pdFByaWNlIGVuZCkgKiBDb2FsZXNjZShmZC5RdWFudGl0eVdlaWdodE5ldCwgZmQuUXVhbnRpdHlTdXBwbGllZE5ldCkgLyAoMSArIChJU05VTEwoZmQuVGF4UmF0ZSwwKSAvIDEwMCkpKQogICAgICAgICAgICAgICAgIC0tZmQuTGluZUdyb3NzZXhjbFRheAogICAgICAgICAgICAgICAgICwgIGZkLkxpbmVOZXRUYXgKICAgICAgICAgICAgICAgICAsICBmZC5QcmljaW5nVHlwZQogICAgICAgICAgICBGUk9NIG1vci5GaW5hbmNlRGV0YWlsIGZkCiAgICAgICAgICAgICAgICAgICAgIGlubmVyIGpvaW4gQFNlbGVjdEhlYWRlciBzIG9uIHMuRmluYW5jZUhlYWRlcklkPWZkLkZpbmFuY2VIZWFkZXJJZAogICAgICAgICAgICAgICAgICAgICBJbm5lciBKb2luIG1vci5GaW5hbmNlSGVhZGVyIGZoIG9uIGZkLkZpbmFuY2VIZWFkZXJJZCA9IGZoLkZpbmFuY2VIZWFkZXJJZAogICAgICAgICAgICAgICAgICAgICBMRUZUIEpPSU4gbW9yLlRyYW5zYWN0aW9uVHlwZSB0dCBvbiB0dC5TaGlwVHlwZSA9IGZoLlNoaXBUeXBlCiAgICAgICAgICAgIFdoZXJlIElzTnVsbChmZC5RdWFudGl0eVN1cHBsaWVkTmV0LCAwKSE9MAoKICAgICAgICAgICAgLS0gQ3JlYXRlIFN0YWdlVHJhbnNhY3Rpb25SZXdhcmRzIHJlY29yZHMKICAgICAgICAgICAgSU5TRVJUCiAgICAgICAgICAgIElOVE8gW21vcl0uW1N0YWdlVHJhbnNhY3Rpb25SZXdhcmRdCiAgICAgICAgICAgICggW1N0YWdlVHJhbnNhY3Rpb25JZF0sCiAgICAgICAgICAgICAgW0ZpbmFuY2VIZWFkZXJSZXdhcmRJZF0sCiAgICAgICAgICAgICAgW0ZpbmFuY2VEZXRhaWxSZXdhcmRJZF0sCiAgICAgICAgICAgICAgW1JlY29yZFF1YWxpZmllcl0sCiAgICAgICAgICAgICAgW1N0b2NrQ29kZV0sCiAgICAgICAgICAgICAgW09mZmVyTnVtYmVyXSwKICAgICAgICAgICAgICBbUmV3YXJkUXVhbnRpdHldLAogICAgICAgICAgICAgIFtEaXNjb3VudEFtb3VudF0sCiAgICAgICAgICAgICAgW0NyZWF0ZURhdGVUaW1lXSwKICAgICAgICAgICAgICBEaXNjb3VudFJlY29yZFF1YWxpZmllcikKICAgICAgICAgICAgU0VMRUNUIHMuW1N0YWdlVHJhbnNhY3Rpb25JZF0sCiAgICAgICAgICAgICAgICAgICBmaHIuW0ZpbmFuY2VIZWFkZXJSZXdhcmRJZF0sCiAgICAgICAgICAgICAgICAgICBudWxsIFtGaW5hbmNlRGV0YWlsUmV3YXJkSWRdLAogICAgICAgICAgICAgICAgICAgMTEwMiBSZWNvcmRRdWFsaWZpZXIsCiAgICAgICAgICAgICAgICAgICBudWxsIFtTdG9ja0NvZGVdLAogICAgICAgICAgICAgICAgICAgZmhyLltPZmZlck51bWJlcl0sCiAgICAgICAgICAgICAgICAgICBudWxsIFtSZXdhcmRRdWFudGl0eV0sCiAgICAgICAgICAgICAgICAgICBjYXNlIHdoZW4gaXNudWxsKGZoci5bRGlmZmVyZWREaXNjb3VudF0sMCk9MCB0aGVuIGZoci5bRGlzY291bnRBbW91bnRdIGVsc2UgZmhyLltEaWZmZXJlZERpc2NvdW50XSBlbmQsCiAgICAgICAgICAgICAgICAgICBHZXREYXRlKCksCiAgICAgICAgICAgICAgICAgICBEaXNjb3VudFJlY29yZFF1YWxpZmllcgogICAgICAgICAgICBGUk9NIEBTdGFnZVRyYW5zYWN0aW9uSWRzIHMKICAgICAgICAgICAgICAgICAgICAgSU5ORVIgSk9JTiBAU2VsZWN0SGVhZGVyIHNoIG9uIHNoLkZpbmFuY2VIZWFkZXJJZD1zLkZpbmFuY2VIZWFkZXJJZAogICAgICAgICAgICAgICAgICAgICBJTk5FUiBKT0lOIG1vci5GaW5hbmNlSGVhZGVyUmV3YXJkIGZociBvbiBzLkZpbmFuY2VIZWFkZXJJZD1maHIuRmluYW5jZUhlYWRlcklkIGFuZCBzLkZpbmFuY2VEZXRhaWxJZCBpcyBudWxsCgogICAgICAgICAgICBJTlNFUlQKICAgICAgICAgICAgSU5UTyBbbW9yXS5bU3RhZ2VUcmFuc2FjdGlvblJld2FyZF0KICAgICAgICAgICAgKCBbU3RhZ2VUcmFuc2FjdGlvbklkXSwKICAgICAgICAgICAgICBbRmluYW5jZUhlYWRlclJld2FyZElkXSwKICAgICAgICAgICAgICBbRmluYW5jZURldGFpbFJld2FyZElkXSwKICAgICAgICAgICAgICBbUmVjb3JkUXVhbGlmaWVyXSwKICAgICAgICAgICAgICBbU3RvY2tDb2RlXSwKICAgICAgICAgICAgICBbT2ZmZXJOdW1iZXJdLAogICAgICAgICAgICAgIFtSZXdhcmRRdWFudGl0eV0sCiAgICAgICAgICAgICAgVHJpZ2dlcmluZ1F1YW50aXR5LAogICAgICAgICAgICAgIFtEaXNjb3VudEFtb3VudF0sCiAgICAgICAgICAgICAgW0NyZWF0ZURhdGVUaW1lXSwKICAgICAgICAgICAgICBEaXNjb3VudFJlY29yZFF1YWxpZmllciwKICAgICAgICAgICAgICBSZXRhaWxTZXF1ZW5jZU51bWJlciwKICAgICAgICAgICAgICBEaXNjb3VudFNlcXVlbmNlTnVtYmVyKQogICAgICAgICAgICBTRUxFQ1Qgc3QuU3RhZ2VUcmFuc2FjdGlvbklkLAogICAgICAgICAgICAgICAgICAgbnVsbCBbRmluYW5jZUhlYWRlclJld2FyZElkXSwKICAgICAgICAgICAgICAgICAgIGZkci5bRmluYW5jZURldGFpbFJld2FyZElkXSwKICAgICAgICAgICAgICAgICAgIDExMDMgUmVjb3JkUXVhbGlmaWVyLAogICAgICAgICAgICAgICAgICAgZmQuW1N0b2NrQ29kZV0sCiAgICAgICAgICAgICAgICAgICBmZHIuW09mZmVyTnVtYmVyXSwKICAgICAgICAgICAgICAgICAgIGZkci5bUmV3YXJkUXVhbnRpdHldLAogICAgICAgICAgICAgICAgICAgZmRyLlRyaWdnZXJpbmdRdWFudGl0eSwKICAgICAgICAgICAgICAgICAgIGNhc2Ugd2hlbiBpc251bGwoZmRyLltEZWZlcnJlZERpc2NvdW50XSwwKT0wIHRoZW4gaXNudWxsKGZkci5bRGlzY291bnRBbW91bnRdLDApIGVsc2UgaXNudWxsKGZkci5bRGVmZXJyZWREaXNjb3VudF0sMCkgZW5kLAogICAgICAgICAgICAgICAgICAgR2V0RGF0ZSgpLAogICAgICAgICAgICAgICAgICAgZmRyLkRpc2NvdW50UmVjb3JkUXVhbGlmaWVyLAogICAgICAgICAgICAgICAgICAgZmQuSW52b2ljZUxpbmVOdW1iZXIsCiAgICAgICAgICAgICAgICAgICByb3dfbnVtYmVyKCkgb3ZlcihwYXJ0aXRpb24gYnkgZmQuRmluYW5jZURldGFpbElkLCBmZC5JbnZvaWNlTGluZU51bWJlciBvcmRlciBieSBmZC5GaW5hbmNlRGV0YWlsSWQsIGZkLkludm9pY2VMaW5lTnVtYmVyKQogICAgICAgICAgICBGUk9NIEBTdGFnZVRyYW5zYWN0aW9uSWRzIHN0CiAgICAgICAgICAgICAgICAgICAgIElOTkVSIEpPSU4gQFNlbGVjdEhlYWRlciBzaCBvbiBzaC5GaW5hbmNlSGVhZGVySWQ9c3QuRmluYW5jZUhlYWRlcklkCiAgICAgICAgICAgICAgICAgICAgIElOTkVSIEpPSU4gbW9yLkZpbmFuY2VEZXRhaWxSZXdhcmQgZmRyIE9OIGZkci5GaW5hbmNlSGVhZGVySWQgPSBzdC5GaW5hbmNlSGVhZGVySWQgQU5EIGZkci5GaW5hbmNlRGV0YWlsSWQgPSBzdC5GaW5hbmNlRGV0YWlsSWQKICAgICAgICAgICAgICAgICAgICAgSU5ORVIgSk9JTiBtb3IuRmluYW5jZURldGFpbCBmZCBPTiBmZC5GaW5hbmNlSGVhZGVySWQgPSBmZHIuRmluYW5jZUhlYWRlcklkIEFORCBmZC5GaW5hbmNlRGV0YWlsSWQgPSBmZHIuRmluYW5jZURldGFpbElkCgogICAgICAgICAgICBVcGRhdGUgbW9yLlN0YWdlVHJhbnNhY3Rpb24KICAgICAgICAgICAgU2V0IEVuZERhdGVUaW1lU3RhbXBVdGMgPSAgIEdldFVUQ2RhdGUoKQogICAgICAgICAgICBXaGVyZSBGaW5hbmNlSGVhZGVySWQgaW4gKFNlbGVjdCBGaW5hbmNlSGVhZGVySWQgZnJvbSBAU2VsZWN0SGVhZGVyKQogICAgICAgICAgICAgIEFuZCAgRmluYW5jZURldGFpbElkIElzIE51bGwKCiAgICAgICAgICAgIFVwZGF0ZSBtb3IuRmluYW5jZUhlYWRlcgogICAgICAgICAgICBTZXQgUHJvY2Vzc2VkRGF0ZVRpbWUgPSBHZXREYXRlKCkKICAgICAgICAgICAgV2hlcmUgRmluYW5jZUhlYWRlcklkIGluIChTZWxlY3QgRmluYW5jZUhlYWRlcklkIGZyb20gQFNlbGVjdEhlYWRlcikKCiAgICAgICAgICAgIFVwZGF0ZSBmZAogICAgICAgICAgICBTZXQgUHJvY2Vzc2VkRGF0ZVRpbWUgPSBHZXREYXRlKCkKICAgICAgICAgICAgRlJPTSBtb3IuRmluYW5jZURldGFpbCBmZAogICAgICAgICAgICAgICAgICAgICBJbm5lciBKb2luIG1vci5GaW5hbmNlSGVhZGVyIGZoIG9uIGZkLkZpbmFuY2VIZWFkZXJJZCA9IGZoLkZpbmFuY2VIZWFkZXJJZAogICAgICAgICAgICBXaGVyZSBmZC5GaW5hbmNlSGVhZGVySWQgaW4gKFNlbGVjdCBGaW5hbmNlSGVhZGVySWQgZnJvbSBAU2VsZWN0SGVhZGVyKQogICAgICAgIENPTU1JVCBUUkFOIEluc2VydFN0YWdlVHJhbnNhY3Rpb25zCgogICAgICAgIEV4ZWMgR2VuZXJhbC5DcmVhdGVBY3Rpdml0eUxvZ1JlY29yZCBAQWN0aXZpdHlSdW5JZCwgJ0NvbXBsZXRlZCBjcmVhdGUgc3RhZ2luZyBkYXRhIHByb2Nlc3MuJwogICAgICAgIGV4ZWMgR2VuZXJhbC5Db21wbGV0ZUFjdGl2aXR5IEBBY3Rpdml0eVJ1bklkCgogICAgRW5kIFRyeQogICAgQmVnaW4gQ2F0Y2gKICAgICAgICBJRiBAQFRSQU5DT1VOVCA+IDAKICAgICAgICAgICAgUk9MTEJBQ0s7CgogICAgICAgIERlY2xhcmUgQE1lc3NhZ2UJCQlOVkFSQ0hBUig0MDAwKQogICAgICAgICAgICAsIEBFcnJvclN0YXRlCQlJTlQKICAgICAgICAgICAgLCBARXJyb3JMaW5lCQlJTlQKICAgICAgICBTRUxFQ1QgIEBNZXNzYWdlCQkJPSBFUlJPUl9NRVNTQUdFKCksCiAgICAgICAgICAgICAgICBARXJyb3JTdGF0ZQkJCT0gRVJST1JfU1RBVEUoKSwKICAgICAgICAgICAgICAgIEBFcnJvckxpbmUJCQk9IEVSUk9SX0xJTkUoKQogICAgICAgIEVYRUMgR2VuZXJhbC5TZW5kQ2F0Y2hlZEVycm9yIEBBY3Rpdml0eVJ1bklkLCAnQ3JlYXRlIHN0YWdpbmcgZGF0YSBwcm9jZXNzJyxATWVzc2FnZSxARXJyb3JTdGF0ZSwgQEVycm9yTGluZQoKICAgIEVuZCBDYXRjaAoKRW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgV293LkludmVudG9yeS5Nb2RlbHMuU2V0dGluZ2RkczsK</text>
+        <text encoding="base64">CSAJCQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcm90ZWN0ZWQgdm9pZCBNb2NrU2V0dGluZzxUPihzdHJpbmcga2V5LCBUIHZhbHVlKQogICAgICAgIC8vIHsKICAgICAgICAvLyAgICAgX3NldHRpbmdzU2VydmljZU1vY2sgPz89IEZpeHR1cmUuRnJlZXplPE1vY2s8SVNldHRpbmdzU2VydmljZT4+KCk7CiAgICAgICAgLy8KICAgICAgICAvLyAgICAgX3NldHRpbmdzU2VydmljZU1vY2sKICAgICAgICAvLyAgICAgICAgIC5TZXR1cChzZXJ2aWNlID0+IHNlcnZpY2UuR2V0PFQ+KGtleSwgSXQuSXNBbnk8U2V0dGluZ0ZpbHRlcj4oKSkpCiAgICAgICAgLy8gICAgICAgICAuUmV0dXJuc0FzeW5jKHZhbHVlKTsKICAgICAgICAvLyB9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">SUYgRVhJU1RTKAogICAgICAgIFNFTEVDVCAqCiAgICAgICAgRlJPTQogICAgICAgICAgICBzeXMudmlld3MgVgogICAgICAgICAgICAgICAgSU5ORVIgSk9JTiBzeXMuW3NjaGVtYXNdIFMKICAgICAgICAgICAgICAgICAgICAgICAgICAgT04Jdi5zY2hlbWFfaWQgPSBzLnNjaGVtYV9pZAogICAgICAgIFdIRVJFCiAgICAgICAgICAgICAgICBzLm5hbWU9J0RhdGFMYWtlJwogICAgICAgICAgYW5kIHYubmFtZSA9ICd2d0ZpbmFuY2VIZWFkZXInCiAgICAgICAgICBhbmQgdi50eXBlID0gJ3YnCiAgICApCiAgICBCRUdJTgogICAgICAgIEVYRUMoJwovKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiogVklFVyAgOiAgICAgICAgICAgICAgICAgICAgICAgICAgIFtEYXRhTGFrZV0uW3Z3RmluYW5jZUhlYWRlcl0KKiBERVNDUklQVElPTiA6ICAgICAgICAgICAgICAgICAgICAgR2V0IEZpbmFuY2VIZWFkZXIgZGF0YSBmb3IgdGhlIGxhc3QgMTUgZGF5cyB0byBiZSB0cmFuc2ZlcnJlZCB0byBBbGlnaHQgQXp1cmUKKgoqIC0tLS0tLS0tLS0tICAgICAgIC0tLS0tLSAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCioKKiBBdXRob3IgICAgICAgICAgICAgIDogICAgICAgICAgICAgICAgICAgIEFsaSBTaGFyaWZpCiogQ3JlYXRpb24gICAgICAgICAgICA6ICAgICAgICAgICAgICAgICAgICAzMC8wMS8yMDIwCiogTW9kaWZpZWQgICAgICAgICAgIDogICAgICAgICAgICAgICAgICAgICAKKgoqIENoYW5nZWxvZwoqIFdoZW4gICAgICAgICBXaG8gICAgICAgICAgICAgIFdoeQoqIDMwLzAxLzIwMjAgICBBUwkJCQlJbml0aWF0ZWQgCiogMTEvMDIvMjAyMCAgIEFsaSBTaGFyaWZpCQlSZW1vdmVkIGVuZCBkYXRlIGZyb20gd2hlcmUgY2xhdXNlCiogCioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKi8KCkNSRUFURSBWSUVXIFtEYXRhTGFrZV0uW3Z3RmluYW5jZUhlYWRlcl0KQVMKU0VMRUNUICBbRmluYW5jZUhlYWRlcklkXQogICAgICAsW0JyYW5jaE51bWJlcl0KICAgICAgLFtPcmRlck51bWJlcl0KICAgICAgLFtFeHRlcm5hbE9yZGVyTnVtYmVyXQogICAgICAsW09yZGVyU3RhdHVzXQogICAgICAsW0RlbGV0ZWRGbGFnXQogICAgICAsW0NvbGxlY3RGbGFnXQogICAgICAsW0Z1bGZpbG1lbnRGZWVdCiAgICAgICxbRnVsZmlsbWVudEZlZU5ldF0KICAgICAgLFtGdWxmaWxtZW50RmVlVGF4UmF0ZV0KICAgICAgLFtGdWxmaWxtZW50RmVlQmFyY29kZV0KICAgICAgLFtGdWxmaWxtZW50RmVlVHJhZGluZ0RlcHRDb2RlXQogICAgICAsW0Z1bGZpbG1lbnRGZWVDb2Fyc2VEZXB0Q29kZV0KICAgICAgLFtEaXNjb3VudEFtb3VudF0KICAgICAgLFtJbnZvaWNlU3ViVG90YWxBbW91bnRdCiAgICAgICxbU2hpcFR5cGVdCiAgICAgICxbVHJhbnNhY3Rpb25EYXRlVGltZV0KICAgICAgLFtUcmFuc2FjdGlvbkRhdGVUaW1lVXRjXQogICAgICAsW1Byb2Nlc3NlZERhdGVUaW1lXQogICAgICAsW0NyZWF0ZURhdGVUaW1lXQogICAgICAsW0NyZWF0ZVVzZXJdCiAgICAgICxbVXBkYXRlRGF0ZVRpbWVdCiAgICAgICxbVXBkYXRlVXNlcl0KICAgICAgLFtPcmRlckRhdGVdCiAgICAgICxbT25lQ2FyZE51bWJlcl0KICAgICAgLFtSZWRlbXB0aW9uQW1vdW50XQogICAgICAsW1RvdGFsU2FsZXNdCiAgICAgICxbVG90YWxUYXhdCiAgICAgICxbVG90YWxTYWxlc1RheGFibGVdCiAgICAgICxbT3JkZXJTb3VyY2VdCiAgICAgICxbR2lmdEZsYWddCiAgICAgICxbU2hpcFRvU3RhdGVdCiAgICAgICxbU2hpcFNtYXJ0RmxhZ10KICAgICAgLFtTaGlwU21hcnRSZWdpb25dCiAgICAgICxbQ29ycG9yYXRlRmxhZ10KICAgICAgLFtGaXJzdE9yZGVyRmxhZ10KICAgICAgLFtSZXBsYWNlbWVudEZsYWddCiAgICAgICxbQ291cmllcl0KICAgICAgLFtTb3VyY2VCcmFuZF0KICAgICAgLFtQcm9tb0NvZGVdCiAgICAgICxbUGFyZW50T3JkZXJOdW1iZXJdCiAgRlJPTSBbTW9yXS5bRmluYW5jZUhlYWRlcl0KICAgV0hFUkUgW0NyZWF0ZURhdGVUaW1lXSAgPj0gREFURUFERChELC0xNSxDQVNUKEdFVERBVEUoKSBBUyBEQVRFKSkgCiAnKQogICAgRU5ECg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdmFyIHNldHRpbmdzU2VydmljZU1vY2sgPSBGaXh0dXJlLkZyZWV6ZTxNb2NrPElTZXR0aW5nc1NlcnZpY2U+PigpOwogICAgICAgICAgICAvLwogICAgICAgICAgICAvLyBzZXR0aW5nc1NlcnZpY2VNb2NrCiAgICAgICAgICAgIC8vICAgICAuU2V0dXAoc3IgPT4gc3IuR2V0PGJvb2w+KEl0LklzQW55PHN0cmluZz4oKSwKICAgICAgICAgICAgLy8gICAgICAgICBJdC5Jc0FueTxTZXR0aW5nRmlsdGVyPigpKSkKICAgICAgICAgICAgLy8gICAgIC5SZXR1cm5zQXN5bmModHJ1ZSk7CgoK</text>
-      </register>
-      <register name="-" type="4">
-        <text>S</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxzZWNvbmRfdG9fbGFzdFw+</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzZWNvbmRfdG9fbGFzdFw+</last-search>
+      <last-search encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWNvbmRfdG9fbGFzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
