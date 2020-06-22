@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxNYXRjaEFydGljbGVVb21cPg==</entry>
         <entry encoding="base64">XDxfYXJ0aWNsZU1hc3RlckNvbnN1bWVyU2VydmljZVw+</entry>
         <entry encoding="base64">XDxHZXRNZXRhZGF0YUZyb21BcnRpY2xlU2VydmljZVw+</entry>
         <entry encoding="base64">XDxHZXRCeVBhcmVudFw+</entry>
@@ -19,12 +18,13 @@
         <entry encoding="base64">XDxfaHR0cENsaWVudFw+</entry>
         <entry encoding="base64">XDxfc2V0dGluZ3NTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxUcnlGZXRjaEFydGljbGVJbnZlbnRvcnlcPg==</entry>
-        <entry encoding="base64">XDxQcm9jZXNzQXJ0aWNsZUZhbWlseVw+</entry>
         <entry encoding="base64">XDxGZXRjaEFydGljbGVGYW1pbHlGcm9tUGFyZW50XD4=</entry>
         <entry encoding="base64">XDxJTlNFUlRFRFw+</entry>
         <entry encoding="base64">XDxHZW5lcmF0ZVVyaVw+</entry>
         <entry encoding="base64">XDxTYXZlQ2hpbGRNZXRhRGF0YVw+</entry>
         <entry encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</entry>
+        <entry encoding="base64">XDxQdWJsaXNoXD4=</entry>
+        <entry encoding="base64">XDxQcm9jZXNzQXJ0aWNsZUZhbWlseVw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -116,35 +116,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/ShipTransactionType.sql" timestamp="1592540579742">
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="19" column="30" />
-        <mark key="." line="19" column="29" />
-        <mark key="^" line="19" column="30" />
-      </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200615120000 CREATE Table Mor.PaymentTenderType.rollback.sql" timestamp="1592535285383">
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="45" />
-        <mark key="." line="6" column="44" />
-        <mark key="^" line="6" column="45" />
-      </file>
       <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" timestamp="1592543378173">
         <mark key="[" line="43" column="4" />
         <mark key="]" line="43" column="4" />
         <mark key="." line="43" column="4" />
       </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200615120000 CREATE Table Mor.ShipTransactionType.rollback.sql" timestamp="1592535242498">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="1" column="70" />
-        <mark key="^" line="1" column="70" />
-        <mark key="." line="1" column="69" />
-      </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/TransactionType.sql" timestamp="1592528670862">
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="14" />
-        <mark key="^" line="14" column="14" />
-        <mark key="." line="14" column="13" />
-      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Protos/ArticleSoh.proto" timestamp="1592812238677" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c176f6c-9598-44f9-8597-a55f987be83e/console.sql" timestamp="1592543592526">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="69" column="0" />
@@ -161,19 +138,13 @@
       <file name="/a.sql" timestamp="1592543447216">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console 1" timestamp="1592533576413">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/PaymentTenderType.sql" timestamp="1592540631512">
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="19" column="20" />
-        <mark key="." line="19" column="20" />
-        <mark key="^" line="14" column="37" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Protos/AlcStatusUpdated.proto" timestamp="1592811836687">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="13" column="23" />
+        <mark key="^" line="13" column="23" />
+        <mark key="." line="13" column="22" />
       </file>
       <file name="/default" timestamp="1592543392703">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1592533630626">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200615120000 CREATE Table Mor.ShipTransactionType.sql" timestamp="1592543251505">
@@ -182,16 +153,31 @@
         <mark key="." line="21" column="28" />
         <mark key="^" line="2" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592810811035">
+      <file name="/Dummy.txt" timestamp="1592813114989">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200615120000 CREATE Table Mor.TransactionType.sql" timestamp="1592533852102">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="20" column="28" />
-        <mark key="." line="25" column="0" />
+      <file name="/StockOnHandUpdated.proto" timestamp="1592812394082" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1592812544887">
+        <mark key="'" line="85" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Factories/StockOnHandUpdatedMessageFactory.cs" timestamp="1592813101077">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Factories/AlcStatusUpdatedMessageFactory.cs" timestamp="1592813077266">
+        <mark key="[" line="17" column="64" />
+        <mark key="]" line="17" column="12" />
+        <mark key="^" line="17" column="12" />
+        <mark key="." line="17" column="11" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Protos/StockOnHandUpdated.proto" timestamp="1592811882518">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="13" column="23" />
+        <mark key="^" line="13" column="23" />
+        <mark key="." line="13" column="22" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200615120000 CREATE Table Mor.PaymentTenderType.sql" timestamp="1592543303566" />
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Stored Procedures/CreateStageTransactionData.sql" timestamp="1592542432406">
@@ -201,9 +187,9 @@
         <mark key="^" line="268" column="30" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200619130600 ALTER mor.StageTransaction.sql" timestamp="1592796049644" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Models/ArticleInventory.cs" timestamp="1592812498080" />
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Extensions/TypeLoaderExtensions.cs" />
       <jump line="37" column="51" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" />
       <jump line="170" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
       <jump line="86" column="22" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
@@ -269,8 +255,6 @@
       <jump line="81" column="0" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200609130600 Update mor.FinanceHeader.rollback.sql" />
       <jump line="14" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Rules/DerangedArticleOverrideRule.cs" />
       <jump line="141" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
-      <jump line="101" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
-      <jump line="85" column="22" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
       <jump line="116" column="51" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
       <jump line="18" column="33" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/FinanceHeader.sql" />
       <jump line="86" column="0" filename="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/FinanceHeader.sql" />
@@ -303,58 +287,61 @@
       <jump line="171" column="0" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
       <jump line="0" column="0" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
       <jump line="271" column="56" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="188" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="101" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
+      <jump line="85" column="22" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>bugs</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZS5rZWsK</text>
       </register>
       <register name="-" type="4">
-        <text>ALTER</text>
+        <text>alcStatusUpdated</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</text>
+        <text encoding="base64">XDxQcm9jZXNzQXJ0aWNsZUZhbWlseVw+</text>
       </register>
       <register name="1" type="2">
-        <text>bugs</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZS5rZWsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text>bugs</text>
+      </register>
+      <register name="3" type="2">
         <text>change type of index to clustered</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>CASE WHEN pt.TenderType IS NOT NULL THEN pt.TenderType
 				        ELSE NULL
 					 End</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text>renaming of keys</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text>adds PK, renames tables</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIEVORA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKCdIRFonLCAnSERaJykgLS0gV09XIEIyQiBOZXcgSEQgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKCdDQ1onLCAnQ0NaJyksIC0tIFdPVyBCMkIgTmV3IEMmQwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgKCdIRFonLCAnSERaJykgLS0gV09XIEIyQiBOZXcgSEQgCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</last-search>
+      <last-search encoding="base64">XDxQcm9jZXNzQXJ0aWNsZUZhbWlseVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxQcm9jZXNzQXJ0aWNsZUZhbWlseVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
