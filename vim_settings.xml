@@ -182,7 +182,7 @@
         <mark key="." line="21" column="28" />
         <mark key="^" line="2" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592796402784">
+      <file name="/Dummy.txt" timestamp="1592810811035">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -199,12 +199,6 @@
         <mark key="]" line="268" column="30" />
         <mark key="." line="268" column="29" />
         <mark key="^" line="268" column="30" />
-      </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200615120000 CREATE Table Mor.TransactionType.rollback.sql" timestamp="1592463799635">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="43" />
-        <mark key="." line="11" column="42" />
-        <mark key="^" line="11" column="43" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200619130600 ALTER mor.StageTransaction.sql" timestamp="1592796049644" />
     </filemarks>
