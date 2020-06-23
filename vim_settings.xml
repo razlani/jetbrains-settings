@@ -161,6 +161,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1592885136710" />
       <file name="/StockOnHandUpdated.proto" timestamp="1592812394082" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1592812544887">
         <mark key="'" line="85" column="22" />
@@ -182,7 +183,6 @@
         <mark key="^" line="13" column="23" />
         <mark key="." line="13" column="22" />
       </file>
-      <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200615120000 CREATE Table Mor.PaymentTenderType.sql" timestamp="1592543303566" />
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200619130600 ALTER mor.StageTransaction.sql" timestamp="1592796049644" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/89f25c05-7785-4bac-8289-7f8163f0d24d/console.sql" timestamp="1592880634617">
         <mark key="[" line="0" column="46" />
