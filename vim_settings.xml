@@ -150,7 +150,13 @@
       <file name="/default" timestamp="1592880207920">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592880534857">
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/local.settings.json" timestamp="1592883874353">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="9" column="31" />
+        <mark key="." line="8" column="33" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592883755175">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -178,11 +184,11 @@
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64620200615120000 CREATE Table Mor.PaymentTenderType.sql" timestamp="1592543303566" />
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/64720200619130600 ALTER mor.StageTransaction.sql" timestamp="1592796049644" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/89f25c05-7785-4bac-8289-7f8163f0d24d/console.sql" timestamp="1592880587945">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/89f25c05-7785-4bac-8289-7f8163f0d24d/console.sql" timestamp="1592880634617">
         <mark key="[" line="0" column="46" />
-        <mark key="]" line="0" column="58" />
-        <mark key="." line="0" column="57" />
-        <mark key="^" line="0" column="58" />
+        <mark key="]" line="0" column="52" />
+        <mark key="." line="0" column="51" />
+        <mark key="^" line="0" column="52" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Models/ArticleInventory.cs" timestamp="1592812498080" />
     </filemarks>
@@ -291,46 +297,46 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgTW9yLkZpbmFuY2VIZWFkZXIKICAgIGFkZCBTaG9wcGVySWQgdmFyY2hhcigxMCkKZ28KCmFsdGVyIHRhYmxlIE1vci5GaW5hbmNlSGVhZGVyCiAgICBhZGQgVHJhZGluZ0FjY291bnRJZCB2YXJjaGFyKDEwKQpnbwoKYWx0ZXIgdGFibGUgTW9yLkZpbmFuY2VIZWFkZXIKICAgIGFkZCBQYXltZW50VHlwZSB2YXJjaGFyKDEwKQpnbwoKYWx0ZXIgdGFibGUgTW9yLkZpbmFuY2VIZWFkZXIKICAgIGFkZCBQYXltZW50SWQgdmFyY2hhcigxMCkKZ28KCg==</text>
+      <register name="&quot;" type="4">
+        <text>Endpoint=sb://wow-soh-dev-ehu-aas.servicebus.windows.net/;SharedAccessKeyName=soh-raw-soh-sender;SharedAccessKey=SaJDvRq8iIAIlj6dV+20d2hRkckiAyQkE4eaxNiZ6Jk=;EntityPath=soh-raw</text>
       </register>
       <register name="-" type="4">
-        <text>alcStatusUpdated</text>
+        <text>Endpoint=sb://wow-soh-dev-ehu-aas.servicebus.windows.net/;SharedAccessKeyName=soh-raw-soh-sender;SharedAccessKey=SaJDvRq8iIAIlj6dV+20d2hRkckiAyQkE4eaxNiZ6Jk=;EntityPath=soh-raw</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcm9jZXNzQXJ0aWNsZUZhbWlseVw+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgTW9yLkZpbmFuY2VIZWFkZXIKICAgIGFkZCBTaG9wcGVySWQgdmFyY2hhcigxMCkKZ28KCmFsdGVyIHRhYmxlIE1vci5GaW5hbmNlSGVhZGVyCiAgICBhZGQgVHJhZGluZ0FjY291bnRJZCB2YXJjaGFyKDEwKQpnbwoKYWx0ZXIgdGFibGUgTW9yLkZpbmFuY2VIZWFkZXIKICAgIGFkZCBQYXltZW50VHlwZSB2YXJjaGFyKDEwKQpnbwoKYWx0ZXIgdGFibGUgTW9yLkZpbmFuY2VIZWFkZXIKICAgIGFkZCBQYXltZW50SWQgdmFyY2hhcigxMCkKZ28KCg==</text>
+        <text encoding="base64">ICAgICJFdmVudEh1YkNvbm5lY3Rpb25TdHJpbmciOiAiIiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZS5rZWsK</text>
+        <text encoding="base64">ICAgICJFdmVudEh1Yk5hbWUiOiAia2VrLXRlc3QtMiIK</text>
       </register>
       <register name="3" type="2">
-        <text>bugs</text>
+        <text encoding="base64">ICAgICJTT0hGaWxlQ29udGFpbmVyIjogImtlay10ZXN0IiwK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">YWx0ZXIgdGFibGUgTW9yLkZpbmFuY2VIZWFkZXIKICAgIGFkZCBTaG9wcGVySWQgdmFyY2hhcigxMCkKZ28KCmFsdGVyIHRhYmxlIE1vci5GaW5hbmNlSGVhZGVyCiAgICBhZGQgVHJhZGluZ0FjY291bnRJZCB2YXJjaGFyKDEwKQpnbwoKYWx0ZXIgdGFibGUgTW9yLkZpbmFuY2VIZWFkZXIKICAgIGFkZCBQYXltZW50VHlwZSB2YXJjaGFyKDEwKQpnbwoKYWx0ZXIgdGFibGUgTW9yLkZpbmFuY2VIZWFkZXIKICAgIGFkZCBQYXltZW50SWQgdmFyY2hhcigxMCkKZ28KCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZS5rZWsK</text>
+      </register>
+      <register name="6" type="2">
+        <text>bugs</text>
+      </register>
+      <register name="7" type="2">
         <text>change type of index to clustered</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>CASE WHEN pt.TenderType IS NOT NULL THEN pt.TenderType
 				        ELSE NULL
 					 End</text>
       </register>
-      <register name="6" type="2">
-        <text>renaming of keys</text>
-      </register>
-      <register name="7" type="2">
-        <text>adds PK, renames tables</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEVORA==</text>
+        <text>renaming of keys</text>
       </register>
     </registers>
   </component>
