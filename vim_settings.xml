@@ -150,11 +150,11 @@
       <file name="/default" timestamp="1592880207920">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/local.settings.json" timestamp="1592883874353">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="33" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/local.settings.json" timestamp="1592883887978">
+        <mark key="[" line="13" column="75" />
+        <mark key="]" line="13" column="75" />
         <mark key="^" line="9" column="31" />
-        <mark key="." line="8" column="33" />
+        <mark key="." line="13" column="75" />
       </file>
       <file name="/Dummy.txt" timestamp="1592883755175">
         <mark key="[" line="0" column="0" />
@@ -298,10 +298,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Endpoint=sb://wow-soh-dev-ehu-aas.servicebus.windows.net/;SharedAccessKeyName=soh-raw-soh-sender;SharedAccessKey=SaJDvRq8iIAIlj6dV+20d2hRkckiAyQkE4eaxNiZ6Jk=;EntityPath=soh-raw</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>Endpoint=sb://wow-soh-dev-ehu-aas.servicebus.windows.net/;SharedAccessKeyName=soh-raw-soh-sender;SharedAccessKey=SaJDvRq8iIAIlj6dV+20d2hRkckiAyQkE4eaxNiZ6Jk=;EntityPath=soh-raw</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcm9jZXNzQXJ0aWNsZUZhbWlseVw+</text>
