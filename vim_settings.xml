@@ -156,12 +156,12 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="13" column="75" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592883755175">
+      <file name="/Dummy.txt" timestamp="1592889059853">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1592885136710" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1592890428605" />
       <file name="/StockOnHandUpdated.proto" timestamp="1592812394082" />
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" timestamp="1592812544887">
         <mark key="'" line="85" column="22" />
