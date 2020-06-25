@@ -116,9 +116,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/console" timestamp="1592964376262">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/projects/Databases/Src/Databases/ECF.SQLRun.Upgrade/64720200624144801 ALTER PROCEDURE ECF_Rep_Pump_Order_Header_WOW_One.sql" timestamp="1592964926995">
         <mark key="'" line="208" column="72" />
         <mark key="[" line="208" column="84" />
@@ -131,38 +128,20 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c176f6c-9598-44f9-8597-a55f987be83e/console.sql" timestamp="1592964034401">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="^" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1592880534827">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/projects/Databases/Src/Databases/ECF.SQLRun.Upgrade/64720200624144801 ALTER PROCEDURE ECF_Rep_Pump_Order_Header_WOW_One.rollback.sql" timestamp="1592964701303">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="5" />
         <mark key="." line="75" column="4" />
         <mark key="^" line="75" column="5" />
       </file>
-      <file name="/default" timestamp="1592880207920">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/local.settings.json" timestamp="1592883887978">
-        <mark key="[" line="13" column="75" />
-        <mark key="]" line="13" column="75" />
-        <mark key="^" line="9" column="31" />
-        <mark key="." line="13" column="75" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/local.settings.json" timestamp="1593057621118">
+        <mark key="[" line="4" column="52" />
+        <mark key="]" line="4" column="56" />
+        <mark key="^" line="4" column="56" />
+        <mark key="." line="4" column="55" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CFDE1041-8873-4DFE-83F7-593A6775F006/15/CreateBatchOptions.cs" timestamp="1592894553743">
         <mark key="'" line="105" column="38" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593054857278">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1592890428605" />
       <file name="/app/89f25c05-7785-4bac-8289-7f8163f0d24d/database/ECFCentral/schema/dbo/routine/ECF_Rep_Pump_Order_Header_WOW_One.sql" timestamp="1592963595740">
@@ -183,6 +162,27 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="/console" timestamp="1592964376262">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c176f6c-9598-44f9-8597-a55f987be83e/console.sql" timestamp="1592964034401">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="^" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1592880534827">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/default" timestamp="1592880207920">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593057856507">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Factories/AlcStatusUpdatedMessageFactory.cs" timestamp="1592813077266">
         <mark key="[" line="17" column="64" />
         <mark key="]" line="17" column="12" />
@@ -202,12 +202,6 @@
         <mark key="]" line="207" column="49" />
         <mark key="." line="207" column="48" />
         <mark key="^" line="207" column="49" />
-      </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" timestamp="1593056725036">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="23" column="18" />
-        <mark key="^" line="23" column="18" />
-        <mark key="." line="23" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -316,10 +310,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>order_id</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>order_id</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYXhpbXVtU2l6ZUluQnl0ZXNcPg==</text>
