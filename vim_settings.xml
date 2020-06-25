@@ -134,12 +134,12 @@
         <mark key="." line="75" column="4" />
         <mark key="^" line="75" column="5" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Extensions/ProcessingExtensions.cs" timestamp="1593069682725">
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Extensions/ProcessingExtensions.cs" timestamp="1593071854881">
         <mark key="'" line="9" column="57" />
-        <mark key="[" line="9" column="46" />
-        <mark key="]" line="9" column="10" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="9" column="9" />
+        <mark key="[" line="27" column="9" />
+        <mark key="]" line="47" column="9" />
+        <mark key="^" line="47" column="9" />
+        <mark key="." line="47" column="8" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/local.settings.json" timestamp="1593059762709">
         <mark key="[" line="14" column="25" />
@@ -200,11 +200,10 @@
         <mark key="." line="207" column="48" />
         <mark key="^" line="207" column="49" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" timestamp="1593071057442">
-        <mark key="[" line="42" column="20" />
-        <mark key="]" line="42" column="23" />
-        <mark key="^" line="42" column="23" />
-        <mark key="." line="42" column="22" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" timestamp="1593071834157">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -312,8 +311,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>kek</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>kek</text>
@@ -328,28 +327,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIHJldHVybiBidXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBidXIgPSBfbWVzc2FnZUNvbnZlcnRlci5Db252ZXJ0KGRhdGEsIGZpbGVNZXRhZGF0YSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gX21heE1lc3NhZ2VzUGVyQmF0Y2ggPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIGRhdGEgaW4gbnJ0U29oRGF0YSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDogbmV3IENyZWF0ZUJhdGNoT3B0aW9ucygpIHsgTWF4aW11bVNpemVJbkJ5dGVzID0gX21heGltdW1CYXRjaFNpemVJbkJ5dGVzIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSUFzeW5jRW51bWVyYWJsZTxJTWVzc2FnZT4gYXN5bmNNZXNzYWdlczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgID8gbnVsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDogbmV3IENyZWF0ZUJhdGNoT3B0aW9ucygpIHsgTWF4aW11bVNpemVJbkJ5dGVzID0gX21heGltdW1CYXRjaFNpemVJbkJ5dGVzIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIAo=</text>
       </register>
     </registers>
   </component>
