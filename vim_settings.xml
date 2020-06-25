@@ -163,11 +163,6 @@
         <mark key="." line="192" column="42" />
         <mark key="^" line="192" column="43" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Factories/StockOnHandUpdatedMessageFactory.cs" timestamp="1592813101077">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="/console" timestamp="1592964376262">
         <mark key="[" line="0" column="0" />
       </file>
@@ -179,9 +174,6 @@
         <mark key="." line="101" column="0" />
       </file>
       <file name="/a.sql" timestamp="1592880534827">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/default" timestamp="1592880207920">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1593059625890">
@@ -204,11 +196,11 @@
         <mark key="." line="207" column="48" />
         <mark key="^" line="207" column="49" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" timestamp="1593059740400">
-        <mark key="[" line="25" column="65" />
-        <mark key="]" line="25" column="84" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" timestamp="1593060433674">
+        <mark key="[" line="34" column="100" />
+        <mark key="]" line="26" column="0" />
         <mark key="^" line="25" column="84" />
-        <mark key="." line="25" column="83" />
+        <mark key="." line="26" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -316,8 +308,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>MaximumBatchSizeInBytes</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>MaximumBatchSizeInBytes</text>
@@ -326,19 +318,19 @@
         <text encoding="base64">XDxfY29uZmlndXJhdGlvblw+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gX21heE1lc3NhZ2VzUGVyQmF0Y2ggPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDogbmV3IENyZWF0ZUJhdGNoT3B0aW9ucygpIHsgTWF4aW11bVNpemVJbkJ5dGVzID0gX21heGltdW1CYXRjaFNpemVJbkJ5dGVzIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgID8gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gX21heE1lc3NhZ2VzUGVyQmF0Y2ggPQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDogbmV3IENyZWF0ZUJhdGNoT3B0aW9ucygpIHsgTWF4aW11bVNpemVJbkJ5dGVzID0gX21heGltdW1CYXRjaFNpemVJbkJ5dGVzIH07Cg==</text>
@@ -347,13 +339,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgID8gbnVsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNyZWF0ZUJhdGNoT3B0aW9ucyA9IF9tYXhpbXVtQmF0Y2hTaXplSW5CeXRlcyA8PSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDogbmV3IENyZWF0ZUJhdGNoT3B0aW9ucygpIHsgTWF4aW11bVNpemVJbkJ5dGVzID0gX21heGltdW1CYXRjaFNpemVJbkJ5dGVzIH07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX21heGltdW1CYXRjaFNpemVJbkJ5dGVzID0gX2NvbmZpZ3VyYXRpb24uR2V0VmFsdWU8bG9uZz4oIk1heGltdW1CYXRjaFNpemVJbkJ5dGVzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgID8gbnVsbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IGxvbmcgX21heGltdW1CYXRjaFNpemVJbkJ5dGVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNyZWF0ZUJhdGNoT3B0aW9ucyA9IF9tYXhpbXVtQmF0Y2hTaXplSW5CeXRlcyA8PSAwCg==</text>
       </register>
     </registers>
   </component>
