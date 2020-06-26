@@ -116,7 +116,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593138287917">
+      <file name="/Dummy.txt" timestamp="1593140025259">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -131,10 +131,10 @@
       <file name="/console" timestamp="1592964376262">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Extensions/AsyncParallelExtensions.cs" timestamp="1593136470106">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Extensions/AsyncParallelExtensions.cs" timestamp="1593140454740">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/ECFCentral/schema/dbo/routine/ECF_Rep_Pump_Order_Header_WOW_One.sql" timestamp="1592896715950">
         <mark key="[" line="192" column="35" />
@@ -190,12 +190,12 @@
         <mark key="^" line="14" column="31" />
         <mark key="." line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" timestamp="1593139157326">
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" timestamp="1593140519693">
         <mark key="'" line="17" column="36" />
-        <mark key="[" line="48" column="76" />
-        <mark key="]" line="48" column="77" />
-        <mark key="." line="48" column="76" />
-        <mark key="^" line="48" column="77" />
+        <mark key="[" line="44" column="32" />
+        <mark key="]" line="44" column="59" />
+        <mark key="." line="44" column="58" />
+        <mark key="^" line="44" column="59" />
       </file>
     </filemarks>
     <jumps>
@@ -304,7 +304,8 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>AsyncParallelExtensions
+                .SplitList(messages, MaxThreads)</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
@@ -312,35 +313,36 @@
       <register name="/" type="4">
         <text encoding="base64">XDxNYXhUaHJlYWRzXD4=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Ub0xpc3QoKTsK</text>
+      <register name="1" type="4">
+        <text>AsyncParallelExtensions
+                .SplitList(messages, MaxThreads)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza3MuRmlyc3QoKS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Ub0xpc3QoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoJCJyZXRyaWV2ZWQge2h0bWwuTGVuZ3RofSBjaGFyYWN0ZXJzIGZyb20ge3VybH0iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFza3MuRmlyc3QoKS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZy5UYXNrcy5EYXRhZmxvdzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZy5UYXNrczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoJCJyZXRyaWV2ZWQge2h0bWwuTGVuZ3RofSBjaGFyYWN0ZXJzIGZyb20ge3VybH0iKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwdWJsaWMgc3RhdGljIElBc3luY0VudW1lcmFibGU8VFJlc3VsdD4gU2VsZWN0QXN5bmM8VCwgVFJlc3VsdD4odGhpcyBJRW51bWVyYWJsZTxUPiBlbnVtZXJhYmxlLAogICAgICAgIC8vICAgICBGdW5jPFQsIFRhc2s8VFJlc3VsdD4+IHNlbGVjdG9yKQogICAgICAgIC8vIHsKICAgICAgICAvLyAgICAgcmV0dXJuIEFzeW5jRW51bWVyYWJsZS5DcmVhdGVFbnVtZXJhYmxlKCgpID0+CiAgICAgICAgLy8gICAgIHsKICAgICAgICAvLyAgICAgICAgIHZhciBlbnVtZXJhdG9yID0gZW51bWVyYWJsZS5HZXRFbnVtZXJhdG9yKCk7CiAgICAgICAgLy8gICAgICAgICB2YXIgY3VycmVudCA9IGRlZmF1bHQoVFJlc3VsdCk7CiAgICAgICAgLy8gICAgICAgICByZXR1cm4gQXN5bmNFbnVtZXJhYmxlLkNyZWF0ZUVudW1lcmF0b3IoYXN5bmMgYyA9PgogICAgICAgIC8vICAgICAgICAgICAgIHsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgdmFyIG1vdmVOZXh0ID0gZW51bWVyYXRvci5Nb3ZlTmV4dCgpOwogICAgICAgIC8vICAgICAgICAgICAgICAgICBjdXJyZW50ID0gbW92ZU5leHQKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgID8gYXdhaXQgc2VsZWN0b3IoZW51bWVyYXRvci5DdXJyZW50KS5Db25maWd1cmVBd2FpdChmYWxzZSkKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgIDogZGVmYXVsdChUUmVzdWx0KTsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgcmV0dXJuIG1vdmVOZXh0OwogICAgICAgIC8vICAgICAgICAgICAgIH0sCiAgICAgICAgLy8gICAgICAgICAgICAgKCkgPT4gY3VycmVudCwKICAgICAgICAvLyAgICAgICAgICAgICAoKSA9PiBlbnVtZXJhdG9yLkRpc3Bvc2UoKSk7CiAgICAgICAgLy8gICAgIH0pOwogICAgICAgIC8vIH0K</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZy5UYXNrcy5EYXRhZmxvdzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZy5UYXNrczsK</text>
       </register>
     </registers>
   </component>
