@@ -116,7 +116,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593142843092">
+      <file name="/Dummy.txt" timestamp="1593144716563">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -191,12 +191,12 @@
         <mark key="^" line="14" column="31" />
         <mark key="." line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" timestamp="1593144250171">
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" timestamp="1593145420841">
         <mark key="'" line="42" column="22" />
-        <mark key="[" line="45" column="53" />
-        <mark key="]" line="45" column="69" />
-        <mark key="^" line="45" column="69" />
-        <mark key="." line="45" column="68" />
+        <mark key="[" line="49" column="74" />
+        <mark key="]" line="49" column="82" />
+        <mark key="^" line="49" column="82" />
+        <mark key="." line="49" column="81" />
       </file>
     </filemarks>
     <jumps>
@@ -320,29 +320,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNwbGl0TWVzc2FnZXMgPSBzb2hEYXRhLkNodW5rQnkoTWF4VGhyZWFkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNwbGl0TWVzc2FnZXMgPSBucnRNZXNzYWdlcy5DaHVua0J5KE1heFRocmVhZHMpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuQ29udmVydChkYXRhTGlzdCwgZmlsZU1ldGFkYXRhKSkuVG9MaXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5TZWxlY3RNYW55KGRhdGFMaXN0ID0+IGRhdGFMaXN0LlNlbGVjdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfbWVzc2FnZUNvbnZlcnRlci5Db252ZXJ0KHNvaERhdGEsIGZpbGVNZXRhZGF0YSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
-      <register name="8" type="4">
-        <text>AsyncParallelExtensions
-                .SplitList(messages, MaxThreads)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBzb2hEYXRhIGluIG1lc3NhZ2UpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
     </registers>
   </component>
