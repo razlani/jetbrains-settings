@@ -143,6 +143,11 @@
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/63520200212100007 CREATE View vwStageTransactionReward.sql" timestamp="1592449336997">
         <mark key="[" line="0" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/rustlings/exercises/generics/generics3.rs" timestamp="1592730906577">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/rustlings/exercises/generics/generics2.rs" timestamp="1592661093074">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -169,11 +174,11 @@
         <mark key="." line="11" column="44" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/testy3/src/main.rs" timestamp="1592660979694">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="11" />
-        <mark key="^" line="5" column="12" />
+      <file name="$USER_HOME$/CLionProjects/testy3/src/main.rs" timestamp="1592731104412">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/TransactionType.sql" timestamp="1592528670862">
         <mark key="[" line="14" column="13" />
