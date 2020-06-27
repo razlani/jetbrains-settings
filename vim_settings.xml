@@ -143,10 +143,12 @@
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.SQLRun.Upgrade/63520200212100007 CREATE View vwStageTransactionReward.sql" timestamp="1592449336997">
         <mark key="[" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/rustlings/exercises/generics/generics3.rs" timestamp="1592730906577">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/rustlings/exercises/generics/generics3.rs" timestamp="1593244018420">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="6" />
+        <mark key="^" line="14" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/rustlings/exercises/generics/generics2.rs" timestamp="1592661093074">
         <mark key="[" line="3" column="0" />
@@ -174,11 +176,12 @@
         <mark key="." line="11" column="44" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/testy3/src/main.rs" timestamp="1592731104412">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="17" />
-        <mark key="^" line="14" column="18" />
+      <file name="$USER_HOME$/CLionProjects/testy3/src/main.rs" timestamp="1593243892869">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="22" />
+        <mark key="^" line="38" column="22" />
+        <mark key="." line="38" column="21" />
       </file>
       <file name="$USER_HOME$/git/projects/MORe/MORPRocessingEDatabases/Src/Databases/MORProcessingE.Database/Mor/Tables/TransactionType.sql" timestamp="1592528670862">
         <mark key="[" line="14" column="13" />
@@ -214,9 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/FulfilmentStore/StoreConfigurationProxyTests.cs" />
-      <jump line="22" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Extensions/TypeLoaderExtensions.cs" />
-      <jump line="37" column="51" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/FulfilmentStore/StoreConfigurationProxy.cs" />
       <jump line="170" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
       <jump line="86" column="22" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
       <jump line="130" column="27" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
@@ -314,15 +314,18 @@
       <jump line="221" column="28" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
       <jump line="171" column="0" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
       <jump line="0" column="0" filename="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/MORProcessingE/schema/Mor/routine/CreateStageTransactionData.sql" />
+      <jump line="36" column="1" filename="$USER_HOME$/CLionProjects/testy3/src/main.rs" />
+      <jump line="23" column="0" filename="$USER_HOME$/CLionProjects/testy3/src/main.rs" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/rustlings/exercises/generics/generics3.rs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>f32</text>
+        <text>.1</text>
       </register>
       <register name="-" type="4">
-        <text>f32</text>
+        <text>.1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdGFnZVRyYW5zYWN0aW9uSWRzXD4=</text>
