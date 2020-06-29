@@ -116,7 +116,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593397487057">
+      <file name="/Dummy.txt" timestamp="1593401964585">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -192,11 +192,11 @@
         <mark key="^" line="32" column="79" />
         <mark key="." line="32" column="93" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/local.settings.json" timestamp="1593059762709">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="31" />
-        <mark key="^" line="5" column="31" />
-        <mark key="." line="5" column="30" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/local.settings.json" timestamp="1593402449405">
+        <mark key="[" line="8" column="198" />
+        <mark key="]" line="8" column="167" />
+        <mark key="^" line="8" column="167" />
+        <mark key="." line="8" column="166" />
       </file>
     </filemarks>
     <jumps>
@@ -304,8 +304,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIElFbnVtZXJhYmxlPFRhc2s=</text>
+      <register name="&quot;" type="2">
+        <text>first naive approach</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIElFbnVtZXJhYmxlPFRhc2s=</text>
@@ -314,34 +314,34 @@
         <text encoding="base64">XDxNYXhUaHJlYWRzXD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHVibGlzaGVyQmF0Y2gK</text>
+        <text>first naive approach</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHVibGlzaGVyQmF0Y2gK</text>
       </register>
       <register name="3" type="2">
-        <text>five second completion rate, messy</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>five second completion rate, messy</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNwbGl0TWVzc2FnZXMgPSBucnRNZXNzYWdlcy5DaHVua0J5KE1heFRocmVhZHMpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNwbGl0TWVzc2FnZXMgPSBucnRNZXNzYWdlcy5DaHVua0J5KE1heFRocmVhZHMpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfbWVzc2FnZUNvbnZlcnRlci5Db252ZXJ0KHNvaERhdGEsIGZpbGVNZXRhZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
     </registers>
   </component>
