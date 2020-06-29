@@ -116,16 +116,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593401964585">
+      <file name="/Dummy.txt" timestamp="1593405716812">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1593398465186">
-        <mark key="[" line="63" column="41" />
-        <mark key="]" line="64" column="42" />
-        <mark key="." line="64" column="41" />
-        <mark key="^" line="64" column="42" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1593406246741">
+        <mark key="[" line="50" column="38" />
+        <mark key="]" line="50" column="97" />
+        <mark key="^" line="50" column="97" />
+        <mark key="." line="50" column="96" />
       </file>
       <file name="/app/89f25c05-7785-4bac-8289-7f8163f0d24d/database/ECFCentral/schema/dbo/routine/ECF_Rep_Pump_Order_Header_WOW_One.sql" timestamp="1592963595740">
         <mark key="'" line="261" column="40" />
@@ -305,43 +305,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>first naive approach</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxFdmVudEh1YlByb2R1Y2VyQ2xpZW50PiBlaHBjTGlzdCA9IG5ldyBMaXN0PEV2ZW50SHViUHJvZHVjZXJDbGllbnQ+KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIElFbnVtZXJhYmxlPFRhc2s=</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYXhUaHJlYWRzXD4=</text>
       </register>
       <register name="1" type="2">
-        <text>first naive approach</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxFdmVudEh1YlByb2R1Y2VyQ2xpZW50PiBlaHBjTGlzdCA9IG5ldyBMaXN0PEV2ZW50SHViUHJvZHVjZXJDbGllbnQ+KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHVibGlzaGVyQmF0Y2gK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDsK</text>
+        <text>first naive approach</text>
       </register>
       <register name="4" type="2">
-        <text>five second completion rate, messy</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHVibGlzaGVyQmF0Y2gK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNwbGl0TWVzc2FnZXMgPSBucnRNZXNzYWdlcy5DaHVua0J5KE1heFRocmVhZHMpOwo=</text>
+        <text>five second completion rate, messy</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNwbGl0TWVzc2FnZXMgPSBucnRNZXNzYWdlcy5DaHVua0J5KE1heFRocmVhZHMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
