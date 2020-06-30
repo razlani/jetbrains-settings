@@ -116,16 +116,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593500251046">
+      <file name="/Dummy.txt" timestamp="1593501504177">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1593501153660">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="54" column="34" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1593503397508">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="54" column="125" />
       </file>
       <file name="/app/89f25c05-7785-4bac-8289-7f8163f0d24d/database/ECFCentral/schema/dbo/routine/ECF_Rep_Pump_Order_Header_WOW_One.sql" timestamp="1593487238530" />
       <file name="/console" timestamp="1592964376262">
@@ -306,43 +306,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfbG9nZ2VyLkxvZ0luZm9ybWF0aW9uKCJkb25lc2tpcyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nSW5mb3JtYXRpb24oJCJ3YXJtaW5nIHVwIHNlY29uZCBwdWJsaXNoZXIgY2xpZW50Iik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>producerClient.SendAsync(eventBatch)</text>
+        <text>first</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYXhUaHJlYWRzXD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfbG9nZ2VyLkxvZ0luZm9ybWF0aW9uKCJkb25lc2tpcyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nSW5mb3JtYXRpb24oJCJ3YXJtaW5nIHVwIHNlY29uZCBwdWJsaXNoZXIgY2xpZW50Iik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nSW5mb3JtYXRpb24oJCJ3YXJtaW5nIHVwIGZpcnN0IHB1Ymxpc2hlciBjbGllbnQiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9kdWNlckNsaWVudHMuUHVzaChuZXcgRXZlbnRIdWJQcm9kdWNlckNsaWVudChjb25uZWN0aW9uU3RyaW5nLCBldmVudEh1Yk5hbWUpKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgcHJvZHVjZXJDbGllbnQgPSBuZXcgRXZlbnRIdWJQcm9kdWNlckNsaWVudCgpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgbmV3ZXN0Q2xpZW50ID0gcHJvZHVjZXJDbGllbnRzLlBvcCgpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhd2FpdCBuZXdlc3RDbGllbnQuRGlzcG9zZUFzeW5jKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgX2xvZ2dlci5Mb2dJbmZvcm1hdGlvbigkImlzRXZlbiBpcyB7aXNFdmVuTnVtYmVyfSwgdXNpbmcgcHJpbWFyeUNsaWVudCIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text>with a stack to hold the producerclients</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">YXN5bmMgKCkgPT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhd2FpdCBwcm9kdWNlckNsaWVudC5TZW5kQXN5bmMoZXZlbnRCYXRjaCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXZlbnRCYXRjaC5EaXNwb3NlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlCg==</text>
       </register>
     </registers>
   </component>
