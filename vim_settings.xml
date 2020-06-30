@@ -121,11 +121,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1593493034134">
-        <mark key="[" line="63" column="25" />
-        <mark key="]" line="62" column="61" />
-        <mark key="." line="62" column="60" />
-        <mark key="^" line="62" column="61" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1593495514115">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="75" column="20" />
       </file>
       <file name="/app/89f25c05-7785-4bac-8289-7f8163f0d24d/database/ECFCentral/schema/dbo/routine/ECF_Rep_Pump_Order_Header_WOW_One.sql" timestamp="1593487238530" />
       <file name="/console" timestamp="1592964376262">
@@ -161,7 +161,7 @@
       <file name="/a.sql" timestamp="1593487306766">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.cs" timestamp="1593137818969">
+      <file name="/Dummy.cs" timestamp="1593494583138">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/Databases/Src/Databases/ECF.SQLRun.Upgrade/64720200624144801 ALTER PROCEDURE ECF_Rep_Pump_Order_Header_WOW_One.rollback.sql" timestamp="1592964701303">
@@ -192,6 +192,12 @@
         <mark key="]" line="8" column="167" />
         <mark key="^" line="8" column="167" />
         <mark key="." line="8" column="166" />
+      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" timestamp="1593495244870">
+        <mark key="[" line="32" column="87" />
+        <mark key="]" line="32" column="86" />
+        <mark key="." line="32" column="85" />
+        <mark key="^" line="32" column="86" />
       </file>
     </filemarks>
     <jumps>
@@ -300,34 +306,34 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfbG9nZ2VyLkxvZ0luZm9ybWF0aW9uKCQiRG9uZXNraXM6IHt0YXNrcy5Db3VudH0iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;Doneskis&quot;, currentBatch, eventBatch.Count, eventsToPublish.Count</text>
+        <text>&quot;Publishing batch {CurrentBatch} with {EventBatchCount} messages ({EventsToPublishCount} remain)&quot;, currentBatch, eventBatch.Count, eventsToPublish.Count</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYXhUaHJlYWRzXD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfbG9nZ2VyLkxvZ0luZm9ybWF0aW9uKCQiRG9uZXNraXM6IHt0YXNrcy5Db3VudH0iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrZWsuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci5Mb2dJbmZvcm1hdGlvbigiUHVibGlzaGluZyBiYXRjaCB7Q3VycmVudEJhdGNofSB3aXRoIHtFdmVudEJhdGNoQ291bnR9IG1lc3NhZ2VzICh7RXZlbnRzVG9QdWJsaXNoQ291bnR9IHJlbWFpbikiLCBjdXJyZW50QmF0Y2gsIGV2ZW50QmF0Y2guQ291bnQsIGV2ZW50c1RvUHVibGlzaC5Db3VudCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHB1YmwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcHdhdGNoLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -336,7 +342,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
     </registers>
   </component>
