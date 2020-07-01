@@ -121,11 +121,11 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1593578740628">
-        <mark key="[" line="93" column="97" />
-        <mark key="]" line="94" column="33" />
-        <mark key="^" line="94" column="33" />
-        <mark key="." line="94" column="32" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1593584348091">
+        <mark key="[" line="86" column="58" />
+        <mark key="]" line="86" column="58" />
+        <mark key="^" line="86" column="79" />
+        <mark key="." line="86" column="58" />
       </file>
       <file name="/app/89f25c05-7785-4bac-8289-7f8163f0d24d/database/ECFCentral/schema/dbo/routine/ECF_Rep_Pump_Order_Header_WOW_One.sql" timestamp="1593487238530" />
       <file name="/console" timestamp="1592964376262">
@@ -150,13 +150,7 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c176f6c-9598-44f9-8597-a55f987be83e/console.sql" timestamp="1592964034401">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="^" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-      </file>
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/Startup.cs" timestamp="1593579664015" />
       <file name="/64720200624144801 ALTER PROCEDURE ECF_Rep_Pump_Order_Header_WOW_One.sql" timestamp="1593487695465" />
       <file name="/a.sql" timestamp="1593487306766">
         <mark key="[" line="0" column="0" />
@@ -170,6 +164,7 @@
         <mark key="." line="75" column="4" />
         <mark key="^" line="75" column="5" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CFDE1041-8873-4DFE-83F7-593A6775F006/17/EventHubProducerClient.cs" timestamp="1593584030739" />
       <file name="/default" timestamp="1593487248384">
         <mark key="[" line="0" column="0" />
       </file>
@@ -306,43 +301,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>LogDebug</text>
+        <text>.ConfigureAwait(false);</text>
       </register>
       <register name="-" type="4">
-        <text>LogDebug</text>
+        <text>.ConfigureAwait(false);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYXhUaHJlYWRzXD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b3B3YXRjaC5TdG9wKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nSW5mb3JtYXRpb24oJCJBZnRlciBkaXNwb3NlIGJhdGNoIHtiYXRjaE51bWJlcn0ge3N0b3B3YXRjaC5FbGFwc2VkfSIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nSW5mb3JtYXRpb24oJCJCZWZvcmUgZGlzcG9zZSBiYXRjaCB7YmF0Y2hOdW1iZXJ9Iik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBldmVudEJhdGNoU2l6ZSA9IGV2ZW50QmF0Y2guQ291bnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b3B3YXRjaC5TdG9wKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgZXZlbnRCYXRjaCA9IGF3YWl0IHByb2R1Y2VyQ2xpZW50LkNyZWF0ZUJhdGNoQXN5bmMoY3JlYXRlQmF0Y2hPcHRpb25zKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBldmVudEJhdGNoU2l6ZSA9IGV2ZW50QmF0Y2guQ291bnQ7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgZXZlbnRCYXRjaCA9IGF3YWl0IHByb2R1Y2VyQ2xpZW50LkNyZWF0ZUJhdGNoQXN5bmMoY3JlYXRlQmF0Y2hPcHRpb25zKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBldmVudEJhdGNoU2l6ZSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
