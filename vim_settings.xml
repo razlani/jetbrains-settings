@@ -121,11 +121,11 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1593578519075">
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1593578740628">
         <mark key="[" line="93" column="97" />
-        <mark key="]" line="93" column="39" />
-        <mark key="^" line="93" column="39" />
-        <mark key="." line="93" column="38" />
+        <mark key="]" line="94" column="33" />
+        <mark key="^" line="94" column="33" />
+        <mark key="." line="94" column="32" />
       </file>
       <file name="/app/89f25c05-7785-4bac-8289-7f8163f0d24d/database/ECFCentral/schema/dbo/routine/ECF_Rep_Pump_Order_Header_WOW_One.sql" timestamp="1593487238530" />
       <file name="/console" timestamp="1592964376262">
