@@ -116,16 +116,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593577989248">
+      <file name="/Dummy.txt" timestamp="1593586497308">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1593584348091">
-        <mark key="[" line="86" column="58" />
-        <mark key="]" line="86" column="58" />
-        <mark key="^" line="86" column="79" />
-        <mark key="." line="86" column="58" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1593587558803">
+        <mark key="[" line="50" column="57" />
+        <mark key="]" line="50" column="81" />
+        <mark key="^" line="50" column="81" />
+        <mark key="." line="50" column="80" />
       </file>
       <file name="/app/89f25c05-7785-4bac-8289-7f8163f0d24d/database/ECFCentral/schema/dbo/routine/ECF_Rep_Pump_Order_Header_WOW_One.sql" timestamp="1593487238530" />
       <file name="/console" timestamp="1592964376262">
@@ -182,17 +182,16 @@
         <mark key="^" line="32" column="79" />
         <mark key="." line="32" column="93" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/local.settings.json" timestamp="1593402449405">
-        <mark key="[" line="8" column="198" />
-        <mark key="]" line="8" column="167" />
-        <mark key="^" line="8" column="167" />
-        <mark key="." line="8" column="166" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/local.settings.json" timestamp="1593584635082">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" timestamp="1593495244870">
-        <mark key="[" line="32" column="87" />
-        <mark key="]" line="32" column="86" />
-        <mark key="." line="32" column="85" />
-        <mark key="^" line="32" column="86" />
+        <mark key="[" line="28" column="87" />
+        <mark key="]" line="28" column="86" />
+        <mark key="." line="28" column="85" />
+        <mark key="^" line="28" column="86" />
       </file>
     </filemarks>
     <jumps>
@@ -301,43 +300,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.ConfigureAwait(false);</text>
+        <text>createbatchasync</text>
       </register>
       <register name="-" type="4">
-        <text>.ConfigureAwait(false);</text>
+        <text>createbatchasync</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYXhUaHJlYWRzXD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nSW5mb3JtYXRpb24oJCJBZnRlciBkaXNwb3NlIGJhdGNoIHtiYXRjaE51bWJlcn0ge3N0b3B3YXRjaC5FbGFwc2VkfSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYXRjaFNXLnN0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nSW5mb3JtYXRpb24oJCJCZWZvcmUgZGlzcG9zZSBiYXRjaCB7YmF0Y2hOdW1iZXJ9Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuQ29udGludWVXaXRoKHQgPT4gcHJvZHVjZXJDbGllbnQuRGlzcG9zZUFzeW5jKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b3B3YXRjaC5TdG9wKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBldmVudEJhdGNoU2l6ZSA9IGV2ZW50QmF0Y2guQ291bnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUYXNrU2NoZWR1bGVyID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgZXZlbnRCYXRjaCA9IGF3YWl0IHByb2R1Y2VyQ2xpZW50LkNyZWF0ZUJhdGNoQXN5bmMoY3JlYXRlQmF0Y2hPcHRpb25zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLgo=</text>
       </register>
     </registers>
   </component>
