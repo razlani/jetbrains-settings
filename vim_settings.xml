@@ -130,11 +130,11 @@
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/test/Wow.Inventory.UnitTests/Messaging/PublisherTest.cs" timestamp="1594016266696" />
       <file name="/app/89f25c05-7785-4bac-8289-7f8163f0d24d/database/ECFCentral/schema/dbo/routine/ECF_Rep_Pump_Order_Header_WOW_One.sql" timestamp="1593487238530" />
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Extensions/AsyncParallelExtensions.cs" timestamp="1594003251651">
-        <mark key="[" line="18" column="59" />
-        <mark key="]" line="18" column="60" />
-        <mark key="^" line="18" column="60" />
-        <mark key="." line="18" column="59" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Extensions/AsyncParallelExtensions.cs" timestamp="1594019549452">
+        <mark key="[" line="6" column="59" />
+        <mark key="]" line="6" column="71" />
+        <mark key="^" line="6" column="71" />
+        <mark key="." line="6" column="70" />
       </file>
       <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/ECFCentral/schema/dbo/routine/ECF_Rep_Pump_Order_Header_WOW_One.sql" timestamp="1593487187904" />
       <file name="$USER_HOME$/git/projects/Databases/Src/Databases/ECF.SQLRun.Upgrade/64720200624144801 ALTER PROCEDURE ECF_Rep_Pump_Order_Header_WOW_One.sql" timestamp="1592964926995">
@@ -184,16 +184,16 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" timestamp="1594018190231">
-        <mark key="'" line="24" column="36" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
-        <mark key="^" line="135" column="40" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" timestamp="1594021203001">
+        <mark key="e" line="89" column="62" />
+        <mark key="'" line="43" column="53" />
+        <mark key="[" line="108" column="54" />
+        <mark key="]" line="108" column="57" />
+        <mark key="." line="108" column="56" />
+        <mark key="^" line="108" column="57" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="751" column="50" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/110913F5-65B9-4BF7-8200-2B7F7096D12E/3C/HttpClient.cs" />
       <jump line="27" column="16" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/110913F5-65B9-4BF7-8200-2B7F7096D12E/3C/HttpClient.cs" />
       <jump line="83" column="33" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
       <jump line="27" column="55" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Handlers/ArticleSohMessageHandler.cs" />
@@ -293,48 +293,49 @@
       <jump line="128" column="27" filename="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" />
       <jump line="154" column="27" filename="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" />
       <jump line="24" column="36" filename="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" />
+      <jump line="43" column="53" filename="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>expression</text>
+        <text>messageChunk ++</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYXhUaHJlYWRzXD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0b3B3YXRjaCA9IFN0b3B3YXRjaC5TdGFydE5ldygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGllbnQuQ3JlYXRlQmF0Y2hBc3luYyhuZXcgQ3JlYXRlQmF0Y2hPcHRpb25zKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3LlN0b3AoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1lc3NhZ2VzID0gbnJ0U29oRGF0YS5TZWxlY3QoZGF0YSA9PiBfbWVzc2FnZUNvbnZlcnRlci5Db252ZXJ0KGRhdGEsIGZpbGVNZXRhZGF0YSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3LlN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3LlN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBtZXNzYWdlQ2h1bmsgaW4gY2h1bmtlZE1lc3NhZ2VzKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBtZXNzYWdlQ2h1bmsgaW4gY2h1bmtlZE1lc3NhZ2VzKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5TZXJ2aWNlcy5BZGRUcmFuc2llbnQ8SU1lc3NhZ2VQdWJsaXNoZXIsIE1lc3NhZ2VQdWJsaXNoZXI+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuVG9MaXN0KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBtZXNzYWdlTGlzdCA9IG1lc3NhZ2VMaXN0LlRvTGlzdCgpOwo=</text>
       </register>
     </registers>
   </component>
