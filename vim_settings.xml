@@ -121,22 +121,22 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1594002348513">
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1594004556988">
         <mark key="'" line="119" column="30" />
-        <mark key="[" line="50" column="57" />
-        <mark key="]" line="50" column="81" />
-        <mark key="^" line="50" column="81" />
-        <mark key="." line="50" column="80" />
+        <mark key="[" line="49" column="64" />
+        <mark key="]" line="49" column="74" />
+        <mark key="^" line="49" column="74" />
+        <mark key="." line="49" column="73" />
       </file>
       <file name="/app/89f25c05-7785-4bac-8289-7f8163f0d24d/database/ECFCentral/schema/dbo/routine/ECF_Rep_Pump_Order_Header_WOW_One.sql" timestamp="1593487238530" />
       <file name="/console" timestamp="1592964376262">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Extensions/AsyncParallelExtensions.cs" timestamp="1593143114430">
-        <mark key="[" line="7" column="59" />
-        <mark key="]" line="7" column="60" />
-        <mark key="^" line="7" column="60" />
-        <mark key="." line="7" column="59" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Extensions/AsyncParallelExtensions.cs" timestamp="1594003251651">
+        <mark key="[" line="18" column="59" />
+        <mark key="]" line="18" column="60" />
+        <mark key="^" line="18" column="60" />
+        <mark key="." line="18" column="59" />
       </file>
       <file name="/app/2c176f6c-9598-44f9-8597-a55f987be83e/database/ECFCentral/schema/dbo/routine/ECF_Rep_Pump_Order_Header_WOW_One.sql" timestamp="1593487187904" />
       <file name="$USER_HOME$/git/projects/Databases/Src/Databases/ECF.SQLRun.Upgrade/64720200624144801 ALTER PROCEDURE ECF_Rep_Pump_Order_Header_WOW_One.sql" timestamp="1592964926995">
@@ -301,43 +301,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>createbatchasync</text>
+        <text>IEnumerable</text>
       </register>
       <register name="-" type="4">
-        <text>createbatchasync</text>
+        <text>IEnumerable</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYXhUaHJlYWRzXD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYXRjaFNXLnN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgYmF0Y2hTVyA9IFN0b3B3YXRjaC5TdGFydE5ldygpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuQ29udGludWVXaXRoKHQgPT4gcHJvZHVjZXJDbGllbnQuRGlzcG9zZUFzeW5jKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYXRjaFNXLlN0b3AoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfbG9nZ2VyLkxvZ0luZm9ybWF0aW9uKCQiY3JlYXRpb24gb2YgcHJvZHVjZXJjbGllbnQgb2YgYmF0Y2gge2N1cnJlbnRCYXRjaH0gdG9vayB7YmF0Y2hTVy5FbGFwc2VkfSIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUYXNrU2NoZWR1bGVyID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBldmVudHNUb1B1Ymxpc2ggPSBuZXcgUXVldWU8RXZlbnREYXRhPihtZXNzYWdlcy5TZWxlY3QoVG9FdmVudERhdGEpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuVG9MaXN0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYXRjaFNXLnN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuQ29udGludWVXaXRoKHQgPT4gcHJvZHVjZXJDbGllbnQuRGlzcG9zZUFzeW5jKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
