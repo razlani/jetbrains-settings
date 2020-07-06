@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxBcGlCYXNlVXJsXD4=</entry>
         <entry encoding="base64">XDxtZXRhZGF0YUxpc3RcPg==</entry>
         <entry encoding="base64">XDxfY29uZmlndXJhdGlvbk1vY2tcPg==</entry>
         <entry encoding="base64">XDxfbG9nZ2VyXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxfY29uZmlndXJhdGlvblw+</entry>
         <entry encoding="base64">XDxzb3VyY2VcPg==</entry>
         <entry encoding="base64">XDxNYXhUaHJlYWRzXD4=</entry>
+        <entry encoding="base64">XDxUcnlQZWVrQWRkXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -116,17 +116,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594001013816">
+      <file name="/Dummy.txt" timestamp="1594005098491">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1594004556988">
-        <mark key="'" line="119" column="30" />
-        <mark key="[" line="49" column="64" />
-        <mark key="]" line="49" column="74" />
-        <mark key="^" line="49" column="74" />
-        <mark key="." line="49" column="73" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1594005328511">
+        <mark key="'" line="167" column="28" />
+        <mark key="[" line="143" column="109" />
+        <mark key="]" line="143" column="108" />
+        <mark key="^" line="143" column="108" />
+        <mark key="." line="143" column="107" />
       </file>
       <file name="/app/89f25c05-7785-4bac-8289-7f8163f0d24d/database/ECFCentral/schema/dbo/routine/ECF_Rep_Pump_Order_Header_WOW_One.sql" timestamp="1593487238530" />
       <file name="/console" timestamp="1592964376262">
@@ -151,6 +151,7 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="/MessagePublisher.cs" timestamp="1594005144763" />
       <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory.NrtSohProcessor/Startup.cs" timestamp="1593579664015" />
       <file name="/64720200624144801 ALTER PROCEDURE ECF_Rep_Pump_Order_Header_WOW_One.sql" timestamp="1593487695465" />
       <file name="/a.sql" timestamp="1593487306766">
@@ -168,13 +169,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CFDE1041-8873-4DFE-83F7-593A6775F006/17/EventHubProducerClient.cs" timestamp="1593584030739" />
       <file name="/default" timestamp="1593487248384">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/app/89f25c05-7785-4bac-8289-7f8163f0d24d/database/ECFCentral/schema/REPLICATE/routine/ECF_Rep_Pump_Order_Header_WOW_One.sql" timestamp="1592964075989">
-        <mark key="'" line="87" column="4" />
-        <mark key="[" line="207" column="35" />
-        <mark key="]" line="207" column="49" />
-        <mark key="." line="207" column="48" />
-        <mark key="^" line="207" column="49" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Extensions/ProcessingExtensions.cs" timestamp="1593073526478">
         <mark key="'" line="12" column="27" />
@@ -196,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="36" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
       <jump line="22" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
       <jump line="16" column="55" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerService.cs" />
       <jump line="31" column="55" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" />
@@ -296,18 +289,19 @@
       <jump line="40" column="22" filename="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" />
       <jump line="44" column="53" filename="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" />
       <jump line="119" column="30" filename="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" />
+      <jump line="145" column="28" filename="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>IEnumerable</text>
+        <text>ConcurrentQueue</text>
       </register>
       <register name="-" type="4">
-        <text>IEnumerable</text>
+        <text>ConcurrentQueue</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNYXhUaHJlYWRzXD4=</text>
+        <text encoding="base64">XDxUcnlQZWVrQWRkXD4=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgYmF0Y2hTVyA9IFN0b3B3YXRjaC5TdGFydE5ldygpOwo=</text>
@@ -343,9 +337,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxNYXhUaHJlYWRzXD4=</last-search>
+      <last-search encoding="base64">XDxUcnlQZWVrQWRkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNYXhUaHJlYWRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxUcnlQZWVrQWRkXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
