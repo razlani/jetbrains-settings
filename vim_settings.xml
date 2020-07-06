@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZXRhZGF0YUxpc3RcPg==</entry>
         <entry encoding="base64">XDxfY29uZmlndXJhdGlvbk1vY2tcPg==</entry>
         <entry encoding="base64">XDxfbG9nZ2VyXD4=</entry>
         <entry encoding="base64">XDxhcnRpY2xlU29oXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxzb3VyY2VcPg==</entry>
         <entry encoding="base64">XDxNYXhUaHJlYWRzXD4=</entry>
         <entry encoding="base64">XDxUcnlQZWVrQWRkXD4=</entry>
+        <entry encoding="base64">XDxwdWJsaXNoZWRNZXNzYWdlQ291bnRcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -121,12 +121,12 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1594005328511">
-        <mark key="'" line="167" column="28" />
-        <mark key="[" line="143" column="109" />
-        <mark key="]" line="143" column="108" />
-        <mark key="^" line="143" column="108" />
-        <mark key="." line="143" column="107" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" timestamp="1594013679085">
+        <mark key="'" line="37" column="20" />
+        <mark key="[" line="71" column="28" />
+        <mark key="]" line="71" column="34" />
+        <mark key="^" line="71" column="34" />
+        <mark key="." line="71" column="33" />
       </file>
       <file name="/app/89f25c05-7785-4bac-8289-7f8163f0d24d/database/ECFCentral/schema/dbo/routine/ECF_Rep_Pump_Order_Header_WOW_One.sql" timestamp="1593487238530" />
       <file name="/console" timestamp="1592964376262">
@@ -190,11 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="12" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
-      <jump line="16" column="55" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerService.cs" />
-      <jump line="31" column="55" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" />
-      <jump line="49" column="19" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
-      <jump line="52" column="39" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/ArticleService/ArticleMasterConsumerServiceProxy.cs" />
       <jump line="44" column="0" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" />
       <jump line="27" column="8" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" />
       <jump line="35" column="8" filename="$USER_HOME$/git/projects/flash/inventory-soh-consumer/test/Wow.Inventory.UnitTests/Services/ArticleMasterConsumerServiceProxyTests.cs" />
@@ -290,56 +285,61 @@
       <jump line="44" column="53" filename="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" />
       <jump line="119" column="30" filename="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" />
       <jump line="145" column="28" filename="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" />
+      <jump line="81" column="32" filename="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" />
+      <jump line="117" column="24" filename="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" />
+      <jump line="133" column="23" filename="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" />
+      <jump line="156" column="16" filename="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" />
+      <jump line="37" column="20" filename="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/MessagePublisher.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ConcurrentQueue</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>ConcurrentQueue</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUcnlQZWVrQWRkXD4=</text>
+        <text encoding="base64">XDxwdWJsaXNoZWRNZXNzYWdlQ291bnRcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgYmF0Y2hTVyA9IFN0b3B3YXRjaC5TdGFydE5ldygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYXRjaFNXLlN0b3AoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlIChjaHVua2VkRXZlbnREYXRhUXVldWUuQ291bnQgPiAwKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHZhciBwcm9kdWNlckNsaWVudCA9IG5ldyBFdmVudEh1YlByb2R1Y2VyQ2xpZW50KGNvbm5lY3Rpb25TdHJpbmcsIGV2ZW50SHViTmFtZSk7CgogICAgICAgICAgICAgICAgICAgIGV2ZW50SHViQ2xpZW50cy5BZGQocHJvZHVjZXJDbGllbnQpOwogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nSW5mb3JtYXRpb24oJCJjcmVhdGViYXRjaGFzeW5jIG9mIHtjdXJyZW50QmF0Y2h9IHRvb2sge2JhdGNoU1cuRWxhcHNlZH0iKTsKCgogICAgICAgICAgICAgICAgICAgIC8vIFdoZW4gYW4gZXZlbnQgY291bGQgbm90IGJlIGRlcXVldWVkIG9yIGNvdWxkIG5vdCBiZSBhZGRlZCB0byB0aGUgYmF0Y2gsIHRoZW4gdGhlIGJhdGNoIGlzIHJlYWR5IHRvIGJlIHB1Ymxpc2hlZC4KCiAgICAgICAgICAgICAgICAgICAgaWYgKGV2ZW50QmF0Y2guQ291bnQgPiAwKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgKytjdXJyZW50QmF0Y2g7CiAgICAgICAgICAgICAgICAgICAgICAgIHB1Ymxpc2hlZE1lc3NhZ2VDb3VudCArPSBldmVudEJhdGNoLkNvdW50OwogICAgICAgICAgICAgICAgICAgICAgICBfbG9nZ2VyLkxvZ0luZm9ybWF0aW9uKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIlB1Ymxpc2hpbmcgYmF0Y2gge0N1cnJlbnRCYXRjaH0gd2l0aCB7RXZlbnRCYXRjaENvdW50fSBtZXNzYWdlcyAoe0V2ZW50c1RvUHVibGlzaENvdW50fSByZW1haW4pIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1cnJlbnRCYXRjaCwgZXZlbnRCYXRjaC5Db3VudCwgZXZlbnRzVG9QdWJsaXNoLkNvdW50KTsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIHRhc2tzLkFkZChTZW5kQmF0Y2gocHJvZHVjZXJDbGllbnQsIGV2ZW50QmF0Y2gsIGN1cnJlbnRCYXRjaCkpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBhd2FpdCBUYXNrLldoZW5BbGwodGFza3MpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfbG9nZ2VyLkxvZ0luZm9ybWF0aW9uKCQiY3JlYXRpb24gb2YgcHJvZHVjZXJjbGllbnQgb2YgYmF0Y2gge2N1cnJlbnRCYXRjaH0gdG9vayB7YmF0Y2hTVy5FbGFwc2VkfSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc2tzLkFkZChTZW5kQmF0Y2gocHJvZHVjZXJDbGllbnQsIGV2ZW50QmF0Y2gsIGN1cnJlbnRCYXRjaCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBldmVudHNUb1B1Ymxpc2ggPSBuZXcgUXVldWU8RXZlbnREYXRhPihtZXNzYWdlcy5TZWxlY3QoVG9FdmVudERhdGEpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2hpbGUgKGV2ZW50c1RvUHVibGlzaC5Db3VudCA+IDApCiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBldmVudEJhdGNoID0gYXdhaXQgcHJvZHVjZXJDbGllbnQuQ3JlYXRlQmF0Y2hBc3luYyhjcmVhdGVCYXRjaE9wdGlvbnMpOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoaWxlIChUcnlQZWVrQWRkKGV2ZW50c1RvUHVibGlzaCwgZXZlbnRCYXRjaCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gV2hlbiBhbiBldmVudCBjb3VsZCBub3QgYmUgZGVxdWV1ZWQgb3IgY291bGQgbm90IGJlIGFkZGVkIHRvIHRoZSBiYXRjaCwgdGhlbiB0aGUgYmF0Y2ggaXMgcmVhZHkgdG8gYmUgcHVibGlzaGVkLgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChldmVudEJhdGNoLkNvdW50ID4gMCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArK2N1cnJlbnRCYXRjaDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdWJsaXNoZWRNZXNzYWdlQ291bnQgKz0gZXZlbnRCYXRjaC5Db3VudDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfbG9nZ2VyLkxvZ0luZm9ybWF0aW9uKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiUHVibGlzaGluZyBiYXRjaCB7Q3VycmVudEJhdGNofSB3aXRoIHtFdmVudEJhdGNoQ291bnR9IG1lc3NhZ2VzICh7RXZlbnRzVG9QdWJsaXNoQ291bnR9IHJlbWFpbikiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJyZW50QmF0Y2gsIGV2ZW50QmF0Y2guQ291bnQsIGV2ZW50c1RvUHVibGlzaC5Db3VudCk7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRhc2tzLkFkZChTZW5kQmF0Y2gocHJvZHVjZXJDbGllbnQsIGV2ZW50QmF0Y2gsIGN1cnJlbnRCYXRjaCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHByb2R1Y2VyQ2xpZW50ID0gZXZlbnRIdWJDbGllbnRzW2ldOwogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGV2ZW50QmF0Y2ggPSBhd2FpdCBwcm9kdWNlckNsaWVudC5DcmVhdGVCYXRjaEFzeW5jKGNyZWF0ZUJhdGNoT3B0aW9ucyk7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICB3aGlsZSAoVHJ5UGVla0FkZChldmVudHNUb1B1Ymxpc2gsIGV2ZW50QmF0Y2gpKQogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuVG9MaXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aGlsZSAoY2h1bmtlZEV2ZW50RGF0YVF1ZXVlLlRyeURlcXVldWUob3V0IHZhciBldmVudHNUb1B1Ymxpc2gpKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgd2hpbGUgKGV2ZW50c1RvUHVibGlzaC5Db3VudCA+IDApCiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBldmVudEJhdGNoID0gYXdhaXQgcHJvZHVjZXJDbGllbnQuQ3JlYXRlQmF0Y2hBc3luYyhjcmVhdGVCYXRjaE9wdGlvbnMpOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoaWxlIChUcnlQZWVrQWRkKGV2ZW50c1RvUHVibGlzaCwgZXZlbnRCYXRjaCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gV2hlbiBhbiBldmVudCBjb3VsZCBub3QgYmUgZGVxdWV1ZWQgb3IgY291bGQgbm90IGJlIGFkZGVkIHRvIHRoZSBiYXRjaCwgdGhlbiB0aGUgYmF0Y2ggaXMgcmVhZHkgdG8gYmUgcHVibGlzaGVkLgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChldmVudEJhdGNoLkNvdW50ID4gMCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArK2N1cnJlbnRCYXRjaDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdWJsaXNoZWRNZXNzYWdlQ291bnQgKz0gZXZlbnRCYXRjaC5Db3VudDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfbG9nZ2VyLkxvZ0luZm9ybWF0aW9uKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiUHVibGlzaGluZyBiYXRjaCB7Q3VycmVudEJhdGNofSB3aXRoIHtFdmVudEJhdGNoQ291bnR9IG1lc3NhZ2VzICh7RXZlbnRzVG9QdWJsaXNoQ291bnR9IHJlbWFpbikiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJyZW50QmF0Y2gsIGV2ZW50QmF0Y2guQ291bnQsIGV2ZW50c1RvUHVibGlzaC5Db3VudCk7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRhc2tzLkFkZChTZW5kQmF0Y2gocHJvZHVjZXJDbGllbnQsIGV2ZW50QmF0Y2gsIGN1cnJlbnRCYXRjaCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHByb2R1Y2VyQ2xpZW50ID0gZXZlbnRIdWJDbGllbnRzW2ldOwogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGV2ZW50QmF0Y2ggPSBhd2FpdCBwcm9kdWNlckNsaWVudC5DcmVhdGVCYXRjaEFzeW5jKGNyZWF0ZUJhdGNoT3B0aW9ucyk7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICB3aGlsZSAoVHJ5UGVla0FkZChldmVudHNUb1B1Ymxpc2gsIGV2ZW50QmF0Y2gpKQogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgfQopCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYXRjaFNXLnN0Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuQ29udGludWVXaXRoKHQgPT4gcHJvZHVjZXJDbGllbnQuRGlzcG9zZUFzeW5jKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgYmF0Y2hTVyA9IFN0b3B3YXRjaC5TdGFydE5ldygpOwo=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxUcnlQZWVrQWRkXD4=</last-search>
+      <last-search encoding="base64">XDxwdWJsaXNoZWRNZXNzYWdlQ291bnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUcnlQZWVrQWRkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwdWJsaXNoZWRNZXNzYWdlQ291bnRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
