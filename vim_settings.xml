@@ -184,13 +184,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" timestamp="1594021222729">
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" timestamp="1594182131071">
         <mark key="e" line="89" column="62" />
         <mark key="'" line="43" column="53" />
         <mark key="[" line="107" column="45" />
-        <mark key="]" line="107" column="45" />
-        <mark key="." line="107" column="45" />
-        <mark key="^" line="106" column="0" />
+        <mark key="]" line="41" column="49" />
+        <mark key="." line="41" column="48" />
+        <mark key="^" line="41" column="49" />
       </file>
     </filemarks>
     <jumps>
