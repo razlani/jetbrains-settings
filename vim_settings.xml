@@ -184,13 +184,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" timestamp="1594183823283">
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" timestamp="1594185365647">
         <mark key="e" line="89" column="62" />
         <mark key="'" line="43" column="53" />
-        <mark key="[" line="107" column="45" />
-        <mark key="]" line="107" column="49" />
-        <mark key="." line="107" column="48" />
-        <mark key="^" line="107" column="49" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+        <mark key="^" line="108" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -298,11 +298,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Pre</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Pre</text>
+        <text>ToList</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYXhUaHJlYWRzXD4=</text>
@@ -314,28 +314,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfbG9nZ2VyLkxvZ0luZm9ybWF0aW9uKCQiUG9zdC0iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfbG9nZ2VyLkxvZ0luZm9ybWF0aW9uKCQiUHJlLUF3YWl0aW5nIG9uIGFsbCB0YXNrcyB0b29rOiB7c3cuRWxhcHNlZH0iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfbG9nZ2VyLkxvZ0luZm9ybWF0aW9uKCQiUG9zdC0iKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfbG9nZ2VyLkxvZ0luZm9ybWF0aW9uKCQiUHJlLUF3YWl0aW5nIG9uIGFsbCB0YXNrcyB0b29rOiB7c3cuRWxhcHNlZH0iKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0b3B3YXRjaCA9IFN0b3B3YXRjaC5TdGFydE5ldygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0b3B3YXRjaCA9IFN0b3B3YXRjaC5TdGFydE5ldygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1lc3NhZ2VzID0gbnJ0U29oRGF0YS5TZWxlY3QoZGF0YSA9PiBfbWVzc2FnZUNvbnZlcnRlci5Db252ZXJ0KGRhdGEsIGZpbGVNZXRhZGF0YSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1lc3NhZ2VzID0gbnJ0U29oRGF0YS5TZWxlY3QoZGF0YSA9PiBfbWVzc2FnZUNvbnZlcnRlci5Db252ZXJ0KGRhdGEsIGZpbGVNZXRhZGF0YSkpOwo=</text>
       </register>
     </registers>
   </component>
