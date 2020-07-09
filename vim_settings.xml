@@ -116,11 +116,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/test/Wow.Inventory.UnitTests/Messaging/PublisherTest.cs" timestamp="1594261676572">
-        <mark key="[" line="35" column="84" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/test/Wow.Inventory.UnitTests/Messaging/PublisherTest.cs" timestamp="1594264202556">
+        <mark key="[" line="40" column="32" />
+        <mark key="]" line="40" column="50" />
+        <mark key="^" line="40" column="50" />
+        <mark key="." line="40" column="49" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Extensions/AsyncParallelExtensions.cs" timestamp="1594019549452">
         <mark key="[" line="6" column="59" />
@@ -143,7 +143,7 @@
       <file name="/default" timestamp="1593487248384">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594261026067">
+      <file name="/Dummy.txt" timestamp="1594261797441">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -279,11 +279,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Task.CompletedTask</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Rml4dHVyZS5DcmVhdGU8UHVibGlzaGVyPigpOw==</text>
+        <text>Task.CompletedTask</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUb0V2ZW50RGF0YVw+</text>
