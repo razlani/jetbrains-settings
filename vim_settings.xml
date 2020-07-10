@@ -116,11 +116,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/test/Wow.Inventory.UnitTests/Messaging/PublisherTest.cs" timestamp="1594286063833">
-        <mark key="[" line="36" column="105" />
-        <mark key="]" line="44" column="70" />
-        <mark key="^" line="44" column="70" />
-        <mark key="." line="44" column="69" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/test/Wow.Inventory.UnitTests/Messaging/PublisherTest.cs" timestamp="1594344611456">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="40" column="63" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Extensions/AsyncParallelExtensions.cs" timestamp="1594019549452">
         <mark key="[" line="6" column="59" />
@@ -174,12 +174,12 @@
       <file name="$USER_HOME$/git/projects/flash/inventory-soh-consumer/src/Wow.Inventory/Protos/StockOnHandUpdated.proto" timestamp="1594259627413" />
       <file name="/64720200624144801 ALTER PROCEDURE ECF_Rep_Pump_Order_Header_WOW_One.sql" timestamp="1593487695465" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CFDE1041-8873-4DFE-83F7-593A6775F006/17/EventHubProducerClient.cs" timestamp="1593584030739" />
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" timestamp="1594285788888">
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Messaging/Publisher.cs" timestamp="1594344878826">
         <mark key="'" line="87" column="39" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="37" column="12" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="78" column="8" />
+        <mark key="]" line="86" column="33" />
+        <mark key="^" line="86" column="33" />
+        <mark key="." line="86" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -287,44 +287,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHB1Yk1vY2sgPSBuZXcgTW9jazxQdWJsaXNoZXI+KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>internal</text>
       </register>
       <register name="-" type="4">
-        <text>publisher</text>
+        <text>internal</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDdXN0b21SZWdpc3RyYXRpb25zXD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHB1Yk1vY2sgPSBuZXcgTW9jazxQdWJsaXNoZXI+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgUHVibGlzaGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHB1Yk1vY2sgPSBuZXcgTW9jazxQdWJsaXNoZXI+KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgUHVibGlzaGVyKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdmFyIHN0ciA9IEZpeHR1cmUuQ3JlYXRlPHN0cmluZz4oKTsKICAgICAgICAgICAgLy8gdmFyIG1lc3NhZ2UgPSBuZXcgQXJ0aWNsZVNvaAogICAgICAgICAgICAvLyB7CiAgICAgICAgICAgIC8vICAgICBBbGNTdGF0dXMgPSBzdHIsCiAgICAgICAgICAgIC8vICAgICBBcnRpY2xlID0gc3RyLAogICAgICAgICAgICAvLyAgICAgU3RvY2tPbkhhbmQgPSBzdHIsCiAgICAgICAgICAgIC8vICAgICBBcnRpY2xlVW9tID0gc3RyLAogICAgICAgICAgICAvLyAgICAgUmFuZG9tV2VpZ2h0U29oID0gc3RyLAogICAgICAgICAgICAvLyAgICAgUmFuZG9tV2VpZ2h0VW9tID0gc3RyLAogICAgICAgICAgICAvLyAgICAgSW5TdG9ja0ZsYWcgPSBzdHIsCiAgICAgICAgICAgIC8vICAgICBTaXRlID0gc3RyLAogICAgICAgICAgICAvLyAgICAgU29oTG9hZERhdGVUaW1lID0gc3RyLAogICAgICAgICAgICAvLyAgICAgU291cmNlID0gc3RyLAogICAgICAgICAgICAvLyAgICAgU2FsZXNPcmdJZCA9IHN0cgogICAgICAgICAgICAvLyB9OwogICAgICAgICAgICAvLyBNb2NrQ29uZmlndXJhdGlvbigiRXZlbnRIdWJDb25uZWN0aW9uU3RyaW5nIiwgRml4dHVyZS5DcmVhdGU8c3RyaW5nPigpKTsKICAgICAgICAgICAgLy8gTW9ja0NvbmZpZ3VyYXRpb24oIkV2ZW50SHViTmFtZSIsIEZpeHR1cmUuQ3JlYXRlPHN0cmluZz4oKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
