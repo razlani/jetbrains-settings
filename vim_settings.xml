@@ -116,11 +116,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/test/Wow.Inventory.UnitTests/Messaging/PublisherTest.cs" timestamp="1594344611456">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="40" column="63" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/test/Wow.Inventory.UnitTests/Messaging/PublisherTest.cs" timestamp="1594346237331">
+        <mark key="[" line="87" column="12" />
+        <mark key="]" line="87" column="19" />
+        <mark key="^" line="87" column="19" />
+        <mark key="." line="87" column="18" />
       </file>
       <file name="$USER_HOME$/git/projects/flash/inventory-nrtsoh-processor/src/Wow.Inventory/Extensions/AsyncParallelExtensions.cs" timestamp="1594019549452">
         <mark key="[" line="6" column="59" />
@@ -288,43 +288,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>internal</text>
+        <text>publisherMock</text>
       </register>
       <register name="-" type="4">
-        <text>internal</text>
+        <text>publisherMock</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDdXN0b21SZWdpc3RyYXRpb25zXD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdmFyIGNvbnZlcnRlck1vY2sgPSBGaXh0dXJlLkNyZWF0ZTxNb2NrPElNZXNzYWdlQ29udmVydGVyPj4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHB1Yk1vY2sgPSBuZXcgTW9jazxQdWJsaXNoZXI+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGludGVybmFsIGNsYXNzIFN1YlB1Ymxpc2hlciA6IFB1Ymxpc2hlcgogICAgLy8gewogICAgLy8gICAgIHB1YmxpYyBTdWJQdWJsaXNoZXIoSU1lc3NhZ2VDb252ZXJ0ZXIgbWVzc2FnZUNvbnZlcnRlciwgSUxvZ2dlcjxQdWJsaXNoZXI+IGxvZ2dlciwgSUNvbmZpZ3VyYXRpb24gY29uZmlndXJhdGlvbikgOiBiYXNlKG1lc3NhZ2VDb252ZXJ0ZXIsIGxvZ2dlciwgY29uZmlndXJhdGlvbikKICAgIC8vICAgICB7CiAgICAvLyAgICAgfQogICAgLy8KICAgIC8vICAgICBwdWJsaWMgU3ViUHVibGlzaGVyKCkgOiBiYXNlKCkKICAgIC8vICAgICB7CiAgICAvLyAgICAgfQogICAgLy8gfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgUHVibGlzaGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHB1Yk1vY2sgPSBuZXcgTW9jazxQdWJsaXNoZXI+KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgUHVibGlzaGVyKCkK</text>
       </register>
     </registers>
   </component>
