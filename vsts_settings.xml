@@ -94,6 +94,15 @@
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://wowonline.visualstudio.com/ECF/_git/database-change-monitor" />
+          <option name="serverUri" value="https://wowonline.visualstudio.com" />
+          <option name="userId" value="b9d10714-6398-6c8c-bea3-afabb88c6317" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;57dde19e-7419-4f66-963b-96581b5b4dce&quot;,&quot;name&quot;:&quot;wowonline&quot;,&quot;url&quot;:&quot;https://wowonline.visualstudio.com/_apis/projectCollections/57dde19e-7419-4f66-963b-96581b5b4dce&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;This Project is for the ECF Development team&quot;,&quot;id&quot;:&quot;5b97d788-43ec-45d8-836e-eaa18049b8fb&quot;,&quot;name&quot;:&quot;ECF&quot;,&quot;revision&quot;:901,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://wowonline.visualstudio.com/_apis/projects/5b97d788-43ec-45d8-836e-eaa18049b8fb&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;821fe358-877f-433d-906b-8587399dd58a&quot;,&quot;name&quot;:&quot;database-change-monitor&quot;,&quot;remoteUrl&quot;:&quot;https://wowonline.visualstudio.com/ECF/_git/database-change-monitor&quot;,&quot;url&quot;:&quot;https://wowonline.visualstudio.com/_apis/git/repositories/821fe358-877f-433d-906b-8587399dd58a&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;This Project is for the ECF Development team&quot;,&quot;id&quot;:&quot;5b97d788-43ec-45d8-836e-eaa18049b8fb&quot;,&quot;name&quot;:&quot;ECF&quot;,&quot;revision&quot;:901,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://wowonline.visualstudio.com/_apis/projects/5b97d788-43ec-45d8-836e-eaa18049b8fb&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://wowonline.visualstudio.com/ECF/_git/article-pricing-masterdata-consumers" />
           <option name="serverUri" value="https://wowonline.visualstudio.com" />
           <option name="userId" value="b9d10714-6398-6c8c-bea3-afabb88c6317" />
@@ -233,7 +242,7 @@
       <array>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//wowonline.visualstudio.com/ecf/_git/morprocessingedatabases" />
+          <option name="value" value="//wowonline.visualstudio.com/ecf/_git/database-change-monitor" />
         </PropertyState>
       </array>
     </option>
