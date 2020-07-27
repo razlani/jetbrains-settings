@@ -44,6 +44,7 @@
   <action id="DatabaseView.Refresh" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="meta f5" />
+    <keyboard-shortcut first-keystroke="meta d" second-keystroke="meta e" />
   </action>
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
