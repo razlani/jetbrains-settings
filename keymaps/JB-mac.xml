@@ -43,8 +43,7 @@
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.Refresh" />
   <action id="Debug">
-    <keyboard-shortcut first-keystroke="meta f5" />
-    <keyboard-shortcut first-keystroke="meta d" second-keystroke="meta e" />
+    <keyboard-shortcut first-keystroke="meta d" second-keystroke="e" />
   </action>
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
@@ -154,6 +153,7 @@
   <action id="Rerun" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="shift f5" />
+    <keyboard-shortcut first-keystroke="meta d" second-keystroke="meta e" />
   </action>
   <action id="RiderUnitTestAppendTestsTwAction" />
   <action id="RiderUnitTestDebugContextAction">
