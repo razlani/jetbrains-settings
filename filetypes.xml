@@ -2,17 +2,18 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="schema-level-authz" type="JavaScript" />
+      <mapping ext="hprof" type="Native" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping ext="prisma" type="PLAIN_TEXT" />
+      <removed_mapping ext="swift" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="php5" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="phtml" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="php4" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="php" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="groovy" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="swift" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="php5" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="phtml" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
