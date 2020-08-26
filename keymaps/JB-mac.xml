@@ -43,11 +43,11 @@
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.Refresh" />
   <action id="Debug">
-    <keyboard-shortcut first-keystroke="meta f5" />
-    <keyboard-shortcut first-keystroke="meta d" second-keystroke="meta e" />
+    <keyboard-shortcut first-keystroke="meta d" second-keystroke="e" />
   </action>
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorCutLineEnd" />
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
@@ -90,6 +90,7 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="Generate.Missing.Members.TypeScript" />
   <action id="Git.Commit.And.Push.Executor" />
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -111,10 +112,17 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="ImplementMethods" />
   <action id="Inline" />
   <action id="InsertLiveTemplate" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="meta alt o" />
+  </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="MinimizeCurrentWindow" />
   <action id="MoveTabDown">
@@ -152,8 +160,12 @@
     <keyboard-shortcut first-keystroke="meta r" second-keystroke="r" />
   </action>
   <action id="Rerun" />
+  <action id="RestoreDefaultLayout">
+    <keyboard-shortcut first-keystroke="shift ctrl f12" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="shift f5" />
+    <keyboard-shortcut first-keystroke="meta d" second-keystroke="meta e" />
   </action>
   <action id="RiderUnitTestAppendTestsTwAction" />
   <action id="RiderUnitTestDebugContextAction">
