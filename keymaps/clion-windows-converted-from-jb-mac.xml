@@ -181,7 +181,7 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="alt r" second-keystroke="e" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl n" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl h" />
@@ -191,6 +191,9 @@
     <keyboard-shortcut first-keystroke="shift f5" />
   </action>
   <action id="RiderUnitTestAppendTestsTwAction" />
+  <action id="RiderUnitTestRunContextTwAction">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="RiderUnitTestRunSolutionTwAction" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="f5" />
