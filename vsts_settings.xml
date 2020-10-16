@@ -31,6 +31,15 @@
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://wowonline.visualstudio.com/ECF/_git/orderfulfilment-allocator" />
+          <option name="serverUri" value="https://wowonline.visualstudio.com" />
+          <option name="userId" value="b9d10714-6398-6c8c-bea3-afabb88c6317" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;57dde19e-7419-4f66-963b-96581b5b4dce&quot;,&quot;name&quot;:&quot;wowonline&quot;,&quot;url&quot;:&quot;https://wowonline.visualstudio.com/_apis/projectCollections/57dde19e-7419-4f66-963b-96581b5b4dce&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;This Project is for the ECF Development team&quot;,&quot;id&quot;:&quot;5b97d788-43ec-45d8-836e-eaa18049b8fb&quot;,&quot;name&quot;:&quot;ECF&quot;,&quot;revision&quot;:902,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://wowonline.visualstudio.com/_apis/projects/5b97d788-43ec-45d8-836e-eaa18049b8fb&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;666efe44-ecab-410e-9624-72ffa0b456d8&quot;,&quot;name&quot;:&quot;orderfulfilment-allocator&quot;,&quot;remoteUrl&quot;:&quot;https://wowonline.visualstudio.com/ECF/_git/orderfulfilment-allocator&quot;,&quot;url&quot;:&quot;https://wowonline.visualstudio.com/_apis/git/repositories/666efe44-ecab-410e-9624-72ffa0b456d8&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;This Project is for the ECF Development team&quot;,&quot;id&quot;:&quot;5b97d788-43ec-45d8-836e-eaa18049b8fb&quot;,&quot;name&quot;:&quot;ECF&quot;,&quot;revision&quot;:902,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://wowonline.visualstudio.com/_apis/projects/5b97d788-43ec-45d8-836e-eaa18049b8fb&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://wowonline.visualstudio.com/ECF/_git/inventory-order-consumer" />
           <option name="serverUri" value="https://wowonline.visualstudio.com" />
           <option name="userId" value="b9d10714-6398-6c8c-bea3-afabb88c6317" />
@@ -53,7 +62,7 @@
       <array>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//wowonline.visualstudio.com/last mile/_git/delivery" />
+          <option name="value" value="//wowonline.visualstudio.com/ecf/_git/orderfulfilment-allocator" />
         </PropertyState>
       </array>
     </option>
