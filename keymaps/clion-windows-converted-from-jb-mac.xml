@@ -52,6 +52,8 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
   <action id="Console.TableResult.Reload" />
   <action id="Console.TableResult.SetNull" />
   <action id="CopyElement" />
@@ -150,6 +152,7 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="NextOccurence" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
@@ -163,6 +166,7 @@
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="PreviousOccurence" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
@@ -221,12 +225,15 @@
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f11" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="StepOut">
     <keyboard-shortcut first-keystroke="alt f11" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f10" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="ctrl alt f5" />
@@ -236,6 +243,7 @@
   <action id="TodoViewGroupByShowModules" />
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
