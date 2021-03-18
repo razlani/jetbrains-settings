@@ -14,6 +14,7 @@
     <keyboard-shortcut first-keystroke="shift insert" />
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="ActivateCommitToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt u" />
@@ -62,6 +63,9 @@
   <action id="DatabaseView.Refresh" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="alt f5" />
+  </action>
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="alt 0" />
   </action>
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
@@ -119,6 +123,7 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="GotoBookmark0" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
@@ -206,6 +211,10 @@
   <action id="RiderUnitTestRunSolutionTwAction" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="ctrl 9" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAll">
