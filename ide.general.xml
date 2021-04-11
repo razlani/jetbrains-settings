@@ -23,6 +23,9 @@
     <entry key="ide.borderless.tab.caption.in.title" value="false" />
     <entry key="ide.debug.in.title" value="true" />
     <entry key="rdclient.asyncActions" value="false" />
+    <entry key="ea.enable.developers.list" value="false" />
+    <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
+    <entry key="show.log.as.editor.tab" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
