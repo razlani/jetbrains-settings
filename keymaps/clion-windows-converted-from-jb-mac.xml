@@ -233,15 +233,12 @@
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
   <action id="StepInto">
-    <keyboard-shortcut first-keystroke="f11" />
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="StepOut">
-    <keyboard-shortcut first-keystroke="alt f11" />
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="StepOver">
-    <keyboard-shortcut first-keystroke="f10" />
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="Stop">
