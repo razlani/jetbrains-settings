@@ -7,6 +7,31 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="#org.intellij.plugins.hcl.terraform.run.TerraformConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Terraform" pluginName="HashiCorp Terraform / HCL language support" pluginId="org.intellij.plugins.hcl" />
+                    </value>
+                  </entry>
+                  <entry key="AzureDotNetWebAppPublish">
+                    <value>
+                      <FeaturePluginData displayName="Azure - Publish Web App" pluginName="Azure Toolkit for Rider" pluginId="com.intellij.resharper.azure" />
+                    </value>
+                  </entry>
+                  <entry key="AzureFunctionAppPublish">
+                    <value>
+                      <FeaturePluginData displayName="Azure - Publish Function App" pluginName="Azure Toolkit for Rider" pluginId="com.intellij.resharper.azure" />
+                    </value>
+                  </entry>
+                  <entry key="AzureFunctionsHost">
+                    <value>
+                      <FeaturePluginData displayName="Azure Functions host" pluginName="Azure Toolkit for Rider" pluginId="com.intellij.resharper.azure" />
+                    </value>
+                  </entry>
+                  <entry key="CargoCommandRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Cargo" pluginName="Rust" pluginId="org.rust.lang" />
+                    </value>
+                  </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
@@ -155,6 +180,11 @@
                   <entry key="UwpProject">
                     <value>
                       <FeaturePluginData displayName="UWP" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="WasmPackCommandRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="wasm-pack" pluginName="Rust" pluginId="org.rust.lang" />
                     </value>
                   </entry>
                   <entry key="XSLT">
