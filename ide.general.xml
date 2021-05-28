@@ -26,6 +26,7 @@
     <entry key="ea.enable.developers.list" value="false" />
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
     <entry key="show.log.as.editor.tab" value="false" />
+    <entry key="vcs.enable.add.ignored.directories.to.exclude" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
