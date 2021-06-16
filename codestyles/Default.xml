@@ -1,0 +1,12 @@
+<code_scheme name="Default" version="173">
+  <option name="LINE_SEPARATOR" value="&#13;&#10;" />
+  <option name="RIGHT_MARGIN" value="100" />
+  <Objective-C>
+    <option name="SPACE_BEFORE_POINTER_IN_DECLARATION" value="false" />
+    <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
+    <option name="DISCHARGED_SHORT_TERNARY_OPERATOR" value="true" />
+  </Objective-C>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
+</code_scheme>
