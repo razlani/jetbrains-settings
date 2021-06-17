@@ -1,5 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
     <option name="myShellPath" value="C:\cygwin64\bin\zsh.exe" />
+    <option name="myTabName" value="Local" />
   </component>
 </application>
